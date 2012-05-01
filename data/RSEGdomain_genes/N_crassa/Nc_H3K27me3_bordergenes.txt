@@ -1,0 +1,165 @@
+NCU09858	supercont10.5	5978135	5979998	-	5484.08	acylamide-delta3(E)-desaturase			K27_10.5.14
+NCU05063	supercont10.6	3870330	3872030	-	4683.25	cell wall glycosyl hydrolase YteR			K27_10.6.27
+NCU09518	supercont10.3	32771	35175	-	4527.96774193548	glucooligosaccharide oxidase			K27_10.3.2
+NCU12112	supercont10.6	432497	433014	+	4469.15384615385	hypothetical protein			K27_10.6.13
+NCU05902	supercont10.7	21586	26124	-	4358.66037735849	vacuolar assembly protein			K27_10.7.1
+NCU08795	supercont10.3	5098420	5099550	-	4089.11111111111	Ser/Thr protein phosphatase			K27_10.3.35
+NCU09629	supercont10.2	19820	22480	-	3832.75757575758	hypothetical protein			K27_10.2.1
+NCU07241	supercont10.5	6124521	6127063	-	3726.375	hypothetical protein			K27_10.5.18
+NCU09579	supercont10.7	3312915	3314266	-	3668.8	retinol dehydrogenase 12	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.7.16
+NCU08784	supercont10.3	5131725	5133070	-	3606.9	hypothetical protein			K27_10.3.37
+NCU04907	supercont10.4	694303	695989	+	3550.4347826087	hypothetical protein			K27_10.4.19
+NCU10605	supercont10.3	412993	413936	+	3406.05882352941	hypothetical protein			K27_10.3.11
+NCU11611	supercont10.5	662806	666353	+	3381	hypothetical protein			K27_10.5.5
+NCU08049	supercont10.1	93689	97794	-	3328.625	hypothetical protein			K27_10.1.4
+NCU04910	supercont10.4	704984	706692	+	3320.125	hypothetical protein			K27_10.4.20
+NCU07134	supercont10.6	35680	37282	+	3316.73913043478	hypothetical protein			K27_10.6.2
+NCU04886	supercont10.4	630732	632585	+	3273.92	MFS multidrug transporter			K27_10.4.17
+NCU05060	supercont10.6	3886286	3888117	+	3157.57692307692	hypothetical protein			K27_10.6.29
+NCU08232	supercont10.3	4722173	4723762	+	3065.47826086957	"alpha-1	6-mannosyltransferase Och1"			K27_10.3.29
+NCU11819	supercont10.4	5831764	5835300	+	3024.93023255814	hypothetical protein			K27_10.4.35
+NCU05012	supercont10.6	4080368	4082314	-	2939.40740740741	hypothetical protein			K27_10.6.32
+NCU12002	supercont10.7	144769	146021	-	2932.5	hypothetical protein			K27_10.7.5
+NCU09451	supercont10.7	4014339	4016795	-	2901.12903225806	hypothetical protein			K27_10.7.26
+NCU12101	supercont10.6	131846	136148	+	2837.96	hypothetical protein			K27_10.6.6
+NCU09523	supercont10.3	16579	17294	+	2834.71428571429	hypothetical protein			K27_10.3.1
+NCU08073	supercont10.1	178614	180167	-	2823.5	hypothetical protein			K27_10.1.5
+NCU07119	supercont10.6	78240	93958	-	2812.84146341463	nonribosomal peptide synthase 2	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.6.5
+NCU05115	supercont10.6	3698328	3700826	+	2763.78125	hypothetical protein			K27_10.6.24
+NCU04936	supercont10.4	796016	798643	+	2759.87878787879	UDP-glucose 6-dehydrogenase			K27_10.4.23
+NCU05704	supercont10.3	575839	577383	-	2687.27272727273	hypothetical protein			K27_10.3.15
+NCU07622	supercont10.4	303749	305701	+	2639.92592592593	hypothetical protein			K27_10.4.11
+NCU08905	supercont10.5	689428	691397	-	2634.84615384615	hypothetical protein			K27_10.5.6
+NCU08226	supercont10.3	4693333	4696301	-	2625.48648648649	hypothetical protein			K27_10.3.28
+NCU04998	supercont10.6	4142276	4143307	+	2616.55555555556	hypothetical protein			K27_10.6.33
+NCU11704	supercont10.4	218652	220642	+	2610.40740740741	hypothetical protein			K27_10.4.7
+NCU07519	supercont10.3	4532661	4535060	+	2565.70967741935	PIF1			K27_10.3.24
+NCU06159	supercont10.7	2652184	2654185	+	2559.7037037037	MFS transporter			K27_10.7.11
+NCU07075	supercont10.6	243273	245633	-	2488.93548387097	calcium/proton exchanger	"GO:0009416	GO:0005774	GO:0015369	GO:0015085	GO:0005773	GO:0015369	GO:0015085	GO:0009416	GO:0015085	GO:0009416	GO:0015085	GO:0015369	GO:0005773	GO:0005774	GO:0005773	GO:0005774	GO:0005774	GO:0015369"	"response to light stimulus	vacuolar membrane	calcium:hydrogen antiporter activity	calcium ion transmembrane transporter activity	vacuole	calcium:hydrogen antiporter activity	calcium ion transmembrane transporter activity	response to light stimulus	calcium ion transmembrane transporter activity	response to light stimulus	calcium ion transmembrane transporter activity	calcium:hydrogen antiporter activity	vacuole	vacuolar membrane	vacuole	vacuolar membrane	vacuolar membrane	calcium:hydrogen antiporter activity"	K27_10.6.9
+NCU09649	supercont10.4	64639	66942	+	2440.1	metallophosphoesterase			K27_10.4.3
+NCU09020	supercont10.7	3899613	3902122	-	2409.15625	hypothetical protein			K27_10.7.24
+NCU08197	supercont10.3	4619401	4622174	+	2388.77142857143	cytochrome P450 2E1			K27_10.3.27
+NCU07129	supercont10.6	50831	52898	-	2388	amino-acid permease inda1			K27_10.6.3
+NCU02868	supercont10.1	8863096	8865693	-	2380.90909090909	hypothetical protein			K27_10.1.15
+NCU11690	supercont10.5	6243421	6245798	+	2375.06666666667	hypothetical protein			K27_10.5.20
+NCU05154	supercont10.6	3552669	3556828	+	2370.89795918367	calcium P-type ATPase-3	"GO:0005886	GO:0005388	GO:0005886	GO:0005886	GO:0005388	GO:0005388"	"plasma membrane	calcium-transporting ATPase activity	plasma membrane	plasma membrane	calcium-transporting ATPase activity	calcium-transporting ATPase activity"	K27_10.6.21
+NCU09338	supercont10.2	4158160	4160993	-	2364.68571428571	hypothetical protein			K27_10.2.21
+NCU08429	supercont10.2	4037481	4039339	-	2353.88461538462	hypothetical protein			K27_10.2.19
+NCU09151	supercont10.3	167713	169173	-	2351.95238095238	hypothetical protein			K27_10.3.4
+NCU07620	supercont10.4	291878	293740	+	2347.30769230769	MFS pantothenate transporter			K27_10.4.10
+NCU03513	supercont10.2	417394	419258	+	2341.92307692308	hypothetical protein			K27_10.2.8
+NCU07132	supercont10.6	40099	42394	-	2330.43333333333	hypothetical protein			K27_10.6.2
+NCU09506	supercont10.3	91217	92231	+	2319.23529411765	hypothetical protein			K27_10.3.3
+NCU08801	supercont10.4	5203608	5204387	-	2313.28571428571	hypothetical protein			K27_10.4.32
+NCU07480	supercont10.1	479576	482143	-	2305.69696969697	hypothetical protein			K27_10.1.12
+NCU11817	supercont10.4	5819688	5821483	+	2295.24	hypothetical protein			K27_10.4.35
+NCU04935	supercont10.4	789870	792552	-	2289.88235294118	dynamin family protein	"GO:0043331	GO:0043331"	"response to dsRNA	response to dsRNA"	K27_10.4.22
+NCU09910	supercont10.1	49272	51866	-	2238.9696969697	hypothetical protein			K27_10.1.2
+NCU09162	supercont10.3	213429	217645	+	2238.32653061224	WD repeat protein			K27_10.3.6
+NCU05180	supercont10.4	5844408	5847434	+	2215.78378378378	kinesin family protein			K27_10.4.36
+NCU08836	supercont10.4	5077423	5079517	+	2211.32142857143	hypothetical protein			K27_10.4.29
+NCU09659	supercont10.4	99237	101029	+	2204.68	5'-nucleotidase			K27_10.4.4
+NCU08431	supercont10.2	4044842	4046143	-	2161.25	hypothetical protein			K27_10.2.20
+NCU04934	supercont10.4	787715	789409	-	2158.83333333333	hypothetical protein			K27_10.4.22
+NCU07199	supercont10.5	6264820	6266641	-	2158.2	major myo-inositol transporter iolT			K27_10.5.21
+NCU08529	supercont10.3	5034336	5035300	+	2146	hypothetical protein			K27_10.3.33
+NCU09644	supercont10.4	51881	55017	+	2132.05128205128	ultraviolet sensitive-3	"GO:0000077	GO:0000077"	"DNA damage checkpoint	DNA damage checkpoint"	K27_10.4.2
+NCU05379	supercont10.2	1466603	1467915	-	2110.25	hypothetical protein			K27_10.2.13
+NCU05901	supercont10.7	27193	34190	+	2108.01298701299	hypothetical protein			K27_10.7.2
+NCU07246	supercont10.5	6093828	6096482	+	2107.9696969697	Swi4			K27_10.5.17
+NCU08921	supercont10.5	617220	620933	+	2097.45454545455	hypothetical protein			K27_10.5.4
+NCU07200	supercont10.5	6261934	6263231	+	2096.6	metalloprotease 1			K27_10.5.21
+NCU04923	supercont10.4	747108	748757	-	2077.86956521739	Gld1	"GO:0006970	GO:0042538	GO:0042538	GO:0042538	GO:0009408	GO:0006970	GO:0009408	GO:0043331	GO:0009408	GO:0006970	GO:0042538	GO:0043331	GO:0006970	GO:0006970	GO:0042538	GO:0043331	GO:0043331	GO:0043331	GO:0009408	GO:0009408"	"response to osmotic stress	hyperosmotic salinity response	hyperosmotic salinity response	hyperosmotic salinity response	response to heat	response to osmotic stress	response to heat	response to dsRNA	response to heat	response to osmotic stress	hyperosmotic salinity response	response to dsRNA	response to osmotic stress	response to osmotic stress	hyperosmotic salinity response	response to dsRNA	response to dsRNA	response to dsRNA	response to heat	response to heat"	K27_10.4.20
+NCU06895	supercont10.7	3560649	3562647	-	2072.48148148148	cytochrome P450 4A5			K27_10.7.19
+NCU09627	supercont10.2	26954	27819	+	2059.8125	hypothetical protein			K27_10.2.2
+NCU05054	supercont10.6	3900072	3906571	-	2052.83333333333	hypothetical protein			K27_10.6.29
+NCU07582	supercont10.4	145010	148485	+	2050.19512195122	hypothetical protein			K27_10.4.5
+NCU11293	supercont10.4	700779	701177	+	2039.27272727273	hypothetical protein			K27_10.4.19
+NCU06906	supercont10.7	3530388	3532992	+	2018.21212121212	hypothetical protein			K27_10.7.19
+NCU08190	supercont10.3	4599940	4601666	-	2004.29166666667	hypothetical protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.3.26
+NCU03494	supercont10.2	487346	489709	-	1975.09677419355	partner for incompatibility with het-c			K27_10.2.10
+NCU11889	supercont10.3	4467880	4469161	+	1962.7	hypothetical protein			K27_10.3.22
+NCU05064	supercont10.6	3864938	3868466	+	1962.61904761905	C2H2 transcription factor			K27_10.6.27
+NCU09492	supercont10.2	4458486	4465976	+	1946.78048780488	hypothetical protein			K27_10.2.23
+NCU08763	supercont10.3	5231620	5235072	+	1934.46341463415	hypothetical protein			K27_10.3.40
+NCU02858	supercont10.1	8885168	8893130	-	1925.40229885057	hypothetical protein			K27_10.1.16
+NCU12179	supercont10.6	3846114	3848671	-	1892.5	hypothetical protein			K27_10.6.26
+NCU09174	supercont10.3	252939	255143	-	1887.58620689655	hypothetical protein			K27_10.3.6
+NCU08814	supercont10.4	5148855	5150823	+	1881.14814814815	hypothetical protein			K27_10.4.31
+NCU05047	supercont10.6	3925925	3935669	-	1853.00961538462	hypothetical protein			K27_10.6.30
+NCU08629	supercont10.1	9647616	9649735	+	1837.60714285714	hypothetical protein			K27_10.1.18
+NCU08884	supercont10.5	777442	778323	+	1805.5	hypothetical protein			K27_10.5.7
+NCU08760	supercont10.3	5242633	5244087	+	1776.42857142857	endoglucanase II			K27_10.3.41
+NCU09606	supercont10.2	68824	69666	+	1767.2	hypothetical protein			K27_10.2.4
+NCU07125	supercont10.6	61092	64433	+	1760.07317073171	cytomegalovirus gH-receptor family protein			K27_10.6.4
+NCU09521	supercont10.3	20048	21833	+	1750.64	ribosome biogenesis protein			K27_10.3.2
+NCU04938	supercont10.4	801988	804003	+	1750.25	choline dehydrogenase			K27_10.4.23
+NCU07153	supercont10.5	6407763	6409520	-	1743.36	glutamate carboxypeptidase	"GO:0016805	GO:0006751	GO:0005737	GO:0005840	GO:0005739	GO:0008242	GO:0008242	GO:0006751	GO:0016805	GO:0006751	GO:0005840	GO:0008242	GO:0008242	GO:0005737	GO:0006751	GO:0005739	GO:0005840	GO:0016805	GO:0005739	GO:0005737	GO:0016805	GO:0005737	GO:0005840	GO:0008242	GO:0005739	GO:0006751	GO:0016805	GO:0005840	GO:0005840	GO:0005739	GO:0005737	GO:0006751	GO:0005739	GO:0005737	GO:0005739	GO:0016805	GO:0005737	GO:0008242	GO:0008242	GO:0006751	GO:0005840	GO:0016805"	"dipeptidase activity	glutathione catabolic process	cytoplasm	ribosome	mitochondrion	omega peptidase activity	omega peptidase activity	glutathione catabolic process	dipeptidase activity	glutathione catabolic process	ribosome	omega peptidase activity	omega peptidase activity	cytoplasm	glutathione catabolic process	mitochondrion	ribosome	dipeptidase activity	mitochondrion	cytoplasm	dipeptidase activity	cytoplasm	ribosome	omega peptidase activity	mitochondrion	glutathione catabolic process	dipeptidase activity	ribosome	ribosome	mitochondrion	cytoplasm	glutathione catabolic process	mitochondrion	cytoplasm	mitochondrion	dipeptidase activity	cytoplasm	omega peptidase activity	omega peptidase activity	glutathione catabolic process	ribosome	dipeptidase activity"	K27_10.5.23
+NCU05480	supercont10.2	1709554	1711054	+	1740.59090909091	hypothetical protein			K27_10.2.15
+NCU09832	supercont10.5	552104	554827	+	1715.44117647059	hypothetical protein			K27_10.5.3
+NCU09642	supercont10.4	33636	36235	-	1711	high affinity sulfate transporter 1			K27_10.4.1
+NCU05885	supercont10.7	90093	92267	-	1693.89655172414	flavin-binding monooxygenase			K27_10.7.4
+NCU08218	supercont10.3	4670317	4672795	+	1682.09677419355	palmitoyltransferase AKR1			K27_10.3.28
+NCU04720	supercont10.6	534862	539145	-	1652.66	nitrate nonutilizer-6			K27_10.6.15
+NCU08909	supercont10.5	672355	674796	+	1641.41935483871	"beta-1	3-glucanosyltransferase"			K27_10.5.6
+NCU05647	supercont10.6	1215489	1216427	-	1638	hypothetical protein			K27_10.6.16
+NCU08535	supercont10.3	5006391	5013687	+	1633.7875	acetyl-CoA carboxylase	"GO:0006606	GO:0003989	GO:0005789	GO:0006606	GO:0003989	GO:0006606	GO:0005739	GO:0004075	GO:0005739	GO:0004075	GO:0005739	GO:0005789	GO:0003989	GO:0004075	GO:0005789	GO:0003989	GO:0003989	GO:0005789	GO:0005739	GO:0006606	GO:0004075	GO:0005739	GO:0004075	GO:0004075	GO:0003989	GO:0006606	GO:0005789	GO:0005789	GO:0006606	GO:0005739"	"protein import into nucleus	acetyl-CoA carboxylase activity	endoplasmic reticulum membrane	protein import into nucleus	acetyl-CoA carboxylase activity	protein import into nucleus	mitochondrion	biotin carboxylase activity	mitochondrion	biotin carboxylase activity	mitochondrion	endoplasmic reticulum membrane	acetyl-CoA carboxylase activity	biotin carboxylase activity	endoplasmic reticulum membrane	acetyl-CoA carboxylase activity	acetyl-CoA carboxylase activity	endoplasmic reticulum membrane	mitochondrion	protein import into nucleus	biotin carboxylase activity	mitochondrion	biotin carboxylase activity	biotin carboxylase activity	acetyl-CoA carboxylase activity	protein import into nucleus	endoplasmic reticulum membrane	endoplasmic reticulum membrane	protein import into nucleus	mitochondrion"	K27_10.3.33
+NCU08095	supercont10.1	240862	241804	-	1603.88235294118	hypothetical protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.1.7
+NCU08660	supercont10.4	4190897	4191643	-	1568.33333333333	hypothetical protein			K27_10.4.26
+NCU04854	supercont10.4	478093	479508	-	1561.18181818182	endoglucanase EG-1			K27_10.4.13
+NCU08180	supercont10.7	598832	601914	+	1560.65789473684	high-affinity glucose transporter			K27_10.7.8
+NCU05130	supercont10.6	3651022	3652792	-	1539.29166666667	hypothetical protein			K27_10.6.22
+NCU11305	supercont10.7	81192	82061	+	1537.375	hypothetical protein			K27_10.7.4
+NCU09430	supercont10.7	4099900	4101311	-	1485.18181818182	hypothetical protein			K27_10.7.27
+NCU12110	supercont10.6	406883	408347	+	1475.72727272727	5-nitroimidazole antibiotic resistance protein			K27_10.6.13
+NCU08556	supercont10.3	4933356	4935818	-	1475.15625	hypothetical protein			K27_10.3.31
+NCU07606	supercont10.4	226374	227031	+	1469.85714285714	hypothetical protein			K27_10.4.7
+NCU03477	supercont10.2	558510	561761	+	1460.25641025641	hypothetical protein			K27_10.2.11
+NCU08786	supercont10.3	5127435	5128031	+	1432.61538461538	hypothetical protein			K27_10.3.37
+NCU08525	supercont10.3	5051027	5053003	+	1428.55555555556	hypothetical protein			K27_10.3.34
+NCU05460	supercont10.2	1672402	1675771	-	1420.325	hypothetical protein			K27_10.2.14
+NCU05061	supercont10.6	3875719	3877242	+	1411.18181818182	hypothetical protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.6.28
+NCU08631	supercont10.1	9652927	9654002	-	1397.55555555556	hypothetical protein			K27_10.1.18
+NCU09157	supercont10.3	193149	197202	+	1389.83333333333	hypothetical protein			K27_10.3.5
+NCU05667	supercont10.3	417824	419063	-	1387.52631578947	anchored cell wall protein-3	"FAO:0001001	FAO:0000024	GO:0030446	FAO:0000024	FAO:0001001	GO:0030446	FAO:0000024	GO:0030446	FAO:0001001	GO:0030446	FAO:0000024	FAO:0001001"	"hypha	conidium	hyphal cell wall	conidium	hypha	hyphal cell wall	conidium	hyphal cell wall	hypha	hyphal cell wall	conidium	hypha"	K27_10.3.11
+NCU11405	supercont10.3	85931	89136	-	1355.17948717949	"alpha-1	3-glucanase/mutanase"			K27_10.3.3
+NCU06857	supercont10.2	1739087	1741798	-	1341.08823529412	hypothetical protein			K27_10.2.16
+NCU07534	supercont10.3	4462888	4467295	+	1339.70588235294	RNA-dependent RNA polymerase	"GO:0003899	GO:0030422	GO:0003968	GO:0005634	GO:0030422	GO:0030422	GO:0003968	GO:0016441	GO:0016441	GO:0005634	GO:0003968	GO:0030422	GO:0030422	GO:0043331	GO:0016441	GO:0016441	GO:0043331	GO:0016441	GO:0005634	GO:0043331	GO:0016441	GO:0030422	GO:0003899	GO:0016441	GO:0003968	GO:0030422	GO:0003899	GO:0043331	GO:0043331	GO:0016441	GO:0005634	GO:0003968	GO:0030422	GO:0016441	GO:0003968	GO:0016441	GO:0030422	GO:0030422	GO:0003899	GO:0043331	GO:0030422	GO:0016441	GO:0016441	GO:0005634	GO:0003968	GO:0005634	GO:0005634	GO:0030422	GO:0043331	GO:0003968	GO:0030422	GO:0005634	GO:0016441	GO:0003899	GO:0030422	GO:0043331	GO:0003899	GO:0003899	GO:0016441	GO:0016441	GO:0030422	GO:0005634	GO:0030422	GO:0003899	GO:0030422	GO:0003968	GO:0016441	GO:0016441	GO:0043331	GO:0016441	GO:0030422	GO:0003899"	"DNA-directed RNA polymerase activity	production of siRNA involved in RNA interference	RNA-directed RNA polymerase activity	nucleus	production of siRNA involved in RNA interference	production of siRNA involved in RNA interference	RNA-directed RNA polymerase activity	posttranscriptional gene silencing	posttranscriptional gene silencing	nucleus	RNA-directed RNA polymerase activity	production of siRNA involved in RNA interference	production of siRNA involved in RNA interference	response to dsRNA	posttranscriptional gene silencing	posttranscriptional gene silencing	response to dsRNA	posttranscriptional gene silencing	nucleus	response to dsRNA	posttranscriptional gene silencing	production of siRNA involved in RNA interference	DNA-directed RNA polymerase activity	posttranscriptional gene silencing	RNA-directed RNA polymerase activity	production of siRNA involved in RNA interference	DNA-directed RNA polymerase activity	response to dsRNA	response to dsRNA	posttranscriptional gene silencing	nucleus	RNA-directed RNA polymerase activity	production of siRNA involved in RNA interference	posttranscriptional gene silencing	RNA-directed RNA polymerase activity	posttranscriptional gene silencing	production of siRNA involved in RNA interference	production of siRNA involved in RNA interference	DNA-directed RNA polymerase activity	response to dsRNA	production of siRNA involved in RNA interference	posttranscriptional gene silencing	posttranscriptional gene silencing	nucleus	RNA-directed RNA polymerase activity	nucleus	nucleus	production of siRNA involved in RNA interference	response to dsRNA	RNA-directed RNA polymerase activity	production of siRNA involved in RNA interference	nucleus	posttranscriptional gene silencing	DNA-directed RNA polymerase activity	production of siRNA involved in RNA interference	response to dsRNA	DNA-directed RNA polymerase activity	DNA-directed RNA polymerase activity	posttranscriptional gene silencing	posttranscriptional gene silencing	production of siRNA involved in RNA interference	nucleus	production of siRNA involved in RNA interference	DNA-directed RNA polymerase activity	production of siRNA involved in RNA interference	RNA-directed RNA polymerase activity	posttranscriptional gene silencing	posttranscriptional gene silencing	response to dsRNA	posttranscriptional gene silencing	production of siRNA involved in RNA interference	DNA-directed RNA polymerase activity"	K27_10.3.22
+NCU10056	supercont10.7	2940610	2941947	+	1315.3	hypothetical protein			K27_10.7.14
+NCU09030	supercont10.7	3870003	3873291	-	1302.53846153846	hypothetical protein			K27_10.7.22
+NCU05161	supercont10.4	5910233	5911590	+	1302.1	alpha/beta hydrolase fold-3 domain-containing protein			K27_10.4.40
+NCU09646	supercont10.4	56879	58505	-	1302.04166666667	3-ketoacyl-CoA thiolase	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.4.2
+NCU06166	supercont10.7	2669398	2671254	-	1286.57692307692	"alpha-1	2-mannosyltransferase"			K27_10.7.11
+NCU07100	supercont10.6	169316	171088	+	1261.95833333333	hypothetical protein			K27_10.6.7
+NCU08791	supercont10.3	5111785	5114534	+	1237.68571428571	catalase-1	"GO:0042542	GO:0006970	GO:0004096	FAO:0000024	GO:0004096	GO:0006970	GO:0004096	GO:0004096	GO:0009847	FAO:0000024	GO:0004096	GO:0004096	GO:0006970	GO:0042542	GO:0004096	GO:0009416	GO:0009416	GO:0004096	GO:0006970	GO:0009847	FAO:0000024	GO:0004096	GO:0004096	GO:0004096	GO:0009416	GO:0006970	GO:0004096	GO:0004096	GO:0009847	GO:0004096	GO:0006970	GO:0006970	GO:0009416	GO:0009416	FAO:0000024	FAO:0000024	GO:0042542	GO:0009847	GO:0042542	GO:0009847	GO:0009416	FAO:0000024	GO:0042542	GO:0042542	FAO:0000024	GO:0042542	GO:0004096	GO:0006970	FAO:0000024	GO:0009847	GO:0004096	GO:0009416	GO:0009847	GO:0009847	GO:0042542	GO:0009416"	"response to hydrogen peroxide	response to osmotic stress	catalase activity	conidium	catalase activity	response to osmotic stress	catalase activity	catalase activity	spore germination	conidium	catalase activity	catalase activity	response to osmotic stress	response to hydrogen peroxide	catalase activity	response to light stimulus	response to light stimulus	catalase activity	response to osmotic stress	spore germination	conidium	catalase activity	catalase activity	catalase activity	response to light stimulus	response to osmotic stress	catalase activity	catalase activity	spore germination	catalase activity	response to osmotic stress	response to osmotic stress	response to light stimulus	response to light stimulus	conidium	conidium	response to hydrogen peroxide	spore germination	response to hydrogen peroxide	spore germination	response to light stimulus	conidium	response to hydrogen peroxide	response to hydrogen peroxide	conidium	response to hydrogen peroxide	catalase activity	response to osmotic stress	conidium	spore germination	catalase activity	response to light stimulus	spore germination	spore germination	response to hydrogen peroxide	response to light stimulus"	K27_10.3.36
+NCU07479	supercont10.1	486622	490547	-	1228.95652173913	hypothetical protein			K27_10.1.12
+NCU10053	supercont10.7	3225948	3227153	-	1228.63157894737	thymidylate synthase	"GO:0005634	GO:0005634	GO:0004799	GO:0006261	GO:0006231	GO:0004799	GO:0004799	GO:0006231	GO:0006261	GO:0006261	GO:0005634	GO:0006231	GO:0005634	GO:0006231	GO:0006261	GO:0006231	GO:0004799	GO:0006261	GO:0004799	GO:0005634"	"nucleus	nucleus	thymidylate synthase activity	DNA-dependent DNA replication	dTMP biosynthetic process	thymidylate synthase activity	thymidylate synthase activity	dTMP biosynthetic process	DNA-dependent DNA replication	DNA-dependent DNA replication	nucleus	dTMP biosynthetic process	nucleus	dTMP biosynthetic process	DNA-dependent DNA replication	dTMP biosynthetic process	thymidylate synthase activity	DNA-dependent DNA replication	thymidylate synthase activity	nucleus"	K27_10.7.15
+NCU11823	supercont10.4	5901310	5902483	+	1222.22222222222	hypothetical protein			K27_10.4.39
+NCU07247	supercont10.5	6090223	6091817	-	1216.26086956522	DUF6 domain-containing protein			K27_10.5.16
+NCU07518	supercont10.3	4537104	4539418	+	1205.4	hypothetical protein			K27_10.3.24
+NCU11890	supercont10.3	4569190	4570645	+	1198.22727272727	twinfilin-1			K27_10.3.25
+NCU05050	supercont10.6	3915351	3916627	+	1187.85	2-hydroxyacid dehydrogenase			K27_10.6.30
+NCU10001	supercont10.3	330942	332837	-	1173.07692307692	hypothetical protein			K27_10.3.8
+NCU08919	supercont10.5	629928	636992	+	1166.41558441558	SNF2 family helicase/ATPase			K27_10.5.5
+NCU09620	supercont10.2	38686	39994	-	1161.1	hypothetical protein			K27_10.2.2
+NCU08599	supercont10.1	9543496	9545358	-	1148.84615384615	hypothetical protein			K27_10.1.17
+NCU07055	supercont10.6	339390	340932	-	1113.86956521739	monooxygenase			K27_10.6.11
+NCU09992	supercont10.7	3950084	3951975	-	1087.92307692308	serine peptidase	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.7.25
+NCU09594	supercont10.2	103311	105076	+	1061.70833333333	seryl-tRNA synthetase			K27_10.2.5
+NCU03499	supercont10.2	470525	472087	+	1057.09090909091	hypothetical protein			K27_10.2.9
+NCU05895	supercont10.7	58969	62949	-	1036	calcofluor white hypersensitive protein			K27_10.7.3
+NCU06884	supercont10.7	3594752	3601592	-	1018.30666666667	hypothetical protein			K27_10.7.20
+NCU02668	supercont10.1	3133525	3135868	+	1006.8	cell wall synthesis protein-Penicillium chrysogenum			K27_10.1.13
+NCU10052	supercont10.7	3220515	3223117	+	954.787878787879	hypothetical protein			K27_10.7.15
+NCU04865	supercont10.4	525404	533271	+	934.2	polyketide synthase-3			K27_10.4.14
+NCU06427	supercont10.3	1377695	1378620	-	912.705882352941	hypothetical protein			K27_10.3.19
+NCU07813	supercont10.5	198870	200387	-	907.590909090909	hypothetical protein			K27_10.5.2
+NCU08550	supercont10.3	4958459	4960407	+	880.740740740741	hypothetical protein			K27_10.3.32
+NCU04551	supercont10.7	2788132	2788709	+	880.384615384615	hypothetical protein			K27_10.7.12
+NCU03685	supercont10.5	2062313	2069163	+	859.52	hypothetical protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.5.9
+NCU04283	supercont10.5	5494100	5494912	-	850.1875	hypothetical protein			K27_10.5.12
+NCU04662	supercont10.5	1289983	1292253	-	676.666666666667	autophagy protein 5			K27_10.5.8
+NCU11138	supercont10.5	3751592	3757569	-	624.805970149254	hypothetical protein			K27_10.5.10
+NCU06560	supercont10.4	1630236	1632720	-	557.96875	hypothetical protein			K27_10.4.24
+NCU10397	supercont10.3	1286456	1290243	+	498.244444444444	phosphatidylinositol 4-kinase PIK1a			K27_10.3.18
+NCU02433	supercont10.7	1745975	1748526	-	358.787878787879	ATG4 protein			K27_10.7.10

@@ -1,0 +1,774 @@
+NCU11698	supercont10.5	6435237	6435860	+	12874.5833333333	hypothetical protein			K27_10.5.23
+NCU08239	supercont10.3	4748856	4749347	-	12329.0833333333	hypothetical protein			K27_10.3.29
+NCU07227	supercont10.5	6192810	6193672	+	12228.3333333333	hypothetical protein			K27_10.5.20
+NCU08219	supercont10.3	4673731	4674312	+	11376.2307692308	hypothetical protein			K27_10.3.28
+NCU05099	supercont10.6	3744487	3745534	+	11363.7222222222	hypothetical protein			K27_10.6.24
+NCU09635	supercont10.4	3960	5803	-	11244.9615384615	hypothetical protein			K27_10.4.1
+NCU05107	supercont10.6	3721795	3722380	+	11055.6923076923	hypothetical protein			K27_10.6.24
+NCU11896	supercont10.3	4825346	4825846	-	10385.75	hypothetical protein			K27_10.3.29
+NCU10285	supercont10.4	1667	3325	+	10355.2916666667	benzoate 4-monooxygenase cytochrome P450			K27_10.4.1
+NCU07226	supercont10.5	6194674	6197388	-	10174.0294117647	hypothetical protein			K27_10.5.20
+NCU07219	supercont10.5	6214817	6215116	+	10168	hypothetical protein			K27_10.5.20
+NCU12177	supercont10.6	3798661	3799753	-	10128.5	hypothetical protein			K27_10.6.25
+NCU09179	supercont10.3	272107	273360	+	10113.0526315789	hypothetical protein			K27_10.3.7
+NCU07629	supercont10.4	323849	324865	+	10001.4705882353	hypothetical protein			K27_10.4.11
+NCU05104	supercont10.6	3732709	3734273	+	9812.36363636364	exoglucanase 1			K27_10.6.24
+NCU08236	supercont10.3	4740152	4742400	-	9782.26666666667	hypothetical protein			K27_10.3.29
+NCU09525	supercont10.3	12971	14007	+	9778.44444444445	secreted protein			K27_10.3.1
+NCU07147	supercont10.5	6422489	6423410	+	9677	hypothetical protein			K27_10.5.23
+NCU09180	supercont10.3	273675	274366	+	9654.78571428571	hypothetical protein			K27_10.3.7
+NCU08796	supercont10.3	5092380	5094174	-	9557.88	hypothetical protein			K27_10.3.35
+NCU08257	supercont10.3	4795017	4795815	-	9392	hypothetical protein			K27_10.3.29
+NCU11831	supercont10.3	281000	282805	+	9288.80769230769	"indoleamine 2	3-dioxygenase"			K27_10.3.7
+NCU07640	supercont10.4	361634	362915	+	9259.8	hypothetical protein			K27_10.4.11
+NCU08105	supercont10.1	291633	292877	+	9224.63157894737	hypothetical protein			K27_10.1.8
+NCU07249	supercont10.5	6081633	6083258	-	9166.26086956522	hypothetical protein			K27_10.5.16
+NCU08238	supercont10.3	4744493	4745995	-	9143.72727272727	hypothetical protein			K27_10.3.29
+NCU07217	supercont10.5	6220001	6220672	-	9133.14285714286	hypothetical protein			K27_10.5.20
+NCU08259	supercont10.3	4802863	4804759	-	9100.38461538462	hypothetical protein			K27_10.3.29
+NCU09169	supercont10.3	237024	238355	-	9074.3	NmrA family transcriptional regulator			K27_10.3.6
+NCU10427	supercont10.3	5248265	5248821	-	9072.61538461538	hypothetical protein			K27_10.3.41
+NCU09306	supercont10.7	4253046	4254201	+	9060.8947368421	hypothetical protein			K27_10.7.31
+NCU05108	supercont10.6	3719407	3720585	-	9026.88888888889	hypothetical protein			K27_10.6.24
+NCU09187	supercont10.3	287851	290825	-	8978	hypothetical protein			K27_10.3.7
+NCU08210	supercont10.3	4648490	4649239	-	8975.8	hypothetical protein			K27_10.3.27
+NCU09177	supercont10.3	263455	264422	-	8893.64705882353	hypothetical protein			K27_10.3.7
+NCU07644	supercont10.4	380902	384787	+	8883.64444444444	hypothetical protein			K27_10.4.12
+NCU05110	supercont10.6	3715815	3717107	+	8876.35	hypothetical protein			K27_10.6.24
+NCU07149	supercont10.5	6417640	6419476	+	8876.24	hypothetical protein			K27_10.5.23
+NCU08912	supercont10.5	652640	653407	+	8861.8	hypothetical protein			K27_10.5.5
+NCU12074	supercont10.7	3330703	3331564	-	8833.86666666667	hypothetical protein			K27_10.7.17
+NCU12105	supercont10.6	155205	156962	+	8747.54166666667	hypothetical protein			K27_10.6.7
+NCU09634	supercont10.2	8927	11029	-	8720.85714285714	hypothetical protein			K27_10.2.1
+NCU08237	supercont10.3	4743262	4743806	+	8720	hypothetical protein			K27_10.3.29
+NCU08252	supercont10.3	4782348	4783813	+	8696.81818181818	hypothetical protein			K27_10.3.29
+NCU08253	supercont10.3	4786333	4787613	-	8692.75	hypothetical protein			K27_10.3.29
+NCU08258	supercont10.3	4797220	4798623	+	8664.14285714286	hypothetical protein			K27_10.3.29
+NCU07148	supercont10.5	6420073	6422165	-	8609.78571428571	hypothetical protein			K27_10.5.23
+NCU11703	supercont10.4	205431	206036	+	8608.30769230769	hypothetical protein			K27_10.4.6
+NCU11826	supercont10.4	5946299	5947549	+	8579.75	hypothetical protein			K27_10.4.42
+NCU09186	supercont10.3	285498	287797	+	8578.33333333333	hypothetical protein			K27_10.3.7
+NCU08107	supercont10.1	296499	297770	-	8576.9	hypothetical protein			K27_10.1.8
+NCU09966	supercont10.5	6064588	6066000	-	8566.95454545455	hypothetical protein			K27_10.5.15
+NCU07627	supercont10.4	320439	321524	+	8530.27777777778	hypothetical protein			K27_10.4.11
+NCU08260	supercont10.3	4807036	4808227	+	8523.15789473684	hypothetical protein			K27_10.3.29
+NCU10031	supercont10.1	9770841	9772169	-	8489.9	monooxygenase			K27_10.1.22
+NCU05091	supercont10.6	3764397	3766529	+	8481.79310344828	hypothetical protein			K27_10.6.24
+NCU07602	supercont10.4	206078	206393	-	8469	hypothetical protein			K27_10.4.6
+NCU07626	supercont10.4	318232	319473	+	8421.78947368421	thermoresistant gluconokinase			K27_10.4.11
+NCU08255	supercont10.3	4791553	4792371	-	8399	hypothetical protein			K27_10.3.29
+NCU07632	supercont10.4	332021	334319	+	8381.16666666667	hypothetical protein			K27_10.4.11
+NCU07630	supercont10.4	325468	326406	+	8378.17647058824	hypothetical protein			K27_10.4.11
+NCU08752	supercont10.3	5266346	5268297	+	8377.84615384615	acetylcholinesterase			K27_10.3.41
+NCU07242	supercont10.5	6123380	6124253	-	8361.375	short-chain dehydrogenase/oxidoreductase			K27_10.5.18
+NCU09665	supercont10.4	111999	112997	-	8354.41176470588	hypothetical protein			K27_10.4.4
+NCU06899	supercont10.7	3550264	3551110	+	8350.6875	hypothetical protein			K27_10.7.19
+NCU07218	supercont10.5	6217322	6218940	-	8345.13043478261	hypothetical protein			K27_10.5.20
+NCU10037	supercont10.4	5949691	5951318	+	8342.08333333333	hypothetical protein			K27_10.4.42
+NCU07084	supercont10.6	212908	213996	+	8319.17647058824	hypothetical protein			K27_10.6.8
+NCU08575	supercont10.3	4858979	4859825	-	8303.5625	hypothetical protein			K27_10.3.30
+NCU08263	supercont10.3	4818973	4820221	+	8296.05	hypothetical protein			K27_10.3.29
+NCU07143	supercont10.6	1359	2581	-	8288.31578947369	6-phosphogluconolactonase			K27_10.6.1
+NCU09631	supercont10.2	15943	17750	-	8272.08	hypothetical protein			K27_10.2.1
+NCU10129	supercont10.1	1167	2603	-	8261.81818181818	hypothetical protein			K27_10.1.1
+NCU08533	supercont10.3	5019207	5019830	-	8237.15384615385	hypothetical protein			K27_10.3.33
+NCU04893	supercont10.4	650760	651449	-	8221.07142857143	hypothetical protein			K27_10.4.17
+NCU08753	supercont10.3	5261768	5264452	+	8207.70588235294	hypothetical protein			K27_10.3.41
+NCU09164	supercont10.3	224366	225339	+	8186.29411764706	hypothetical protein			K27_10.3.6
+NCU08249	supercont10.3	4775946	4776607	+	8181.07142857143	hypothetical protein			K27_10.3.29
+NCU04689	supercont10.6	391604	392299	-	8158.53846153846	hypothetical protein			K27_10.6.12
+NCU09725	supercont10.7	2903997	2904664	+	8141.5	hypothetical protein			K27_10.7.13
+NCU07634	supercont10.4	340142	342668	+	8049.28125	hypothetical protein			K27_10.4.11
+NCU12073	supercont10.7	3329459	3330259	-	8034.8	hypothetical protein			K27_10.7.17
+NCU09173	supercont10.3	250619	252172	-	8034.18181818182	hypothetical protein			K27_10.3.6
+NCU05903	supercont10.7	19795	21011	-	8021.7	hypothetical protein			K27_10.7.1
+NCU07631	supercont10.4	326521	327813	-	8012.8	hypothetical protein			K27_10.4.11
+NCU08102	supercont10.1	262020	263387	-	8007.3	hypothetical protein			K27_10.1.7
+NCU12104	supercont10.6	153550	154920	+	8000.33333333333	hypothetical protein			K27_10.6.7
+NCU09495	supercont10.2	4469551	4470513	+	7999	hypothetical protein	"GO:0042054	GO:0043331	GO:0042054	GO:0043331"	"histone methyltransferase activity	response to dsRNA	histone methyltransferase activity	response to dsRNA"	K27_10.2.23
+NCU11291	supercont10.3	5268732	5269589	-	7991	hypothetical protein			K27_10.3.41
+NCU05100	supercont10.6	3742847	3743593	+	7942.28571428571	hypothetical protein			K27_10.6.24
+NCU08254	supercont10.3	4788658	4789684	+	7941.11764705882	hypothetical protein			K27_10.3.29
+NCU09965	supercont10.5	6060921	6062353	-	7939	hypothetical protein			K27_10.5.15
+NCU09170	supercont10.3	239514	241233	+	7932.375	alpha-N-arabinofuranosidase II			K27_10.3.6
+NCU05097	supercont10.6	3748375	3749528	-	7924.36842105263	hypothetical protein			K27_10.6.24
+NCU09637	supercont10.4	8786	10313	-	7917.65217391304	sterigmatocystin 8-O-methyltransferase			K27_10.4.1
+NCU09585	supercont10.7	3334856	3335985	+	7907.5	hypothetical protein			K27_10.7.17
+NCU09577	supercont10.7	3308713	3309535	+	7903.86666666667	hypothetical protein			K27_10.7.16
+NCU05098	supercont10.6	3745790	3747272	-	7897.09090909091	phosphatidylserine decarboxylase			K27_10.6.24
+NCU07092	supercont10.6	192355	194418	+	7895.17857142857	cytochrome P450 2C30			K27_10.6.8
+NCU09524	supercont10.3	14200	15407	-	7891.45	hypothetical protein			K27_10.3.1
+NCU05111	supercont10.6	3712724	3713470	-	7882	hypothetical protein			K27_10.6.24
+NCU05675	supercont10.3	453712	454278	-	7880.41666666667	hypothetical protein			K27_10.3.13
+NCU07115	supercont10.6	128969	130837	-	7840.5	hypothetical protein			K27_10.6.6
+NCU05659	supercont10.3	394404	394979	+	7835.25	hypothetical protein			K27_10.3.10
+NCU08247	supercont10.3	4772093	4772442	-	7811.18181818182	hypothetical protein			K27_10.3.29
+NCU06897	supercont10.7	3554726	3555796	+	7798.94117647059	hypothetical protein			K27_10.7.19
+NCU07145	supercont10.5	6428125	6429262	+	7789.72222222222	hypothetical protein			K27_10.5.23
+NCU07623	supercont10.4	307996	309661	+	7762.375	"2	2-dialkylglycine decarboxylase"			K27_10.4.11
+NCU05093	supercont10.6	3759862	3761894	-	7733.44444444444	cystathionine gamma-synthase			K27_10.6.24
+NCU07645	supercont10.4	387841	389353	+	7730.54545454545	hypothetical protein			K27_10.4.12
+NCU05080	supercont10.6	3806853	3807485	-	7722.15384615385	hypothetical protein			K27_10.6.25
+NCU04916	supercont10.4	722522	723916	-	7696.14285714286	hypothetical protein			K27_10.4.20
+NCU08211	supercont10.3	4649976	4652197	-	7683.20689655172	hypothetical protein			K27_10.3.27
+NCU07224	supercont10.5	6201907	6203334	-	7655.38095238095	monooxygenase			K27_10.5.20
+NCU07216	supercont10.5	6222268	6222909	-	7653	hypothetical protein			K27_10.5.20
+NCU08755	supercont10.3	5254975	5258174	-	7644.64102564103	beta-glucosidase 1	"GO:0009277	GO:0009277	FAO:0000024	FAO:0000024	FAO:0000024	GO:0009277"	"fungal-type cell wall	fungal-type cell wall	conidium	conidium	conidium	fungal-type cell wall"	K27_10.3.41
+NCU09590	supercont10.7	3343330	3344293	-	7624.625	hypothetical protein			K27_10.7.17
+NCU04894	supercont10.4	652313	653554	-	7620.68421052632	hypothetical protein			K27_10.4.17
+NCU08262	supercont10.3	4815061	4816061	+	7620.23529411765	hypothetical protein			K27_10.3.29
+NCU12176	supercont10.6	3673140	3674213	-	7565.66666666667	hypothetical protein			K27_10.6.23
+NCU08261	supercont10.3	4811606	4812655	+	7552.11764705882	hypothetical protein			K27_10.3.29
+NCU11714	supercont10.4	759594	760596	-	7542	hypothetical protein			K27_10.4.21
+NCU07146	supercont10.5	6423834	6427067	+	7540.76923076923	hypothetical protein			K27_10.5.23
+NCU09181	supercont10.3	274859	275686	+	7533.06666666667	hypothetical protein			K27_10.3.7
+NCU05073	supercont10.6	3828202	3829315	+	7526.66666666667	hypothetical protein			K27_10.6.26
+NCU05096	supercont10.6	3751174	3752463	-	7526.05	hypothetical protein			K27_10.6.24
+NCU04991	supercont10.6	4159600	4162256	-	7515.82352941176	oligopeptide transporter			K27_10.6.33
+NCU04705	supercont10.6	453877	454628	-	7508.2	hypothetical protein			K27_10.6.14
+NCU07601	supercont10.4	201056	202551	-	7489.22727272727	hypothetical protein			K27_10.4.6
+NCU08248	supercont10.3	4773154	4773851	+	7459.21428571429	hypothetical protein			K27_10.3.29
+NCU07234	supercont10.5	6157838	6159441	-	7432.4347826087	hypothetical protein			K27_10.5.19
+NCU05911	supercont10.6	3496261	3496728	+	7422.25	hypothetical protein			K27_10.6.20
+NCU05114	supercont10.6	3703028	3704422	+	7414.7619047619	hypothetical protein			K27_10.6.24
+NCU08246	supercont10.3	4769937	4770464	+	7408.41666666667	hypothetical protein			K27_10.3.29
+NCU04707	supercont10.6	461122	461748	+	7402.30769230769	hypothetical protein			K27_10.6.14
+NCU04992	supercont10.6	4158666	4159405	+	7361.73333333333	hypothetical protein			K27_10.6.33
+NCU04877	supercont10.4	584452	585958	+	7352.5	hypothetical protein			K27_10.4.16
+NCU07643	supercont10.4	377981	379563	+	7343.26086956522	hypothetical protein			K27_10.4.12
+NCU05657	supercont10.3	388933	390336	-	7340.66666666667	hypothetical protein			K27_10.3.10
+NCU07603	supercont10.4	207686	209876	-	7335.1724137931	hypothetical protein			K27_10.4.6
+NCU11706	supercont10.4	360310	360701	+	7334.36363636364	hypothetical protein			K27_10.4.11
+NCU10629	supercont10.3	328150	328634	+	7332.08333333333	hypothetical protein			K27_10.3.8
+NCU09636	supercont10.4	6553	8374	+	7304.92	hypothetical protein			K27_10.4.1
+NCU07642	supercont10.4	376398	377629	+	7301.05	hypothetical protein			K27_10.4.12
+NCU05092	supercont10.6	3762871	3763325	+	7267.58333333333	hypothetical protein			K27_10.6.24
+NCU09185	supercont10.3	282889	284813	-	7265.62962962963	hypothetical protein			K27_10.3.7
+NCU08085	supercont10.1	214620	215734	+	7239.94444444444	hypothetical protein			K27_10.1.6
+NCU05158	supercont10.6	3541012	3542289	+	7236.68421052632	hypothetical protein			K27_10.6.21
+NCU12114	supercont10.6	467360	467683	-	7234.6	hypothetical protein			K27_10.6.14
+NCU08209	supercont10.3	4646677	4647252	-	7226.69230769231	hypothetical protein			K27_10.3.27
+NCU08532	supercont10.3	5024302	5026908	-	7214.12121212121	hypothetical protein			K27_10.3.33
+NCU09952	supercont10.5	6032208	6032868	-	7206.84615384615	hypothetical protein			K27_10.5.15
+NCU11938	supercont10.2	1676725	1677559	+	7180.13333333333	hypothetical protein			K27_10.2.14
+NCU11342	supercont10.6	24458	25894	+	7173.47619047619	MFS hexose transporter			K27_10.6.1
+NCU11895	supercont10.3	4809123	4810856	+	7158.625	hypothetical protein			K27_10.3.29
+NCU08531	supercont10.3	5028667	5030727	-	7119.03571428571	hypothetical protein			K27_10.3.33
+NCU11713	supercont10.4	745737	746045	+	7110.5	hypothetical protein			K27_10.4.20
+NCU08222	supercont10.3	4680233	4682796	+	7080.1875	hypothetical protein			K27_10.3.28
+NCU08245	supercont10.3	4767460	4769023	-	7063.34782608696	hypothetical protein			K27_10.3.29
+NCU07244	supercont10.5	6119262	6119798	+	7052.83333333333	hypothetical protein			K27_10.5.18
+NCU07628	supercont10.4	322256	323143	+	7049.625	hypothetical protein			K27_10.4.11
+NCU07624	supercont10.4	312680	314578	+	7031.15384615385	transcriptional regulator			K27_10.4.11
+NCU09188	supercont10.3	292242	295031	+	7023.85714285714	hypothetical protein			K27_10.3.7
+NCU08233	supercont10.3	4726809	4727471	+	7006.61538461538	hypothetical protein			K27_10.3.29
+NCU09168	supercont10.3	234921	236971	+	6993.07407407407	hypothetical protein			K27_10.3.6
+NCU11707	supercont10.4	390012	391739	+	6977.41666666667	hypothetical protein			K27_10.4.12
+NCU08534	supercont10.3	5016034	5017866	-	6970.68	hypothetical protein			K27_10.3.33
+NCU12097	supercont10.6	26645	27616	-	6964	hypothetical protein			K27_10.6.1
+NCU08235	supercont10.3	4735926	4738698	+	6961.5	hypothetical protein			K27_10.3.29
+NCU10119	supercont10.3	219919	221618	-	6957.25	hypothetical protein			K27_10.3.6
+NCU08756	supercont10.3	5252358	5254295	-	6954.11538461538	hypothetical protein			K27_10.3.41
+NCU05101	supercont10.6	3739645	3740815	+	6933.47368421053	hypothetical protein			K27_10.6.24
+NCU05155	supercont10.6	3547815	3548678	-	6924.2	hypothetical protein			K27_10.6.21
+NCU11908	supercont10.2	11676	12540	+	6915.9375	hypothetical protein			K27_10.2.1
+NCU07638	supercont10.4	353975	356880	+	6895.11111111111	hypothetical protein			K27_10.4.11
+NCU07235	supercont10.5	6155334	6157523	+	6885.06896551724	hypothetical protein			K27_10.5.19
+NCU11907	supercont10.3	5272185	5273718	+	6881.60869565217	hypothetical protein			K27_10.3.41
+NCU09167	supercont10.3	230217	233968	-	6864.27272727273	hypothetical protein			K27_10.3.6
+NCU07229	supercont10.5	6177261	6177892	+	6860.23076923077	hypothetical protein			K27_10.5.19
+NCU07641	supercont10.4	374192	375687	+	6855.95454545455	hypothetical protein			K27_10.4.12
+NCU09724	supercont10.7	2900033	2901844	-	6842.64	hypothetical protein			K27_10.7.13
+NCU11341	supercont10.6	17861	19925	-	6836.57142857143	translation initiation factor eIF-2B			K27_10.6.1
+NCU07637	supercont10.4	349040	351899	+	6825.82857142857	hypothetical protein			K27_10.4.11
+NCU11686	supercont10.5	6084713	6086068	-	6818.95	hypothetical protein			K27_10.5.16
+NCU09165	supercont10.3	225783	227571	+	6805.88	hypothetical protein			K27_10.3.6
+NCU05086	supercont10.6	3778134	3781784	+	6798.6976744186	hypothetical protein			K27_10.6.24
+NCU05912	supercont10.6	3494311	3495416	+	6796.94444444444	hypothetical protein			K27_10.6.20
+NCU09640	supercont10.4	22743	24429	-	6789.58333333333	MFS toxin efflux pump			K27_10.4.1
+NCU04874	supercont10.4	578396	579678	+	6788.55	alternative oxidase			K27_10.4.16
+NCU07150	supercont10.5	6414593	6416401	+	6740.84615384615	hypothetical protein			K27_10.5.23
+NCU05906	supercont10.6	3505213	3506759	+	6737.90909090909	hypothetical protein			K27_10.6.20
+NCU04879	supercont10.4	596221	596514	+	6727.4	hypothetical protein			K27_10.4.16
+NCU05083	supercont10.6	3800962	3802386	-	6711.19047619048	hypothetical protein			K27_10.6.25
+NCU08240	supercont10.3	4752019	4752486	+	6710.72727272727	hypothetical protein			K27_10.3.29
+NCU09158	supercont10.3	199775	200169	-	6710.63636363636	hypothetical protein			K27_10.3.5
+NCU07228	supercont10.5	6191093	6191712	+	6710.42857142857	hypothetical protein			K27_10.5.20
+NCU09947	supercont10.5	6023508	6024661	+	6706.83333333333	hypothetical protein			K27_10.5.15
+NCU09837	supercont10.5	571752	573454	+	6696.70833333333	hypothetical protein			K27_10.5.3
+NCU08220	supercont10.3	4675409	4676370	-	6674.375	hypothetical protein			K27_10.3.28
+NCU04915	supercont10.4	719624	721029	+	6637.33333333333	hypothetical protein			K27_10.4.20
+NCU05178	supercont10.4	5851070	5852551	+	6627	hypothetical protein			K27_10.4.36
+NCU07230	supercont10.5	6173805	6175672	+	6624.8	hypothetical protein			K27_10.5.19
+NCU07213	supercont10.5	6228735	6229094	-	6609.7	hypothetical protein			K27_10.5.20
+NCU08241	supercont10.3	4754828	4756339	+	6600.36363636364	hypothetical protein			K27_10.3.29
+NCU09189	supercont10.3	296327	298561	-	6596.93103448276	hypothetical protein			K27_10.3.7
+NCU05179	supercont10.4	5848609	5850702	-	6595.21428571429	hypothetical protein			K27_10.4.36
+NCU07243	supercont10.5	6120566	6121372	-	6592.8	hypothetical protein			K27_10.5.18
+NCU10039	supercont10.4	5941461	5943316	+	6590.84615384615	hypothetical protein			K27_10.4.42
+NCU04706	supercont10.6	457146	457943	+	6584.33333333333	hypothetical protein			K27_10.6.14
+NCU07109	supercont10.6	145093	145466	-	6581.09090909091	hypothetical protein			K27_10.6.7
+NCU07625	supercont10.4	315068	317473	+	6574	hypothetical protein			K27_10.4.11
+NCU09176	supercont10.3	261097	262309	+	6564.75	hypothetical protein			K27_10.3.7
+NCU08221	supercont10.3	4676768	4677879	-	6560.55555555556	dienelactone hydrolase			K27_10.3.28
+NCU10027	supercont10.1	9759597	9762612	+	6559.52631578947	hypothetical protein			K27_10.1.21
+NCU09961	supercont10.5	6052654	6053377	+	6558.21428571429	hypothetical protein			K27_10.5.15
+NCU09172	supercont10.3	245253	247405	-	6542.20689655172	hypothetical protein			K27_10.3.6
+NCU05089	supercont10.6	3770977	3772767	-	6539.04	MFS monocarboxylate transporter			K27_10.6.24
+NCU07245	supercont10.5	6114870	6116228	+	6532.19047619048	hypothetical protein			K27_10.5.18
+NCU05896	supercont10.7	56282	57694	-	6528.28571428571	SesB			K27_10.7.3
+NCU08103	supercont10.1	264036	265388	-	6516.75	hypothetical protein			K27_10.1.7
+NCU11894	supercont10.3	4800161	4800732	+	6510.07692307692	hypothetical protein			K27_10.3.29
+NCU07593	supercont10.4	178291	180040	+	6508.92	hypothetical protein			K27_10.4.6
+NCU05463	supercont10.2	1677867	1678593	-	6507.42857142857	hypothetical protein			K27_10.2.14
+NCU07647	supercont10.4	391746	392192	+	6498.45454545455	hypothetical protein			K27_10.4.12
+NCU11430	supercont10.1	195781	196290	-	6497.83333333333	hypothetical protein			K27_10.1.5
+NCU10005	supercont10.3	344838	345608	+	6494.33333333333	hypothetical protein			K27_10.3.9
+NCU04891	supercont10.4	647423	648874	-	6479.80952380952	hypothetical protein			K27_10.4.17
+NCU07633	supercont10.4	335889	337120	+	6479.4	hypothetical protein			K27_10.4.11
+NCU07592	supercont10.4	174775	177213	-	6476.71875	hypothetical protein			K27_10.4.6
+NCU08106	supercont10.1	293167	294573	+	6471.42857142857	hypothetical protein			K27_10.1.8
+NCU08084	supercont10.1	210487	212487	+	6452.33333333333	hypothetical protein			K27_10.1.6
+NCU08213	supercont10.3	4655560	4656093	-	6436.58333333333	hypothetical protein			K27_10.3.27
+NCU05085	supercont10.6	3794170	3796368	-	6435.24137931035	hypothetical protein			K27_10.6.25
+NCU12078	supercont10.7	3535598	3536182	-	6422.53846153846	hypothetical protein			K27_10.7.19
+NCU07085	supercont10.6	209405	209713	+	6415.5	hypothetical protein			K27_10.6.8
+NCU08078	supercont10.1	190407	191138	+	6409.21428571429	hypothetical protein			K27_10.1.5
+NCU04869	supercont10.4	554456	555600	-	6391.31578947368	hypothetical protein			K27_10.4.15
+NCU09171	supercont10.3	241501	243748	-	6385.9	hypothetical protein			K27_10.3.6
+NCU11610	supercont10.5	657744	659487	+	6352.375	hypothetical protein			K27_10.5.5
+NCU05173	supercont10.4	5878979	5881084	-	6351.78571428571	hypothetical protein			K27_10.4.38
+NCU05106	supercont10.6	3725598	3727005	+	6351.36363636364	hypothetical protein			K27_10.6.24
+NCU08243	supercont10.3	4761941	4764324	-	6343.58064516129	hypothetical protein			K27_10.3.29
+NCU08087	supercont10.1	219849	220676	-	6330.53333333333	hypothetical protein			K27_10.1.6
+NCU04867	supercont10.4	547664	548863	-	6320.21052631579	hypothetical protein			K27_10.4.15
+NCU08256	supercont10.3	4794104	4794463	+	6315.3	hypothetical protein			K27_10.3.29
+NCU10030	supercont10.1	9768324	9770870	+	6314.84375	alpha-L-rhamnosidase C			K27_10.1.22
+NCU08242	supercont10.3	4757559	4758706	+	6312.94736842105	hypothetical protein			K27_10.3.29
+NCU07212	supercont10.5	6229405	6230566	-	6308.33333333333	hypothetical protein			K27_10.5.20
+NCU07215	supercont10.5	6223717	6224199	-	6292.36363636364	hypothetical protein			K27_10.5.20
+NCU07595	supercont10.4	185124	186148	+	6284.70588235294	hypothetical protein			K27_10.4.6
+NCU05055	supercont10.6	3898507	3899721	-	6284.52631578947	hypothetical protein			K27_10.6.29
+NCU07214	supercont10.5	6225076	6227238	-	6283.20689655172	hypothetical protein			K27_10.5.20
+NCU07090	supercont10.6	197965	199028	-	6280.44444444444	hypothetical protein			K27_10.6.8
+NCU07209	supercont10.5	6235622	6236738	-	6265.11111111111	hypothetical protein			K27_10.5.20
+NCU11832	supercont10.3	382227	382889	+	6230.69230769231	hypothetical protein			K27_10.3.10
+NCU05676	supercont10.3	454999	455457	-	6215.91666666667	hypothetical protein			K27_10.3.13
+NCU12113	supercont10.6	465575	466364	-	6215.2	hypothetical protein			K27_10.6.14
+NCU09632	supercont10.2	12521	13311	-	6181.13333333333	hypothetical protein			K27_10.2.1
+NCU07636	supercont10.4	345246	346821	+	6175.91304347826	hypothetical protein			K27_10.4.11
+NCU08223	supercont10.3	4683042	4684305	-	6171.1	hypothetical protein			K27_10.3.28
+NCU05071	supercont10.6	3832861	3834102	-	6166	metallo-endopeptidase			K27_10.6.26
+NCU10210	supercont10.3	4657091	4658449	-	6144.28571428571	hypothetical protein			K27_10.3.27
+NCU04889	supercont10.4	642261	643715	-	6130.68181818182	hypothetical protein			K27_10.4.17
+NCU09907	supercont10.1	40950	42632	-	6130.625	hypothetical protein			K27_10.1.2
+NCU08757	supercont10.3	5250258	5251830	-	6128.60869565217	hypothetical protein			K27_10.3.41
+NCU07104	supercont10.6	161935	162582	+	6128.15384615385	hypothetical protein			K27_10.6.7
+NCU09166	supercont10.3	228016	229458	-	6127.19047619048	hypothetical protein			K27_10.3.6
+NCU05910	supercont10.6	3497366	3497971	+	6123.53846153846	hypothetical protein			K27_10.6.20
+NCU04883	supercont10.4	617712	619121	-	6117.66666666667	chitinase 1			K27_10.4.16
+NCU09726	supercont10.7	2907245	2908890	-	6115.73913043478	hypothetical protein			K27_10.7.13
+NCU07211	supercont10.5	6231160	6232580	-	6112.33333333333	hypothetical protein			K27_10.5.20
+NCU09190	supercont10.3	299936	301267	+	6112.25	hypothetical protein			K27_10.3.7
+NCU08077	supercont10.1	188531	189595	-	6111.23529411765	hypothetical protein			K27_10.1.5
+NCU08572	supercont10.3	4868987	4869940	-	6107.82352941176	hypothetical protein			K27_10.3.30
+NCU09519	supercont10.3	29262	30571	+	6105.5	"2	5-diketo-D-gluconic acid reductase A"			K27_10.3.2
+NCU05081	supercont10.6	3804073	3805934	-	6104.5	hypothetical protein			K27_10.6.25
+NCU09953	supercont10.5	6033313	6034014	-	6100.5	hypothetical protein			K27_10.5.15
+NCU08250	supercont10.3	4778023	4779106	+	6099.77777777778	hypothetical protein			K27_10.3.29
+NCU09857	supercont10.5	5975702	5977842	+	6083.28571428571	hypothetical protein			K27_10.5.14
+NCU09604	supercont10.2	73202	74339	-	6082.88888888889	hypothetical protein			K27_10.2.4
+NCU05156	supercont10.6	3545827	3547617	+	6077.04	hypothetical protein			K27_10.6.21
+NCU06887	supercont10.7	3589211	3590261	+	6073.70588235294	hypothetical protein			K27_10.7.20
+NCU05658	supercont10.3	391094	393031	-	6061.37037037037	hypothetical protein			K27_10.3.10
+NCU04708	supercont10.6	463190	464497	-	6055.25	hypothetical protein			K27_10.6.14
+NCU04896	supercont10.4	658757	660725	-	6055.14814814815	hypothetical protein			K27_10.4.17
+NCU09948	supercont10.5	6025496	6026290	+	6048.8	hypothetical protein			K27_10.5.15
+NCU08212	supercont10.3	4652962	4654746	-	6047.28	hypothetical protein			K27_10.3.27
+NCU09664	supercont10.4	108982	109759	-	6042.13333333333	acetylxylan esterase			K27_10.4.4
+NCU08075	supercont10.1	182428	185051	-	6029.66666666667	hypothetical protein			K27_10.1.5
+NCU12115	supercont10.6	473956	476658	+	6024	hypothetical protein			K27_10.6.14
+NCU11687	supercont10.5	6087154	6088614	-	6013.22727272727	hypothetical protein			K27_10.5.16
+NCU07511	supercont10.3	4573918	4575576	-	6008.5652173913	hypothetical protein			K27_10.3.25
+NCU04890	supercont10.4	644509	646200	-	6007	hypothetical protein			K27_10.4.17
+NCU07144	supercont10.5	6431522	6433447	-	6006.23076923077	hypothetical protein			K27_10.5.23
+NCU09957	supercont10.5	6042572	6045717	-	5998.02564102564	hypothetical protein			K27_10.5.15
+NCU12102	supercont10.6	149765	150945	+	5994.05263157895	hypothetical protein			K27_10.6.7
+NCU11710	supercont10.4	655051	656598	-	5990.59090909091	hypothetical protein			K27_10.4.17
+NCU04918	supercont10.4	728617	731674	-	5973.2972972973	hypothetical protein			K27_10.4.20
+NCU08251	supercont10.3	4780591	4781498	+	5959.1875	hypothetical protein			K27_10.3.29
+NCU07086	supercont10.6	206035	208139	-	5958.96428571429	hypothetical protein			K27_10.6.8
+NCU12086	supercont10.7	3947806	3948928	+	5956.83333333333	hypothetical protein			K27_10.7.25
+NCU07151	supercont10.5	6412876	6413555	+	5951.92857142857	hypothetical protein			K27_10.5.23
+NCU05112	supercont10.6	3711422	3712112	+	5950.64285714286	hypothetical protein			K27_10.6.24
+NCU08083	supercont10.1	208395	209343	-	5947.52941176471	hypothetical protein			K27_10.1.6
+NCU09586	supercont10.7	3336666	3337989	-	5940.6	hypothetical protein			K27_10.7.17
+NCU12072	supercont10.7	3326431	3326923	-	5935.25	hypothetical protein			K27_10.7.17
+NCU07635	supercont10.4	343938	344489	+	5918.33333333333	hypothetical protein			K27_10.4.11
+NCU07600	supercont10.4	200140	200589	+	5912.81818181818	hypothetical protein			K27_10.4.6
+NCU09906	supercont10.1	35916	39245	+	5905	hypothetical protein			K27_10.1.2
+NCU11608	supercont10.5	647895	648408	+	5900.92307692308	hypothetical protein			K27_10.5.5
+NCU04919	supercont10.4	732703	735060	-	5900.2	hypothetical protein			K27_10.4.20
+NCU09951	supercont10.5	6030837	6031483	-	5899.46153846154	hypothetical protein			K27_10.5.15
+NCU05666	supercont10.3	416218	416814	-	5891.23076923077	hypothetical protein			K27_10.3.11
+NCU12178	supercont10.6	3808678	3809013	-	5886.36363636364	hypothetical protein			K27_10.6.25
+NCU11892	supercont10.3	4725647	4726429	-	5885.06666666667	hypothetical protein			K27_10.3.29
+NCU08208	supercont10.3	4644661	4645491	-	5881.13333333333	hypothetical protein			K27_10.3.27
+NCU08916	supercont10.5	642904	643795	+	5871.8	hypothetical protein			K27_10.5.5
+NCU04709	supercont10.6	467743	468262	+	5860.58333333333	hypothetical protein			K27_10.6.14
+NCU05175	supercont10.4	5869810	5871864	+	5844.66666666667	hypothetical protein			K27_10.4.37
+NCU09526	supercont10.3	9528	11950	+	5833.09677419355	hypothetical protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.3.1
+NCU05079	supercont10.6	3809579	3811957	-	5794.58064516129	MFS peptide transporter			K27_10.6.25
+NCU09183	supercont10.3	277684	279201	-	5790.04347826087	kynureninase			K27_10.3.7
+NCU09591	supercont10.7	3345232	3345811	-	5778.38461538462	hypothetical protein			K27_10.7.17
+NCU08264	supercont10.3	4820893	4822548	+	5769.83333333333	hypothetical protein			K27_10.3.29
+NCU07103	supercont10.6	163916	164689	+	5769.78571428571	hypothetical protein			K27_10.6.7
+NCU09490	supercont10.2	4447140	4448862	-	5764.45833333333	hypothetical protein			K27_10.2.22
+NCU09276	supercont10.7	4146009	4147146	+	5763.16666666667	hypothetical protein			K27_10.7.28
+NCU07210	supercont10.5	6232861	6234417	-	5745.17391304348	hypothetical protein			K27_10.5.20
+NCU11607	supercont10.5	642040	642719	+	5743.35714285714	hypothetical protein			K27_10.5.5
+NCU05909	supercont10.6	3498506	3500461	-	5740.23076923077	hypothetical protein			K27_10.6.20
+NCU09588	supercont10.7	3340493	3341218	-	5734.4	hypothetical protein			K27_10.7.17
+NCU05907	supercont10.6	3503487	3503876	-	5724.54545454545	hypothetical protein			K27_10.6.20
+NCU04900	supercont10.4	673623	673964	-	5722.8	hypothetical protein			K27_10.4.18
+NCU08797	supercont10.3	5090232	5091512	+	5718.6	hypothetical protein			K27_10.3.35
+NCU07596	supercont10.4	188782	189978	+	5706.21052631579	hypothetical protein			K27_10.4.6
+NCU08265	supercont10.3	4823696	4824538	+	5705.375	hypothetical protein			K27_10.3.29
+NCU09660	supercont10.4	101788	102330	+	5672.46153846154	hypothetical protein			K27_10.4.4
+NCU09630	supercont10.2	19042	19908	+	5664.625	hypothetical protein			K27_10.2.1
+NCU09638	supercont10.4	11075	19163	+	5651.89772727273	polyketide synthase-5			K27_10.4.1
+NCU04917	supercont10.4	725445	727135	-	5635.08333333333	hypothetical protein			K27_10.4.20
+NCU05897	supercont10.7	52953	55087	+	5624.78571428571	l-fucose permease	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.7.3
+NCU06902	supercont10.7	3541147	3541965	-	5617.86666666667	hypothetical protein			K27_10.7.19
+NCU09589	supercont10.7	3341998	3342711	-	5617.86666666667	hypothetical protein			K27_10.7.17
+NCU07095	supercont10.6	184161	185089	+	5615.8125	hypothetical protein			K27_10.6.8
+NCU07152	supercont10.5	6411400	6412219	-	5604.375	hypothetical protein			K27_10.5.23
+NCU09623	supercont10.2	34371	35627	-	5599.15	hypothetical protein			K27_10.2.2
+NCU10070	supercont10.4	5928092	5930117	-	5597.46428571429	hypothetical protein			K27_10.4.41
+NCU05656	supercont10.3	387021	387656	+	5571.38461538462	hypothetical protein			K27_10.3.10
+NCU06955	supercont10.7	3365437	3366104	-	5564.78571428571	hypothetical protein			K27_10.7.18
+NCU04875	supercont10.4	581617	582265	+	5560	hypothetical protein			K27_10.4.16
+NCU11087	supercont10.5	681560	682080	-	5554	hypothetical protein			K27_10.5.6
+NCU05661	supercont10.3	399177	399894	+	5552.07142857143	hypothetical protein			K27_10.3.10
+NCU08244	supercont10.3	4764577	4766164	-	5547.52173913043	hypothetical protein			K27_10.3.29
+NCU08576	supercont10.3	4857482	4857922	+	5545.16666666667	hypothetical protein			K27_10.3.30
+NCU12103	supercont10.6	151704	153478	+	5525.91666666667	hypothetical protein			K27_10.6.7
+NCU11363	supercont10.4	195712	197458	+	5515.29166666667	FAD binding domain-containing protein			K27_10.4.6
+NCU07106	supercont10.6	157770	158549	-	5514	hypothetical protein			K27_10.6.7
+NCU05660	supercont10.3	396311	397505	+	5493.73684210526	hypothetical protein			K27_10.3.10
+NCU07648	supercont10.4	393308	398274	+	5487.375	hypothetical protein			K27_10.4.12
+NCU08086	supercont10.1	216105	216521	-	5485.09090909091	hypothetical protein			K27_10.1.6
+NCU04853	supercont10.4	474487	475103	+	5480.42857142857	hypothetical protein			K27_10.4.13
+NCU05655	supercont10.3	384222	386039	-	5480.28	hypothetical protein			K27_10.3.10
+NCU07594	supercont10.4	182437	183928	-	5476.36363636364	hypothetical protein			K27_10.4.6
+NCU04870	supercont10.4	560167	561105	-	5476.23529411765	acetyl xylan esterase			K27_10.4.15
+NCU12080	supercont10.7	3547715	3548551	-	5476.2	hypothetical protein			K27_10.7.19
+NCU07050	supercont10.6	355362	357848	+	5476.09375	hypothetical protein			K27_10.6.11
+NCU04702	supercont10.6	446381	447917	+	5474.26086956522	hypothetical protein			K27_10.6.14
+NCU08101	supercont10.1	257493	259361	+	5473.57692307692	hypothetical protein			K27_10.1.7
+NCU04911	supercont10.4	707642	709996	-	5466.8	hypothetical protein			K27_10.4.20
+NCU04704	supercont10.6	452915	453610	+	5432.92857142857	hypothetical protein			K27_10.6.14
+NCU07581	supercont10.4	141914	142889	-	5416.75	hypothetical protein			K27_10.4.5
+NCU09178	supercont10.3	269062	270907	+	5406.96153846154	hypothetical protein			K27_10.3.7
+NCU09949	supercont10.5	6027730	6028640	-	5401.25	hypothetical protein			K27_10.5.15
+NCU10038	supercont10.4	5943769	5945204	+	5370.13636363636	glycerophosphoryl diester phosphodiesterase			K27_10.4.42
+NCU08539	supercont10.3	4991568	4993181	+	5355.08695652174	hypothetical protein			K27_10.3.32
+NCU04897	supercont10.4	663057	664324	-	5335	hypothetical protein			K27_10.4.17
+NCU08537	supercont10.3	4995734	4999836	-	5330.41666666667	hypothetical protein			K27_10.3.32
+NCU11422	supercont10.7	4246643	4248077	+	5318.95238095238	"glutamate-1-semialdehyde 2	1-aminomutase"			K27_10.7.31
+NCU09639	supercont10.4	19910	21754	-	5308.84	hypothetical protein			K27_10.4.1
+NCU05673	supercont10.3	448520	449458	-	5297.375	hypothetical protein			K27_10.3.13
+NCU05674	supercont10.3	449717	452595	-	5297	hypothetical protein			K27_10.3.13
+NCU11834	supercont10.3	429337	430124	-	5289.06666666667	hypothetical protein			K27_10.3.12
+NCU11286	supercont10.3	4631535	4633728	+	5285.62068965517	hypothetical protein			K27_10.3.27
+NCU08096	supercont10.1	243324	246248	-	5281.38888888889	hypothetical protein			K27_10.1.7
+NCU06898	supercont10.7	3553658	3554074	-	5257.09090909091	hypothetical protein			K27_10.7.19
+NCU04926	supercont10.4	763647	764325	+	5253.92857142857	hypothetical protein			K27_10.4.21
+NCU11609	supercont10.5	655582	656324	-	5252.46666666667	hypothetical protein			K27_10.5.5
+NCU07133	supercont10.6	37287	38764	-	5234.72727272727	metallo-beta-lactamase superfamily protein			K27_10.6.2
+NCU04997	supercont10.6	4144785	4146414	+	5229.5	xylanase			K27_10.6.33
+NCU05177	supercont10.4	5866626	5867116	+	5223.41666666667	hypothetical protein			K27_10.4.37
+NCU05105	supercont10.6	3727758	3730246	-	5220.53125	"glucan endo-1	3-beta-glucosidase"			K27_10.6.24
+NCU07651	supercont10.4	407286	407749	+	5219.83333333333	hypothetical protein			K27_10.4.12
+NCU07105	supercont10.6	160017	160757	-	5202	hypothetical protein			K27_10.6.7
+NCU07091	supercont10.6	195742	196775	+	5200.11764705882	hypothetical protein			K27_10.6.8
+NCU09908	supercont10.1	43709	44551	-	5191.53333333333	hypothetical protein			K27_10.1.2
+NCU11688	supercont10.5	6100092	6100997	-	5179.0625	hypothetical protein			K27_10.5.17
+NCU07049	supercont10.6	358751	359524	+	5177.46666666667	hypothetical protein			K27_10.6.11
+NCU04888	supercont10.4	639832	641006	-	5170.84210526316	hypothetical protein			K27_10.4.17
+NCU07599	supercont10.4	198403	199260	+	5153.53333333333	hypothetical protein			K27_10.4.6
+NCU10344	supercont10.6	342337	344310	-	5149.03703703704	cytochrome P450 98A3			K27_10.6.11
+NCU06886	supercont10.7	3591480	3592437	+	5136	hypothetical protein			K27_10.7.20
+NCU10501	supercont10.1	91324	92593	+	5126.57894736842	hypothetical protein			K27_10.1.4
+NCU08546	supercont10.3	4969295	4970282	+	5103.17647058824	hypothetical protein			K27_10.3.32
+NCU09950	supercont10.5	6029831	6030256	-	5086.54545454545	hypothetical protein			K27_10.5.15
+NCU12079	supercont10.7	3539858	3540547	-	5083.85714285714	hypothetical protein			K27_10.7.19
+NCU08523	supercont10.3	5056241	5057244	-	5059.64705882353	hypothetical protein			K27_10.3.34
+NCU07225	supercont10.5	6198659	6199980	-	5050.75	"endo-1	4-beta-xylanase 2"			K27_10.5.20
+NCU07087	supercont10.6	203459	204202	-	5044	hypothetical protein			K27_10.6.8
+NCU08768	supercont10.3	5206022	5207116	-	5028.88888888889	hypothetical protein			K27_10.3.39
+NCU11424	supercont10.7	4250526	4252821	+	5021.4	carotenoid oxygenase-2	"GO:0016122	GO:0016122"	"xanthophyll metabolic process	xanthophyll metabolic process"	K27_10.7.31
+NCU08573	supercont10.3	4862927	4864049	+	5021.33333333333	hypothetical protein			K27_10.3.30
+NCU06889	supercont10.7	3579863	3581461	+	5013.69565217391	hypothetical protein			K27_10.7.20
+NCU11898	supercont10.3	4860632	4861381	-	5007.78571428571	hypothetical protein			K27_10.3.30
+NCU08785	supercont10.3	5130163	5131035	-	4984.625	fungal cellulose binding domain-containing protein			K27_10.3.37
+NCU08574	supercont10.3	4861543	4862238	-	4982.42857142857	hypothetical protein			K27_10.3.30
+NCU08080	supercont10.1	195021	195335	-	4959	hypothetical protein			K27_10.1.5
+NCU12083	supercont10.7	3582701	3583207	+	4957.53846153846	hypothetical protein			K27_10.7.20
+NCU08081	supercont10.1	198195	198497	+	4953.9	hypothetical protein			K27_10.1.5
+NCU08524	supercont10.3	5053920	5055726	+	4943.6	hypothetical protein			K27_10.3.34
+NCU04703	supercont10.6	448720	449858	+	4936	hypothetical protein			K27_10.6.14
+NCU08234	supercont10.3	4732542	4733660	+	4935.77777777778	hypothetical protein			K27_10.3.29
+NCU05082	supercont10.6	3802902	3803725	-	4931.86666666667	hypothetical protein			K27_10.6.25
+NCU08915	supercont10.5	644543	644869	+	4928.6	hypothetical protein			K27_10.5.5
+NCU11897	supercont10.3	4826688	4827377	-	4922.71428571429	hypothetical protein			K27_10.3.29
+NCU06904	supercont10.7	3536716	3537302	-	4911.69230769231	hypothetical protein			K27_10.7.19
+NCU09650	supercont10.4	68362	68930	+	4902.92307692308	hypothetical protein	"GO:0043331	GO:0043331"	"response to dsRNA	response to dsRNA"	K27_10.4.3
+NCU08918	supercont10.5	638675	639662	+	4899.11764705882	hypothetical protein			K27_10.5.5
+NCU05678	supercont10.3	458931	459470	-	4863.25	hypothetical protein			K27_10.3.13
+NCU07053	supercont10.6	348239	349971	-	4838.125	aldehyde dehydrogenase			K27_10.6.11
+NCU08100	supercont10.1	256166	256627	+	4827.33333333333	hypothetical protein			K27_10.1.7
+NCU08769	supercont10.3	5205042	5205927	+	4812.875	conidiation-6	"FAO:0000028	FAO:0000011	GO:0009416	GO:0009906	GO:0009416	FAO:0000038	GO:0009906	FAO:0000038	GO:0009906	FAO:0000011	GO:0009906	GO:0009416	FAO:0000038	GO:0009416	FAO:0000028	GO:0009416	FAO:0000011	FAO:0000028	FAO:0000038	GO:0009906	FAO:0000038	FAO:0000038	GO:0009906	FAO:0000028	FAO:0000011	FAO:0000011	FAO:0000028	FAO:0000011	FAO:0000028	GO:0009416"	"microconidium	mycelium	response to light stimulus	response to photoperiod	 blue light	response to light stimulus	macroconidium	response to photoperiod	 blue light	macroconidium	response to photoperiod	 blue light	mycelium	response to photoperiod	 blue light	response to light stimulus	macroconidium	response to light stimulus	microconidium	response to light stimulus	mycelium	microconidium	macroconidium	response to photoperiod	 blue light	macroconidium	macroconidium	response to photoperiod	 blue light	microconidium	mycelium	mycelium	microconidium	mycelium	microconidium	response to light stimulus"	K27_10.3.39
+NCU09956	supercont10.5	6041267	6041800	+	4812.15384615385	hypothetical protein			K27_10.5.15
+NCU07089	supercont10.6	200047	201341	+	4785.5	NmrA family protein			K27_10.6.8
+NCU04882	supercont10.4	616342	616848	+	4779	hypothetical protein			K27_10.4.16
+NCU05159	supercont10.6	3538858	3540319	+	4774.5	acetylxylan esterase			K27_10.6.21
+NCU08917	supercont10.5	640869	641662	-	4773	hypothetical protein			K27_10.5.5
+NCU08569	supercont10.3	4876327	4878077	+	4772.5	hypothetical protein			K27_10.3.30
+NCU09491	supercont10.2	4451292	4452364	-	4772.11111111111	feruloyl esterase B	"GO:0030600	GO:0030600"	"feruloyl esterase activity	feruloyl esterase activity"	K27_10.2.22
+NCU05887	supercont10.7	85351	86924	+	4771.86956521739	oxidoreductase			K27_10.7.4
+NCU03474	supercont10.2	565862	567505	-	4768.875	hypothetical protein			K27_10.2.11
+NCU09838	supercont10.5	575221	576513	+	4762.7	hypothetical protein			K27_10.5.3
+NCU06953	supercont10.7	3367990	3368719	-	4737.4	hypothetical protein			K27_10.7.18
+NCU11134	supercont10.1	15930	16647	+	4724.5	hypothetical protein			K27_10.1.1
+NCU07094	supercont10.6	185222	187110	-	4718.61538461538	monooxygenase			K27_10.6.8
+NCU08521	supercont10.3	5059623	5061738	-	4703.82142857143	hypothetical protein			K27_10.3.34
+NCU08189	supercont10.3	4598536	4599913	+	4703.80952380952	"endo-1	4-beta-xylanase"			K27_10.3.26
+NCU05017	supercont10.6	4057491	4058165	+	4697.78571428571	hypothetical protein			K27_10.6.31
+NCU04860	supercont10.4	508446	511528	+	4693.76315789474	hypothetical protein			K27_10.4.14
+NCU08638	supercont10.1	9686555	9688046	+	4686.22727272727	hypothetical protein			K27_10.1.20
+NCU07051	supercont10.6	352643	353170	-	4679.33333333333	hypothetical protein			K27_10.6.11
+NCU05172	supercont10.4	5881421	5885111	-	4675.27272727273	hypothetical protein			K27_10.4.38
+NCU04695	supercont10.6	415595	416452	+	4663.5625	methyltransferase-UbiE family protein			K27_10.6.13
+NCU08790	supercont10.3	5115408	5116931	-	4646.04545454545	hypothetical protein			K27_10.3.36
+NCU11893	supercont10.3	4759637	4760743	+	4614.22222222222	hypothetical protein			K27_10.3.29
+NCU09275	supercont10.7	4143887	4144719	+	4612.5625	hypothetical protein			K27_10.7.28
+NCU05059	supercont10.6	3889494	3891758	+	4607.06666666667	monooxygenase			K27_10.6.29
+NCU09584	supercont10.7	3332511	3333278	+	4602.57142857143	hypothetical protein			K27_10.7.17
+NCU04700	supercont10.6	428256	428707	+	4599.41666666667	hypothetical protein			K27_10.6.13
+NCU08207	supercont10.3	4640146	4641315	+	4592.8947368421	hypothetical protein			K27_10.3.27
+NCU07139	supercont10.6	15087	17917	+	4589.38888888889	hypothetical protein			K27_10.6.1
+NCU09587	supercont10.7	3338540	3339415	+	4581	hypothetical protein			K27_10.7.17
+NCU04871	supercont10.4	562857	569177	-	4579.97142857143	hypothetical protein			K27_10.4.15
+NCU09645	supercont10.4	55579	56712	+	4577.52631578947	hypothetical protein			K27_10.4.2
+NCU11905	supercont10.3	5228166	5229513	-	4569.52380952381	hypothetical protein			K27_10.3.40
+NCU02856	supercont10.1	8899463	8900724	-	4568.05	hypothetical protein			K27_10.1.16
+NCU08113	supercont10.1	314121	315177	+	4549.52941176471	hypothetical protein			K27_10.1.9
+NCU09453	supercont10.7	4004076	4004535	+	4521.66666666667	hypothetical protein			K27_10.7.26
+NCU04697	supercont10.6	421150	422696	+	4518.72727272727	cyanide hydratase	"GO:0030196	GO:0030196"	"cyanide hydratase activity	cyanide hydratase activity"	K27_10.6.13
+NCU10040	supercont10.4	5939026	5940994	+	4504.42307692308	hypothetical protein			K27_10.4.42
+NCU11433	supercont10.1	246887	247478	-	4503.76923076923	hypothetical protein			K27_10.1.7
+NCU07610	supercont10.4	249325	250762	+	4495.52380952381	taurine dioxygenase			K27_10.4.8
+NCU08538	supercont10.3	4993941	4995464	+	4479.95454545455	hypothetical protein			K27_10.3.32
+NCU10004	supercont10.3	341949	343583	-	4466.91304347826	hypothetical protein			K27_10.3.9
+NCU08765	supercont10.3	5226752	5227600	-	4433.5625	hypothetical protein			K27_10.3.40
+NCU05069	supercont10.6	3838513	3840460	+	4423.57692307692	FAD dependent oxidoreductase			K27_10.6.26
+NCU11833	supercont10.3	427351	428547	-	4398.15789473684	hypothetical protein			K27_10.3.12
+NCU04694	supercont10.6	410959	413229	-	4379.16666666667	hypothetical protein			K27_10.6.13
+NCU04937	supercont10.4	799072	800077	-	4376	hypothetical protein			K27_10.4.23
+NCU09855	supercont10.5	5968748	5969817	+	4363.22222222222	nicotianamine synthase	"GO:0030410	GO:0030410"	"nicotianamine synthase activity	nicotianamine synthase activity"	K27_10.5.14
+NCU09661	supercont10.4	103181	104712	-	4354.30434782609	hypothetical protein			K27_10.4.4
+NCU05866	supercont10.7	146565	148967	+	4353.51612903226	hypothetical protein			K27_10.7.5
+NCU04892	supercont10.4	649461	650096	-	4343.84615384615	hypothetical protein			K27_10.4.17
+NCU09150	supercont10.3	165973	167007	-	4340.05555555556	hypothetical protein			K27_10.3.4
+NCU05056	supercont10.6	3896137	3898073	-	4318.57692307692	hypothetical protein			K27_10.6.29
+NCU10644	supercont10.4	588839	589543	-	4315.21428571429	hypothetical protein			K27_10.4.16
+NCU08639	supercont10.1	9689585	9690543	-	4293.64705882353	hypothetical protein			K27_10.1.20
+NCU09274	supercont10.7	4138647	4140563	+	4276.69230769231	hypothetical protein			K27_10.7.28
+NCU09031	supercont10.7	3863441	3867738	+	4264.48	hypothetical protein			K27_10.7.22
+NCU06954	supercont10.7	3366616	3367368	-	4258.28571428571	hypothetical protein			K27_10.7.18
+NCU04852	supercont10.4	465928	470238	+	4245.68	hypothetical protein			K27_10.4.13
+NCU05919	supercont10.6	3472774	3474600	-	4232.96153846154	hypothetical protein			K27_10.6.19
+NCU11364	supercont10.4	193862	195389	-	4196.40909090909	ketoreductase			K27_10.4.6
+NCU08204	supercont10.3	4634182	4636013	-	4185.84615384615	hypothetical protein			K27_10.3.27
+NCU10766	supercont10.4	250914	251836	-	4183.8125	hypothetical protein			K27_10.4.8
+NCU10641	supercont10.3	5226072	5226802	+	4167.66666666667	hypothetical protein			K27_10.3.40
+NCU04861	supercont10.4	513043	515843	-	4163.91428571429	hypothetical protein			K27_10.4.14
+NCU07111	supercont10.6	140630	142099	+	4163.71428571429	metallo-beta-lactamase domain-containing protein			K27_10.6.7
+NCU09839	supercont10.5	577823	579025	-	4160.78947368421	hypothetical protein			K27_10.5.3
+NCU08114	supercont10.1	318873	321079	-	4158.55172413793	hexose transporter			K27_10.1.9
+NCU07231	supercont10.5	6166336	6168117	-	4150.28	hypothetical protein			K27_10.5.19
+NCU05084	supercont10.6	3797584	3798027	-	4149	hypothetical protein			K27_10.6.25
+NCU03476	supercont10.2	562861	563629	+	4135.93333333333	hypothetical protein			K27_10.2.11
+NCU11689	supercont10.5	6152168	6152889	+	4131.21428571429	hypothetical protein			K27_10.5.19
+NCU08541	supercont10.3	4987950	4988967	+	4119.41176470588	hypothetical protein			K27_10.3.32
+NCU08188	supercont10.7	577550	579075	-	4118.63636363636	hypothetical protein			K27_10.7.7
+NCU05070	supercont10.6	3836690	3837509	+	4107.9375	hypothetical protein			K27_10.6.26
+NCU08522	supercont10.3	5058175	5059242	+	4107	hypothetical protein			K27_10.3.34
+NCU08109	supercont10.1	302353	303729	+	4097.19047619048	hypothetical protein			K27_10.1.8
+NCU09836	supercont10.5	567157	568335	-	4087.26315789474	hypothetical protein			K27_10.5.3
+NCU09955	supercont10.5	6038404	6040286	+	4077.44	hypothetical protein			K27_10.5.15
+NCU06896	supercont10.7	3559198	3560139	+	4074.29411764706	hypothetical protein			K27_10.7.19
+NCU06901	supercont10.7	3544862	3545560	-	4068.78571428571	hypothetical protein			K27_10.7.19
+NCU03475	supercont10.2	564403	565440	+	4064.41176470588	hemolysin			K27_10.2.11
+NCU07083	supercont10.6	215487	217229	-	4060.64	hypothetical protein			K27_10.6.8
+NCU10936	supercont10.4	253084	254341	-	4056.4	hypothetical protein			K27_10.4.8
+NCU04690	supercont10.6	393709	394804	-	4032.77777777778	hypothetical protein			K27_10.6.12
+NCU07208	supercont10.5	6237807	6238634	-	4032.33333333333	hypothetical protein			K27_10.5.20
+NCU05466	supercont10.2	1680517	1682564	+	4030.11111111111	hypothetical protein			K27_10.2.14
+NCU09278	supercont10.7	4148549	4149493	-	4026.75	oxidoreductase			K27_10.7.28
+NCU10502	supercont10.4	591011	591907	+	4025.1875	hypothetical protein			K27_10.4.16
+NCU04884	supercont10.4	622049	623387	-	4007.8	alpha/beta hydrolase fold protein			K27_10.4.16
+NCU05171	supercont10.4	5887564	5888184	+	4003.23076923077	hypothetical protein			K27_10.4.38
+NCU08076	supercont10.1	186098	187966	+	3998.80769230769	TPR domain-containing protein			K27_10.1.5
+NCU03582	supercont10.2	147607	148334	-	3969.57142857143	hypothetical protein			K27_10.2.6
+NCU04701	supercont10.6	429844	431472	+	3965.39130434783	hypothetical protein			K27_10.6.13
+NCU05467	supercont10.2	1683362	1684546	-	3961.94736842105	hypothetical protein			K27_10.2.14
+NCU04881	supercont10.4	611674	615594	+	3959.86956521739	hypothetical protein			K27_10.4.16
+NCU08558	supercont10.3	4927313	4929808	+	3950.28125	hypothetical protein			K27_10.3.31
+NCU05018	supercont10.6	4056038	4057091	-	3948.70588235294	hypothetical protein			K27_10.6.31
+NCU09834	supercont10.5	560619	561578	-	3944.375	hypothetical protein			K27_10.5.3
+NCU05170	supercont10.4	5889442	5889843	-	3935.90909090909	hypothetical protein			K27_10.4.38
+NCU04996	supercont10.6	4149049	4149905	-	3934.75	hypothetical protein			K27_10.6.33
+NCU08542	supercont10.3	4983189	4984971	-	3933.96	hypothetical protein			K27_10.3.32
+NCU09148	supercont10.3	159465	161404	-	3922.55555555556	hypothetical protein			K27_10.3.4
+NCU09339	supercont10.2	4164714	4165274	-	3916.33333333333	hypothetical protein			K27_10.2.21
+NCU07076	supercont10.6	238339	241210	+	3894.41666666667	"endo-1	3-beta-glucanase"			K27_10.6.9
+NCU07110	supercont10.6	142177	144091	-	3871.92307692308	hypothetical protein			K27_10.6.7
+NCU09954	supercont10.5	6035121	6038202	+	3851.10526315789	hypothetical protein			K27_10.5.15
+NCU09277	supercont10.7	4147908	4148397	+	3835.54545454545	hypothetical protein			K27_10.7.28
+NCU05074	supercont10.6	3825671	3827131	+	3833.09090909091	hypothetical protein			K27_10.6.26
+NCU08780	supercont10.3	5145733	5146613	+	3828.125	hypothetical protein			K27_10.3.38
+NCU09149	supercont10.3	163883	164706	+	3809.25	hypothetical protein			K27_10.3.4
+NCU09494	supercont10.2	4466318	4468439	+	3809.03571428571	hypothetical protein			K27_10.2.23
+NCU05677	supercont10.3	456205	456978	-	3806.35714285714	hypothetical protein			K27_10.3.13
+NCU09964	supercont10.5	6058227	6058877	+	3805.38461538462	hypothetical protein			K27_10.5.15
+NCU05908	supercont10.6	3500912	3503078	-	3797.07142857143	hypothetical protein			K27_10.6.20
+NCU05886	supercont10.7	87361	89072	-	3791.625	DUF895 domain membrane protein			K27_10.7.4
+NCU10538	supercont10.7	3939172	3941019	+	3789.69230769231	hypothetical protein			K27_10.7.25
+NCU05057	supercont10.6	3894456	3895844	+	3779.71428571429	endoglucanase EG-1			K27_10.6.29
+NCU05113	supercont10.6	3705758	3707941	-	3769.34482758621	laccase precursor			K27_10.6.24
+NCU10783	supercont10.4	5207835	5208918	+	3767.94444444444	hypothetical protein			K27_10.4.32
+NCU09293	supercont10.7	4202943	4204103	+	3765.15789473684	hypothetical protein			K27_10.7.30
+NCU05920	supercont10.6	3470245	3471488	+	3757.94736842105	hypothetical protein			K27_10.6.19
+NCU08549	supercont10.3	4961444	4962860	-	3757.52380952381	UDP-galactose 4-epimerase	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.3.32
+NCU09026	supercont10.7	3883193	3885158	+	3756.77777777778	feruloyl esterase B			K27_10.7.23
+NCU06885	supercont10.7	3593110	3593942	+	3755.4	hypothetical protein			K27_10.7.20
+NCU08813	supercont10.4	5152832	5154699	-	3725.16	hypothetical protein			K27_10.4.31
+NCU12088	supercont10.7	4013426	4013797	+	3696.8	hypothetical protein			K27_10.7.26
+NCU12116	supercont10.6	483099	483853	-	3692.26666666667	hypothetical protein			K27_10.6.14
+NCU09958	supercont10.5	6047123	6049161	-	3673.11111111111	hypothetical protein			K27_10.5.15
+NCU05102	supercont10.6	3736512	3737840	+	3671.5	hypothetical protein			K27_10.6.24
+NCU09621	supercont10.2	36469	38188	-	3646.625	guanine deaminase			K27_10.2.2
+NCU09279	supercont10.7	4150088	4152216	-	3638.34482758621	laccase			K27_10.7.28
+NCU08641	supercont10.1	9695169	9697399	+	3635.37931034483	hypothetical protein			K27_10.1.20
+NCU11901	supercont10.3	4963608	4964423	+	3633.66666666667	hypothetical protein			K27_10.3.32
+NCU08225	supercont10.3	4688146	4690158	+	3629.18518518519	high affinity nickel transporter nic1	"GO:0034254	GO:0005783	GO:0034254	GO:0005887	GO:0015675	GO:0015675	GO:0005783	GO:0005783	GO:0005887	GO:0015675	GO:0015099	GO:0015675	GO:0015099	GO:0005887	GO:0034254	GO:0015675	GO:0005783	GO:0034254	GO:0005887	GO:0015099	GO:0015099	GO:0005783	GO:0034254	GO:0005887	GO:0034254	GO:0015675	GO:0015099	GO:0005887	GO:0015099	GO:0005783"	"regulation of urea catabolic process	endoplasmic reticulum	regulation of urea catabolic process	integral to plasma membrane	nickel ion transport	nickel ion transport	endoplasmic reticulum	endoplasmic reticulum	integral to plasma membrane	nickel ion transport	nickel ion transmembrane transporter activity	nickel ion transport	nickel ion transmembrane transporter activity	integral to plasma membrane	regulation of urea catabolic process	nickel ion transport	endoplasmic reticulum	regulation of urea catabolic process	integral to plasma membrane	nickel ion transmembrane transporter activity	nickel ion transmembrane transporter activity	endoplasmic reticulum	regulation of urea catabolic process	integral to plasma membrane	regulation of urea catabolic process	nickel ion transport	nickel ion transmembrane transporter activity	integral to plasma membrane	nickel ion transmembrane transporter activity	endoplasmic reticulum"	K27_10.3.28
+NCU05078	supercont10.6	3817182	3818370	-	3620.42105263158	protein-beta-aspartate methyltransferase			K27_10.6.25
+NCU04914	supercont10.4	716424	717544	+	3612.88888888889	hypothetical protein			K27_10.4.20
+NCU12071	supercont10.7	3325219	3325613	-	3607.45454545455	hypothetical protein			K27_10.7.17
+NCU08079	supercont10.1	193144	194064	-	3603.75	hypothetical protein			K27_10.1.5
+NCU11915	supercont10.2	568990	570312	-	3603.19047619048	hypothetical protein			K27_10.2.11
+NCU09182	supercont10.3	276773	277640	+	3599	stress responsive A/B barrel domain-containing protein			K27_10.3.7
+NCU09593	supercont10.2	107020	108114	+	3584.66666666667	hypothetical protein			K27_10.2.5
+NCU09455	supercont10.7	3999175	4000100	-	3582.17647058824	hypothetical protein			K27_10.7.26
+NCU07140	supercont10.6	9191	11740	+	3582	allantoate transporter			K27_10.6.1
+NCU07116	supercont10.6	121813	128184	-	3579.78571428571	hypothetical protein			K27_10.6.6
+NCU09641	supercont10.4	29178	31245	+	3559.85714285714	hypothetical protein			K27_10.4.1
+NCU07653	supercont10.4	413469	413878	+	3555.81818181818	hypothetical protein			K27_10.4.12
+NCU08206	supercont10.3	4638295	4639296	-	3554.29411764706	hypothetical protein			K27_10.3.27
+NCU11700	supercont10.4	104844	106043	+	3538.63157894737	hypothetical protein			K27_10.4.4
+NCU08200	supercont10.3	4626605	4626922	-	3532.2	hypothetical protein			K27_10.3.27
+NCU09613	supercont10.2	51959	53778	+	3531.52	hypothetical protein			K27_10.2.3
+NCU11825	supercont10.4	5937270	5937632	-	3508	hypothetical protein			K27_10.4.42
+NCU06165	supercont10.7	2666496	2668745	-	3507.43333333333	hypothetical protein			K27_10.7.11
+NCU07652	supercont10.4	410280	412264	+	3505.25925925926	hypothetical protein			K27_10.4.12
+NCU07142	supercont10.6	3549	4482	+	3490.0625	hypothetical protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.6.1
+NCU09856	supercont10.5	5971339	5974961	-	3486.09302325581	hypothetical protein			K27_10.5.14
+NCU06903	supercont10.7	3538164	3539258	-	3477.11111111111	hypothetical protein			K27_10.7.19
+NCU11705	supercont10.4	221211	223907	+	3470	potassium ion channel Yvc1			K27_10.4.7
+NCU07102	supercont10.6	166532	167416	-	3467.125	hypothetical protein			K27_10.6.7
+NCU06905	supercont10.7	3534148	3535326	+	3461.84210526316	tetrahydroxynaphthalene reductase			K27_10.7.19
+NCU04901	supercont10.4	675514	676354	-	3456.8	hypothetical protein			K27_10.4.18
+NCU05699	supercont10.3	555279	557222	+	3454.59259259259	hypothetical protein			K27_10.3.14
+NCU05094	supercont10.6	3758496	3759821	+	3450	short chain dehydrogenase/reductase			K27_10.6.24
+NCU12111	supercont10.6	408408	409970	+	3450	hypothetical protein			K27_10.6.13
+NCU05058	supercont10.6	3893058	3894043	+	3442.82352941176	hypothetical protein			K27_10.6.29
+NCU09605	supercont10.2	70445	71887	+	3429.28571428571	hypothetical protein			K27_10.2.4
+NCU11697	supercont10.5	6409853	6410734	-	3392.875	hypothetical protein			K27_10.5.23
+NCU05918	supercont10.6	3477014	3478993	+	3387.03846153846	hypothetical protein			K27_10.6.19
+NCU05176	supercont10.4	5868124	5869470	+	3374.4	hypothetical protein			K27_10.4.37
+NCU08530	supercont10.3	5032588	5033465	-	3374.125	hypothetical protein			K27_10.3.33
+NCU04887	supercont10.4	636408	638473	-	3366.88888888889	hypothetical protein			K27_10.4.17
+NCU07138	supercont10.6	20658	21842	+	3362.63157894737	hypothetical protein			K27_10.6.1
+NCU11712	supercont10.4	697973	699061	-	3362.61111111111	hypothetical protein			K27_10.4.19
+NCU08834	supercont10.4	5083594	5084985	+	3360.7619047619	hypothetical protein			K27_10.4.29
+NCU09939	supercont10.4	5250089	5250952	-	3358	hypothetical protein			K27_10.4.33
+NCU07207	supercont10.5	6239638	6241091	-	3353.14285714286	hypothetical protein			K27_10.5.20
+NCU07597	supercont10.4	190133	191444	-	3334.6	hypothetical protein			K27_10.4.6
+NCU11292	supercont10.3	5270057	5270842	-	3332	hypothetical protein			K27_10.3.41
+NCU05160	supercont10.4	5912162	5913850	+	3314.625	ATP-dependent Zn protease			K27_10.4.40
+NCU08089	supercont10.1	224662	224874	+	3308.88888888889	hypothetical protein			K27_10.1.6
+NCU04862	supercont10.4	518305	519677	-	3308.5	hypothetical protein			K27_10.4.14
+NCU07077	supercont10.6	233093	236210	+	3305.74358974359	hypothetical protein			K27_10.6.9
+NCU05165	supercont10.4	5903524	5904705	+	3286.84210526316	pyridoxamine phosphate oxidase			K27_10.4.39
+NCU09431	supercont10.7	4097101	4098128	+	3285.61111111111	hypothetical protein			K27_10.7.27
+NCU09603	supercont10.2	76425	78257	+	3268.92	hypothetical protein			K27_10.2.4
+NCU04876	supercont10.4	582996	583373	+	3267.81818181818	hypothetical protein			K27_10.4.16
+NCU05888	supercont10.7	82404	84153	-	3255.08333333333	dibenzothiophene desulfurization enzyme A			K27_10.7.4
+NCU08570	supercont10.3	4873986	4874990	+	3250	hypothetical protein			K27_10.3.30
+NCU09612	supercont10.2	56204	56983	+	3236	hypothetical protein			K27_10.2.3
+NCU07108	supercont10.6	148386	149547	+	3232.26315789474	hypothetical protein			K27_10.6.7
+NCU11365	supercont10.4	192350	193975	+	3232.17391304348	aminotransferase			K27_10.4.6
+NCU06888	supercont10.7	3587650	3588721	+	3230.33333333333	hypothetical protein			K27_10.7.20
+NCU05900	supercont10.7	33615	35109	-	3224.54545454545	hypothetical protein			K27_10.7.2
+NCU05921	supercont10.6	3467021	3468410	-	3215.61904761905	hypothetical protein			K27_10.6.19
+NCU11830	supercont10.3	266740	267175	+	3184.18181818182	hypothetical protein			K27_10.3.7
+NCU04691	supercont10.6	396058	397946	+	3178.73076923077	"alpha-1	3-glucanase"			K27_10.6.12
+NCU05157	supercont10.6	3543102	3544913	+	3172.44	cation diffusion facilitator 10			K27_10.6.21
+NCU09578	supercont10.7	3310850	3311525	+	3160.42857142857	hypothetical protein			K27_10.7.16
+NCU09663	supercont10.4	107292	108820	+	3158.65217391304	Axe2			K27_10.4.4
+NCU11699	supercont10.4	69650	71006	-	3156.28571428571	hypothetical protein			K27_10.4.3
+NCU11909	supercont10.2	30405	33086	+	3155.09090909091	hypothetical protein			K27_10.2.2
+NCU02867	supercont10.1	8866490	8867649	-	3138.63157894737	hypothetical protein			K27_10.1.15
+NCU06160	supercont10.7	2656620	2657315	-	3106.14285714286	hypothetical protein			K27_10.7.11
+NCU09452	supercont10.7	4012028	4012834	+	3077.4	hypothetical protein			K27_10.7.26
+NCU07101	supercont10.6	167970	168530	-	3067.61538461538	lipase			K27_10.6.7
+NCU04920	supercont10.4	736339	738704	+	3065.48387096774	hypothetical protein			K27_10.4.20
+NCU07088	supercont10.6	202294	202718	+	3064.83333333333	hypothetical protein			K27_10.6.8
+NCU08770	supercont10.3	5203616	5204342	-	3062.92857142857	hypothetical protein			K27_10.3.39
+NCU11709	supercont10.4	597156	597810	-	3052.64285714286	hypothetical protein			K27_10.4.16
+NCU07082	supercont10.6	218498	221561	-	3025.23684210526	aspartyl-tRNA synthetase	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.6.8
+NCU07221	supercont10.5	6207873	6211629	+	3022.33333333333	two-component system protein A	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.5.20
+NCU09988	supercont10.7	3935746	3938464	+	3012.94117647059	hypothetical protein			K27_10.7.25
+NCU05769	supercont10.7	492061	492768	+	3006.28571428571	hypothetical protein			K27_10.7.6
+NCU10539	supercont10.7	3941739	3943068	+	2997.45	hypothetical protein			K27_10.7.25
+NCU12085	supercont10.7	3946754	3947737	+	2992.23529411765	hypothetical protein			K27_10.7.25
+NCU05470	supercont10.2	1688554	1689417	-	2981.25	hypothetical protein			K27_10.2.14
+NCU08789	supercont10.3	5119161	5119898	+	2980.35714285714	hypothetical protein			K27_10.3.36
+NCU05899	supercont10.7	36560	38546	+	2970.25925925926	flotillin domain-containing protein			K27_10.7.2
+NCU12052	supercont10.7	2658963	2659851	+	2963.5625	hypothetical protein			K27_10.7.11
+NCU07618	supercont10.4	277965	283821	-	2963.31818181818	hypothetical protein			K27_10.4.9
+NCU09046	supercont10.7	3817318	3818498	+	2960.22222222222	hypothetical protein			K27_10.7.21
+NCU11423	supercont10.7	4248554	4249711	+	2956.78947368421	hypothetical protein			K27_10.7.31
+NCU09520	supercont10.3	23479	28850	+	2920.19672131148	hypothetical protein			K27_10.3.2
+NCU11891	supercont10.3	4570996	4572273	+	2902.25	hypothetical protein			K27_10.3.25
+NCU07136	supercont10.6	29375	30141	+	2884.73333333333	hypothetical protein			K27_10.6.1
+NCU04851	supercont10.4	460214	464275	+	2864.21276595745	hypothetical protein			K27_10.4.13
+NCU04713	supercont10.6	484837	487170	+	2855.53333333333	hypothetical protein			K27_10.6.14
+NCU05095	supercont10.6	3754654	3756857	-	2855.13793103448	phenylalanyl-tRNA synthetase subunit alpha	"GO:0004826	GO:0009328	GO:0009328	GO:0004826	GO:0005737	GO:0005737	GO:0004826	GO:0009328	GO:0004826	GO:0005737	GO:0005737	GO:0009328"	"phenylalanine-tRNA ligase activity	phenylalanine-tRNA ligase complex	phenylalanine-tRNA ligase complex	phenylalanine-tRNA ligase activity	cytoplasm	cytoplasm	phenylalanine-tRNA ligase activity	phenylalanine-tRNA ligase complex	phenylalanine-tRNA ligase activity	cytoplasm	cytoplasm	phenylalanine-tRNA ligase complex"	K27_10.6.24
+NCU08199	supercont10.3	4624414	4626045	+	2839.91304347826	6-hydroxy-D-nicotine oxidase			K27_10.3.27
+NCU11708	supercont10.4	476174	477007	-	2832.625	hypothetical protein			K27_10.4.13
+NCU08099	supercont10.1	254975	255694	-	2827.64285714286	hypothetical protein			K27_10.1.7
+NCU09901	supercont10.1	3198	4838	+	2807.20833333333	hypothetical protein			K27_10.1.1
+NCU04699	supercont10.6	426297	427773	+	2806.90909090909	methylene-fatty-acyl-phospholipid synthase	"GO:0006656	GO:0005783	GO:0005739	GO:0005739	GO:0005783	GO:0006656	GO:0000773	GO:0005739	GO:0000773	GO:0006656	GO:0005739	GO:0005739	GO:0005783	GO:0000773	GO:0000773	GO:0006656	GO:0005783	GO:0005783	GO:0000773	GO:0006656"	"phosphatidylcholine biosynthetic process	endoplasmic reticulum	mitochondrion	mitochondrion	endoplasmic reticulum	phosphatidylcholine biosynthetic process	phosphatidyl-N-methylethanolamine N-methyltransferase activity	mitochondrion	phosphatidyl-N-methylethanolamine N-methyltransferase activity	phosphatidylcholine biosynthetic process	mitochondrion	mitochondrion	endoplasmic reticulum	phosphatidyl-N-methylethanolamine N-methyltransferase activity	phosphatidyl-N-methylethanolamine N-methyltransferase activity	phosphatidylcholine biosynthetic process	endoplasmic reticulum	endoplasmic reticulum	phosphatidyl-N-methylethanolamine N-methyltransferase activity	phosphatidylcholine biosynthetic process"	K27_10.6.13
+NCU05662	supercont10.3	401171	401661	+	2799.08333333333	hypothetical protein			K27_10.3.10
+NCU08543	supercont10.3	4980063	4982364	-	2759.83333333333	hypothetical protein			K27_10.3.32
+NCU05679	supercont10.3	460979	462154	-	2756.89473684211	hypothetical protein			K27_10.3.13
+NCU09904	supercont10.1	17890	19368	+	2741.45454545455	"glucan 1	3-beta-glucosidase"			K27_10.1.1
+NCU11824	supercont10.4	5913829	5914260	-	2721.27272727273	hypothetical protein			K27_10.4.40
+NCU04922	supercont10.4	742598	742930	+	2710.18181818182	hypothetical protein			K27_10.4.20
+NCU07510	supercont10.3	4577529	4578450	-	2709.375	hypothetical protein			K27_10.3.25
+NCU12054	supercont10.7	2662449	2663231	+	2679.53333333333	hypothetical protein			K27_10.7.11
+NCU08800	supercont10.4	5205406	5206008	-	2662.61538461538	hypothetical protein			K27_10.4.32
+NCU10697	supercont10.6	3843562	3845163	+	2660.4347826087	hypothetical protein			K27_10.6.26
+NCU09652	supercont10.4	73571	75325	+	2656.72	beta-xylosidase			K27_10.4.3
+NCU11129	supercont10.4	633941	635731	+	2656.24	carboxypeptidase s			K27_10.4.17
+NCU09582	supercont10.7	3322117	3323079	-	2649.0625	chitin deacetylase			K27_10.7.17
+NCU08547	supercont10.3	4967092	4968477	-	2638.61904761905	hypothetical protein			K27_10.3.32
+NCU10572	supercont10.4	32137	33547	+	2606.52380952381	short chain oxidoreductase			K27_10.4.1
+NCU05068	supercont10.6	3840540	3842056	-	2600.40909090909	hypothetical protein			K27_10.6.26
+NCU07621	supercont10.4	296591	298327	-	2577.2	zinc-regulated transporter 1	"GO:0006830	GO:0000006	GO:0010043	GO:0040009	GO:0000006	GO:0006830	GO:0034224	GO:0006829	GO:0000006	GO:0006829	GO:0006829	GO:0000006	GO:0005887	GO:0048315	GO:0005887	GO:0000006	GO:0006830	GO:0005887	GO:0048315	GO:0048315	GO:0000006	GO:0040009	GO:0006829	GO:0034224	GO:0040009	GO:0010043	GO:0006830	GO:0000006	GO:0006830	GO:0010043	GO:0040009	GO:0034224	GO:0006829	GO:0048315	GO:0034224	GO:0006829	GO:0034224	GO:0010043	GO:0040009	GO:0005887	GO:0048315	GO:0006830	GO:0005887	GO:0010043	GO:0005887	GO:0006829	GO:0048315	GO:0048315	GO:0000006	GO:0006830	GO:0040009	GO:0006830	GO:0010043	GO:0005887	GO:0010043	GO:0010043	GO:0005887	GO:0005887	GO:0006830	GO:0000006	GO:0048315	GO:0048315	GO:0040009	GO:0040009	GO:0034224	GO:0010043	GO:0034224	GO:0040009	GO:0006829	GO:0006829	GO:0034224	GO:0034224"	"high-affinity zinc ion transport	high affinity zinc uptake transmembrane transporter activity	response to zinc ion	regulation of growth rate	high affinity zinc uptake transmembrane transporter activity	high-affinity zinc ion transport	cellular response to zinc ion starvation	zinc ion transport	high affinity zinc uptake transmembrane transporter activity	zinc ion transport	zinc ion transport	high affinity zinc uptake transmembrane transporter activity	integral to plasma membrane	conidium formation	integral to plasma membrane	high affinity zinc uptake transmembrane transporter activity	high-affinity zinc ion transport	integral to plasma membrane	conidium formation	conidium formation	high affinity zinc uptake transmembrane transporter activity	regulation of growth rate	zinc ion transport	cellular response to zinc ion starvation	regulation of growth rate	response to zinc ion	high-affinity zinc ion transport	high affinity zinc uptake transmembrane transporter activity	high-affinity zinc ion transport	response to zinc ion	regulation of growth rate	cellular response to zinc ion starvation	zinc ion transport	conidium formation	cellular response to zinc ion starvation	zinc ion transport	cellular response to zinc ion starvation	response to zinc ion	regulation of growth rate	integral to plasma membrane	conidium formation	high-affinity zinc ion transport	integral to plasma membrane	response to zinc ion	integral to plasma membrane	zinc ion transport	conidium formation	conidium formation	high affinity zinc uptake transmembrane transporter activity	high-affinity zinc ion transport	regulation of growth rate	high-affinity zinc ion transport	response to zinc ion	integral to plasma membrane	response to zinc ion	response to zinc ion	integral to plasma membrane	integral to plasma membrane	high-affinity zinc ion transport	high affinity zinc uptake transmembrane transporter activity	conidium formation	conidium formation	regulation of growth rate	regulation of growth rate	cellular response to zinc ion starvation	response to zinc ion	cellular response to zinc ion starvation	regulation of growth rate	zinc ion transport	zinc ion transport	cellular response to zinc ion starvation	cellular response to zinc ion starvation"	K27_10.4.10
+NCU07054	supercont10.6	346218	348122	+	2567.65384615385	sugar transporter 4			K27_10.6.11
+NCU08835	supercont10.4	5080650	5082706	+	2566.07142857143	hypothetical protein			K27_10.4.29
+NCU12055	supercont10.7	2664264	2666141	+	2554.61538461538	hypothetical protein			K27_10.7.11
+NCU04921	supercont10.4	739324	740928	-	2554.08695652174	DUF1295 domain-containing protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.4.20
+NCU08544	supercont10.3	4975489	4976633	-	2553.57894736842	hypothetical protein			K27_10.3.32
+NCU08907	supercont10.5	679160	680033	+	2551.8125	BYS1 domain-containing protein	"GO:0009277	GO:0009277	FAO:0000024	FAO:0000024	GO:0010034	GO:0010034	GO:0009277	FAO:0000024	FAO:0000024	GO:0009277	GO:0010034	GO:0010034"	"fungal-type cell wall	fungal-type cell wall	conidium	conidium	response to acetate	response to acetate	fungal-type cell wall	conidium	conidium	fungal-type cell wall	response to acetate	response to acetate"	K27_10.5.6
+NCU12100	supercont10.6	48620	49910	+	2550.9	hypothetical protein			K27_10.6.3
+NCU10055	supercont10.7	2936681	2938756	+	2550.10714285714	new eukaryotic opsin-1	"GO:0009416	GO:0016021	GO:0046148	FAO:0000024	GO:0005503	FAO:0000024	GO:0016021	FAO:0000024	GO:0016021	GO:0009416	GO:0009416	GO:0005503	GO:0046148	GO:0016021	GO:0046148	GO:0005503	FAO:0000024	GO:0005503	GO:0005503	GO:0016021	GO:0009416	FAO:0000024	GO:0046148	GO:0046148	GO:0009416	GO:0016021	GO:0009416	GO:0005503	FAO:0000024	GO:0046148"	"response to light stimulus	integral to membrane	pigment biosynthetic process	conidium	all-trans retinal binding	conidium	integral to membrane	conidium	integral to membrane	response to light stimulus	response to light stimulus	all-trans retinal binding	pigment biosynthetic process	integral to membrane	pigment biosynthetic process	all-trans retinal binding	conidium	all-trans retinal binding	all-trans retinal binding	integral to membrane	response to light stimulus	conidium	pigment biosynthetic process	pigment biosynthetic process	response to light stimulus	integral to membrane	response to light stimulus	all-trans retinal binding	conidium	pigment biosynthetic process"	K27_10.7.14
+NCU08764	supercont10.3	5229691	5230922	-	2544.6	hypothetical protein			K27_10.3.40
+NCU07232	supercont10.5	6162382	6163503	-	2540.42105263158	heat shock protein 30	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.5.19
+NCU05186	supercont10.4	5822204	5823145	+	2539.4375	hypothetical protein			K27_10.4.35
+NCU05922	supercont10.6	3465259	3467014	+	2528.52	hypothetical protein			K27_10.6.19
+NCU07124	supercont10.6	64566	66655	-	2513.57142857143	hypothetical protein			K27_10.6.4
+NCU08548	supercont10.3	4964708	4965894	-	2508.77777777778	hypothetical protein			K27_10.3.32
+NCU03581	supercont10.2	149767	150765	-	2497.17647058824	hypothetical protein			K27_10.2.6
+NCU09909	supercont10.1	45332	47865	-	2493.6875	urea active transporter	"GO:0005886	GO:0015840	GO:0015848	GO:0015204	GO:0015489	GO:0015606	GO:0005886	GO:0015489	GO:0015847	GO:0015204	GO:0015489	GO:0015847	GO:0015840	GO:0005886	GO:0015848	GO:0015847	GO:0015606	GO:0015204	GO:0015606	GO:0015606	GO:0015606	GO:0015489	GO:0015204	GO:0015847	GO:0015489	GO:0015848	GO:0015848	GO:0015848	GO:0015848	GO:0015840	GO:0015204	GO:0015840	GO:0005886	GO:0015847	GO:0015489	GO:0015847	GO:0015489	GO:0015606	GO:0015847	GO:0005886	GO:0015204	GO:0015840	GO:0015840	GO:0015848	GO:0015606	GO:0005886	GO:0015606	GO:0005886	GO:0015204	GO:0005886	GO:0015204	GO:0015840	GO:0015489	GO:0015840	GO:0015847	GO:0015848"	"plasma membrane	urea transport	spermidine transport	urea transmembrane transporter activity	putrescine transmembrane transporter activity	spermidine transmembrane transporter activity	plasma membrane	putrescine transmembrane transporter activity	putrescine transport	urea transmembrane transporter activity	putrescine transmembrane transporter activity	putrescine transport	urea transport	plasma membrane	spermidine transport	putrescine transport	spermidine transmembrane transporter activity	urea transmembrane transporter activity	spermidine transmembrane transporter activity	spermidine transmembrane transporter activity	spermidine transmembrane transporter activity	putrescine transmembrane transporter activity	urea transmembrane transporter activity	putrescine transport	putrescine transmembrane transporter activity	spermidine transport	spermidine transport	spermidine transport	spermidine transport	urea transport	urea transmembrane transporter activity	urea transport	plasma membrane	putrescine transport	putrescine transmembrane transporter activity	putrescine transport	putrescine transmembrane transporter activity	spermidine transmembrane transporter activity	putrescine transport	plasma membrane	urea transmembrane transporter activity	urea transport	urea transport	spermidine transport	spermidine transmembrane transporter activity	plasma membrane	spermidine transmembrane transporter activity	plasma membrane	urea transmembrane transporter activity	plasma membrane	urea transmembrane transporter activity	urea transport	putrescine transmembrane transporter activity	urea transport	putrescine transport	spermidine transport"	K27_10.1.2
+NCU09903	supercont10.1	9604	13334	+	2485.97727272727	elongation factor 3			K27_10.1.1
+NCU11818	supercont10.4	5829566	5831498	+	2480	hypothetical protein			K27_10.4.35
+NCU05048	supercont10.6	3922009	3924168	+	2468.64285714286	hypothetical protein			K27_10.6.30
+NCU08630	supercont10.1	9649955	9651390	-	2466.61904761905	hypothetical protein			K27_10.1.18
+NCU09913	supercont10.1	59148	60836	+	2450.83333333333	major royal jelly protein			K27_10.1.3
+NCU08885	supercont10.5	773459	774595	-	2428.16666666667	hypothetical protein			K27_10.5.7
+NCU08097	supercont10.1	249097	251944	-	2416.63888888889	"exo-beta-1	3-glucanase"			K27_10.1.7
+NCU12053	supercont10.7	2660212	2660883	+	2416.61538461538	hypothetical protein			K27_10.7.11
+NCU08642	supercont10.1	9701556	9704486	-	2408.13888888889	cyclic nucleotide-binding domain-containing protein			K27_10.1.20
+NCU07141	supercont10.6	4506	6178	-	2355.26086956522	hypothetical protein			K27_10.6.1
+NCU11939	supercont10.2	1693425	1694798	-	2349.9	hypothetical protein			K27_10.2.14
+NCU10836	supercont10.4	607050	610786	-	2345.47727272727	hypothetical protein			K27_10.4.16
+NCU12018	supercont10.7	603379	604596	+	2339.15789473684	hypothetical protein			K27_10.7.8
+NCU08812	supercont10.4	5155353	5157522	+	2328.27586206897	hypothetical protein			K27_10.4.31
+NCU07130	supercont10.6	47075	48564	-	2323.31818181818	"endo-beta-1	4-D-xylanase"			K27_10.6.3
+NCU08545	supercont10.3	4971191	4972890	-	2286.75	hypothetical protein			K27_10.3.32
+NCU09027	supercont10.7	3879701	3881617	+	2283.85185185185	MFS transporter			K27_10.7.23
+NCU08640	supercont10.1	9692170	9693340	-	2268.31578947368	hypothetical protein			K27_10.1.20
+NCU04698	supercont10.6	423734	425792	-	2248.96296296296	spermine/spermidine synthase			K27_10.6.13
+NCU04880	supercont10.4	601792	602859	-	2245.94444444444	hypothetical protein			K27_10.4.16
+NCU10537	supercont10.6	4151456	4152253	-	2245.66666666667	hypothetical protein			K27_10.6.33
+NCU07222	supercont10.5	6204324	6205847	+	2233.54545454545	hypothetical protein			K27_10.5.20
+NCU11943	supercont10.2	1708515	1708959	-	2222.81818181818	hypothetical protein			K27_10.2.15
+NCU02865	supercont10.1	8870094	8871308	-	2212.8	hypothetical protein			K27_10.1.15
+NCU02866	supercont10.1	8868382	8869135	-	2193.66666666667	hypothetical protein			K27_10.1.15
+NCU05669	supercont10.3	425598	426575	-	2180.05882352941	hypothetical protein			K27_10.3.12
+NCU04908	supercont10.4	699366	700415	-	2173.11111111111	hypothetical protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.4.19
+NCU05123	supercont10.6	3674983	3677124	-	2168.10344827586	capsule protein			K27_10.6.23
+NCU05479	supercont10.2	1705734	1707933	+	2165.03448275862	hypothetical protein			K27_10.2.15
+NCU07078	supercont10.6	231694	232742	+	2142.44444444444	hypothetical protein			K27_10.6.9
+NCU05049	supercont10.6	3917966	3919531	+	2138.60869565217	hypothetical protein			K27_10.6.30
+NCU04912	supercont10.4	712207	714030	-	2104.36	HET domain-containing protein			K27_10.4.20
+NCU06161	supercont10.7	2657855	2658701	+	2093.1875	hypothetical protein			K27_10.7.11
+NCU05472	supercont10.2	1690985	1691833	+	2089.3125	hypothetical protein			K27_10.2.14
+NCU09456	supercont10.7	3995898	3997560	+	2055.75	dimethylaniline monooxygenase			K27_10.7.26
+NCU12091	supercont10.7	4154811	4155586	+	2050.35714285714	hypothetical protein			K27_10.7.28
+NCU05923	supercont10.6	3461038	3464101	+	2048.73684210526	cellobiose dehydrogenase			K27_10.6.19
+NCU08432	supercont10.2	4048208	4048980	-	2047.5	hypothetical protein			K27_10.2.20
+NCU09990	supercont10.7	3943325	3945731	-	2046.06451612903	hypothetical protein			K27_10.7.25
+NCU05914	supercont10.6	3486320	3487348	+	2034.94117647059	hypothetical protein			K27_10.6.20
+NCU05131	supercont10.6	3646221	3647731	+	2014.54545454545	hypothetical protein			K27_10.6.22
+NCU05169	supercont10.4	5891820	5893430	-	2004.69565217391	catalase 2	"GO:0042538	GO:0009416	GO:0009416	GO:0042538	GO:0009408	GO:0009416	GO:0006970	GO:0006970	GO:0009408	GO:0006970	GO:0009408	GO:0042538	GO:0042538	GO:0009408	GO:0009408	GO:0042538	GO:0009416	GO:0006970	GO:0009416	GO:0006970"	"hyperosmotic salinity response	response to light stimulus	response to light stimulus	hyperosmotic salinity response	response to heat	response to light stimulus	response to osmotic stress	response to osmotic stress	response to heat	response to osmotic stress	response to heat	hyperosmotic salinity response	hyperosmotic salinity response	response to heat	response to heat	hyperosmotic salinity response	response to light stimulus	response to osmotic stress	response to light stimulus	response to osmotic stress"	K27_10.4.38
+NCU09651	supercont10.4	71005	73122	+	1991.10714285714	hypothetical protein			K27_10.4.3
+NCU09914	supercont10.1	62142	62950	+	1971.8	hypothetical protein			K27_10.1.3
+NCU12175	supercont10.6	3668608	3670355	-	1959.79166666667	hypothetical protein			K27_10.6.23
+NCU07233	supercont10.5	6160672	6161715	-	1930.16666666667	hypothetical protein			K27_10.5.19
+NCU09835	supercont10.5	564305	564806	-	1924.16666666667	hypothetical protein			K27_10.5.3
+NCU08187	supercont10.7	581173	581799	-	1922.30769230769	hypothetical protein			K27_10.7.7
+NCU05469	supercont10.2	1685914	1686735	+	1915.33333333333	hypothetical protein			K27_10.2.14
+NCU05164	supercont10.4	5904605	5905460	-	1907.73333333333	short chain dehydrogenase/reductase SDR			K27_10.4.39
+NCU08832	supercont10.4	5089750	5092199	+	1893.32258064516	hypothetical protein			K27_10.4.29
+NCU02864	supercont10.1	8872013	8872813	-	1871.86666666667	hypothetical protein			K27_10.1.15
+NCU11420	supercont10.7	4242084	4243714	-	1866.54166666667	WD repeat-containing protein			K27_10.7.31
+NCU09285	supercont10.7	4176547	4177929	+	1849.33333333333	zinc-containing alcohol dehydrogenase			K27_10.7.29
+NCU08074	supercont10.1	181223	181975	+	1847.92857142857	hypothetical protein			K27_10.1.5
+NCU08781	supercont10.3	5143944	5144505	+	1844.61538461538	hypothetical protein			K27_10.3.38
+NCU02857	supercont10.1	8895890	8897968	-	1843.57142857143	hypothetical protein			K27_10.1.16
+NCU12187	supercont10.6	4154030	4155400	+	1834.85714285714	leucine aminopeptidase 2			K27_10.6.33
+NCU08571	supercont10.3	4872420	4872943	-	1792	hypothetical protein			K27_10.3.30
+NCU12093	supercont10.7	4178043	4179664	-	1790.17391304348	oxidoreductase			K27_10.7.29
+NCU05185	supercont10.4	5824134	5827806	-	1785.38636363636	bifunctional P-450:NADPH-P450 reductase			K27_10.4.35
+NCU09280	supercont10.7	4155614	4157016	+	1770.52380952381	hypothetical protein			K27_10.7.28
+NCU08637	supercont10.1	9683036	9685219	-	1732.48275862069	hypothetical protein			K27_10.1.20
+NCU12174	supercont10.6	3667332	3668363	-	1724	hypothetical protein			K27_10.6.23
+NCU08557	supercont10.3	4932174	4932775	-	1697.76923076923	hypothetical protein			K27_10.3.31
+NCU04859	supercont10.4	498451	502502	+	1679.47916666667	Hst3p			K27_10.4.14
+NCU03472	supercont10.2	571136	571921	-	1506.8	hypothetical protein			K27_10.2.11
+NCU11900	supercont10.3	4923246	4925303	-	1474.92857142857	hypothetical protein			K27_10.3.31
+NCU08833	supercont10.4	5086127	5087106	+	1418	hypothetical protein			K27_10.4.29
+NCU07649	supercont10.4	399413	401172	-	1407.91666666667	integral membrane protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.4.12
+NCU09959	supercont10.5	6049654	6050526	-	1389	hypothetical protein			K27_10.5.15
+NCU04913	supercont10.4	714394	714843	-	1256.41666666667	hypothetical protein			K27_10.4.20
+NCU05915	supercont10.6	3483461	3484995	+	1222.45454545455	hypothetical protein			K27_10.6.20
+NCU11421	supercont10.7	4244191	4245872	+	1132.08333333333	hypothetical protein			K27_10.7.31
+NCU08098	supercont10.1	253478	254492	+	988.529411764706	hypothetical protein			K27_10.1.7
+NCU08224	supercont10.3	4686741	4687494	+	810	hypothetical protein	"GO:0009416	GO:0009416"	"response to light stimulus	response to light stimulus"	K27_10.3.28
+NCU12188	supercont10.6	4156628	4157329	+	284.428571428571	Na(+)/H(+) antiporter 1			K27_10.6.33
