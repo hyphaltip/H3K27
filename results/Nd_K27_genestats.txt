@@ -1,0 +1,6 @@
+ (Nc) 837 genes had no ortholog 162 K27 marked, 675 NOT K27 marked
+
+The breakdown of genes as K27 marks in:
+Nc	Nd	GENE COUNT
+yes	no	166
+yes	yes	439
