@@ -8,7 +8,7 @@ use List::Util qw(sum);
 my $genomesdir = 'genomes';
 my $rseg_genes = 'data/RSEGdomain_genes';
 
-my $profile_proteome = 'data/phylo_profile/neurospora_crassa_or74a_10.all_proteomes.FASTA.m9-profile.pergene.tab';
+my $profile_proteome = 'data/phylo_profile/neurospora_crassa_or74a_10.all_proteomes.FASTA.m9-profile.pergene.tab.gz';
 my $proteins = 'data/orthomcl/input/neurospora_crassa_or74a__finished__10_proteins.fasta';
 my $odir = 'results/phylo_by_clade';
 mkdir($odir);
@@ -137,7 +137,12 @@ my %rename = ('Neuro-Sord-anid' => 'Asco',
 
 
 my %pprof;
-open(my $prf => $profile_proteome) || die "$profile_proteome: $!";
+my $prf;
+if( $profile_proteome =~ /\.gz/ ) {
+ open($prf => "zcat $profile_proteome |") || die "$profile_proteome: $!";
+} else {
+ open($prf => $profile_proteome) || die "$profile_proteome: $!";
+}
 my $header1 = <$prf>;
 while(<$prf>) {
     my ($gene,$clade) = split;
