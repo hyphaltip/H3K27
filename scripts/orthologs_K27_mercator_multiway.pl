@@ -1,4 +1,4 @@
- #!/usr/bin/perl -w
+#!/usr/bin/perl -w
 use strict;
 use Getopt::Long;
 use File::Spec;
@@ -70,7 +70,7 @@ while(<$fh>) {
 }
 my %is_K27;
 for my $species ( keys %files ) {
-   open(my $fh => $files{$species}) || die $!;
+   open(my $fh => $files{$species}) || die $files{$species} . ": $!";
     my $header = <$fh>;
     while(<$fh>) {
 	chomp;	
@@ -91,8 +91,6 @@ open(my $ofh => ">K27_multigeneinfo.tab") || die $!;
 print $ofh join("\t", map { my $sp = $_; 
 			    map { sprintf("%s_%s",$_,$sp) }  qw(MRNA K27) }
 		$target,@others), "\n";
-# 
-#for my $gene (sort keys %{$is_K27{$target}} ){  # %genes) {
 my %all;
 for my $nm ( (keys %genes), (keys %{$is_K27{$target}}) ) {
     $all{$nm}++;
@@ -104,6 +102,7 @@ for my $gene (sort keys %all) {
     my @row = ( $gene,$is_K27_marked);
     
     my @K27_aggregate = ($is_K27_marked);
+    my %noorth;
     for my $other (@others) {
 	my $dat = $groups{$target}->{$other}->{$gene};
 	if( ! $dat ) {
@@ -113,7 +112,8 @@ for my $gene (sort keys %all) {
 	}
 	if($dat->{"STRAND_$other"} =~ /^NO_/) {
 	    warn "no $other ortholog for $gene K27 status: $is_K27_marked\n" if $debug;
-	    $counts{'no_ortholog'}->[$is_K27_marked eq 'yes' ? 0 : 1]++;
+	    $noorth{$other} = 1;
+	    #$counts{'no_ortholog'}->[$is_K27_marked eq 'yes' ? 0 : 1]++;
 	    # need to count these
 	    push @row, 'NONE', 'NA';
 	    next;
@@ -137,25 +137,17 @@ for my $gene (sort keys %all) {
 	}
 	push @K27_aggregate, join("-",sort keys %c); # summarize the patterns seen for this 1->n ortholog (most are 1->2 where gene is split in Nt or Nd
     }
+    if( (scalar keys %noorth) == scalar @others ) {
+	$counts{'no_ortholog'}->[$is_K27_marked eq 'yes' ? 0 : 1]++;
+    }
     print $ofh join("\t",@row),"\n";
     $counts{'K27'}->{join(",",@K27_aggregate)}++;    
 }
-
-# finish counting non-K27 marked target species genes to get the number of 
-# of the non-marked genes that also have orthologs
-#for my $other (@others ) {
-#    for my $gene ( keys %{$groups{$target}->{$other}}) {
-#	next if $is_K27{$target}->{$gene};
-#	my $dat = $groups{$target}->{$other}->{$gene};
-#	warn("here with $gene testing for no orthologs\n");
-#	$counts{'no_ortholog'}->[1]++ if $dat->{"STRAND_$other"} =~ /^NO_/;
-#    }    
-#}
     
 #1 are the no-ortholog ones more or less likely to be K27 marked?
-#printf $ofh_stat 
-#    " ($target) %d genes had no ortholog %d K27 marked, %d NOT K27 marked\n",
-#    sum (@{$counts{'no_ortholog'}}),@{$counts{'no_ortholog'}};
+printf $ofh_stat 
+    " ($target) %d genes had no ortholog %d K27 marked, %d NOT K27 marked\n",
+    sum (@{$counts{'no_ortholog'}}),@{$counts{'no_ortholog'}};
     
 my @patterns = keys %{$counts{'K27'}};
 printf $ofh_stat "\nThe breakdown of genes as K27 marks in:\n$target\t%s\tGENE COUNT\n",join("\t",@others);
