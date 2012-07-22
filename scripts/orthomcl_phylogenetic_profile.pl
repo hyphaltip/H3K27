@@ -3,6 +3,11 @@ use strict;
 use Getopt::Long;
 use File::Spec;
 
+# Author: Jason Stajich <jason.stajich@ucr.edu>
+# purpose:
+# summarize K27 marking by Phylogenetic clade. Also see if any Pfam or other domains correlate with these
+
+
 my $input;
 my $db;
 
