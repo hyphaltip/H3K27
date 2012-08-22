@@ -83,7 +83,7 @@ for my $species ( keys %files ) {
 }
 
 my $target = $ref;
-my (@others) = keys %other_groups;
+my (@others) = sort keys %other_groups;
 open(my $ofh_stat => ">K27_multigenestats.txt") || die $!;
 my %counts = ( 'no_ortholog' => [ 0, 0] );
     
@@ -115,7 +115,8 @@ for my $gene (sort keys %all) {
 	    $noorth{$other} = 1;
 	    #$counts{'no_ortholog'}->[$is_K27_marked eq 'yes' ? 0 : 1]++;
 	    # need to count these
-	    push @row, 'NONE', 'NA';
+	    push @row, 'NONE', 'NA';	    
+	    push @K27_aggregate, 'NONE';
 	    next;
 	}
 	
@@ -132,7 +133,8 @@ for my $gene (sort keys %all) {
 	    push @to_nms, $to_gene_nm;
 	}
 	push @row, join(",", @to_nms), join(",",@ortholog_K27_marked);
-	for my $r (@ortholog_K27_marked ) { # figure out the unique pattern of K27 for this sp, for single-copy it is just 1 value 'yes' or 'no'
+	for my $r (@ortholog_K27_marked ) { # figure out the unique pattern of K27 for this sp, 
+	                                    # for single-copy it is just 1 value 'yes' or 'no'
 	    $c{$r}++;
 	}
 	push @K27_aggregate, join("-",sort keys %c); # summarize the patterns seen for this 1->n ortholog (most are 1->2 where gene is split in Nt or Nd
