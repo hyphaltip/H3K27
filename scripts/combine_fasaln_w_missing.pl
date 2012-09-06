@@ -12,7 +12,7 @@ my $ext = 'fasaln.trim';
 my $dir;
 my $max = 100;
 my $GAP = '-';
-my %skip = ('amac' => 1, 'mcin' => 1,
+my %skip = ('amac' => 1, 'mcin' => 1, 'abra' => 1, 'snod' => 1, 'post_PC15' => 1, 'tmes' => 1, 'calb_sc5314' => 1, 'cgui' => 1, 'cglo' => 1, 'BdenJEL423' => 1,'pbla' => 1,
 	    'rgra' => 1, 'spun' => 1);
 GetOptions('d|dir:s'   => \$dir,
 	   'ext:s'     => \$ext,
