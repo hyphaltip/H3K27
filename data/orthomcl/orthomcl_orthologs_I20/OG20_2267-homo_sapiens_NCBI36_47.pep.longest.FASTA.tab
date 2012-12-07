@@ -1,0 +1,158 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02844.1 - 209 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB02844.1	hsap|hsap_ENST00000368881	48.07	181	77	17	1	179	89	254	1.9e-10	63.1
+abra|AB02844.1	hsap|hsap_ENST00000340582	46.41	181	80	17	1	179	574	739	3.4e-09	60.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g15070 Afu2g15070 A_fumigatus_Af293 AspGDID: COORDS:chr2:3981707-3982733(+) translated using codon table 1 (281 amino acids) - 280 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu2g15070	hsap|hsap_ENST00000368881	46.18	262	132	9	1	259	1	256	7.5e-31	131.3
+afum|Afu2g15070	hsap|hsap_ENST00000340582	44.31	246	129	8	2	245	487	726	3.5e-26	116.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_16790T0 | AMAG_16790 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 366 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_16790T0	hsap|hsap_ENST00000368881	48.10	395	158	47	1	366	1	377	2.8e-39	159.6
+amac|AMAG_16790T0	hsap|hsap_ENST00000340582	45.55	393	164	50	3	366	488	859	4.9e-34	143.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_07579T0 | ANID_07579 | Aspergillus nidulans FGSC A4 26S proteasome regulatory subunit S5 - 278 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_07579T0	hsap|hsap_ENST00000368881	46.52	273	132	14	1	271	1	261	2e-27	119.8
+anid|ANID_07579T0	hsap|hsap_ENST00000340582	43.12	269	139	14	2	268	487	743	5.4e-23	106.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_12408 | BC1G_12408 | Botrytis cinerea 26S proteasome regulatory subunit S5 - 295 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_12408	hsap|hsap_ENST00000368881	48.38	277	126	17	1	273	1	264	3.1e-39	159.2
+bcin|BC1T_12408	hsap|hsap_ENST00000340582	42.81	285	147	16	3	284	488	759	5.6e-34	142.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.4102 |  Candida Albicans sc5314 assembly 21 orf19.410 - 279 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.4102	hsap|hsap_ENST00000368881	49.26	272	124	14	1	270	1	260	1.4e-41	166.9
+calb_sc5314|orf19.4102	hsap|hsap_ENST00000340582	46.47	269	128	16	3	268	488	743	9.6e-36	148.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_01327 | PGUG_01327 | Candida guilliermondii hypothetical protei - 275 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_01327	hsap|hsap_ENST00000368881	50.37	268	124	9	1	266	1	261	5.5e-42	168.2
+cgui|PGUT_01327	hsap|hsap_ENST00000340582	46.92	260	129	9	3	260	488	740	2e-35	147.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_02361T0 | CIMG_02361 | Coccidioides immitis RS 26S proteasome regulatory subunit S5 - 290 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_02361T0	hsap|hsap_ENST00000368881	50.99	253	117	7	1	251	1	248	5.3e-39	158.4
+cimm_rs|CIMG_02361T0	hsap|hsap_ENST00000340582	48.41	252	123	7	2	251	487	733	1.8e-34	144.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00482T0 | CNAG_00482 | Cryptococcus neoformans grubii H99 26S proteasome regulatory subuni - 371 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_00482T0	hsap|hsap_ENST00000368881	38.64	339	183	25	1	325	1	328	1.4e-27	120.8
+cneo_h99|CNAG_00482T0	hsap|hsap_ENST00000340582	35.65	331	183	30	10	325	495	810	1.1e-22	105.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_157240|fgenesh1_kg.08_#_131_#_1489_1_CCIA - 363 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_157240|fgenesh1_kg.08_#_131_#_1489_1_CCIA	hsap|hsap_ENST00000368881	48.17	382	169	29	1	363	1	372	7.4e-48	188.1
+mcin|t_157240|fgenesh1_kg.08_#_131_#_1489_1_CCIA	hsap|hsap_ENST00000340582	46.77	372	168	30	10	363	495	854	2.6e-46	184.2
+mcin|t_157240|fgenesh1_kg.08_#_131_#_1489_1_CCIA	hsap|hsap_ENST00000274400	27.57	185	123	11	2	176	57	240	3.1e-05	46.6
+mcin|t_157240|fgenesh1_kg.08_#_131_#_1489_1_CCIA	hsap|hsap_ENST00000380729	26.85	149	105	4	2	147	57	204	4.6e-05	46.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04506T0 | MGG_04506 | Magnaporthe grisea (M. oryzae) 70-15 26S proteasome non-ATPase regulatory subunit  - 294 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_04506T0	hsap|hsap_ENST00000368881	46.82	267	128	14	1	264	1	256	1.2e-30	130.7
+mgri|MGG_04506T0	hsap|hsap_ENST00000340582	44.07	270	137	14	3	269	488	746	3.3e-27	120.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_70919|estExt_fgenesh1_kg.C_40078 - 326 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_70919|estExt_fgenesh1_kg.C_40078	hsap|hsap_ENST00000368881	38.23	327	171	31	1	324	1	299	7e-19	91.7
+mlar|t_70919|estExt_fgenesh1_kg.C_40078	hsap|hsap_ENST00000340582	37.46	331	168	39	2	324	482	781	2.7e-16	84.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU02982T0 | NCU02982 | Neurospora crassa OR74A (finished) 26S proteasome regulatory subunit S5 - 303 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU02982T0	hsap|hsap_ENST00000368881	47.99	273	124	18	1	270	1	258	9.2e-26	114.5
+ncra|NCU02982T0	hsap|hsap_ENST00000340582	42.27	291	143	25	3	282	488	764	2.1e-21	101.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_33851 - 290 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_33851	hsap|hsap_ENST00000368881	47.99	273	124	18	1	270	1	258	2.7e-27	119.5
+ndis|NEUDI1_33851	hsap|hsap_ENST00000340582	41.41	297	149	25	3	288	488	770	8.2e-23	105.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_090320 |  Neosartorya fischeri nul - 280 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_090320	hsap|hsap_ENST00000368881	46.18	262	132	9	1	259	1	256	4.2e-31	132.1
+nfis|NFIA_090320	hsap|hsap_ENST00000340582	44.31	246	129	8	2	245	487	726	2.3e-26	117.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_15958 - 290 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_15958	hsap|hsap_ENST00000368881	47.99	273	124	18	1	270	1	258	2.7e-27	119.5
+ntet|NEUTE1_15958	hsap|hsap_ENST00000340582	41.41	297	149	25	3	288	488	770	8.2e-23	105.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002556946.1| gi|255930779 Pc12g00420 [Penicillium chrysogenum Wisconsi - 277 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002556946.1|	hsap|hsap_ENST00000368881	46.32	272	133	13	1	270	1	261	1e-33	140.8
+pechr_54_1255|XP_002556946.1|	hsap|hsap_ENST00000340582	45.45	242	124	8	2	241	487	722	2.6e-28	124.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_9228|gw1.2.766.1 - 233 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_9228|gw1.2.766.1	hsap|hsap_ENST00000368881	48.75	240	107	16	1	233	1	231	1.8e-35	146.4
+rgra|t_9228|gw1.2.766.1	hsap|hsap_ENST00000340582	44.77	239	116	16	2	233	487	716	1.2e-30	131.5
+rgra|t_9228|gw1.2.766.1	hsap|hsap_ENST00000274400	22.36	161	121	4	8	165	63	222	0.00053	41.8
+rgra|t_9228|gw1.2.766.1	hsap|hsap_ENST00000380729	22.36	161	121	4	8	165	63	222	0.0008	41.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03332 | RO3G_03333 | Rhizopus oryzae hypothetical protei - 352 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_03332	hsap|hsap_ENST00000368881	46.77	387	160	46	1	352	1	376	7.2e-51	198.1
+rory|RO3T_03332	hsap|hsap_ENST00000340582	47.04	372	160	37	10	352	495	858	1.2e-42	171.9
+rory|RO3T_03332	hsap|hsap_ENST00000274400	27.33	150	103	6	2	147	57	204	0.00021	43.8
+rory|RO3T_03332	hsap|hsap_ENST00000380729	26.67	150	104	6	2	147	57	204	0.00031	43.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YHR200W RPN10 SGDID:S000001243, Chr VIII from 499079-499885, Verified ORF, "Non-ATPase base subunit of the 19S regulatory par - 268 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YHR200W	hsap|hsap_ENST00000368881	51.23	244	107	12	1	244	1	232	3.7e-28	122.3
+scer_s288c|YHR200W	hsap|hsap_ENST00000340582	46.56	247	120	12	3	249	488	722	1.4e-23	108.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15261 | SNOG_15261 | Stagonospora nodorum hypothetical protei - 296 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_15261	hsap|hsap_ENST00000368881	50.19	269	117	17	1	267	1	254	4.1e-27	118.9
+snod|SNOT_15261	hsap|hsap_ENST00000340582	49.59	246	108	16	10	253	495	726	2.4e-23	107.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC637_10c.1 | SPAC637_10c | Schizosaccharomyces pombe 972h- 19S proteasome regulatory subunit Rpn1 - 243 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC637_10c.1	hsap|hsap_ENST00000368881	46.89	241	118	10	1	233	1	239	3.1e-45	178.8
+spom|SPAC637_10c.1	hsap|hsap_ENST00000340582	43.85	244	124	13	1	233	483	724	2e-39	160.7
+spom|SPAC637_10c.1	hsap|hsap_ENST00000274400	20.43	186	134	14	2	174	57	241	0.00014	43.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03477T0 | SPPG_03477 | Spizellomyces punctatus DAOM BR117 26S proteasome non-ATPase regulatory subunit  - 356 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_03477T0	hsap|hsap_ENST00000368881	46.68	392	156	53	1	356	1	375	4.2e-55	212.2
+spun|SPPG_03477T0	hsap|hsap_ENST00000340582	42.06	378	192	27	3	356	488	862	6.6e-46	182.8
+spun|SPPG_03477T0	hsap|hsap_ENST00000274400	23.78	143	105	4	8	147	63	204	0.00044	42.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_4193|gw1.7.288.1 - 269 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_4193|gw1.7.288.1	hsap|hsap_ENST00000368881	44.24	278	108	47	1	269	1	240	3.6e-21	99.0
+sror|t_4193|gw1.7.288.1	hsap|hsap_ENST00000340582	41.52	277	115	47	2	269	487	725	5.6e-19	92.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_110611|estExt_fgenesh1_kg.C_20546 - 233 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_110611|estExt_fgenesh1_kg.C_20546	hsap|hsap_ENST00000368881	51.28	234	100	14	1	233	1	221	1.3e-30	130.2
+sthe|t_110611|estExt_fgenesh1_kg.C_20546	hsap|hsap_ENST00000340582	47.41	232	108	14	3	233	488	706	8.3e-26	115.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_70875|estExt_fgeneshTM_pm.C_10528 - 343 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_70875|estExt_fgeneshTM_pm.C_10528	hsap|hsap_ENST00000368881	39.30	341	164	43	1	337	1	302	3.3e-29	126.1
+tmes|t_70875|estExt_fgeneshTM_pm.C_10528	hsap|hsap_ENST00000340582	36.54	312	180	18	10	315	495	794	1.6e-24	111.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_65591|e_gw1.16.202.1 - 289 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_65591|e_gw1.16.202.1	hsap|hsap_ENST00000368881	48.11	291	127	24	1	289	1	269	1.8e-36	150.0
+tree|t_65591|e_gw1.16.202.1	hsap|hsap_ENST00000340582	44.98	289	132	27	3	289	488	751	3.7e-31	133.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_56372|estExt_Genewise1.C_14934 - 292 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_56372|estExt_Genewise1.C_14934	hsap|hsap_ENST00000368881	51.26	277	121	14	1	275	1	265	1.7e-39	160.0
+tter|t_56372|estExt_Genewise1.C_14934	hsap|hsap_ENST00000340582	47.35	264	125	14	3	264	488	739	2.4e-33	140.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um10153 probable 26S proteasome regulatory sub - 374 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um10153	hsap|hsap_ENST00000368881	45.13	339	162	24	1	331	1	323	2.8e-35	146.4
+umay|um10153	hsap|hsap_ENST00000340582	41.32	334	175	21	3	331	488	805	1.2e-29	128.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D03762gT0 gene=YALI0D03762g Ylip_CLIB122_chrD:complement(join(477071..477899,477949 - 284 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0D03762gT0	hsap|hsap_ENST00000368881	53.47	245	101	13	1	243	1	234	3e-37	152.5
+ylip|YALI0D03762gT0	hsap|hsap_ENST00000340582	48.78	246	113	13	3	246	488	722	2.9e-32	137.2

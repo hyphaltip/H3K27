@@ -1,0 +1,114 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB00134.1 - 298 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB00134.1	mbre|t_27254	30.56	144	87	13	161	294	117	257	1.5e-07	53.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu5g05820 Afu5g05820 A_fumigatus_Af293 AspGDID: COORDS:chr5:1354019-1354916(-) translated using codon table 1 (264 amino acids) - 263 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_14833T0 | AMAG_14833 | Allomyces macrogynus ATCC 38327 predicted protei - 394 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_08843T0 | ANID_08843 | Aspergillus nidulans FGSC A4 homoserine kinas - 355 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_08843T0	mbre|t_27254	33.02	106	64	7	213	316	170	270	7.5e-07	51.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_00843 | BC1G_00843 | Botrytis cinerea homoserine kinas - 349 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.923 |  Candida Albicans sc5314 assembly 21 orf19.92 - 357 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03416 | PGUG_03416 | Candida guilliermondii hypothetical protei - 350 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_04090T0 | CIMG_04090 | Coccidioides immitis RS homoserine kinas - 352 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_04090T0	mbre|t_27254	26.54	211	131	24	154	349	120	321	3.6e-07	53.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04156T0 | CNAG_04156 | Cryptococcus neoformans grubii H99 homoserine kinas - 357 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_04156T0	mbre|t_27254	34.26	108	60	11	211	314	170	270	3.9e-06	49.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_108030|Genemark1.3793_g - 344 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_108030|Genemark1.3793_g	mbre|t_27254	33.02	106	64	7	200	303	170	270	2.1e-07	53.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_09550T0 | MGG_09550 | Magnaporthe grisea (M. oryzae) 70-15 homoserine kinas - 356 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_09550T0	mbre|t_27254	27.64	199	119	25	172	354	132	321	1.6e-06	50.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_94527|EuGene.00060187 - 367 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_94527|EuGene.00060187	mbre|t_27254	26.32	247	150	32	77	316	52	273	3.8e-09	59.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU04277T0 | NCU04277 | Neurospora crassa OR74A (finished) homoserine kinas - 358 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU04277T0	mbre|t_27254	28.92	166	106	12	171	333	129	285	7.1e-06	48.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_90525 - 358 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_90525	mbre|t_27254	30.72	153	91	15	171	319	129	270	5.2e-06	49.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_037310 |  Neosartorya fischeri nul - 355 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_037310	mbre|t_27254	27.56	156	93	20	213	353	170	320	4e-07	52.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_127198 - 358 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_127198	mbre|t_27254	28.92	166	106	12	171	333	129	285	7.2e-06	48.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562648.1| gi|255943761 Pc20g00870 [Penicillium chrysogenum Wisconsi - 353 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002562648.1|	mbre|t_27254	30.77	156	88	20	210	350	170	320	7.2e-08	55.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_54160|estExt_Genemark1.C_80196 - 378 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_54160|estExt_Genemark1.C_80196	mbre|t_27254	29.71	138	90	7	223	358	173	305	1.5e-05	47.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_11042 | RO3G_11043 | Rhizopus oryzae hypothetical protei - 618 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_11042	mbre|t_27254	30.25	119	79	4	204	321	170	285	2.1e-06	51.2
+rory|RO3T_11042	mbre|t_34072	23.24	284	194	24	330	598	727	1001	0.0009	43.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YHR025W THR1 SGDID:S000001067, Chr VIII from 159431-160504, Verified ORF, "Homoserine kinase, conserved protein required for  - 357 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_09889 | SNOG_09889 | Stagonospora nodorum hypothetical protei - 764 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_09889	mbre|t_21490	48.24	369	182	9	397	762	372	734	2.5e-72	270.5
+snod|SNOT_09889	mbre|t_27254	32.95	176	101	17	215	379	117	286	2.2e-10	64.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC4C3_03.1 | SPBC4C3_03 | Schizosaccharomyces pombe 972h- homoserine kinase (predicted - 338 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPBC4C3_03.1	mbre|t_27254	28.22	163	95	22	189	335	164	320	1.4e-07	54.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00496T0 | SPPG_00496 | Spizellomyces punctatus DAOM BR117 homoserine kinas - 355 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_00496T0	mbre|t_27254	31.71	123	76	8	199	318	164	281	9.3e-07	51.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_13183|e_gw1.5.445.1 - 351 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_13183|e_gw1.5.445.1	mbre|t_27254	35.92	103	59	7	210	310	173	270	9.9e-05	44.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_64817|estExt_Genewise1.C_30576 - 357 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_64817|estExt_Genewise1.C_30576	mbre|t_27254	27.57	214	134	21	115	321	74	273	9.4e-07	51.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_72180|estExt_fgeneshTM_pm.C_100113 - 399 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_82667|estExt_GeneWisePlus.C_540010 - 359 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_82667|estExt_GeneWisePlus.C_540010	mbre|t_27254	28.43	197	126	15	158	352	120	303	7.5e-09	58.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_154996|genemark.3914_g - 358 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_154996|genemark.3914_g	mbre|t_27254	26.36	258	163	27	116	356	74	321	1e-07	54.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um10985 probable THR1 - homoserine kinase - 356 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um10985	mbre|t_27254	28.97	145	95	8	211	354	170	307	3.8e-07	52.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0F13453gT0 gene=YALI0F13453g Ylip_CLIB122_chrF:180119 - 354 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa

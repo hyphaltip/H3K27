@@ -1,0 +1,148 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02075.1 - 1977 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB02075.1	hsap|hsap_ENST00000341068	31.57	1058	620	104	856	1852	694	1708	9.1e-42	172.7
+abra|AB02075.1	hsap|hsap_ENST00000377273	44.59	157	80	7	1699	1852	1	153	9.5e-21	100.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g05950 Afu3g05950 A_fumigatus_Af293 AspGDID: COORDS:chr3:1453727-1459969(-) translated using codon table 1 (2081 amino acids - 2080 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu3g05950	hsap|hsap_ENST00000341068	32.80	1122	634	120	853	1904	669	1740	7.1e-41	169.8
+afum|Afu3g05950	hsap|hsap_ENST00000377273	40.54	185	98	12	1732	1904	1	185	2.3e-18	92.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_17102T0 | AMAG_17102 | Allomyces macrogynus ATCC 38327 predicted protein - 1519 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_02772T0 | ANID_02772 | Aspergillus nidulans FGSC A4 negative regulator of mitosis - 2045 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_02772T0	hsap|hsap_ENST00000341068	26.90	1937	1082	334	27	1868	43	1740	1.8e-32	141.9
+anid|ANID_02772T0	hsap|hsap_ENST00000377273	39.46	185	101	11	1695	1868	1	185	2.7e-20	99.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_10327 | BC1G_10327 | Botrytis cinerea negative regulator of mitosis - 1881 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_10327	hsap|hsap_ENST00000341068	25.62	1928	1160	274	38	1874	80	1824	4.4e-40	167.0
+bcin|BC1T_10327	hsap|hsap_ENST00000377273	32.00	275	168	19	1613	1874	1	269	5.6e-21	101.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6046 |  Candida Albicans sc5314 assembly 21 orf19.6046 - 1535 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.6046	hsap|hsap_ENST00000341068	28.09	1271	735	179	400	1515	584	1830	1e-40	168.8
+calb_sc5314|orf19.6046	hsap|hsap_ENST00000377273	24.64	276	184	24	1263	1515	1	275	1.6e-14	79.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04730 | PGUG_04730 | Candida guilliermondii hypothetical protein - 1569 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_04730	hsap|hsap_ENST00000341068	29.53	1158	682	134	488	1545	705	1828	1.7e-41	171.5
+cgui|PGUT_04730	hsap|hsap_ENST00000377273	28.47	274	177	19	1290	1545	1	273	2e-17	89.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00516T0 | CIMG_00516 | Coccidioides immitis RS 20S cyclosome subunit - 2075 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_00516T0	hsap|hsap_ENST00000341068	34.12	1020	556	116	927	1871	724	1702	4.4e-45	183.8
+cimm_rs|CIMG_00516T0	hsap|hsap_ENST00000377273	43.54	147	78	5	1730	1871	1	147	3.2e-19	95.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02183T0 | CNAG_02183 | Cryptococcus neoformans grubii H99 anaphase promoting complex subunit 1 - 1947 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_02183T0	hsap|hsap_ENST00000341068	29.92	1183	718	111	748	1880	774	1895	3.6e-37	157.4
+cneo_h99|CNAG_02183T0	hsap|hsap_ENST00000377273	27.72	368	230	36	1521	1880	1	340	1.3e-14	80.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_151636|fgenesh1_pm.01_#_405 - 610 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_151636|fgenesh1_pm.01_#_405	hsap|hsap_ENST00000341068	36.71	651	362	50	2	607	1073	1718	2.6e-49	196.1
+mcin|t_151636|fgenesh1_pm.01_#_405	hsap|hsap_ENST00000377273	41.72	163	79	16	461	607	1	163	3.6e-16	83.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03314T0 | MGG_03314 | Magnaporthe grisea (M. oryzae) 70-15 negative regulator of mitosis - 1918 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_03314T0	hsap|hsap_ENST00000341068	29.69	1209	629	221	555	1567	446	1629	2.5e-34	147.9
+mgri|MGG_03314T0	hsap|hsap_ENST00000377273	58.11	74	31	0	1494	1567	1	74	1.6e-11	69.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_91152|EuGene.00400010 - 2093 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_91152|EuGene.00400010	hsap|hsap_ENST00000341068	30.30	1109	628	145	963	2037	901	1898	4.3e-29	130.7
+mlar|t_91152|EuGene.00400010	hsap|hsap_ENST00000377273	29.50	417	218	76	1623	2037	1	343	2.9e-13	75.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05901T0 | NCU05901 | Neurospora crassa OR74A (finished) hypothetical protein - 2077 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU05901T0	hsap|hsap_ENST00000341068	29.75	1237	706	163	641	1805	535	1680	4.6e-39	163.8
+ncra|NCU05901T0	hsap|hsap_ENST00000377273	37.24	145	71	20	1661	1805	1	125	3.5e-09	62.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_112566 - 2081 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_112566	hsap|hsap_ENST00000341068	29.98	1234	707	157	646	1810	535	1680	7.9e-39	163.0
+ndis|NEUDI1_112566	hsap|hsap_ENST00000377273	37.93	145	70	20	1666	1810	1	125	2.1e-09	63.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_071300 |  Neosartorya fischeri null - 2076 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_071300	hsap|hsap_ENST00000341068	32.59	1123	643	114	853	1907	669	1745	2.6e-44	181.2
+nfis|NFIA_071300	hsap|hsap_ENST00000377273	41.05	190	98	14	1732	1907	1	190	4.5e-20	98.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_86821 - 2041 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_86821	hsap|hsap_ENST00000341068	30.24	1217	690	159	641	1769	535	1680	1.9e-38	161.7
+ntet|NEUTE1_86821	hsap|hsap_ENST00000377273	37.24	145	71	20	1625	1769	1	125	5.5e-09	61.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563325.1| gi|255945115 Pc20g08020 [Penicillium chrysogenum Wisconsi - 2057 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002563325.1|	hsap|hsap_ENST00000341068	32.24	1123	647	114	829	1882	669	1746	2.2e-42	174.8
+pechr_54_1255|XP_002563325.1|	hsap|hsap_ENST00000377273	35.86	251	139	22	1704	1942	1	241	1.5e-20	99.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_1384|gw1.17.25.1 - 616 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_1384|gw1.17.25.1	hsap|hsap_ENST00000341068	36.23	632	350	53	1	612	1076	1674	8.1e-49	194.4
+rgra|t_1384|gw1.17.25.1	hsap|hsap_ENST00000377273	48.09	131	56	12	482	612	1	119	8e-14	75.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_07751 | RO3G_07752 | Rhizopus oryzae hypothetical protein - 1532 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_07751	hsap|hsap_ENST00000341068	26.84	1621	902	284	87	1507	100	1636	6.8e-88	325.5
+rory|RO3T_07751	hsap|hsap_ENST00000377273	54.32	81	37	0	1427	1507	1	81	2.3e-15	82.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YNL172W APC1 SGDID:S000005116, Chr XIV from 310638-315884, Verified ORF, "Largest subunit of the Anaphase-Promoting Complex/C - 1748 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YNL172W	hsap|hsap_ENST00000341068	23.33	1736	1018	313	56	1638	128	1703	7.3e-45	182.8
+scer_s288c|YNL172W	hsap|hsap_ENST00000377273	30.67	150	96	8	1495	1638	1	148	1e-08	60.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15760 | SNOG_15760 | Stagonospora nodorum hypothetical protein - 2006 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_15760	hsap|hsap_ENST00000341068	26.55	1612	1000	184	409	1915	216	1748	1.1e-38	162.4
+snod|SNOT_15760	hsap|hsap_ENST00000377273	34.87	195	120	7	1726	1915	1	193	1.8e-16	86.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC106_09.1 | SPBC106_09 | Schizosaccharomyces pombe 972h- anaphase-promoting complex subunit Apc1 - 1458 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPBC106_09.1	hsap|hsap_ENST00000341068	30.45	1284	699	194	225	1340	456	1713	4.6e-44	179.9
+spom|SPBC106_09.1	hsap|hsap_ENST00000377273	41.77	158	85	7	1190	1340	1	158	1.4e-20	99.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_02706T0 | SPPG_02706 | Spizellomyces punctatus DAOM BR117 predicted protein - 1742 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_02706T0	hsap|hsap_ENST00000341068	29.80	1708	998	201	73	1637	204	1853	9e-67	255.6
+spun|SPPG_02706T0	hsap|hsap_ENST00000377273	35.88	301	181	12	1346	1637	1	298	4.6e-32	138.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14908|e_gw1.9.45.1 - 716 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_14908|e_gw1.9.45.1	hsap|hsap_ENST00000341068	34.73	714	399	67	20	715	1129	1793	3.3e-41	169.4
+sror|t_14908|e_gw1.9.45.1	hsap|hsap_ENST00000377273	39.77	259	134	22	458	715	1	238	2.1e-31	134.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_82948|estExt_Genewise1Plus.C_52204 - 1778 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_82948|estExt_Genewise1Plus.C_52204	hsap|hsap_ENST00000341068	33.70	1006	534	133	629	1565	761	1702	1.1e-38	162.3
+sthe|t_82948|estExt_Genewise1Plus.C_52204	hsap|hsap_ENST00000377273	35.06	174	85	28	1393	1565	1	147	1.5e-10	66.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_72199|estExt_fgeneshTM_pm.C_110040 - 2039 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_72199|estExt_fgeneshTM_pm.C_110040	hsap|hsap_ENST00000341068	29.35	1189	724	116	803	1887	762	1938	1.1e-38	162.5
+tmes|t_72199|estExt_fgeneshTM_pm.C_110040	hsap|hsap_ENST00000377273	30.99	313	190	26	1529	1838	1	290	3.5e-16	85.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_77616|estExt_GeneWisePlus.C_80531 - 1950 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_77616|estExt_GeneWisePlus.C_80531	hsap|hsap_ENST00000341068	25.61	1886	1095	308	13	1815	55	1715	1.2e-42	175.6
+tree|t_77616|estExt_GeneWisePlus.C_80531	hsap|hsap_ENST00000377273	37.79	172	94	13	1645	1815	1	160	4.9e-16	84.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_136298|estExt_fgenesh2_pm.C_70106 - 2008 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_136298|estExt_fgenesh2_pm.C_70106	hsap|hsap_ENST00000341068	33.56	1031	564	121	896	1856	761	1740	4.6e-38	160.4
+tter|t_136298|estExt_fgenesh2_pm.C_70106	hsap|hsap_ENST00000377273	34.63	205	110	24	1656	1856	1	185	2.1e-08	59.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um02427 related to negative regulator  - 2077 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um02427	hsap|hsap_ENST00000341068	29.23	1129	684	115	882	1945	736	1814	4.8e-58	226.8
+umay|um02427	hsap|hsap_ENST00000377273	34.38	288	149	40	1669	1945	1	259	9.9e-16	83.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D16885gT0 gene=YALI0D16885g Ylip_CLIB122_chrD:complement(2083632 - 1535 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0D16885gT0	hsap|hsap_ENST00000341068	30.97	1198	678	149	321	1414	556	1708	3.3e-44	180.4
+ylip|YALI0D16885gT0	hsap|hsap_ENST00000377273	40.91	154	83	8	1268	1414	1	153	1.5e-18	92.9

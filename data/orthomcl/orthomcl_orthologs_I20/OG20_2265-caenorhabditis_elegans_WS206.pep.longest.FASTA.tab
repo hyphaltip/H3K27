@@ -1,0 +1,122 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02264.1 - 1054 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB02264.1	cele|cele_F28C6.6	29.03	596	318	105	231	824	10	502	1.3e-19	96.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g11020 Afu3g11020 A_fumigatus_Af293 AspGDID: COORDS:chr3:2875546-2878801(-) translated using codon table 1 (1030 amino acids - 1029 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu3g11020	cele|cele_F28C6.6	27.14	759	430	123	256	1001	10	658	2.7e-15	82.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_13673T0 | AMAG_13673 | Allomyces macrogynus ATCC 38327 predicted protei - 604 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_13673T0	cele|cele_F28C6.6	29.14	350	227	21	43	377	11	354	3.4e-26	117.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04892T0 | ANID_04892 | Aspergillus nidulans FGSC A4 mRNA 3'-end-processing protein rna14 - 1075 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_04892T0	cele|cele_F28C6.6	27.60	750	440	103	245	992	10	658	8.1e-25	114.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_06941 | BC1G_06941 | Botrytis cinerea mRNA 3'-end-processing protein rna-14 - 1119 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_06941	cele|cele_F28C6.6	24.82	822	494	124	217	1019	10	726	1.5e-15	83.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1531 |  Candida Albicans sc5314 assembly 21 orf19.153 - 791 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.1531	cele|cele_F28C6.6	25.80	562	295	122	20	574	10	456	3.5e-18	91.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_05272 | PGUG_05272 | Candida guilliermondii hypothetical protei - 725 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_05272	cele|cele_F28C6.6	26.64	518	310	70	18	531	10	461	9.1e-27	119.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03795T0 | CIMG_03795 | Coccidioides immitis RS mRNA 3'-end-processing protein rna14 - 1088 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_03795T0	cele|cele_F28C6.6	28.21	748	420	117	330	1065	10	652	4.2e-28	125.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03761T0 | CNAG_03761 | Cryptococcus neoformans grubii H99 mRNA 3'-end-processing protein RNA14 - 1066 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_03761T0	cele|cele_F28C6.6	26.45	794	450	134	291	1060	31	714	8.2e-09	60.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_116957|gw1.13.4.1 - 596 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_116957|gw1.13.4.1	cele|cele_F28C6.6	34.78	575	309	66	19	587	10	524	9.4e-39	159.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03265T0 | MGG_03265 | Magnaporthe grisea (M. oryzae) 70-15 mRNA 3'-end-processing protein rna-14 - 1057 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_03265T0	cele|cele_F28C6.6	27.05	599	344	93	170	764	10	519	1.2e-10	66.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_78502|estExt_fgenesh1_pg.C_330108 - 1163 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_78502|estExt_fgenesh1_pg.C_330108	cele|cele_F28C6.6	26.47	763	449	112	353	1109	10	666	1.4e-06	53.6
+mlar|t_78502|estExt_fgenesh1_pg.C_330108	cele|cele_Y40C5A.3	22.70	445	277	67	21	416	1481	1907	0.00048	46.8
+mlar|t_78502|estExt_fgenesh1_pg.C_330108	cele|cele_ZK84.1	23.01	326	219	32	30	347	445	746	0.00083	44.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU09435T0 | NCU09435 | Neurospora crassa OR74A (finished) mRNA 3'-end-processing protein RNA-14 - 1167 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU09435T0	cele|cele_F28C6.6	26.23	709	410	113	252	952	10	613	8e-12	71.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_100237 - 1148 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_100237	cele|cele_F28C6.6	25.04	703	426	101	235	935	10	613	5.3e-10	64.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_066240 |  Neosartorya fischeri null - 1069 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_066240	cele|cele_F28C6.6	27.27	759	429	123	256	1001	10	658	7e-16	84.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_85042 - 1139 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_85042	cele|cele_F28C6.6	26.23	709	410	113	231	931	10	613	8e-14	77.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002559349.1| gi|255936645 Pc13g09250 [Penicillium chrysogenum Wisconsi - 1026 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002559349.1|	cele|cele_F28C6.6	27.95	762	427	122	260	1005	10	665	4.9e-15	81.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_34277|estExt_Genewise1Plus.C_3_t10190 - 653 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_34277|estExt_Genewise1Plus.C_3_t10190	cele|cele_F28C6.6	32.00	575	328	63	92	646	2	533	1.2e-23	109.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_11735 | RO3G_11736 | Rhizopus oryzae hypothetical protei - 690 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_11735	cele|cele_F28C6.6	28.18	692	358	139	1	671	156	729	1.4e-07	56.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YMR061W RNA14 SGDID:S000004665, Chr XIII from 392754-394787, Verified ORF, "Cleavage and polyadenylation factor I (CF I) comp - 677 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YMR061W	cele|cele_F28C6.6	25.04	695	442	79	24	676	1	658	7.9e-17	86.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_12155 | SNOG_12155 | Stagonospora nodorum hypothetical protein - 1032 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_12155	cele|cele_F28C6.6	26.68	802	462	126	230	1029	10	687	2.3e-16	85.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC6F12_17.1 | SPAC6F12_17 | Schizosaccharomyces pombe 972h- mRNA cleavage and polyadenylation specificity factor complex subunit  - 733 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPAC6F12_17.1	cele|cele_F28C6.6	27.73	678	428	62	63	716	12	651	1e-35	149.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04928T0 | SPPG_04928 | Spizellomyces punctatus DAOM BR117 mRNA 3'-end-processing protein RNA1 - 926 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_04928T0	cele|cele_F28C6.6	30.46	824	457	116	72	885	12	729	9.7e-25	113.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_11784|e_gw1.4.135.1 - 632 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_11784|e_gw1.4.135.1	cele|cele_F28C6.6	31.70	530	324	38	103	630	11	504	9.9e-26	116.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_108680|estExt_fgenesh1_pg.C_60451 - 1109 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	cele|cele_F28C6.6	26.02	711	404	122	201	896	10	613	2.1e-11	69.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73949|estExt_fgeneshTM_pg.C_50473 - 1067 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_73949|estExt_fgeneshTM_pg.C_50473	cele|cele_F28C6.6	28.97	535	325	55	261	790	11	495	1.9e-08	59.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3803|fgenesh1_pm.C_scaffold_8000170 - 991 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_3803|fgenesh1_pm.C_scaffold_8000170	cele|cele_F28C6.6	28.96	587	324	93	164	748	10	505	6.6e-15	81.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_136446|estExt_fgenesh2_pm.C_70400 - 1024 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_136446|estExt_fgenesh2_pm.C_70400	cele|cele_F28C6.6	27.81	597	329	102	156	751	10	505	1.3e-20	100.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um02055 related to RNA14 - component of pre-mRNA 3`-end processing f - 945 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um02055	cele|cele_F28C6.6	29.65	752	410	119	182	924	10	651	2.9e-12	72.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D18612gT0 gene=YALI0D18612g Ylip_CLIB122_chrD:232940 - 806 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0D18612gT0	cele|cele_F28C6.6	31.63	547	317	57	197	718	10	524	1.6e-37	155.9

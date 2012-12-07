@@ -1,0 +1,119 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02075.1 - 1977 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB02075.1	mbre|t_22150	24.12	771	418	167	1092	1852	497	1110	4.4e-15	82.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g05950 Afu3g05950 A_fumigatus_Af293 AspGDID: COORDS:chr3:1453727-1459969(-) translated using codon table 1 (2081 amino acids - 2080 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu3g05950	mbre|t_22150	27.42	671	330	157	1183	1839	544	1071	1.3e-20	100.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_17102T0 | AMAG_17102 | Allomyces macrogynus ATCC 38327 predicted protein - 1519 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_02772T0 | ANID_02772 | Aspergillus nidulans FGSC A4 negative regulator of mitosis - 2045 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_02772T0	mbre|t_22150	27.60	663	350	130	1155	1807	534	1076	6.5e-21	101.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_10327 | BC1G_10327 | Botrytis cinerea negative regulator of mitosis - 1881 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_10327	mbre|t_22150	25.41	740	390	162	1057	1780	545	1138	7.8e-14	77.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6046 |  Candida Albicans sc5314 assembly 21 orf19.6046 - 1535 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.6046	mbre|t_22150	26.49	672	331	163	716	1368	542	1069	1.5e-23	109.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04730 | PGUG_04730 | Candida guilliermondii hypothetical protein - 1569 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_04730	mbre|t_22150	23.76	724	395	157	689	1396	488	1070	3.5e-23	108.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00516T0 | CIMG_00516 | Coccidioides immitis RS 20S cyclosome subunit - 2075 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_00516T0	mbre|t_22150	26.81	634	313	151	1214	1837	579	1071	3.5e-19	95.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02183T0 | CNAG_02183 | Cryptococcus neoformans grubii H99 anaphase promoting complex subunit 1 - 1947 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_02183T0	mbre|t_22150	25.41	673	340	162	1009	1669	588	1110	7.8e-12	71.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_151636|fgenesh1_pm.01_#_405 - 610 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_151636|fgenesh1_pm.01_#_405	mbre|t_22150	27.46	579	272	148	1	571	634	1072	1.2e-14	78.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03314T0 | MGG_03314 | Magnaporthe grisea (M. oryzae) 70-15 negative regulator of mitosis - 1918 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_03314T0	mbre|t_22150	24.57	643	320	165	990	1612	594	1091	6.1e-13	74.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_91152|EuGene.00400010 - 2093 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_91152|EuGene.00400010	mbre|t_22150	26.24	728	381	156	1073	1791	544	1124	1.6e-11	70.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05901T0 | NCU05901 | Neurospora crassa OR74A (finished) hypothetical protein - 2077 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU05901T0	mbre|t_22150	25.08	642	331	150	1116	1745	540	1043	6e-12	71.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_112566 - 2081 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_112566	mbre|t_22150	24.16	683	369	149	1073	1750	505	1043	1.3e-11	70.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_071300 |  Neosartorya fischeri null - 2076 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_071300	mbre|t_22150	27.42	671	330	157	1183	1839	544	1071	8.1e-21	101.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_86821 - 2041 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_86821	mbre|t_22150	23.79	782	437	159	1032	1799	505	1141	1.1e-11	70.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563325.1| gi|255945115 Pc20g08020 [Penicillium chrysogenum Wisconsi - 2057 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002563325.1|	mbre|t_22150	26.70	678	337	160	1147	1813	545	1073	6.9e-19	94.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_1384|gw1.17.25.1 - 616 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_1384|gw1.17.25.1	mbre|t_22150	25.09	570	265	162	1	569	638	1046	4.1e-10	63.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_07751 | RO3G_07752 | Rhizopus oryzae hypothetical protein - 1532 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_07751	mbre|t_22150	25.34	659	315	177	880	1527	569	1061	1.4e-10	66.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YNL172W APC1 SGDID:S000005116, Chr XIV from 310638-315884, Verified ORF, "Largest subunit of the Anaphase-Promoting Complex/C - 1748 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YNL172W	mbre|t_22150	27.10	465	255	84	856	1298	525	927	4.3e-19	95.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15760 | SNOG_15760 | Stagonospora nodorum hypothetical protein - 2006 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_15760	mbre|t_22150	25.07	686	357	157	1210	1881	579	1121	4.5e-15	82.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC106_09.1 | SPBC106_09 | Schizosaccharomyces pombe 972h- anaphase-promoting complex subunit Apc1 - 1458 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPBC106_09.1	mbre|t_22150	27.00	663	336	148	679	1329	577	1103	2.1e-23	109.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_02706T0 | SPPG_02706 | Spizellomyces punctatus DAOM BR117 predicted protein - 1742 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_02706T0	mbre|t_22150	25.72	972	489	233	584	1500	325	1118	2.6e-11	69.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14908|e_gw1.9.45.1 - 716 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_14908|e_gw1.9.45.1	mbre|t_22150	24.19	620	289	181	4	617	666	1110	1.8e-12	71.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_82948|estExt_Genewise1Plus.C_52204 - 1778 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_82948|estExt_Genewise1Plus.C_52204	mbre|t_22150	24.05	790	431	169	811	1593	520	1147	8.2e-12	71.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_72199|estExt_fgeneshTM_pm.C_110040 - 2039 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_72199|estExt_fgeneshTM_pm.C_110040	mbre|t_22150	22.24	1241	737	228	568	1769	147	1198	1.3e-09	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_77616|estExt_GeneWisePlus.C_80531 - 1950 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_77616|estExt_GeneWisePlus.C_80531	mbre|t_22150	24.92	895	485	187	1012	1883	464	1194	9.8e-13	74.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_136298|estExt_fgenesh2_pm.C_70106 - 2008 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_136298|estExt_fgenesh2_pm.C_70106	mbre|t_22150	26.01	692	338	174	1100	1783	543	1068	1.1e-11	70.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um02427 related to negative regulator  - 2077 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um02427	mbre|t_22150	22.80	649	335	166	1131	1770	569	1060	3.8e-08	59.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D16885gT0 gene=YALI0D16885g Ylip_CLIB122_chrD:complement(2083632 - 1535 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0D16885gT0	mbre|t_22150	25.95	867	439	203	577	1405	400	1101	2.2e-23	109.3

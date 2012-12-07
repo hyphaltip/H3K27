@@ -1,0 +1,150 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09584.1 - 346 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB09584.1	hsap|hsap_ENST00000265070	45.38	249	124	12	49	296	35	272	7.6e-28	121.2
+abra|AB09584.1	hsap|hsap_ENST00000369003	38.71	279	135	36	41	296	15	280	7.9e-22	101.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g06630 Afu1g06630 A_fumigatus_Af293 AspGDID: COORDS:chr1:1895187-1896487(+) translated using codon table 1 (354 amino acids) - 353 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu1g06630	hsap|hsap_ENST00000265070	45.86	266	131	13	32	296	19	272	2e-38	156.4
+afum|Afu1g06630	hsap|hsap_ENST00000369003	40.49	284	134	35	64	324	35	306	1.6e-29	126.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_16222T0 | AMAG_16222 | Allomyces macrogynus ATCC 38327 vacuolar protein sorting-associated protein 7 - 352 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_16222T0	hsap|hsap_ENST00000265070	47.64	233	107	15	86	311	48	272	1.7e-29	126.7
+amac|AMAG_16222T0	hsap|hsap_ENST00000369003	39.56	321	151	43	54	347	2	306	4.6e-24	108.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_05705T0 | ANID_05705 | Aspergillus nidulans FGSC A4 vacuolar protein sorting-associated protein 7 - 353 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_05705T0	hsap|hsap_ENST00000265070	45.02	271	132	17	29	296	16	272	2.8e-38	155.9
+anid|ANID_05705T0	hsap|hsap_ENST00000369003	40.66	273	128	34	70	319	41	302	1.1e-29	127.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_15270 | BC1G_15270 | Botrytis cinerea vacuolar protein sorting-associated protein 7 - 278 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_15270	hsap|hsap_ENST00000265070	46.50	243	108	22	2	243	8	229	2.3e-31	132.6
+bcin|BC1T_15270	hsap|hsap_ENST00000369003	43.83	235	105	27	32	243	7	237	7.1e-25	111.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1514 |  Candida Albicans sc5314 assembly 21 orf19.151 - 340 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.1514	hsap|hsap_ENST00000265070	44.88	283	142	14	3	283	2	272	5e-37	151.7
+calb_sc5314|orf19.1514	hsap|hsap_ENST00000369003	41.25	303	132	46	3	283	2	280	7.5e-29	124.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02719 | PGUG_02719 | Candida guilliermondii hypothetical protei - 349 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_02719	hsap|hsap_ENST00000265070	44.22	294	130	34	3	291	8	272	5.1e-30	128.5
+cgui|PGUT_02719	hsap|hsap_ENST00000369003	43.89	262	110	37	52	291	34	280	3.4e-24	109.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03998T0 | CIMG_03998 | Coccidioides immitis RS vacuolar protein sorting-associated protein 7 - 350 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_03998T0	hsap|hsap_ENST00000265070	42.86	280	145	15	15	293	7	272	5.1e-37	151.7
+cimm_rs|CIMG_03998T0	hsap|hsap_ENST00000369003	42.64	258	114	34	59	293	34	280	2.2e-29	126.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04806T0 | CNAG_04806 | Cryptococcus neoformans grubii H99 golgi phosphoprotein 3 domain containing protei - 389 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_04806T0	hsap|hsap_ENST00000265070	44.09	279	140	16	20	296	8	272	5.8e-34	141.7
+cneo_h99|CNAG_04806T0	hsap|hsap_ENST00000369003	42.31	260	115	35	60	296	33	280	1.4e-25	113.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_166635|fgenesh1_pg.08_#_205 - 322 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_166635|fgenesh1_pg.08_#_205	hsap|hsap_ENST00000265070	43.46	283	148	12	1	281	1	273	3.1e-41	165.6
+mcin|t_166635|fgenesh1_pg.08_#_205	hsap|hsap_ENST00000369003	39.02	305	136	50	1	280	1	280	1.1e-32	137.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00839T0 | MGG_00839 | Magnaporthe grisea (M. oryzae) 70-15 vacuolar protein sorting-associated protein 7 - 362 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_00839T0	hsap|hsap_ENST00000265070	44.49	272	135	16	41	310	15	272	1.9e-21	100.1
+mgri|MGG_00839T0	hsap|hsap_ENST00000369003	42.41	290	133	34	58	324	15	293	5.1e-17	85.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_74362|estExt_fgenesh1_pm.C_80007 - 369 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_74362|estExt_fgenesh1_pm.C_80007	hsap|hsap_ENST00000265070	41.98	262	139	13	39	297	21	272	8.7e-33	137.7
+mlar|t_74362|estExt_fgenesh1_pm.C_80007	hsap|hsap_ENST00000369003	38.44	294	147	34	40	310	10	292	7.9e-28	121.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU06091T0 | NCU06091 | Neurospora crassa OR74A (finished) vacuolar protein sorting-associated protein 7 - 349 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU06091T0	hsap|hsap_ENST00000265070	43.60	289	137	26	4	290	8	272	1.6e-26	116.8
+ncra|NCU06091T0	hsap|hsap_ENST00000369003	42.97	256	113	33	58	290	35	280	5.6e-21	98.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_127556 - 275 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_127556	hsap|hsap_ENST00000265070	42.55	188	90	18	4	188	8	180	4.2e-15	78.6
+ndis|NEUDI1_127556	hsap|hsap_ENST00000369003	40.00	155	68	25	58	188	35	188	4.8e-09	58.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_018060 |  Neosartorya fischeri nul - 353 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_018060	hsap|hsap_ENST00000265070	45.35	269	134	13	29	296	16	272	2.5e-38	156.1
+nfis|NFIA_018060	hsap|hsap_ENST00000369003	41.01	278	129	35	70	324	41	306	2.1e-29	126.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_85692 - 351 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_85692	hsap|hsap_ENST00000265070	43.45	290	138	26	4	292	8	272	5.6e-25	111.7
+ntet|NEUTE1_85692	hsap|hsap_ENST00000369003	42.97	256	113	33	60	292	35	280	1e-19	94.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562170.1| gi|255942803 Pc18g03300 [Penicillium chrysogenum Wisconsi - 354 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002562170.1|	hsap|hsap_ENST00000265070	45.61	239	117	13	62	297	44	272	8.5e-38	154.3
+pechr_54_1255|XP_002562170.1|	hsap|hsap_ENST00000369003	40.71	280	130	36	66	320	34	302	2.6e-30	129.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_49043|estExt_fgenesh1_pm.C_200008 - 396 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_49043|estExt_fgenesh1_pm.C_200008	hsap|hsap_ENST00000265070	48.12	239	109	15	54	291	48	272	5.5e-20	95.3
+rgra|t_49043|estExt_fgenesh1_pm.C_200008	hsap|hsap_ENST00000369003	42.53	261	113	37	54	291	34	280	7.6e-16	81.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_06143 | RO3G_06144 | Rhizopus oryzae hypothetical protei - 314 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_06143	hsap|hsap_ENST00000265070	44.57	276	138	15	2	273	9	273	3.9e-47	185.1
+rory|RO3T_06143	hsap|hsap_ENST00000369003	40.80	299	131	46	1	272	1	280	9.3e-37	150.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR372C VPS74 SGDID:S000002780, Chr IV from 1222142-1221105, reverse complement, Verified ORF, "Protein required for Golgi lo - 345 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YDR372C	hsap|hsap_ENST00000265070	40.07	292	152	23	22	312	18	287	4.9e-36	148.4
+scer_s288c|YDR372C	hsap|hsap_ENST00000369003	39.12	294	141	38	18	288	2	280	3.4e-29	125.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_02718 | SNOG_02718 | Stagonospora nodorum conserved hypothetical protei - 353 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_02718	hsap|hsap_ENST00000265070	44.98	249	125	12	49	296	35	272	1e-34	144.1
+snod|SNOT_02718	hsap|hsap_ENST00000369003	38.35	279	136	36	41	296	15	280	1.1e-27	120.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC5D6_13.1 | SPAC5D6_13 | Schizosaccharomyces pombe 972h- Golgi phosphoprotein 3 famil - 337 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC5D6_13.1	hsap|hsap_ENST00000265070	44.52	283	136	21	2	281	8	272	1.5e-39	160.1
+spom|SPAC5D6_13.1	hsap|hsap_ENST00000369003	42.14	280	122	40	27	281	16	280	1.2e-30	130.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_01074T0 | SPPG_01074 | Spizellomyces punctatus DAOM BR117 conserved hypothetical protei - 292 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_01074T0	hsap|hsap_ENST00000265070	46.13	271	132	14	4	266	8	272	9.2e-41	163.9
+spun|SPPG_01074T0	hsap|hsap_ENST00000369003	41.03	273	127	34	26	267	12	281	3.8e-29	125.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_34349|estExt_fgenesh1_pm.C_40069 - 357 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_34349|estExt_fgenesh1_pm.C_40069	hsap|hsap_ENST00000265070	42.14	280	135	27	2	279	18	272	1.8e-33	139.9
+sror|t_34349|estExt_fgenesh1_pm.C_40069	hsap|hsap_ENST00000369003	41.38	261	115	38	43	279	34	280	3.3e-25	112.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_116911|estExt_fgenesh1_pm.C_60443 - 356 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_116911|estExt_fgenesh1_pm.C_60443	hsap|hsap_ENST00000265070	43.29	298	146	23	26	317	8	288	3.5e-27	119.0
+sthe|t_116911|estExt_fgenesh1_pm.C_60443	hsap|hsap_ENST00000369003	41.13	282	130	36	42	300	12	280	2.7e-20	96.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_16901|gw1.2.490.1 - 302 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_16901|gw1.2.490.1	hsap|hsap_ENST00000265070	46.44	239	116	12	5	242	45	272	3e-34	142.3
+tmes|t_16901|gw1.2.490.1	hsap|hsap_ENST00000369003	42.25	258	115	34	8	242	34	280	5.1e-27	118.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_77441|estExt_GeneWisePlus.C_80171 - 349 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_77441|estExt_GeneWisePlus.C_80171	hsap|hsap_ENST00000265070	43.88	278	140	16	21	293	6	272	4e-36	148.7
+tree|t_77441|estExt_GeneWisePlus.C_80171	hsap|hsap_ENST00000369003	41.18	289	132	38	28	293	7	280	6.6e-28	121.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_76502|estExt_Genewise1Plus.C_71036 - 356 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_76502|estExt_Genewise1Plus.C_71036	hsap|hsap_ENST00000265070	43.64	291	140	24	34	317	15	288	5.2e-26	115.2
+tter|t_76502|estExt_Genewise1Plus.C_71036	hsap|hsap_ENST00000369003	42.03	276	124	36	48	300	18	280	2.7e-20	96.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03278 probable VPS74 - protein involved in protein-vacuolar - 438 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um03278	hsap|hsap_ENST00000265070	44.03	268	127	23	70	335	27	273	1.4e-28	124.0
+umay|um03278	hsap|hsap_ENST00000369003	42.01	269	112	44	90	335	34	281	4.1e-21	99.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D03575gT0 gene=YALI0D03575g Ylip_CLIB122_chrD:complement(45187 - 336 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0D03575gT0	hsap|hsap_ENST00000265070	42.70	281	143	18	2	280	9	273	1.4e-35	146.9
+ylip|YALI0D03575gT0	hsap|hsap_ENST00000369003	42.28	272	117	40	52	297	40	297	2.1e-28	123.1

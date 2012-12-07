@@ -1,0 +1,395 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB04539.1 - 395 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB04539.1	cele|cele_K04G7.10	38.73	346	186	26	1	334	1	332	1.2e-16	84.3
+abra|AB04539.1	cele|cele_T20B6.3	47.25	182	88	8	209	386	56	233	1.9e-09	60.0
+abra|AB04539.1	cele|cele_E02A10.2	46.77	186	84	15	199	382	24	196	2.9e-08	56.7
+abra|AB04539.1	cele|cele_ZK643.8	46.43	196	88	17	199	381	63	254	5.4e-08	56.8
+abra|AB04539.1	cele|cele_T28C6.1b	42.79	215	90	33	199	386	50	258	8.3e-08	54.8
+abra|AB04539.1	cele|cele_F07C4.7	53.25	169	42	37	187	340	14	160	1.6e-07	53.1
+abra|AB04539.1	cele|cele_Y43F8C.20	46.82	173	80	12	192	355	24	193	2.1e-07	52.8
+abra|AB04539.1	cele|cele_C27H5.3	34.66	326	148	65	84	386	162	445	8.5e-07	52.0
+abra|AB04539.1	cele|cele_T01C3.7	57.14	126	40	14	218	337	9	126	3.7e-06	49.5
+abra|AB04539.1	cele|cele_K07H8.10	43.66	213	90	30	195	391	6	204	3.9e-06	50.6
+abra|AB04539.1	cele|cele_C34D4.11	48.03	152	45	34	221	371	18	136	4.7e-06	47.8
+abra|AB04539.1	cele|cele_T28F2.8	44.83	145	65	15	200	333	293	433	1.3e-05	48.1
+abra|AB04539.1	cele|cele_C18D11.4	37.63	279	120	54	102	373	76	307	1.7e-05	47.2
+abra|AB04539.1	cele|cele_F42A6.7d	35.08	248	135	26	102	341	114	343	1.7e-05	47.3
+abra|AB04539.1	cele|cele_K01A6.4	39.51	205	96	28	200	385	58	253	2e-05	46.8
+abra|AB04539.1	cele|cele_T21G5.3	42.24	161	79	14	199	357	21	169	2.9e-05	47.7
+abra|AB04539.1	cele|cele_C56A3.1	42.75	138	71	8	222	353	84	219	3.9e-05	46.3
+abra|AB04539.1	cele|cele_K09H9.6	40.00	225	107	28	128	345	367	570	7.7e-05	45.9
+abra|AB04539.1	cele|cele_T17H7.1	43.18	220	85	40	187	373	337	549	0.00012	45.4
+abra|AB04539.1	cele|cele_C06G4.2a	40.31	191	77	37	194	353	15	199	0.00013	45.5
+abra|AB04539.1	cele|cele_Y47D7A.13	42.17	166	71	25	195	340	34	194	0.00014	44.2
+abra|AB04539.1	cele|cele_F33A8.3	36.79	212	108	26	136	331	6	207	0.00019	43.1
+abra|AB04539.1	cele|cele_C55B7.1	41.55	219	83	45	188	372	13	220	0.00021	45.1
+abra|AB04539.1	cele|cele_W03D2.1c	39.55	177	88	19	200	359	67	241	0.00024	44.1
+abra|AB04539.1	cele|cele_R08B4.1b	37.35	166	93	11	193	349	736	899	0.00028	45.0
+abra|AB04539.1	cele|cele_Y48B6A.3	42.25	187	69	39	193	370	814	970	0.00032	44.6
+abra|AB04539.1	cele|cele_F56B3.1	42.41	158	71	20	218	371	75	216	0.00038	42.9
+abra|AB04539.1	cele|cele_Y66H1A.4	38.93	244	70	79	223	393	3	240	0.00045	42.1
+abra|AB04539.1	cele|cele_F58G11.2	43.24	148	45	39	228	369	798	912	0.00059	43.7
+abra|AB04539.1	cele|cele_W03G1.5	37.23	188	97	21	225	395	230	413	0.00094	42.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu5g13480 Afu5g13480 A_fumigatus_Af293 AspGDID: COORDS:chr5:3540676-3542030(-) translated using codon table 1 (396 amino acids) - 395 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu5g13480	cele|cele_K04G7.10	35.84	346	160	62	1	307	1	323	1.2e-07	54.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_14785T0 | AMAG_14785 | Allomyces macrogynus ATCC 38327 U1 snRNP-associated protein Usp10 - 461 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_14785T0	cele|cele_K04G7.10	37.22	395	165	83	1	376	1	331	7.7e-12	68.5
+amac|AMAG_14785T0	cele|cele_C27H5.3	43.24	185	84	21	253	425	271	446	0.00012	45.0
+amac|AMAG_14785T0	cele|cele_F42A6.7d	29.81	265	155	31	137	388	100	346	0.00065	42.3
+amac|AMAG_14785T0	cele|cele_F58G11.2	36.28	226	116	28	178	385	695	910	0.00072	43.6
+amac|AMAG_14785T0	cele|cele_C18D11.4	37.05	278	128	47	147	419	74	309	0.00084	41.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_06903T0 | ANID_06903 | Aspergillus nidulans FGSC A4 U1 small nuclear ribonucleoprotei - 373 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_06903T0	cele|cele_K04G7.10	36.52	356	185	41	1	340	1	331	0.00012	44.4
+anid|ANID_06903T0	cele|cele_T01C3.7	52.34	107	40	11	203	304	12	112	0.00038	42.8
+anid|ANID_06903T0	cele|cele_C18D11.4	36.49	285	125	56	88	358	67	309	0.00077	41.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_08884 | BC1G_08884 | Botrytis cinerea conserved hypothetical protei - 208 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_08884	cele|cele_K04G7.10	30.72	166	104	11	1	164	1	157	3.1e-14	75.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6866 |  Candida Albicans sc5314 assembly 21 orf19.686 - 347 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.6866	cele|cele_K04G7.10	31.05	219	132	19	9	226	6	206	2e-08	56.8
+calb_sc5314|orf19.6866	cele|cele_Y54H5A.3	23.32	223	145	26	9	224	95	298	0.00041	42.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_01448 | PGUG_01448 | Candida guilliermondii hypothetical protei - 330 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_01448	cele|cele_K04G7.10	26.70	221	140	22	10	228	6	206	0.00013	44.1
+cgui|PGUT_01448	cele|cele_Y54H5A.3	24.78	230	142	31	2	215	86	300	0.00026	42.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_09358T0 | CIMG_09358 | Coccidioides immitis RS U1 small nuclear ribonucleoprotei - 395 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_09358T0	cele|cele_K04G7.10	37.50	336	175	35	1	323	1	314	2.5e-12	69.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00140T0 | CNAG_00140 | Cryptococcus neoformans grubii H99 U1 snRNP 70K protei - 435 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_00140T0	cele|cele_K04G7.10	39.18	291	142	35	103	372	53	329	7.1e-12	68.6
+cneo_h99|CNAG_00140T0	cele|cele_T20B6.3	57.31	171	50	23	267	424	87	247	1.6e-11	67.1
+cneo_h99|CNAG_00140T0	cele|cele_Y43F8C.20	53.16	158	61	13	277	424	23	177	2.6e-09	59.3
+cneo_h99|CNAG_00140T0	cele|cele_ZK643.8	50.00	192	82	14	238	425	52	233	3.4e-09	60.9
+cneo_h99|CNAG_00140T0	cele|cele_T28C6.1b	48.92	186	66	29	269	428	50	232	4e-09	59.2
+cneo_h99|CNAG_00140T0	cele|cele_E02A10.2	52.51	179	58	27	261	424	18	184	1.8e-08	57.5
+cneo_h99|CNAG_00140T0	cele|cele_C27H5.3	37.63	287	127	52	153	428	201	446	1.2e-07	55.0
+cneo_h99|CNAG_00140T0	cele|cele_F07C4.7	50.57	176	62	25	230	402	14	167	1.3e-07	53.6
+cneo_h99|CNAG_00140T0	cele|cele_K01A6.4	41.53	236	99	39	228	427	35	267	3.1e-07	53.0
+cneo_h99|CNAG_00140T0	cele|cele_T01C3.7	66.35	104	26	9	267	365	15	114	6.8e-07	52.1
+cneo_h99|CNAG_00140T0	cele|cele_F42A6.7d	31.53	295	167	35	114	398	78	347	1.1e-06	51.4
+cneo_h99|CNAG_00140T0	cele|cele_T21G5.3	47.06	153	68	13	278	429	17	157	2.6e-06	51.3
+cneo_h99|CNAG_00140T0	cele|cele_K09H9.6	31.08	370	206	49	41	391	232	571	3e-06	50.7
+cneo_h99|CNAG_00140T0	cele|cele_C06G4.2a	40.31	196	93	24	237	423	15	195	7.8e-06	49.7
+cneo_h99|CNAG_00140T0	cele|cele_C34D4.11	59.80	102	34	7	327	424	29	127	8.7e-06	47.1
+cneo_h99|CNAG_00140T0	cele|cele_C55B7.1	46.11	167	74	16	266	424	16	174	1e-05	49.7
+cneo_h99|CNAG_00140T0	cele|cele_T28F2.8	40.72	194	89	26	238	428	263	433	1.8e-05	47.7
+cneo_h99|CNAG_00140T0	cele|cele_Y47D7A.13	39.90	198	94	25	238	430	34	211	2.6e-05	46.7
+cneo_h99|CNAG_00140T0	cele|cele_W03D2.1c	41.89	222	92	37	235	425	21	236	3.3e-05	47.1
+cneo_h99|CNAG_00140T0	cele|cele_F56B3.1	40.86	186	84	26	269	430	75	258	3.4e-05	46.5
+cneo_h99|CNAG_00140T0	cele|cele_C56A3.1	45.21	146	65	15	249	391	64	197	3.5e-05	46.6
+cneo_h99|CNAG_00140T0	cele|cele_Y48B6A.3	43.65	181	80	22	234	409	807	970	7e-05	46.9
+cneo_h99|CNAG_00140T0	cele|cele_K07H8.10	45.50	189	75	28	267	435	14	194	0.00012	45.9
+cneo_h99|CNAG_00140T0	cele|cele_T17H7.1	45.70	186	74	27	268	431	306	486	0.00012	45.6
+cneo_h99|CNAG_00140T0	cele|cele_W03G1.5	40.94	171	82	19	270	423	227	395	0.00021	44.3
+cneo_h99|CNAG_00140T0	cele|cele_C18D11.4	37.68	276	118	54	151	417	74	304	0.00022	43.6
+cneo_h99|CNAG_00140T0	cele|cele_F58D5.1a	28.37	349	200	50	71	411	292	598	0.00024	44.5
+cneo_h99|CNAG_00140T0	cele|cele_F25B5.7a	38.39	224	119	19	203	415	338	553	0.00029	44.0
+cneo_h99|CNAG_00140T0	cele|cele_Y116A8C.35	45.31	128	52	18	310	435	174	285	0.00051	42.3
+cneo_h99|CNAG_00140T0	cele|cele_R08B4.1b	46.85	111	54	5	313	423	779	884	0.00091	43.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_153301|fgenesh1_pm.05_#_168 - 307 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_153301|fgenesh1_pm.05_#_168	cele|cele_K04G7.10	39.57	326	141	56	1	306	1	290	1e-20	97.4
+mcin|t_153301|fgenesh1_pm.05_#_168	cele|cele_F39H2.2a	31.15	244	141	27	79	306	194	426	6.3e-07	52.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_14761T0 | MGG_14761 | Magnaporthe grisea (M. oryzae) 70-15 conserved hypothetical protei - 405 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_14761T0	cele|cele_K04G7.10	40.55	365	151	66	1	333	1	331	8.3e-11	64.9
+mgri|MGG_14761T0	cele|cele_C27H5.3	42.55	188	86	22	201	380	275	448	2.6e-06	50.5
+mgri|MGG_14761T0	cele|cele_K07H8.10	43.05	223	91	36	196	395	6	215	6.7e-06	49.9
+mgri|MGG_14761T0	cele|cele_T28C6.1b	40.91	154	78	13	201	349	36	181	5.1e-05	45.5
+mgri|MGG_14761T0	cele|cele_T20B6.3	42.47	146	72	12	200	340	111	249	5.2e-05	45.3
+mgri|MGG_14761T0	cele|cele_T01C3.7	49.02	153	49	29	212	362	1	126	6e-05	45.6
+mgri|MGG_14761T0	cele|cele_Y43F8C.20	45.39	152	71	12	193	340	34	177	6e-05	44.7
+mgri|MGG_14761T0	cele|cele_K09H9.6	39.00	259	116	42	104	346	341	573	8.6e-05	45.7
+mgri|MGG_14761T0	cele|cele_K01A6.4	40.37	161	75	21	199	346	56	208	0.00018	43.7
+mgri|MGG_14761T0	cele|cele_Y66H1A.4	54.37	103	32	15	212	307	146	240	0.00025	43.0
+mgri|MGG_14761T0	cele|cele_F07C4.7	43.83	162	66	25	188	339	14	160	0.00031	42.2
+mgri|MGG_14761T0	cele|cele_ZK643.8	40.80	174	90	13	200	363	63	233	0.00032	44.3
+mgri|MGG_14761T0	cele|cele_C18D11.4	38.95	267	103	60	102	343	76	307	0.00048	42.4
+mgri|MGG_14761T0	cele|cele_Y47D7A.13	32.43	185	102	23	196	366	34	209	0.00069	41.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_35320|e_gw1.14.105.1 - 203 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_35320|e_gw1.14.105.1	cele|cele_K04G7.10	41.87	203	107	11	4	202	2	197	1.6e-26	116.1
+mlar|t_35320|e_gw1.14.105.1	cele|cele_EEED8.7a	28.70	108	75	2	93	200	6	111	6e-06	47.0
+mlar|t_35320|e_gw1.14.105.1	cele|cele_F39H2.2a	27.91	172	115	9	26	195	165	329	1e-05	47.3
+mlar|t_35320|e_gw1.14.105.1	cele|cele_C18D11.4	34.48	116	65	11	94	203	67	177	2.6e-05	45.6
+mlar|t_35320|e_gw1.14.105.1	cele|cele_C30B5.4	28.70	115	79	3	79	190	7	121	3.9e-05	44.9
+mlar|t_35320|e_gw1.14.105.1	cele|cele_R07E5.14	25.83	120	80	9	81	191	21	140	0.00012	42.3
+mlar|t_35320|e_gw1.14.105.1	cele|cele_Y54H5A.3	24.63	203	131	22	7	197	94	286	0.00015	43.0
+mlar|t_35320|e_gw1.14.105.1	cele|cele_C17E4.5	21.66	157	112	11	53	202	23	175	0.00016	42.3
+mlar|t_35320|e_gw1.14.105.1	cele|cele_R09B3.3	29.11	79	56	0	109	187	5	83	0.00018	40.9
+mlar|t_35320|e_gw1.14.105.1	cele|cele_K02F3.11	23.91	138	99	6	55	187	77	213	0.00026	42.2
+mlar|t_35320|e_gw1.14.105.1	cele|cele_F35H8.5	30.84	107	68	6	87	191	25	127	0.00034	42.4
+mlar|t_35320|e_gw1.14.105.1	cele|cele_T08B6.5	23.44	128	88	10	76	194	11	137	0.00035	41.0
+mlar|t_35320|e_gw1.14.105.1	cele|cele_F56A8.6	27.85	79	57	0	108	186	18	96	0.00047	41.5
+mlar|t_35320|e_gw1.14.105.1	cele|cele_Y73B6BL.6b	29.47	95	65	2	97	190	17	110	0.00058	41.1
+mlar|t_35320|e_gw1.14.105.1	cele|cele_R09B3.2	30.67	75	52	0	109	183	6	80	0.00067	39.0
+mlar|t_35320|e_gw1.14.105.1	cele|cele_F11A10.7	28.33	120	70	16	74	190	224	330	0.00072	41.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU07548T0 | NCU07548 | Neurospora crassa OR74A (finished) hypothetical protei - 415 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU07548T0	cele|cele_K04G7.10	37.57	362	186	40	1	353	1	331	9.1e-10	61.5
+ncra|NCU07548T0	cele|cele_F58G11.2	39.41	170	82	21	218	378	799	956	1.4e-05	49.2
+ncra|NCU07548T0	cele|cele_Y43F8C.20	43.75	176	74	25	194	355	20	184	2.1e-05	46.2
+ncra|NCU07548T0	cele|cele_T21G5.3	37.39	230	93	51	221	407	17	238	3.8e-05	47.3
+ncra|NCU07548T0	cele|cele_ZK643.8	39.89	188	103	10	200	384	63	243	3.9e-05	47.4
+ncra|NCU07548T0	cele|cele_T28C6.1b	33.77	231	111	42	201	409	36	246	6e-05	45.3
+ncra|NCU07548T0	cele|cele_F42A6.7d	33.10	284	138	52	82	345	92	343	7.9e-05	45.2
+ncra|NCU07548T0	cele|cele_T20B6.3	45.12	164	76	14	199	359	105	257	0.00011	44.3
+ncra|NCU07548T0	cele|cele_C18D11.4	34.69	271	120	57	102	354	76	307	0.00022	43.5
+ncra|NCU07548T0	cele|cele_C55B7.1	39.57	187	90	23	201	370	101	281	0.00054	43.9
+ncra|NCU07548T0	cele|cele_C34D4.11	49.14	116	46	13	193	304	29	135	0.00055	41.0
+ncra|NCU07548T0	cele|cele_K09H9.6	37.69	268	88	79	105	353	366	573	0.00056	43.1
+ncra|NCU07548T0	cele|cele_F07C4.7	42.20	173	76	24	188	353	14	169	0.00058	41.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_96220 - 417 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_96220	cele|cele_K04G7.10	37.09	364	184	45	1	352	1	331	3.7e-10	62.8
+ndis|NEUDI1_96220	cele|cele_ZK643.8	40.00	220	116	16	195	408	63	272	4.2e-06	50.6
+ndis|NEUDI1_96220	cele|cele_T20B6.3	44.79	163	72	18	194	351	105	254	8.1e-06	48.0
+ndis|NEUDI1_96220	cele|cele_K07H8.10	42.33	215	96	28	191	397	6	200	1.2e-05	49.0
+ndis|NEUDI1_96220	cele|cele_F58G11.2	38.95	172	84	21	213	377	799	956	3e-05	48.0
+ndis|NEUDI1_96220	cele|cele_C27H5.3	34.72	265	132	41	97	341	201	444	5.1e-05	46.2
+ndis|NEUDI1_96220	cele|cele_F42A6.7d	36.28	226	107	37	97	303	114	321	6e-05	45.6
+ndis|NEUDI1_96220	cele|cele_C18D11.4	34.15	284	122	65	90	353	69	307	7e-05	45.2
+ndis|NEUDI1_96220	cele|cele_Y43F8C.20	45.29	170	69	24	189	350	20	173	0.00015	43.4
+ndis|NEUDI1_96220	cele|cele_C34D4.11	50.41	123	40	21	188	305	29	135	0.00021	42.4
+ndis|NEUDI1_96220	cele|cele_K01A6.4	35.04	234	119	33	194	409	56	274	0.00027	43.1
+ndis|NEUDI1_96220	cele|cele_F07C4.7	40.57	175	80	24	183	352	14	169	0.00029	42.3
+ndis|NEUDI1_96220	cele|cele_F56B3.1	36.57	216	110	27	208	411	64	264	0.00033	43.2
+ndis|NEUDI1_96220	cele|cele_T01C3.7	43.50	177	73	27	210	379	3	159	0.00051	42.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_073580 |  Neosartorya fischeri nul - 382 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_073580	cele|cele_K04G7.10	36.94	333	161	49	1	294	1	323	1.1e-11	67.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_64015 - 415 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_64015	cele|cele_K04G7.10	37.29	362	187	40	1	353	1	331	1e-09	61.3
+ntet|NEUTE1_64015	cele|cele_Y43F8C.20	43.75	176	74	25	194	355	20	184	1.8e-05	46.5
+ntet|NEUTE1_64015	cele|cele_F58G11.2	38.82	170	83	21	218	378	799	956	1.9e-05	48.7
+ntet|NEUTE1_64015	cele|cele_T21G5.3	36.96	230	94	51	221	407	17	238	5.3e-05	46.9
+ntet|NEUTE1_64015	cele|cele_ZK643.8	43.11	167	75	20	200	351	114	275	5.4e-05	46.9
+ntet|NEUTE1_64015	cele|cele_T28C6.1b	33.77	231	111	42	201	409	36	246	6.4e-05	45.2
+ntet|NEUTE1_64015	cele|cele_T20B6.3	44.51	164	77	14	199	359	105	257	6.4e-05	45.0
+ntet|NEUTE1_64015	cele|cele_F42A6.7d	32.75	284	139	52	82	345	92	343	9.6e-05	44.9
+ntet|NEUTE1_64015	cele|cele_C18D11.4	33.96	268	126	51	102	354	76	307	0.00029	43.1
+ntet|NEUTE1_64015	cele|cele_C34D4.11	49.14	116	46	13	193	304	29	135	0.00039	41.5
+ntet|NEUTE1_64015	cele|cele_K09H9.6	37.83	267	89	77	105	353	366	573	0.0005	43.2
+ntet|NEUTE1_64015	cele|cele_C55B7.1	40.11	187	89	23	201	370	101	281	0.00078	43.4
+ntet|NEUTE1_64015	cele|cele_F56B3.1	35.26	190	99	24	213	380	64	251	0.00081	41.9
+ntet|NEUTE1_64015	cele|cele_F07C4.7	41.62	173	77	24	188	353	14	169	0.00081	40.9
+ntet|NEUTE1_64015	cele|cele_K07H8.10	42.51	207	85	34	219	411	6	192	0.00093	42.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002567401.1| gi|255953297 Pc21g03370 [Penicillium chrysogenum Wisconsi - 394 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002567401.1|	cele|cele_K04G7.10	37.76	339	163	48	1	299	1	331	5.6e-14	75.4
+pechr_54_1255|XP_002567401.1|	cele|cele_C18D11.4	36.64	292	131	54	86	372	65	307	6.2e-06	48.6
+pechr_54_1255|XP_002567401.1|	cele|cele_C27H5.3	33.45	281	135	52	102	369	201	442	9.3e-05	45.2
+pechr_54_1255|XP_002567401.1|	cele|cele_F07C4.7	46.51	129	51	18	184	305	14	131	0.00027	42.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_29196|estExt_Genewise1.C_120043 - 147 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_K04G7.10	45.93	135	71	2	5	139	90	222	5.9e-19	90.5
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_Y111B2A.18	32.33	133	70	20	15	147	5	117	1.4e-05	45.7
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_C33H5.12a	34.74	95	54	8	21	115	5	91	1.7e-05	44.9
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_F58D5.1a	39.33	89	51	3	21	106	202	290	1.9e-05	46.6
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_W02B12.3a	31.06	132	65	26	21	147	5	115	3.3e-05	44.8
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_C18D11.4	32.41	145	90	8	8	145	66	209	7.4e-05	43.6
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_Y73B6BL.6b	33.00	100	64	3	19	115	110	209	0.00034	41.4
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_F35H8.5	31.31	99	63	5	6	102	32	127	0.0005	41.4
+rgra|t_29196|estExt_Genewise1.C_120043	cele|cele_C30B5.4	28.05	82	58	1	21	101	40	121	0.00058	40.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_12801 | RO3G_12802 | Rhizopus oryzae hypothetical protei - 178 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_12801	cele|cele_K04G7.10	43.16	190	91	17	3	175	91	280	1.4e-14	76.2
+rory|RO3T_12801	cele|cele_C33H5.12a	39.71	136	67	15	51	173	41	174	6.3e-06	46.6
+rory|RO3T_12801	cele|cele_EEED8.7a	29.79	188	114	18	3	177	8	190	1e-05	46.1
+rory|RO3T_12801	cele|cele_T28D9.2a	36.03	136	73	14	51	175	37	169	0.00029	41.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YIL061C SNP1 SGDID:S000001323, Chr IX from 245556-244654, reverse complement, Verified ORF, "Component of U1 snRNP required f - 300 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YIL061C	cele|cele_K04G7.10	30.11	269	162	26	9	264	6	261	8.9e-16	81.0
+scer_s288c|YIL061C	cele|cele_T22B2.4a	40.54	74	43	1	95	167	22	95	5.5e-06	48.1
+scer_s288c|YIL061C	cele|cele_C30B5.4	31.15	122	77	7	76	193	4	122	6.4e-05	44.8
+scer_s288c|YIL061C	cele|cele_Y46G5A.13	29.11	158	94	18	83	226	102	255	8.6e-05	44.9
+scer_s288c|YIL061C	cele|cele_F11A10.7	26.77	254	157	29	2	248	149	380	0.00016	43.9
+scer_s288c|YIL061C	cele|cele_F56A8.6	34.15	82	51	3	107	188	18	96	0.00021	43.3
+scer_s288c|YIL061C	cele|cele_F39H2.2a	30.17	179	99	26	100	263	231	398	0.00029	43.1
+scer_s288c|YIL061C	cele|cele_Y73B6BL.6b	31.30	115	71	8	107	217	110	220	0.00038	42.3
+scer_s288c|YIL061C	cele|cele_EEED8.7a	27.55	196	124	18	102	297	14	191	0.00052	41.2
+scer_s288c|YIL061C	cele|cele_EEED8.4	25.00	180	120	15	61	230	7	181	0.00067	40.8
+scer_s288c|YIL061C	cele|cele_C18A3.5a	31.33	83	54	3	76	155	101	183	0.00082	41.6
+scer_s288c|YIL061C	cele|cele_C18A3.5e	33.33	75	47	3	84	155	6	80	0.00085	41.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15992 | SNOG_15992 | Stagonospora nodorum hypothetical protei - 379 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_15992	cele|cele_K04G7.10	35.82	349	177	47	1	319	1	332	3.6e-13	72.7
+snod|SNOT_15992	cele|cele_T20B6.3	50.98	153	63	12	185	329	105	253	1.3e-07	53.9
+snod|SNOT_15992	cele|cele_F07C4.7	48.85	174	54	35	174	332	14	167	1.6e-07	53.0
+snod|SNOT_15992	cele|cele_Y43F8C.20	42.63	190	86	23	174	361	14	182	1.8e-07	53.0
+snod|SNOT_15992	cele|cele_ZK643.8	45.13	195	89	18	186	365	63	254	2.7e-07	54.4
+snod|SNOT_15992	cele|cele_T28C6.1b	42.78	187	82	25	199	367	16	195	3.5e-07	52.6
+snod|SNOT_15992	cele|cele_K07H8.10	46.96	181	69	27	208	368	2	175	8.6e-07	52.8
+snod|SNOT_15992	cele|cele_C34D4.11	53.91	128	45	14	202	329	23	136	1.9e-06	49.0
+snod|SNOT_15992	cele|cele_E02A10.2	45.95	185	71	29	186	356	23	192	2.5e-06	50.2
+snod|SNOT_15992	cele|cele_F58D5.1a	32.66	248	150	17	86	329	364	598	2.6e-06	50.8
+snod|SNOT_15992	cele|cele_C27H5.3	45.74	188	71	31	202	370	270	445	6.3e-06	49.0
+snod|SNOT_15992	cele|cele_C27H5.3	43.09	181	68	35	190	367	47	195	1.2e-05	48.1
+snod|SNOT_15992	cele|cele_W03D2.1c	35.81	229	109	38	179	377	21	241	7.9e-06	49.0
+snod|SNOT_15992	cele|cele_C55B7.1	38.43	229	106	35	175	369	13	240	1.1e-05	49.4
+snod|SNOT_15992	cele|cele_Y47D7A.13	39.89	178	88	19	182	348	34	203	1.2e-05	47.6
+snod|SNOT_15992	cele|cele_C18D11.4	35.56	284	136	47	84	358	62	307	2.1e-05	46.8
+snod|SNOT_15992	cele|cele_K01A6.4	39.20	199	101	20	185	367	53	247	2.8e-05	46.2
+snod|SNOT_15992	cele|cele_K09H9.6	41.87	203	78	40	156	353	404	571	3.1e-05	47.1
+snod|SNOT_15992	cele|cele_F42A6.7d	34.88	258	111	57	102	326	114	347	3.6e-05	46.2
+snod|SNOT_15992	cele|cele_T01C3.7	45.91	159	71	15	209	355	6	161	3.6e-05	46.2
+snod|SNOT_15992	cele|cele_F56B3.1	38.92	167	91	11	208	371	70	228	3.7e-05	46.2
+snod|SNOT_15992	cele|cele_T28F2.8	45.89	146	57	22	187	313	287	429	4.5e-05	46.2
+snod|SNOT_15992	cele|cele_W03G1.5	36.63	202	108	20	188	379	222	413	6.1e-05	45.9
+snod|SNOT_15992	cele|cele_C56A3.1	39.07	151	82	10	203	347	84	230	7.4e-05	45.3
+snod|SNOT_15992	cele|cele_T17H7.1	34.59	318	146	62	114	374	239	551	8.7e-05	45.9
+snod|SNOT_15992	cele|cele_R08B4.1b	33.63	223	120	28	129	333	687	899	0.00028	44.9
+snod|SNOT_15992	cele|cele_K02E11.10	38.07	176	80	29	198	365	62	216	0.00032	43.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC19A8_13.1 | SPAC19A8_13 | Schizosaccharomyces pombe 972h- U1 snRNP-associated protein Usp101 (predicted - 261 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPAC19A8_13.1	cele|cele_K04G7.10	34.56	298	150	45	1	257	1	294	2.3e-21	99.4
+spom|SPAC19A8_13.1	cele|cele_EEED8.7a	30.86	175	111	10	91	259	8	178	4.1e-06	47.9
+spom|SPAC19A8_13.1	cele|cele_F39H2.2a	21.69	249	173	22	29	261	175	417	0.00018	43.6
+spom|SPAC19A8_13.1	cele|cele_Y111B2A.18	34.81	135	71	17	96	230	5	122	0.00026	42.3
+spom|SPAC19A8_13.1	cele|cele_T28D9.2a	31.48	162	85	26	102	257	4	145	0.00071	40.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_06371T0 | SPPG_06371 | Spizellomyces punctatus DAOM BR117 U1 small nuclear ribonucleoprotei - 383 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_06371T0	cele|cele_K04G7.10	42.25	213	115	8	1	207	1	211	2.6e-30	129.6
+spun|SPPG_06371T0	cele|cele_Y54H5A.3	23.62	199	136	16	5	195	103	293	1.2e-07	54.2
+spun|SPPG_06371T0	cele|cele_F39H2.2a	35.80	162	83	21	13	173	174	315	1.3e-06	51.3
+spun|SPPG_06371T0	cele|cele_F42A6.7d	23.37	184	120	21	89	265	12	181	3e-05	46.5
+spun|SPPG_06371T0	cele|cele_C18A3.5e	28.44	109	71	7	63	170	1	103	9.6e-05	44.6
+spun|SPPG_06371T0	cele|cele_R09B3.2	36.00	75	47	1	101	174	6	80	0.00011	42.5
+spun|SPPG_06371T0	cele|cele_C18A3.5a	28.44	109	71	7	63	170	104	206	0.00013	44.6
+spun|SPPG_06371T0	cele|cele_T07D1.4	23.91	184	127	13	87	261	142	321	0.00013	44.6
+spun|SPPG_06371T0	cele|cele_R06C1.4	32.43	74	49	1	101	173	7	80	0.00015	42.1
+spun|SPPG_06371T0	cele|cele_R74.5a	24.28	173	122	9	38	203	31	201	0.00023	43.7
+spun|SPPG_06371T0	cele|cele_R09B3.3	31.65	79	53	1	101	178	5	83	0.00037	40.8
+spun|SPPG_06371T0	cele|cele_Y111B2A.18	31.33	83	54	3	100	182	9	88	0.00046	42.1
+spun|SPPG_06371T0	cele|cele_Y47G6A.20b	24.69	162	111	11	15	173	23	176	0.00049	43.5
+spun|SPPG_06371T0	cele|cele_EEED8.7a	32.95	88	55	4	101	184	20	107	0.00055	41.4
+spun|SPPG_06371T0	cele|cele_F58D5.1a	30.95	126	78	9	102	223	202	322	0.00071	42.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_7389|gw1.1.1310.1 - 76 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_7389|gw1.1.1310.1	cele|cele_K04G7.10	50.00	76	37	1	1	76	106	180	5.4e-14	73.1
+sror|t_7389|gw1.1.1310.1	cele|cele_F58D5.1a	42.67	75	42	1	1	74	202	276	7.7e-09	56.9
+sror|t_7389|gw1.1.1310.1	cele|cele_R09B3.2	31.08	74	51	0	1	74	7	80	9.2e-08	50.4
+sror|t_7389|gw1.1.1310.1	cele|cele_R06C1.4	28.77	73	52	0	1	73	8	80	3.2e-07	48.6
+sror|t_7389|gw1.1.1310.1	cele|cele_R09B3.3	29.73	74	52	0	1	74	6	79	4.6e-07	48.1
+sror|t_7389|gw1.1.1310.1	cele|cele_C30B5.4	31.51	73	50	0	1	73	40	112	1e-06	48.8
+sror|t_7389|gw1.1.1310.1	cele|cele_F56A8.6	32.88	73	49	0	1	73	20	92	1.1e-06	48.8
+sror|t_7389|gw1.1.1310.1	cele|cele_Y111B2A.18	31.58	76	48	4	1	76	11	82	3.6e-06	46.8
+sror|t_7389|gw1.1.1310.1	cele|cele_R07E5.14	34.25	73	48	0	1	73	57	129	3.6e-06	45.9
+sror|t_7389|gw1.1.1310.1	cele|cele_F11A10.7	34.25	73	46	2	1	72	248	319	6.2e-06	46.6
+sror|t_7389|gw1.1.1310.1	cele|cele_T23F6.4	34.72	72	47	0	1	72	281	352	1.1e-05	46.9
+sror|t_7389|gw1.1.1310.1	cele|cele_T22B2.4a	29.73	74	51	1	1	74	37	109	2.9e-05	43.7
+sror|t_7389|gw1.1.1310.1	cele|cele_T04A8.6	33.82	68	45	0	3	70	36	103	6e-05	42.9
+sror|t_7389|gw1.1.1310.1	cele|cele_Y54H5A.3	33.33	69	45	1	1	69	205	272	7e-05	42.7
+sror|t_7389|gw1.1.1310.1	cele|cele_W02B12.3a	30.26	76	45	8	1	76	5	72	7.2e-05	42.7
+sror|t_7389|gw1.1.1310.1	cele|cele_Y106G6H.2a	31.08	74	50	1	1	74	319	391	9.7e-05	43.3
+sror|t_7389|gw1.1.1310.1	cele|cele_Y106G6H.2a	33.33	72	47	1	1	72	122	192	9.7e-05	43.3
+sror|t_7389|gw1.1.1310.1	cele|cele_Y46G5A.13	29.58	71	49	1	1	71	134	203	9.7e-05	42.7
+sror|t_7389|gw1.1.1310.1	cele|cele_C18A3.5f	29.58	71	49	1	1	71	24	93	9.8e-05	42.2
+sror|t_7389|gw1.1.1310.1	cele|cele_C18A3.5e	29.58	71	49	1	1	71	34	103	0.0001	42.2
+sror|t_7389|gw1.1.1310.1	cele|cele_Y47G6A.20b	31.51	73	50	0	1	73	104	176	0.00011	43.3
+sror|t_7389|gw1.1.1310.1	cele|cele_C17D12.2	30.26	76	53	0	1	76	431	506	0.00011	42.8
+sror|t_7389|gw1.1.1310.1	cele|cele_C50D2.5	29.17	72	48	3	1	72	21	89	0.00012	40.8
+sror|t_7389|gw1.1.1310.1	cele|cele_C18A3.5a	29.58	71	49	1	1	71	137	206	0.00013	42.2
+sror|t_7389|gw1.1.1310.1	cele|cele_EEED8.7a	28.95	76	54	0	1	76	21	96	0.00017	40.8
+sror|t_7389|gw1.1.1310.1	cele|cele_F35H8.5	36.84	76	48	0	1	76	44	119	0.00021	41.7
+sror|t_7389|gw1.1.1310.1	cele|cele_F35H8.5	34.67	75	49	0	1	75	130	204	0.00021	41.7
+sror|t_7389|gw1.1.1310.1	cele|cele_T28D9.2a	30.77	78	44	10	1	76	4	73	0.0003	40.1
+sror|t_7389|gw1.1.1310.1	cele|cele_Y92C3B.2a	32.43	74	49	1	1	74	293	365	0.00045	40.7
+sror|t_7389|gw1.1.1310.1	cele|cele_Y116A8C.34	27.63	76	55	0	1	76	13	88	0.00053	39.9
+sror|t_7389|gw1.1.1310.1	cele|cele_F56D1.7	34.48	58	37	1	1	58	68	124	0.00054	40.5
+sror|t_7389|gw1.1.1310.1	cele|cele_T07D1.4	26.03	73	52	2	1	73	155	225	0.00055	40.2
+sror|t_7389|gw1.1.1310.1	cele|cele_Y73B6BL.6b	30.36	56	39	0	1	56	112	167	0.0006	39.6
+sror|t_7389|gw1.1.1310.1	cele|cele_C33H5.12a	27.03	74	49	5	1	74	5	73	0.00063	38.8
+sror|t_7389|gw1.1.1310.1	cele|cele_F22B5.2	29.73	74	52	0	3	76	180	253	0.00072	39.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_67280|estExt_Genewise1.C_41387 - 398 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_K04G7.10	38.21	369	180	48	1	361	1	329	3.2e-10	62.9
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_T20B6.3	46.02	176	68	27	199	368	90	244	7.2e-07	51.5
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_ZK643.8	42.23	206	105	14	200	392	94	298	7.7e-07	52.9
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_T28C6.1b	40.74	189	82	30	201	368	33	212	1.9e-05	46.9
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_E02A10.2	41.71	187	88	21	200	382	39	208	4.9e-05	45.9
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_C27H5.3	45.78	166	65	25	220	374	296	447	8.8e-05	45.3
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_F07C4.7	44.87	156	69	17	188	334	14	161	0.00013	43.4
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_K07H8.10	44.50	209	79	37	196	379	6	202	0.00014	45.5
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_C18D11.4	37.73	273	120	50	102	363	76	309	0.00029	43.0
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_K01A6.4	34.16	202	112	21	199	388	56	248	0.00034	42.7
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_W03D2.1c	34.80	204	107	26	201	392	64	253	0.00035	43.6
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_Y43F8C.20	42.86	175	74	26	194	358	20	178	0.00038	42.0
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_T01C3.7	54.13	109	38	12	200	301	12	115	0.0004	42.8
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_C34D4.11	48.44	128	42	24	193	317	29	135	0.00042	41.3
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_T21G5.3	36.19	210	98	36	200	388	21	215	0.00052	43.5
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_T17H7.1	40.64	219	108	22	188	387	364	579	0.00056	43.2
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_Y48B6A.3	46.46	127	58	10	200	321	851	972	0.00061	43.6
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_F58D5.1a	27.34	289	173	37	57	335	335	596	0.0007	42.8
+sthe|t_67280|estExt_Genewise1.C_41387	cele|cele_T28F2.8	40.21	189	83	30	201	375	261	433	0.00095	41.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73567|estExt_fgeneshTM_pg.C_30488 - 335 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_73567|estExt_fgeneshTM_pg.C_30488	cele|cele_K04G7.10	33.56	295	138	58	1	295	1	237	3.3e-13	72.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_62063|e_gw1.9.260.1 - 240 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_62063|e_gw1.9.260.1	cele|cele_K04G7.10	37.36	273	135	36	1	240	1	270	3.2e-15	78.8
+tree|t_62063|e_gw1.9.260.1	cele|cele_C27H5.3	32.89	149	88	12	102	240	201	347	0.00036	42.6
+tree|t_62063|e_gw1.9.260.1	cele|cele_C18D11.4	35.81	148	79	16	102	240	76	216	0.00043	41.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_155530|genemark.4448_g - 391 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_155530|genemark.4448_g	cele|cele_K04G7.10	38.62	347	174	39	1	323	1	332	3.2e-10	63.0
+tter|t_155530|genemark.4448_g	cele|cele_T20B6.3	45.45	165	66	24	199	360	105	248	8.9e-07	51.1
+tter|t_155530|genemark.4448_g	cele|cele_T28C6.1b	40.64	187	96	15	201	381	36	213	7.9e-06	48.2
+tter|t_155530|genemark.4448_g	cele|cele_K07H8.10	41.84	196	91	23	196	373	6	196	1.8e-05	48.4
+tter|t_155530|genemark.4448_g	cele|cele_ZK643.8	45.73	164	75	14	200	360	63	215	2.9e-05	47.7
+tter|t_155530|genemark.4448_g	cele|cele_F07C4.7	42.38	151	75	12	188	332	14	158	0.00011	43.7
+tter|t_155530|genemark.4448_g	cele|cele_F42A6.7d	34.31	274	134	46	82	331	92	343	0.00012	44.5
+tter|t_155530|genemark.4448_g	cele|cele_C34D4.11	48.78	123	44	19	214	336	32	135	0.00025	42.0
+tter|t_155530|genemark.4448_g	cele|cele_E02A10.2	40.00	170	86	16	200	360	23	185	0.00026	43.5
+tter|t_155530|genemark.4448_g	cele|cele_C55B7.1	35.20	196	111	16	200	381	120	313	0.00027	44.8
+tter|t_155530|genemark.4448_g	cele|cele_T01C3.7	54.39	114	33	19	200	304	12	115	0.00033	43.1
+tter|t_155530|genemark.4448_g	cele|cele_T17H7.1	37.24	239	108	42	178	381	292	523	0.00046	43.5
+tter|t_155530|genemark.4448_g	cele|cele_C27H5.3	44.12	136	64	12	202	334	70	196	0.00055	42.7
+tter|t_155530|genemark.4448_g	cele|cele_C27H5.3	42.44	172	67	32	220	378	296	448	0.00055	42.7
+tter|t_155530|genemark.4448_g	cele|cele_C18D11.4	36.84	266	130	38	102	363	76	307	0.00058	42.0
+tter|t_155530|genemark.4448_g	cele|cele_K01A6.4	34.63	205	100	34	199	381	56	248	0.00064	41.8
+tter|t_155530|genemark.4448_g	cele|cele_Y43F8C.20	40.46	173	66	37	193	360	34	174	0.00083	40.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04775 related to SNP1 - U1 small nuclear ribonuc - 342 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um04775	cele|cele_K04G7.10	37.55	261	135	28	1	261	1	233	2.3e-12	69.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E10989gT0 gene=YALI0E10989g Ylip_CLIB122_chrE:complement(1348774 - 345 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0E10989gT0	cele|cele_K04G7.10	33.03	333	196	27	24	339	5	327	3.8e-16	82.5
+ylip|YALI0E10989gT0	cele|cele_F39H2.2a	29.26	270	157	34	69	322	175	426	1.5e-05	47.6
+ylip|YALI0E10989gT0	cele|cele_EEED8.7a	31.75	189	115	14	120	306	20	196	0.00013	43.4

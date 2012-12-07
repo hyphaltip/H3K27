@@ -1,0 +1,143 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09421.1 - 2665 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB09421.1	cele|cele_Y48G9A.3	27.23	2516	1570	261	234	2593	230	2640	6.6e-142	506.2
+abra|AB09421.1	cele|cele_F48E8.5	22.61	544	380	41	1284	1807	61	583	9.5e-09	61.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g07960 Afu2g07960 A_fumigatus_Af293 AspGDID: COORDS:chr2:2038988-2047547(+) translated using codon table 1 (2712 amino acids - 2711 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu2g07960	cele|cele_Y48G9A.3	26.26	2761	1771	265	7	2638	16	2640	2.3e-140	501.1
+afum|Afu2g07960	cele|cele_D2045.2	21.47	787	535	83	1432	2182	1051	1790	1.6e-06	55.9
+afum|Afu2g07960	cele|cele_F48E8.5	22.57	607	410	60	1380	1972	18	578	1.2e-05	51.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_12619T0 | AMAG_12619 | Allomyces macrogynus ATCC 38327 predicted protein - 2444 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_12619T0	cele|cele_Y48G9A.3	27.65	2260	1385	250	334	2431	483	2654	1e-80	302.8
+amac|AMAG_12619T0	cele|cele_F48E8.5	21.88	448	304	46	1226	1650	15	439	0.00052	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10734T0 | ANID_10734 | Aspergillus nidulans FGSC A4 60S ribosomal protein L19 - 2672 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_10734T0	cele|cele_Y48G9A.3	27.14	2704	1720	250	33	2599	50	2640	9.6e-140	499.0
+anid|ANID_10734T0	cele|cele_F48E8.5	22.89	581	385	63	1291	1858	58	588	2.3e-08	60.4
+anid|ANID_10734T0	cele|cele_D2045.2	21.82	770	519	83	1398	2129	1037	1761	3.1e-06	54.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07045 | BC1G_07045 | Botrytis cinerea hypothetical protein similar to translational activator - 2673 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_07045	cele|cele_Y48G9A.3	27.28	2573	1615	256	170	2603	185	2640	2.4e-140	501.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5328 |  Candida Albicans sc5314 assembly 21 orf19.5328 - 2419 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.5328	cele|cele_Y48G9A.3	27.58	2498	1463	346	159	2356	189	2640	1.5e-77	292.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04839 | PGUG_04839 | Candida guilliermondii hypothetical protein - 2666 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_04839	cele|cele_Y48G9A.3	26.97	2536	1645	207	184	2598	191	2640	1.2e-135	485.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00911T0 | CIMG_00911 | Coccidioides immitis RS 60S ribosomal protein L19 - 2676 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_00911T0	cele|cele_Y48G9A.3	26.98	2506	1590	240	229	2594	225	2630	2.5e-149	530.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03748T0 | CNAG_03748 | Cryptococcus neoformans grubii H99 60S ribosomal protein L19 - 2606 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_03748T0	cele|cele_Y48G9A.3	29.43	2300	1387	236	336	2497	247	2448	3.3e-166	586.9
+cneo_h99|CNAG_03748T0	cele|cele_F48E8.5	22.73	484	310	64	1390	1861	71	502	0.00013	47.9
+cneo_h99|CNAG_03748T0	cele|cele_T08A11.2	22.35	255	177	21	1641	1888	513	753	0.00015	48.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_148849|e_gw1.08.1.1 - 2218 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_148849|e_gw1.08.1.1	cele|cele_Y48G9A.3	30.45	2243	1361	199	74	2214	256	2401	1.6e-156	554.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04710T0 | MGG_04710 | Magnaporthe grisea (M. oryzae) 70-15 translational activator GCN1 - 2678 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_04710T0	cele|cele_Y48G9A.3	26.93	2521	1639	203	210	2610	209	2646	2.5e-153	544.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_116468|estExt_fgenesh2_pg.C_180055 - 2583 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	cele|cele_Y48G9A.3	28.85	2402	1510	199	291	2576	237	2555	7.8e-191	668.7
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	cele|cele_T08A11.2	22.99	748	455	121	1181	1861	614	1307	0.00046	47.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05803T0 | NCU05803 | Neurospora crassa OR74A (finished) translational activator - 2692 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU05803T0	cele|cele_Y48G9A.3	26.63	2584	1680	216	169	2634	170	2655	7.7e-145	515.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_101235 - 2670 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_101235	cele|cele_Y48G9A.3	26.80	2586	1652	241	168	2612	170	2655	1.4e-142	508.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_083650 |  Neosartorya fischeri null - 2673 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_083650	cele|cele_Y48G9A.3	26.91	2742	1742	262	8	2600	12	2640	2.3e-138	494.4
+nfis|NFIA_083650	cele|cele_F48E8.5	22.41	607	411	60	1361	1953	18	578	1.2e-06	54.6
+nfis|NFIA_083650	cele|cele_D2045.2	22.03	790	527	89	1413	2163	1051	1790	2.8e-06	55.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_67967 - 2691 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_67967	cele|cele_Y48G9A.3	26.63	2584	1680	216	168	2633	170	2655	7e-141	502.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002558924.1| gi|255935795 Pc13g04890 [Penicillium chrysogenum Wisconsi - 2596 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002558924.1|	cele|cele_Y48G9A.3	26.52	2572	1662	228	85	2524	165	2640	5.4e-138	493.1
+pechr_54_1255|XP_002558924.1|	cele|cele_F48E8.5	24.60	504	324	56	1379	1846	106	589	2.7e-06	53.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_40719|gm1.284_g - 2597 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_40719|gm1.284_g	cele|cele_Y48G9A.3	32.91	1881	1102	160	796	2574	723	2545	3.5e-155	550.2
+rgra|t_40719|gm1.284_g	cele|cele_F23B12.5	24.47	331	223	27	84	403	168	482	0.00022	46.9
+rgra|t_40719|gm1.284_g	cele|cele_W07G4.3	23.74	278	192	20	1497	1765	274	540	0.00067	46.0
+rgra|t_40719|gm1.284_g	cele|cele_F48E8.5	24.28	383	268	22	1513	1884	106	477	0.00076	45.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_09453 | RO3G_09454 | Rhizopus oryzae hypothetical protein - 2269 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_09453	cele|cele_Y48G9A.3	30.09	2210	1342	203	185	2265	266	2401	4.4e-121	436.8
+rory|RO3T_09453	cele|cele_F48E8.5	21.74	506	346	50	1209	1688	98	579	5.9e-06	52.1
+rory|RO3T_09453	cele|cele_T08A11.2	22.16	573	376	70	1474	2012	554	1090	5e-05	50.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YGL195W GCN1 SGDID:S000003163, Chr VII from 131531-139549, Verified ORF, "Positive regulator of the Gcn2p kinase activity, fo - 2672 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YGL195W	cele|cele_Y48G9A.3	27.87	2347	1475	218	227	2420	206	2487	1e-143	512.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_03050 | SNOG_03050 | Stagonospora nodorum hypothetical protein - 2683 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_03050	cele|cele_Y48G9A.3	26.42	2574	1624	270	210	2636	209	2659	7.2e-140	499.4
+snod|SNOT_03050	cele|cele_F48E8.5	22.89	546	376	45	1302	1825	61	583	1.3e-08	61.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC18G6_05c.1 | SPAC18G6_05c | Schizosaccharomyces pombe 972h- translation elongation regulator Gcn1 (predicted) - 2670 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPAC18G6_05c.1	cele|cele_Y48G9A.3	26.52	2719	1759	239	56	2635	46	2664	1.5e-169	598.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00147T0 | SPPG_00147 | Spizellomyces punctatus DAOM BR117 translational activator gcn1 - 2790 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_00147T0	cele|cele_Y48G9A.3	29.57	2611	1571	268	274	2786	231	2671	1.1e-163	578.6
+spun|SPPG_00147T0	cele|cele_F48E8.5	23.50	515	331	63	1586	2083	106	574	0.0005	46.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_20913|estExt_Genewise1Plus.C_20699 - 2340 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_20913|estExt_Genewise1Plus.C_20699	cele|cele_Y48G9A.3	29.33	2462	1497	243	4	2328	205	2560	3.2e-166	586.7
+sror|t_20913|estExt_Genewise1Plus.C_20699	cele|cele_F48E8.5	22.81	491	343	36	1247	1717	92	566	8.9e-05	48.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_116146|estExt_fgenesh1_pm.C_50066 - 2591 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_116146|estExt_fgenesh1_pm.C_50066	cele|cele_Y48G9A.3	27.00	2511	1600	233	165	2543	250	2659	4.7e-147	523.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73934|estExt_fgeneshTM_pg.C_50436 - 2563 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	cele|cele_Y48G9A.3	27.50	2538	1607	233	48	2453	12	2448	4.5e-182	639.6
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	cele|cele_D2045.2	21.13	691	453	92	1671	2319	805	1445	0.00011	49.7
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	cele|cele_F48E8.5	22.33	618	413	67	1383	1964	3	589	0.00013	47.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_65242|e_gw1.16.275.1 - 2839 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_65242|e_gw1.16.275.1	cele|cele_Y48G9A.3	26.04	2707	1746	256	16	2583	76	2665	6.3e-137	489.7
+tree|t_65242|e_gw1.16.275.1	cele|cele_C09D4.5	60.54	185	73	0	2651	2835	1	185	1.1e-46	186.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_135763|estExt_fgenesh2_pm.C_50697 - 2669 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_135763|estExt_fgenesh2_pm.C_50697	cele|cele_Y48G9A.3	26.59	2704	1751	234	21	2589	32	2636	2e-144	514.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04443 related to translation activator GCN1 - 2660 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um04443	cele|cele_Y48G9A.3	29.73	2402	1476	212	304	2602	234	2526	5.8e-147	523.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D17732gT0 gene=YALI0D17732g Ylip_CLIB122_chrD:join(2174439..2174522,2174966 - 2524 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0D17732gT0	cele|cele_Y48G9A.3	28.72	1943	1225	160	660	2481	748	2651	7e-86	320.0

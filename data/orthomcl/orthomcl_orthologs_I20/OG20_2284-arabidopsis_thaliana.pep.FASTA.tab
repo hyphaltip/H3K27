@@ -1,0 +1,156 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB07175.1 - 495 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB07175.1	atha|AT3G04600.1	46.04	417	201	24	16	431	4	397	4.5e-31	133.1
+abra|AB07175.1	atha|AT2G33840	28.42	183	102	29	263	430	211	379	0.00072	42.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g01640 Afu2g01640 A_fumigatus_Af293 AspGDID: COORDS:chr2:396481-397896(+) translated using codon table 1 (417 amino acids) t - 416 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu2g01640	atha|AT3G04600.1	48.98	394	170	31	28	402	16	397	1.2e-57	221.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04902T0 | AMAG_04902 | Allomyces macrogynus ATCC 38327 tryptophanyl-tRNA synthetas - 507 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_04902T0	atha|AT3G04600.1	56.12	392	166	6	36	427	13	398	3.7e-74	276.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10475T0 | ANID_10475 | Aspergillus nidulans FGSC A4 tryptophanyl-tRNA synthetas - 424 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_10475T0	atha|AT3G04600.1	49.38	401	186	17	13	413	14	397	1.9e-32	137.4
+anid|ANID_10475T0	atha|AT2G33840	25.57	348	191	68	79	397	58	366	2.8e-06	50.4
+anid|ANID_10475T0	atha|AT1G28350	31.01	158	86	23	254	397	232	380	9.1e-06	49.8
+anid|ANID_10475T0	atha|AT1G28350	28.26	230	120	45	192	406	569	768	1.1e-05	49.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07147 | BC1G_07147 | Botrytis cinerea tryptophanyl-tRNA synthetas - 474 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_07147	atha|AT3G04600.1	50.88	399	184	12	15	412	10	397	4.3e-77	285.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5226 |  Candida Albicans sc5314 assembly 21 orf19.522 - 424 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.5226	atha|AT3G04600.1	50.00	408	195	9	1	406	1	401	5.9e-88	321.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02743 | PGUG_02743 | Candida guilliermondii hypothetical protein similar to tryptophanyl-tRNA synthetas - 426 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_02743	atha|AT3G04600.1	48.98	392	194	6	13	403	6	392	8.2e-81	298.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_05088T0 | CIMG_05088 | Coccidioides immitis RS tryptophanyl-tRNA synthetas - 490 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_05088T0	atha|AT3G04600.1	50.97	412	185	17	57	468	3	397	2.4e-32	137.3
+cimm_rs|CIMG_05088T0	atha|AT2G33840	24.76	307	177	54	174	463	106	375	0.00035	43.7
+cimm_rs|CIMG_05088T0	atha|AT1G28350	27.62	239	123	50	247	466	569	776	0.00065	43.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04604T0 | CNAG_04604 | Cryptococcus neoformans grubii H99 tryptophan-tRNA ligas - 611 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_04604T0	atha|AT3G04600.1	48.50	400	183	23	180	579	15	391	2.5e-44	177.4
+cneo_h99|CNAG_04604T0	atha|AT1G28350	27.24	268	151	44	329	570	136	385	6e-05	47.6
+cneo_h99|CNAG_04604T0	atha|AT2G33840	27.84	255	156	28	345	591	138	372	0.00021	44.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA - 260 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA	atha|AT3G04600.1	53.23	248	116	0	3	250	145	392	1e-58	224.0
+mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA	atha|AT2G33840	29.27	205	107	38	42	231	177	358	4.1e-06	49.2
+mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA	atha|AT1G28350	28.75	240	129	42	15	231	152	372	0.00049	43.3
+mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA	atha|AT1G28350	27.90	233	131	37	15	227	530	745	0.00049	43.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_09540T0 | MGG_09540 | Magnaporthe grisea (M. oryzae) 70-15 tryptophanyl-tRNA synthetas - 446 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_09540T0	atha|AT3G04600.1	45.29	393	164	51	38	385	11	397	1.3e-32	138.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_51354|fgenesh1_pm.C_scaffold_1000127 - 410 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_51354|fgenesh1_pm.C_scaffold_1000127	atha|AT3G04600.1	52.99	385	176	5	9	393	13	392	2.9e-91	332.8
+mlar|t_51354|fgenesh1_pm.C_scaffold_1000127	atha|AT2G33840	27.98	193	113	26	207	383	185	367	6.4e-07	52.5
+mlar|t_51354|fgenesh1_pm.C_scaffold_1000127	atha|AT1G28350	26.55	275	161	41	158	410	152	407	1.5e-06	52.3
+mlar|t_51354|fgenesh1_pm.C_scaffold_1000127	atha|AT1G28350	30.43	207	112	32	207	392	577	772	7.8e-07	53.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU06722T0 | NCU06722 | Neurospora crassa OR74A (finished) tryptophanyl-tRNA synthetas - 491 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU06722T0	atha|AT3G04600.1	52.45	408	174	20	20	425	8	397	4.8e-54	209.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_71647 - 491 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_71647	atha|AT3G04600.1	52.70	408	173	20	20	425	8	397	1.5e-54	211.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_033950 |  Neosartorya fischeri nul - 433 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_033950	atha|AT3G04600.1	52.67	393	174	12	28	419	16	397	2.9e-92	336.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_149131 - 491 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_149131	atha|AT3G04600.1	52.45	408	174	20	20	425	8	397	5.2e-54	209.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563085.1| gi|255944635 Pc20g05510 [Penicillium chrysogenum Wisconsi - 435 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002563085.1|	atha|AT3G04600.1	48.40	407	199	11	14	419	1	397	6.9e-87	318.3
+pechr_54_1255|XP_002563085.1|	atha|AT1G28350	24.00	375	236	49	61	396	9	373	0.00016	45.7
+pechr_54_1255|XP_002563085.1|	atha|AT2G33840	30.07	143	87	13	264	396	220	359	0.00023	44.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_48759|estExt_fgenesh1_pm.C_100057 - 391 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_48759|estExt_fgenesh1_pm.C_100057	atha|AT3G04600.1	54.27	363	165	1	3	365	31	392	1.5e-90	330.3
+rgra|t_48759|estExt_fgenesh1_pm.C_100057	atha|AT2G33840	23.93	326	202	46	64	365	72	375	1.5e-05	47.9
+rgra|t_48759|estExt_fgenesh1_pm.C_100057	atha|AT1G28350	29.52	166	92	25	200	351	600	754	0.00057	43.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_16974 | RO3G_16975 | Rhizopus oryzae hypothetical protei - 414 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_16974	atha|AT3G04600.1	53.44	393	177	6	14	406	6	392	5.8e-96	348.4
+rory|RO3T_16974	atha|AT2G33840	25.77	326	190	52	90	387	57	358	7.8e-06	49.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YOL097C WRS1 SGDID:S000005457, Chr XV from 137825-136527, reverse complement, Verified ORF, "Cytoplasmic tryptophanyl-tRNA sy - 432 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YOL097C	atha|AT3G04600.1	52.66	395	181	6	18	412	9	397	1.9e-88	323.5
+scer_s288c|YOL097C	atha|AT2G33840	28.95	152	85	23	257	393	220	363	3.8e-05	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_05462 | SNOG_05462 | Stagonospora nodorum hypothetical protei - 495 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_05462	atha|AT3G04600.1	47.55	408	192	22	24	431	12	397	4.3e-31	133.2
+snod|SNOT_05462	atha|AT2G33840	30.05	183	99	29	263	430	211	379	5e-05	46.5
+snod|SNOT_05462	atha|AT1G28350	30.90	178	93	30	263	421	603	769	0.00015	46.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC2F7_13c.1 | SPAC2F7_13c | Schizosaccharomyces pombe 972h- tryptophan-tRNA ligase Wrs1 (predicted - 395 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC2F7_13c.1	atha|AT3G04600.1	55.09	383	167	5	5	387	15	392	5.5e-94	341.8
+spom|SPAC2F7_13c.1	atha|AT1G28350	26.59	252	142	43	141	368	140	372	0.00019	45.3
+spom|SPAC2F7_13c.1	atha|AT1G28350	27.63	333	192	49	80	386	457	766	7.1e-05	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07262T0 | SPPG_07262 | Spizellomyces punctatus DAOM BR117 tryptophanyl-tRNA synthetas - 430 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_07262T0	atha|AT3G04600.1	54.52	398	175	6	19	416	5	396	8.3e-98	354.6
+spun|SPPG_07262T0	atha|AT2G33840	25.60	336	197	53	94	402	58	367	1.4e-07	54.8
+spun|SPPG_07262T0	atha|AT1G28350	24.78	226	128	42	194	402	181	381	3.8e-05	47.7
+spun|SPPG_07262T0	atha|AT1G28350	30.00	170	94	25	247	402	600	758	3.2e-05	48.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14500|e_gw1.8.126.1 - 415 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_14500|e_gw1.8.126.1	atha|AT3G04600.1	54.45	382	169	5	1	382	15	391	1.5e-96	350.4
+sror|t_14500|e_gw1.8.126.1	atha|AT2G33840	25.11	235	139	37	168	382	164	381	1e-05	48.5
+sror|t_14500|e_gw1.8.126.1	atha|AT1G28350	30.98	184	97	30	218	382	600	772	4.8e-05	47.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_64980|estExt_Genewise1.C_30829 - 478 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_64980|estExt_Genewise1.C_30829	atha|AT3G04600.1	54.11	401	166	18	23	422	14	397	2.8e-57	220.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_67668|fgeneshTM_pm.2_#_156 - 550 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_67668|fgeneshTM_pm.2_#_156	atha|AT3G04600.1	46.99	415	191	29	134	548	13	398	2.1e-48	190.8
+tmes|t_67668|fgeneshTM_pm.2_#_156	atha|AT2G33840	24.31	325	198	48	210	517	65	358	9.9e-05	45.7
+tmes|t_67668|fgeneshTM_pm.2_#_156	atha|AT1G28350	24.90	257	149	44	285	517	136	372	0.0001	46.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_121000|estExt_fgenesh5_pg.C_50327 - 485 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_121000|estExt_fgenesh5_pg.C_50327	atha|AT3G04600.1	51.36	405	185	12	12	415	4	397	8.8e-81	298.2
+tree|t_121000|estExt_fgenesh5_pg.C_50327	atha|AT2G33840	29.90	204	96	47	245	413	191	382	0.0004	43.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_58737|estExt_Genewise1.C_23006 - 488 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_58737|estExt_Genewise1.C_23006	atha|AT3G04600.1	53.43	408	172	18	17	423	7	397	6.8e-55	212.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03798 probable tryptophan--tRNA ligase - 440 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um03798	atha|AT3G04600.1	54.01	387	173	5	20	406	11	392	6.3e-96	348.4
+umay|um03798	atha|AT2G33840	26.05	238	138	38	171	387	138	358	7.8e-06	49.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0B08943gT0 gene=YALI0B08943g Ylip_CLIB122_chrB:122379 - 438 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0B08943gT0	atha|AT3G04600.1	52.32	388	179	6	23	410	11	392	1.4e-90	330.6
+ylip|YALI0B08943gT0	atha|AT2G33840	26.07	280	157	50	161	409	121	381	8.4e-06	48.9
+ylip|YALI0B08943gT0	atha|AT1G28350	32.61	184	94	30	245	409	600	772	1.9e-05	48.7
+ylip|YALI0B08943gT0	atha|AT1G28350	26.40	303	167	56	161	434	135	410	7.4e-06	50.1

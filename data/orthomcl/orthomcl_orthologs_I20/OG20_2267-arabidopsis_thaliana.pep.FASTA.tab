@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02844.1 - 209 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB02844.1	atha|AT4G38630	40.48	210	113	12	2	209	91	290	5.9e-18	88.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g15070 Afu2g15070 A_fumigatus_Af293 AspGDID: COORDS:chr2:3981707-3982733(+) translated using codon table 1 (281 amino acids) - 280 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu2g15070	atha|AT4G38630	47.06	255	128	7	1	248	1	255	5.1e-35	145.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_16790T0 | AMAG_16790 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 366 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_16790T0	atha|AT4G38630	50.39	385	169	22	1	366	1	382	2.2e-58	223.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_07579T0 | ANID_07579 | Aspergillus nidulans FGSC A4 26S proteasome regulatory subunit S5 - 278 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_07579T0	atha|AT4G38630	42.35	281	157	5	1	276	1	281	1.2e-31	134.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_12408 | BC1G_12408 | Botrytis cinerea 26S proteasome regulatory subunit S5 - 295 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_12408	atha|AT4G38630	48.41	283	137	9	1	279	1	278	6.1e-43	171.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.4102 |  Candida Albicans sc5314 assembly 21 orf19.410 - 279 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.4102	atha|AT4G38630	47.74	287	138	12	1	278	1	284	4.2e-42	168.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_01327 | PGUG_01327 | Candida guilliermondii hypothetical protei - 275 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_01327	atha|AT4G38630	46.15	286	135	19	1	271	1	282	1.9e-39	160.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_02361T0 | CIMG_02361 | Coccidioides immitis RS 26S proteasome regulatory subunit S5 - 290 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_02361T0	atha|AT4G38630	46.59	279	135	14	1	265	1	279	6.8e-41	164.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00482T0 | CNAG_00482 | Cryptococcus neoformans grubii H99 26S proteasome regulatory subuni - 371 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_00482T0	atha|AT4G38630	39.89	376	193	33	1	344	1	375	1.6e-30	130.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_157240|fgenesh1_kg.08_#_131_#_1489_1_CCIA - 363 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_157240|fgenesh1_kg.08_#_131_#_1489_1_CCIA	atha|AT4G38630	49.06	371	175	14	1	359	1	369	1.3e-52	204.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04506T0 | MGG_04506 | Magnaporthe grisea (M. oryzae) 70-15 26S proteasome non-ATPase regulatory subunit  - 294 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_04506T0	atha|AT4G38630	50.53	283	128	12	1	275	1	279	2.4e-37	153.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_70919|estExt_fgenesh1_kg.C_40078 - 326 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_70919|estExt_fgenesh1_kg.C_40078	atha|AT4G38630	37.46	331	186	21	1	323	1	318	4.3e-29	125.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU02982T0 | NCU02982 | Neurospora crassa OR74A (finished) 26S proteasome regulatory subunit S5 - 303 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU02982T0	atha|AT4G38630	48.58	282	139	6	1	279	1	279	9.2e-39	157.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_33851 - 290 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_33851	atha|AT4G38630	48.58	282	139	6	1	279	1	279	2.2e-40	163.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_090320 |  Neosartorya fischeri nul - 280 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_090320	atha|AT4G38630	47.06	255	128	7	1	248	1	255	6.1e-36	148.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_15958 - 290 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_15958	atha|AT4G38630	48.58	282	139	6	1	279	1	279	2.2e-40	163.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002556946.1| gi|255930779 Pc12g00420 [Penicillium chrysogenum Wisconsi - 277 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002556946.1|	atha|AT4G38630	42.35	281	156	6	1	275	1	281	5.6e-36	148.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_9228|gw1.2.766.1 - 233 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_9228|gw1.2.766.1	atha|AT4G38630	49.79	241	113	8	1	233	1	241	2.7e-41	165.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03332 | RO3G_03333 | Rhizopus oryzae hypothetical protei - 352 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_03332	atha|AT4G38630	50.40	377	160	27	1	352	1	375	1.1e-52	204.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YHR200W RPN10 SGDID:S000001243, Chr VIII from 499079-499885, Verified ORF, "Non-ATPase base subunit of the 19S regulatory par - 268 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YHR200W	atha|AT4G38630	45.83	264	133	10	1	261	1	257	1.5e-36	150.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15261 | SNOG_15261 | Stagonospora nodorum hypothetical protei - 296 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_15261	atha|AT4G38630	45.48	299	151	12	1	296	1	290	1.3e-35	147.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC637_10c.1 | SPAC637_10c | Schizosaccharomyces pombe 972h- 19S proteasome regulatory subunit Rpn1 - 243 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC637_10c.1	atha|AT4G38630	47.06	255	119	16	1	239	1	255	1.1e-34	144.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03477T0 | SPPG_03477 | Spizellomyces punctatus DAOM BR117 26S proteasome non-ATPase regulatory subunit  - 356 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_03477T0	atha|AT4G38630	50.77	392	150	43	1	355	1	386	9.3e-52	201.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_4193|gw1.7.288.1 - 269 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_4193|gw1.7.288.1	atha|AT4G38630	48.90	272	108	31	1	269	1	244	8e-30	128.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_110611|estExt_fgenesh1_kg.C_20546 - 233 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_110611|estExt_fgenesh1_kg.C_20546	atha|AT4G38630	52.32	237	103	10	1	233	1	231	1.8e-39	159.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_70875|estExt_fgeneshTM_pm.C_10528 - 343 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_70875|estExt_fgeneshTM_pm.C_10528	atha|AT4G38630	41.71	350	163	41	1	336	1	323	8.1e-32	135.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_65591|e_gw1.16.202.1 - 289 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_65591|e_gw1.16.202.1	atha|AT4G38630	47.93	290	137	14	1	282	1	284	2.9e-41	166.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_56372|estExt_Genewise1.C_14934 - 292 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_56372|estExt_Genewise1.C_14934	atha|AT4G38630	47.87	282	141	6	1	279	1	279	3.6e-43	172.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um10153 probable 26S proteasome regulatory sub - 374 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um10153	atha|AT4G38630	44.17	326	172	10	1	318	1	324	1.2e-46	184.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D03762gT0 gene=YALI0D03762g Ylip_CLIB122_chrD:complement(join(477071..477899,477949 - 284 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0D03762gT0	atha|AT4G38630	48.24	284	140	7	1	278	1	283	2.4e-40	163.1

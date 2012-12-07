@@ -1,0 +1,113 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB07710.1 - 264 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g10990 Afu1g10990 A_fumigatus_Af293 AspGDID: COORDS:chr1:2871868-2872997(-) translated using codon table 1 (326 amino acids) - 325 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04880T0 | AMAG_04880 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 528 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_04880T0	mbre|t_32386	24.77	549	323	90	9	526	1824	2313	4.9e-08	57.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_01175T0 | ANID_01175 | Aspergillus nidulans FGSC A4 ribosomal RNA processing protei - 331 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_11187 | BC1G_11187 | Botrytis cinerea hypothetical protein similar to RRP1B protei - 269 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6828 |  Candida Albicans sc5314 assembly 21 orf19.682 - 275 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_01308 | PGUG_01308 | Candida guilliermondii hypothetical protei - 284 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_01308	mbre|t_32386	28.08	203	130	16	12	198	1798	2000	1.7e-05	48.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_06937T0 | CIMG_06937 | Coccidioides immitis RS ribosomal RNA processing protei - 306 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_06937T0	mbre|t_32386	33.61	122	63	18	9	113	1820	1940	0.00074	43.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03300T0 | CNAG_03300 | Cryptococcus neoformans grubii H99 RRP1B protei - 353 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_03300T0	mbre|t_32386	25.65	347	232	26	21	353	1815	2149	1.9e-15	81.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_164843|fgenesh1_pg.06_#_245 - 250 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_164843|fgenesh1_pg.06_#_245	mbre|t_32386	28.19	259	152	34	9	247	1818	2062	1.5e-06	51.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_05146T0 | MGG_05146 | Magnaporthe grisea (M. oryzae) 70-15 ribosomal RNA-processing protein  - 284 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_05146T0	mbre|t_32386	28.19	149	93	14	2	136	1812	1960	0.00029	44.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_89447|EuGene.00300025 - 397 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_89447|EuGene.00300025	mbre|t_32386	23.58	318	194	49	11	310	1757	2043	4.1e-13	74.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU07942T0 | NCU07942 | Neurospora crassa OR74A (finished) hypothetical protei - 317 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_125012 - 312 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_014640 |  Neosartorya fischeri nul - 325 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_78239 - 316 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002559771.1| gi|255937489 Pc13g13570 [Penicillium chrysogenum Wisconsi - 315 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_52202|estExt_Genemark1.C_4_t10014 - 403 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_52202|estExt_Genemark1.C_4_t10014	mbre|t_32386	25.59	254	168	21	7	252	1759	1999	1.6e-07	55.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_11434 | RO3G_11435 | Rhizopus oryzae hypothetical protei - 181 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_11434	mbre|t_32386	25.58	129	82	14	2	116	1872	2000	5.7e-06	49.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR087C RRP1 SGDID:S000002494, Chr IV from 618304-617468, reverse complement, Verified ORF, "Essential evolutionarily conserv - 278 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YDR087C	mbre|t_32386	29.10	189	126	8	6	189	1820	2005	3.1e-11	67.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_14973 | SNOG_14973 | Stagonospora nodorum hypothetical protei - 247 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_14973	mbre|t_32386	27.56	225	142	21	10	215	1820	2042	2.5e-06	50.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC9B6_07.1 | SPBC9B6_07 | Schizosaccharomyces pombe 972h- nucleolar protein Nop52 family (predicted - 217 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPBC9B6_07.1	mbre|t_32386	29.35	201	116	26	7	186	1820	2015	1.1e-07	55.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_05545T0 | SPPG_05545 | Spizellomyces punctatus DAOM BR117 conserved hypothetical protei - 613 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_05545T0	mbre|t_32386	22.95	501	329	57	2	470	1872	2347	7.7e-05	47.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_8524|e_gw1.1.884.1 - 320 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_8524|e_gw1.1.884.1	mbre|t_32386	24.77	327	194	52	2	319	1820	2103	2e-10	64.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_38615|e_gw1.1.4844.1 - 243 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_38615|e_gw1.1.4844.1	mbre|t_32386	32.39	142	82	14	8	135	1818	1959	0.0001	45.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_28117|e_gw1.2.1258.1 - 345 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_28117|e_gw1.2.1258.1	mbre|t_32386	28.99	238	147	22	21	240	1814	2047	3e-16	84.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_42181|gw1.1.2017.1 - 241 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_42181|gw1.1.2017.1	mbre|t_32386	23.38	231	155	22	1	213	1812	2038	0.00074	42.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_66080|estExt_Genewise1Plus.C_10336 - 232 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_66080|estExt_Genewise1Plus.C_10336	mbre|t_32386	32.60	181	95	27	7	169	1818	1989	6.5e-05	46.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um05509 related to RRP1 - involved in processing rRNA precursor species to ma - 491 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um05509	mbre|t_22311	60.00	80	32	0	412	491	19	98	2.8e-06	48.0
+umay|um05509	mbre|t_32386	24.43	483	264	101	7	468	1769	2171	1.8e-05	49.1
+umay|um05509	mbre|t_26396	33.49	215	92	51	278	491	430	594	2.6e-05	46.5
+umay|um05509	mbre|t_25974	81.82	44	8	0	446	489	3	46	0.00062	40.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D08668gT0 gene=YALI0D08668g Ylip_CLIB122_chrD:complement(1114032 - 292 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0D08668gT0	mbre|t_32386	27.68	224	131	31	2	204	1787	2000	9.2e-07	52.6

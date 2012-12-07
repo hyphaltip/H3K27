@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB08931.1 - 289 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB08931.1	hsap|hsap_ENST00000300452	38.74	253	151	4	10	261	9	258	3.9e-35	145.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g06410 Afu3g06410 A_fumigatus_Af293 AspGDID: COORDS:chr3:1578409-1579354(+) translated using codon table 1 (286 amino ac - 285 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu3g06410	hsap|hsap_ENST00000300452	44.64	224	122	2	39	261	36	258	2.5e-36	148.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_13365T0 | AMAG_13365 | Allomyces macrogynus ATCC 38327 Coq4 protei - 228 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_13365T0	hsap|hsap_ENST00000300452	47.53	223	116	1	3	225	37	258	2.8e-44	175.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04757T0 | ANID_04757 | Aspergillus nidulans FGSC A4 ubiquinone biosynthesis protein COQ - 285 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_04757T0	hsap|hsap_ENST00000300452	46.43	224	118	2	38	260	36	258	5.1e-39	157.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_15620 | BC1G_15620 | Botrytis cinerea hypothetical protein similar to Coq4 - 280 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_15620	hsap|hsap_ENST00000300452	44.39	223	122	2	39	260	36	257	1e-37	153.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.3008 |  Candida Albicans sc5314 assembly 21 orf19.300 - 323 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.3008	hsap|hsap_ENST00000300452	41.96	224	129	1	77	300	36	258	2e-38	156.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04463 | PGUG_04463 | Candida guilliermondii hypothetical protei - 313 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_04463	hsap|hsap_ENST00000300452	42.74	234	130	4	62	292	26	258	8e-42	167.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00434T0 | CIMG_00434 | Coccidioides immitis RS ubiquinone biosynthesis protein COQ - 339 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_00434T0	hsap|hsap_ENST00000300452	43.25	252	133	10	73	316	9	258	1.4e-37	153.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_01962T0 | CNAG_01962 | Cryptococcus neoformans grubii H99 COQ - 264 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_01962T0	hsap|hsap_ENST00000300452	37.79	217	131	4	14	226	38	254	4.2e-32	134.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_156655|fgenesh1_kg.06_#_48_#_2665_1_CCIA - 182 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_156655|fgenesh1_kg.06_#_48_#_2665_1_CCIA	hsap|hsap_ENST00000300452	44.63	177	97	1	1	177	85	260	1.2e-32	136.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_02739T0 | MGG_02739 | Magnaporthe grisea (M. oryzae) 70-15 ubiquinone biosynthesis protein COQ - 302 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_02739T0	hsap|hsap_ENST00000300452	41.63	257	140	10	20	270	6	258	5.2e-36	148.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_49596|estExt_Genewise1Plus.C_370025 - 324 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_49596|estExt_Genewise1Plus.C_370025	hsap|hsap_ENST00000300452	45.74	223	120	1	82	304	38	259	8e-42	167.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU02157T0 | NCU02157 | Neurospora crassa OR74A (finished) COQ - 347 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU02157T0	hsap|hsap_ENST00000300452	40.62	224	131	2	57	279	36	258	2.7e-26	115.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_165450 - 347 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_165450	hsap|hsap_ENST00000300452	41.78	225	127	4	57	279	36	258	1.4e-26	116.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_070860 |  Neosartorya fischeri nul - 285 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_070860	hsap|hsap_ENST00000300452	42.25	258	138	11	6	261	10	258	4.2e-35	144.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_89102 - 347 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_89102	hsap|hsap_ENST00000300452	40.62	224	131	2	57	279	36	258	1.3e-25	113.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563286.1| gi|255945037 Pc20g07630 [Penicillium chrysogenum Wisconsi - 284 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002563286.1|	hsap|hsap_ENST00000300452	41.52	224	129	2	37	259	36	258	1.4e-34	143.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_47706|gm1.7271_g - 302 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_47706|gm1.7271_g	hsap|hsap_ENST00000300452	44.20	224	124	1	57	280	37	259	6.5e-34	141.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_09153 | RO3G_09154 | Rhizopus oryzae hypothetical protei - 231 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_09153	hsap|hsap_ENST00000300452	46.19	223	119	1	7	229	37	258	3.6e-46	181.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR204W COQ4 SGDID:S000002612, Chr IV from 858135-859142, Verified ORF, "Protein with a role in ubiquinone (Coenzyme Q) biosy - 335 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YDR204W	hsap|hsap_ENST00000300452	39.29	224	135	1	82	305	36	258	1.6e-32	136.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_00304 | SNOG_00304 | Stagonospora nodorum hypothetical protei - 262 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_00304	hsap|hsap_ENST00000300452	36.08	255	128	35	10	234	9	258	1.6e-25	112.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC1687_12c.1 | SPAC1687_12c | Schizosaccharomyces pombe 972h- ubiquinone biosynthesis protein Coq4 (predicted - 272 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC1687_12c.1	hsap|hsap_ENST00000300452	44.00	225	123	3	47	271	38	259	9.6e-42	166.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03465T0 | SPPG_03465 | Spizellomyces punctatus DAOM BR117 coenzyme Q (ubiquinone) biosynthesis protein Coq - 286 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_03465T0	hsap|hsap_ENST00000300452	46.97	264	129	11	2	263	4	258	3.9e-46	181.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_5716|gw1.3.693.1 - 223 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_5716|gw1.3.693.1	hsap|hsap_ENST00000300452	42.79	222	126	1	2	223	38	258	2.5e-42	168.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_74862|estExt_Genewise1Plus.C_13014 - 294 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_74862|estExt_Genewise1Plus.C_13014	hsap|hsap_ENST00000300452	42.86	224	126	2	44	266	36	258	1.2e-33	140.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_25370|e_gw1.1.1323.1 - 279 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_25370|e_gw1.1.1323.1	hsap|hsap_ENST00000300452	38.33	240	148	0	2	241	15	254	2.5e-37	152.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_106150|fgenesh5_pg.C_scaffold_6000376 - 259 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_106150|fgenesh5_pg.C_scaffold_6000376	hsap|hsap_ENST00000300452	45.54	224	120	2	13	235	36	258	2e-36	149.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_126305|estExt_fgenesh2_kg.C_10651 - 199 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_126305|estExt_fgenesh2_kg.C_10651	hsap|hsap_ENST00000300452	44.71	170	93	1	1	169	89	258	3.3e-26	114.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04495 related to COQ4 - responsible for restoring ubiquinone biosynthesis in c - 369 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um04495	hsap|hsap_ENST00000300452	36.51	252	129	31	76	327	41	261	7.8e-19	91.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0F27247gT0 gene=YALI0F27247g Ylip_CLIB122_chrF:complement(3462601 - 262 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0F27247gT0	hsap|hsap_ENST00000300452	41.77	237	134	4	13	249	26	258	1.2e-41	166.5

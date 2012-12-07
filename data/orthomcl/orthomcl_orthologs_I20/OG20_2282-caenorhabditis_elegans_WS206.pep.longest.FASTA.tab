@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB06768.1 - 381 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB06768.1	cele|cele_Y71H2AM.6a	43.82	267	113	37	44	308	19	250	5.3e-18	88.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g07230 Afu3g07230 A_fumigatus_Af293 AspGDID: COORDS:chr3:1816056-1817288(-) translated using codon table 1 (411 amino acids) - 410 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu3g07230	cele|cele_Y71H2AM.6a	39.71	277	112	55	44	319	14	236	7.2e-16	81.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04598T0 | AMAG_04598 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 370 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_04598T0	cele|cele_Y71H2AM.6a	43.33	270	114	39	32	301	6	236	2e-19	93.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04830T0 | ANID_04830 | Aspergillus nidulans FGSC A4 phosphopantothenate-cysteine ligas - 398 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_04830T0	cele|cele_Y71H2AM.6a	40.81	272	110	51	41	312	19	239	2.6e-15	79.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_02344 | BC1G_02344 | Botrytis cinerea phosphopantothenate-cysteine ligas - 461 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_02344	cele|cele_Y71H2AM.6a	39.23	339	124	82	117	455	19	275	8.5e-13	71.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7357 |  Candida Albicans sc5314 assembly 21 orf19.735 - 209 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.7357	cele|cele_Y71H2AM.6a	40.00	185	101	10	18	202	99	273	1e-21	100.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02000 | PGUG_02000 | Candida guilliermondii hypothetical protei - 340 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_02000	cele|cele_Y71H2AM.6a	45.62	274	131	18	66	337	19	276	4.1e-16	82.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00337T0 | CIMG_00337 | Coccidioides immitis RS phosphopantothenate-cysteine ligas - 429 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_00337T0	cele|cele_Y71H2AM.6a	36.24	298	111	79	51	347	19	238	4.1e-15	79.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02222T0 | CNAG_02222 | Cryptococcus neoformans grubii H99 phosphopantothenate-cysteine ligas - 367 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_02222T0	cele|cele_Y71H2AM.6a	44.44	279	126	29	29	306	6	256	7.1e-18	88.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_83470|Mucci1.fgeneshMC_pg.6_#_412 - 334 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_83470|Mucci1.fgeneshMC_pg.6_#_412	cele|cele_Y71H2AM.6a	43.94	289	143	19	44	330	4	275	1.1e-17	87.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_02725T0 | MGG_02725 | Magnaporthe grisea (M. oryzae) 70-15 phosphopantothenate-cysteine ligas - 439 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_02725T0	cele|cele_Y71H2AM.6a	34.12	381	124	127	55	434	19	273	4.5e-13	72.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_38628|e_gw1.42.43.1 - 338 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_38628|e_gw1.42.43.1	cele|cele_Y71H2AM.6a	45.33	300	126	38	40	338	14	276	7.3e-21	97.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU09090T0 | NCU09090 | Neurospora crassa OR74A (finished) phosphopantothenate-cysteine ligas - 440 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU09090T0	cele|cele_Y71H2AM.6a	35.03	374	125	118	53	426	19	274	3.2e-13	72.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_72917 - 433 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_72917	cele|cele_Y71H2AM.6a	36.34	366	123	110	53	418	19	274	2.5e-14	76.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_070020 |  Neosartorya fischeri nul - 410 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_070020	cele|cele_Y71H2AM.6a	40.43	277	110	55	44	319	14	236	3.7e-16	82.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_70340 - 435 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_70340	cele|cele_Y71H2AM.6a	35.60	368	125	112	53	420	19	274	8.3e-13	71.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562776.1| gi|255944017 Pc20g02180 [Penicillium chrysogenum Wisconsi - 399 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002562776.1|	cele|cele_Y71H2AM.6a	41.26	269	107	51	49	317	19	236	4e-16	82.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_52551|estExt_Genemark1.C_4_t10431 - 392 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_52551|estExt_Genemark1.C_4_t10431	cele|cele_Y71H2AM.6a	37.11	353	130	92	33	383	7	269	1.3e-13	73.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14617 | RO3G_14618 | Rhizopus oryzae hypothetical protei - 314 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_14617	cele|cele_Y71H2AM.6a	43.84	276	128	27	49	310	13	275	4.3e-32	135.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YIL083C CAB2 SGDID:S000001345, Chr IX from 204650-203553, reverse complement, Verified ORF, "Probable phosphopantothenoylcyst - 365 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YIL083C	cele|cele_Y71H2AM.6a	43.29	298	132	37	65	355	6	273	2.7e-25	112.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_00223 | SNOG_00223 | Stagonospora nodorum hypothetical protei - 379 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_00223	cele|cele_Y71H2AM.6a	45.02	251	104	34	44	293	19	236	5.1e-17	85.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC4B3_18.1 | SPCC4B3_18 | Schizosaccharomyces pombe 972h- phosphopantothenate-cysteine ligas - 316 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPCC4B3_18.1	cele|cele_Y71H2AM.6a	41.90	284	147	18	27	309	7	273	2.7e-17	85.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00070T0 | SPPG_00070 | Spizellomyces punctatus DAOM BR117 phosphopantothenate-cysteine ligas - 349 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_00070T0	cele|cele_Y71H2AM.6a	40.88	296	146	29	48	343	7	273	3.1e-17	85.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_8951|e_gw1.1.830.1 - 328 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_8951|e_gw1.1.830.1	cele|cele_Y71H2AM.6a	43.39	295	143	24	33	327	6	276	6.7e-19	91.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_74968|estExt_Genewise1Plus.C_13161 - 377 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_74968|estExt_Genewise1Plus.C_13161	cele|cele_Y71H2AM.6a	38.12	320	129	69	53	368	19	273	5.4e-21	98.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_44607|estExt_Genewise1Plus.C_80023 - 354 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_44607|estExt_Genewise1Plus.C_80023	cele|cele_Y71H2AM.6a	47.06	255	112	23	27	280	7	239	2.4e-17	86.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3350|fgenesh1_pm.C_scaffold_6000098 - 373 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_3350|fgenesh1_pm.C_scaffold_6000098	cele|cele_Y71H2AM.6a	39.10	335	134	70	31	364	8	273	2.4e-17	86.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_56819|estExt_Genewise1.C_15696 - 389 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_56819|estExt_Genewise1.C_15696	cele|cele_Y71H2AM.6a	38.97	331	128	74	53	383	19	275	1.2e-16	84.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03699 conserved hypothetical protein - 369 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um03699	cele|cele_Y71H2AM.6a	46.59	249	107	26	47	295	19	241	6.4e-17	84.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0C06996gT0 gene=YALI0C06996g Ylip_CLIB122_chrC:complement(93759 - 333 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0C06996gT0	cele|cele_Y71H2AM.6a	44.17	283	137	21	44	324	6	269	3.7e-16	82.2

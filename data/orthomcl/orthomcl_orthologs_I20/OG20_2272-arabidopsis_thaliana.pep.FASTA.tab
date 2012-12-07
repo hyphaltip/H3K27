@@ -1,0 +1,180 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB03158.1 - 205 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB03158.1	atha|AT3G01850.1	44.83	203	84	28	1	203	2	176	1.5e-16	82.7
+abra|AB03158.1	atha|AT1G63290	45.81	203	82	28	1	203	4	178	1.1e-15	79.8
+abra|AB03158.1	atha|AT5G61410.1	39.47	190	83	32	6	193	59	218	3.3e-14	75.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g15190 Afu2g15190 A_fumigatus_Af293 AspGDID: COORDS:chr2:4025031-4026529(-) translated using codon table 1 (314 amino acids) - 313 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu2g15190	atha|AT1G63290	48.79	248	98	29	62	309	4	222	1.1e-25	113.7
+afum|Afu2g15190	atha|AT3G01850.1	47.62	252	103	29	62	313	2	224	4.6e-25	111.7
+afum|Afu2g15190	atha|AT5G61410.1	38.43	242	116	33	67	304	59	271	4.8e-13	72.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_14597T0 | AMAG_14597 | Allomyces macrogynus ATCC 38327 ribulose-phosphate 3-epimeras - 222 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_14597T0	atha|AT3G01850.1	62.73	220	78	4	2	220	4	220	1.1e-58	222.8
+amac|AMAG_14597T0	atha|AT1G63290	61.36	220	81	4	2	220	6	222	1.6e-57	219.0
+amac|AMAG_14597T0	atha|AT5G61410.1	44.80	221	108	14	5	217	59	273	1e-34	143.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_07588T0 | ANID_07588 | Aspergillus nidulans FGSC A4 ribulose-phosphate 3-epimeras - 252 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_07588T0	atha|AT1G63290	48.79	248	98	29	1	248	4	222	4.7e-26	114.6
+anid|ANID_07588T0	atha|AT3G01850.1	48.19	249	98	31	1	248	2	220	5.1e-25	111.2
+anid|ANID_07588T0	atha|AT5G61410.1	38.43	242	116	33	6	243	59	271	3.5e-13	72.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_02529 | BC1G_02529 | Botrytis cinerea ribulose-phosphate 3-epimeras - 214 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_02529	atha|AT1G63290	47.62	210	80	30	1	208	40	221	8.3e-25	110.3
+bcin|BC1T_02529	atha|AT3G01850.1	46.15	208	86	26	1	208	38	219	4.1e-24	107.9
+bcin|BC1T_02529	atha|AT5G61410.1	38.46	208	96	32	1	204	92	271	3.3e-14	75.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7108 |  Candida Albicans sc5314 assembly 21 orf19.710 - 230 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.7108	atha|AT3G01850.1	53.07	228	96	11	1	224	1	221	2.5e-49	191.8
+calb_sc5314|orf19.7108	atha|AT1G63290	52.42	227	97	11	2	224	4	223	2e-47	185.5
+calb_sc5314|orf19.7108	atha|AT5G61410.1	39.01	223	121	15	5	220	59	273	7.4e-29	124.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_00951 | PGUG_00951 | Candida guilliermondii conserved hypothetical protei - 232 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_00951	atha|AT3G01850.1	56.64	226	88	10	1	222	1	220	5.2e-53	204.1
+cgui|PGUT_00951	atha|AT1G63290	55.56	225	90	10	2	222	4	222	1.1e-50	196.3
+cgui|PGUT_00951	atha|AT5G61410.1	41.55	219	116	12	5	217	59	271	6.3e-33	137.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_01413T0 | CIMG_01413 | Coccidioides immitis RS ribulose-phosphate 3-epimeras - 252 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_01413T0	atha|AT1G63290	48.36	244	95	31	7	248	8	222	8.8e-26	113.7
+cimm_rs|CIMG_01413T0	atha|AT3G01850.1	46.77	248	104	28	1	248	1	220	1.6e-25	112.8
+cimm_rs|CIMG_01413T0	atha|AT5G61410.1	40.24	251	115	35	6	252	59	278	2.7e-13	72.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00684T0 | CNAG_00684 | Cryptococcus neoformans grubii H99 ribulose-phosphate 3-epimeras - 224 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_00684T0	atha|AT3G01850.1	44.75	219	117	4	1	216	1	218	1.7e-42	169.1
+cneo_h99|CNAG_00684T0	atha|AT1G63290	43.46	214	117	4	6	216	8	220	3.1e-40	161.6
+cneo_h99|CNAG_00684T0	atha|AT5G61410.1	39.09	220	126	8	2	215	56	273	1.2e-32	136.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_134922|e_gw1.01.2661.1 - 223 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_134922|e_gw1.01.2661.1	atha|AT1G63290	61.47	218	81	3	5	219	7	224	3.2e-58	221.3
+mcin|t_134922|e_gw1.01.2661.1	atha|AT3G01850.1	57.21	222	92	3	1	219	1	222	1.1e-55	212.8
+mcin|t_134922|e_gw1.01.2661.1	atha|AT5G61410.1	39.91	213	121	7	6	212	60	271	3.1e-32	135.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00534T0 | MGG_00534 | Magnaporthe grisea (M. oryzae) 70-15 ribulose-phosphate 3-epimeras - 251 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_00534T0	atha|AT1G63290	49.17	240	97	25	7	246	8	222	5.1e-29	124.5
+mgri|MGG_00534T0	atha|AT3G01850.1	48.75	240	98	25	7	246	6	220	1.6e-28	122.8
+mgri|MGG_00534T0	atha|AT5G61410.1	41.60	250	113	33	6	251	59	279	3.7e-15	78.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_39349|e_gw1.52.58.1 - 232 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_39349|e_gw1.52.58.1	atha|AT3G01850.1	50.67	223	104	6	1	221	1	219	7e-50	193.7
+mlar|t_39349|e_gw1.52.58.1	atha|AT1G63290	50.00	222	105	6	2	221	4	221	4.8e-48	187.6
+mlar|t_39349|e_gw1.52.58.1	atha|AT5G61410.1	39.63	217	123	8	5	217	59	271	2e-33	139.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU00519T0 | NCU00519 | Neurospora crassa OR74A (finished) ribulose-phosphate 3-epimeras - 251 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU00519T0	atha|AT1G63290	51.63	246	92	27	1	246	4	222	2.7e-28	122.0
+ncra|NCU00519T0	atha|AT3G01850.1	50.41	246	95	27	1	246	2	220	2.7e-27	118.8
+ncra|NCU00519T0	atha|AT5G61410.1	40.25	236	110	31	6	237	59	267	5.7e-14	74.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_166463 - 252 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_166463	atha|AT1G63290	50.41	246	95	27	2	247	4	222	2.2e-27	119.0
+ndis|NEUDI1_166463	atha|AT3G01850.1	49.39	247	98	27	1	247	1	220	2.2e-26	115.7
+ndis|NEUDI1_166463	atha|AT5G61410.1	39.83	236	111	31	7	238	59	267	4.1e-14	75.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_090440 |  Neosartorya fischeri nul - 252 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_090440	atha|AT1G63290	48.79	248	98	29	1	248	4	222	4.1e-26	114.8
+nfis|NFIA_090440	atha|AT3G01850.1	47.62	252	103	29	1	252	2	224	1.8e-25	112.7
+nfis|NFIA_090440	atha|AT5G61410.1	38.02	242	117	33	6	243	59	271	5.9e-14	74.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_133863 - 251 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_133863	atha|AT1G63290	52.03	246	91	27	1	246	4	222	7.5e-29	123.9
+ntet|NEUTE1_133863	atha|AT3G01850.1	50.81	246	94	27	1	246	2	220	7.4e-28	120.6
+ntet|NEUTE1_133863	atha|AT5G61410.1	40.25	236	110	31	6	237	59	267	4e-14	75.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002556958.1| gi|255930803 Pc12g00550 [Penicillium chrysogenum Wisconsi - 254 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002556958.1|	atha|AT3G01850.1	46.77	248	104	28	1	248	1	220	1.4e-27	119.7
+pechr_54_1255|XP_002556958.1|	atha|AT1G63290	47.11	242	101	27	7	248	8	222	1.4e-27	119.7
+pechr_54_1255|XP_002556958.1|	atha|AT5G61410.1	38.25	251	120	35	6	252	59	278	9.4e-15	77.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_37625|estExt_Genewise1Plus.C_8_t20134 - 238 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_37625|estExt_Genewise1Plus.C_8_t20134	atha|AT3G01850.1	48.00	225	110	7	4	226	3	222	1.2e-45	179.6
+rgra|t_37625|estExt_Genewise1Plus.C_8_t20134	atha|AT1G63290	48.00	225	110	7	4	226	5	224	3.8e-45	178.0
+rgra|t_37625|estExt_Genewise1Plus.C_8_t20134	atha|AT5G61410.1	41.63	221	122	7	3	219	54	271	5.6e-33	137.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_08744 | RO3G_08745 | Rhizopus oryzae ribulose-phosphate 3-epimeras - 229 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_08744	atha|AT1G63290	62.56	219	77	5	5	219	7	224	5.6e-58	220.6
+rory|RO3T_08744	atha|AT3G01850.1	58.74	223	87	5	1	219	1	222	1.5e-56	215.8
+rory|RO3T_08744	atha|AT5G61410.1	41.12	214	117	9	6	212	60	271	1.4e-32	136.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YJL121C RPE1 SGDID:S000003657, Chr X from 191088-190372, reverse complement, Verified ORF, "D-ribulose-5-phosphate 3-epimeras - 238 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YJL121C	atha|AT3G01850.1	54.51	233	89	17	1	229	1	220	2.4e-34	142.1
+scer_s288c|YJL121C	atha|AT1G63290	53.02	232	92	17	2	229	4	222	1.5e-33	139.5
+scer_s288c|YJL121C	atha|AT5G61410.1	40.97	227	113	21	5	224	59	271	2.1e-13	72.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15151 | SNOG_15151 | Stagonospora nodorum hypothetical protei - 252 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_15151	atha|AT1G63290	49.19	248	94	32	1	246	4	221	3.1e-26	115.3
+snod|SNOT_15151	atha|AT3G01850.1	47.56	246	101	28	1	246	2	219	5.9e-25	111.0
+snod|SNOT_15151	atha|AT5G61410.1	41.49	241	109	32	6	242	59	271	1.1e-14	77.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC31G5_05c.1 | SPAC31G5_05c | Schizosaccharomyces pombe 972h- ribulose phosphate 3-epimerase (predicted - 228 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC31G5_05c.1	atha|AT3G01850.1	55.07	227	95	7	1	223	1	224	5.4e-54	207.3
+spom|SPAC31G5_05c.1	atha|AT1G63290	56.19	226	92	7	2	223	4	226	5.4e-54	207.3
+spom|SPAC31G5_05c.1	atha|AT5G61410.1	39.17	217	123	9	6	216	60	273	8.5e-32	133.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03952T0 | SPPG_03952 | Spizellomyces punctatus DAOM BR117 ribulose-phosphate 3-epimeras - 223 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_03952T0	atha|AT3G01850.1	66.98	215	67	4	5	215	4	218	2.3e-64	241.7
+spun|SPPG_03952T0	atha|AT1G63290	67.44	215	66	4	5	215	6	220	9e-64	239.8
+spun|SPPG_03952T0	atha|AT5G61410.1	42.52	214	117	6	7	214	60	273	1.3e-34	143.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_22097|estExt_Genewise1Plus.C_50274 - 239 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_22097|estExt_Genewise1Plus.C_50274	atha|AT3G01850.1	50.45	220	104	5	10	227	6	222	3e-45	178.3
+sror|t_22097|estExt_Genewise1Plus.C_50274	atha|AT1G63290	48.03	229	112	7	1	227	1	224	4e-44	174.6
+sror|t_22097|estExt_Genewise1Plus.C_50274	atha|AT5G61410.1	40.74	216	121	7	9	220	59	271	2.1e-33	139.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_77472|estExt_Genewise1Plus.C_23246 - 252 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_77472|estExt_Genewise1Plus.C_23246	atha|AT1G63290	51.01	247	93	28	1	247	4	222	1.1e-28	123.4
+sthe|t_77472|estExt_Genewise1Plus.C_23246	atha|AT3G01850.1	50.61	247	94	28	1	247	2	220	2.9e-28	122.0
+sthe|t_77472|estExt_Genewise1Plus.C_23246	atha|AT5G61410.1	40.25	241	112	32	6	242	59	271	1.5e-14	76.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_71425|estExt_fgeneshTM_pm.C_40019 - 231 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_71425|estExt_fgeneshTM_pm.C_40019	atha|AT3G01850.1	45.00	220	115	6	10	226	4	220	5.5e-40	160.8
+tmes|t_71425|estExt_fgeneshTM_pm.C_40019	atha|AT1G63290	44.09	220	117	6	10	226	6	222	1.9e-38	155.6
+tmes|t_71425|estExt_fgeneshTM_pm.C_40019	atha|AT5G61410.1	39.56	225	126	10	3	221	51	271	5.5e-31	131.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_56631|e_gw1.3.1021.1 - 251 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_56631|e_gw1.3.1021.1	atha|AT1G63290	49.80	245	96	27	1	245	4	221	2e-26	115.9
+tree|t_56631|e_gw1.3.1021.1	atha|AT3G01850.1	48.98	245	98	27	1	245	2	219	1.2e-25	113.3
+tree|t_56631|e_gw1.3.1021.1	atha|AT5G61410.1	40.91	242	112	31	6	243	59	273	1.7e-14	76.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_35823|e_gw1.1.1936.1 - 252 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_35823|e_gw1.1.1936.1	atha|AT1G63290	49.80	247	96	28	1	247	4	222	5e-27	117.9
+tter|t_35823|e_gw1.1.1936.1	atha|AT3G01850.1	48.99	247	98	28	1	247	2	220	5e-26	114.5
+tter|t_35823|e_gw1.1.1936.1	atha|AT5G61410.1	41.35	237	107	32	6	238	59	267	1.5e-14	76.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04797 probable RPE1 - D-ribulose-5-phosphate 3 - 311 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um04797	atha|AT3G01850.1	52.91	223	101	4	1	220	1	222	7e-48	187.4
+umay|um04797	atha|AT1G63290	52.97	219	99	4	5	220	7	224	4.6e-47	184.7
+umay|um04797	atha|AT5G61410.1	36.45	214	128	8	6	213	60	271	2.9e-27	119.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0C11880gT0 gene=YALI0C11880g Ylip_CLIB122_chrC:complement(1640344 - 249 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0C11880gT0	atha|AT3G01850.1	55.96	218	89	7	1	214	1	215	2.2e-54	208.7
+ylip|YALI0C11880gT0	atha|AT1G63290	56.22	217	88	7	2	214	4	217	1.2e-53	206.3
+ylip|YALI0C11880gT0	atha|AT5G61410.1	40.28	216	120	9	5	214	59	271	6.3e-33	137.8

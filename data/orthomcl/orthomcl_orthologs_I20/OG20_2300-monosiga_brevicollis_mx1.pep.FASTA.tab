@@ -1,0 +1,136 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09421.1 - 2665 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB09421.1	mbre|t_8718	33.97	1260	703	129	1085	2330	608	1752	5.5e-21	102.7
+abra|AB09421.1	mbre|t_23728	22.35	519	322	81	1667	2123	8	507	0.00045	45.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g07960 Afu2g07960 A_fumigatus_Af293 AspGDID: COORDS:chr2:2038988-2047547(+) translated using codon table 1 (2712 amino acids - 2711 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu2g07960	mbre|t_8718	31.62	1363	786	146	1113	2459	610	1842	6.3e-22	105.9
+afum|Afu2g07960	mbre|t_29781	22.82	609	397	73	1254	1848	7	556	0.00061	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_12619T0 | AMAG_12619 | Allomyces macrogynus ATCC 38327 predicted protein - 2444 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_12619T0	mbre|t_8718	27.88	1399	782	227	954	2278	625	1870	3.3e-16	86.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10734T0 | ANID_10734 | Aspergillus nidulans FGSC A4 60S ribosomal protein L19 - 2672 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_10734T0	mbre|t_8718	33.31	1249	708	125	1086	2323	602	1736	2.2e-21	104.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07045 | BC1G_07045 | Botrytis cinerea hypothetical protein similar to translational activator - 2673 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_07045	mbre|t_8718	34.27	1275	710	128	1079	2339	592	1752	2.8e-22	107.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5328 |  Candida Albicans sc5314 assembly 21 orf19.5328 - 2419 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.5328	mbre|t_8718	31.10	1241	681	174	929	2104	605	1736	1.8e-18	94.2
+calb_sc5314|orf19.5328	mbre|t_14476	23.47	554	350	74	1056	1594	15	509	0.00054	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04839 | PGUG_04839 | Candida guilliermondii hypothetical protein - 2666 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_04839	mbre|t_8718	29.95	1536	898	178	820	2301	325	1736	2.8e-75	283.1
+cgui|PGUT_04839	mbre|t_23736	21.41	509	324	76	1544	2026	26	484	4.6e-07	55.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00911T0 | CIMG_00911 | Coccidioides immitis RS 60S ribosomal protein L19 - 2676 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_00911T0	mbre|t_8718	33.57	1245	698	129	1097	2328	608	1736	3.1e-23	110.2
+cimm_rs|CIMG_00911T0	mbre|t_37321	28.02	207	124	25	1450	1648	296	485	0.00079	44.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03748T0 | CNAG_03748 | Cryptococcus neoformans grubii H99 60S ribosomal protein L19 - 2606 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_03748T0	mbre|t_8718	34.96	1313	700	154	1141	2438	586	1759	1.1e-25	118.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_148849|e_gw1.08.1.1 - 2218 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_148849|e_gw1.08.1.1	mbre|t_8718	37.39	1233	643	129	944	2172	629	1736	8.4e-76	284.6
+mcin|t_148849|e_gw1.08.1.1	mbre|t_8718	23.63	364	241	37	343	697	289	624	6.4e-06	52.4
+mcin|t_148849|e_gw1.08.1.1	mbre|t_14476	24.06	532	338	66	1365	1851	1	511	0.00065	44.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04710T0 | MGG_04710 | Magnaporthe grisea (M. oryzae) 70-15 translational activator GCN1 - 2678 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_04710T0	mbre|t_8718	33.28	1292	723	139	1083	2356	589	1759	1.1e-79	297.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_116468|estExt_fgenesh2_pg.C_180055 - 2583 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	mbre|t_8718	34.69	1280	704	132	1149	2420	608	1763	4.4e-81	302.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05803T0 | NCU05803 | Neurospora crassa OR74A (finished) translational activator - 2692 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU05803T0	mbre|t_8718	32.16	1365	782	144	1017	2356	507	1752	9.4e-75	281.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_101235 - 2670 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_101235	mbre|t_8718	32.99	1273	726	127	1074	2334	595	1752	1.6e-76	287.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_083650 |  Neosartorya fischeri null - 2673 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_083650	mbre|t_8718	33.44	1244	697	131	1094	2323	610	1736	5.6e-21	102.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_67967 - 2691 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_67967	mbre|t_8718	32.23	1365	781	144	1016	2355	507	1752	1.5e-74	280.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002558924.1| gi|255935795 Pc13g04890 [Penicillium chrysogenum Wisconsi - 2596 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002558924.1|	mbre|t_8718	32.55	1241	712	125	1018	2247	610	1736	1.4e-20	101.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_40719|gm1.284_g - 2597 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_40719|gm1.284_g	mbre|t_8718	36.15	1253	663	137	1177	2421	636	1759	9.4e-74	278.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_09453 | RO3G_09454 | Rhizopus oryzae hypothetical protein - 2269 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_09453	mbre|t_8718	35.29	1309	684	163	982	2266	607	1776	5.7e-73	275.2
+rory|RO3T_09453	mbre|t_29781	23.83	554	356	66	1037	1541	43	579	1.5e-08	59.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YGL195W GCN1 SGDID:S000003163, Chr VII from 131531-139549, Verified ORF, "Positive regulator of the Gcn2p kinase activity, fo - 2672 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YGL195W	mbre|t_8718	30.20	1341	781	155	1057	2380	606	1808	2.9e-20	100.3
+scer_s288c|YGL195W	mbre|t_33000	20.32	753	501	99	1480	2166	116	835	0.00016	47.0
+scer_s288c|YGL195W	mbre|t_34577	21.11	540	360	66	1493	2000	1316	1821	0.00048	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_03050 | SNOG_03050 | Stagonospora nodorum hypothetical protein - 2683 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_03050	mbre|t_8718	34.50	1261	695	131	1103	2348	608	1752	3.1e-20	100.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC18G6_05c.1 | SPAC18G6_05c | Schizosaccharomyces pombe 972h- translation elongation regulator Gcn1 (predicted) - 2670 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPAC18G6_05c.1	mbre|t_8718	32.09	1184	667	137	1151	2329	685	1736	1.3e-78	294.1
+spom|SPAC18G6_05c.1	mbre|t_29781	21.58	380	241	57	1443	1773	198	569	1.9e-07	56.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00147T0 | SPPG_00147 | Spizellomyces punctatus DAOM BR117 translational activator gcn1 - 2790 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_00147T0	mbre|t_8718	39.29	1232	618	130	1240	2465	629	1736	1.9e-86	320.3
+spun|SPPG_00147T0	mbre|t_32317	23.71	388	244	52	1861	2222	165	526	0.00018	47.6
+spun|SPPG_00147T0	mbre|t_37521	21.18	746	503	85	1566	2277	453	1147	0.00029	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_20913|estExt_Genewise1Plus.C_20699 - 2340 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_20913|estExt_Genewise1Plus.C_20699	mbre|t_8718	31.47	1738	982	209	473	2171	192	1759	3.2e-26	119.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_116146|estExt_fgenesh1_pm.C_50066 - 2591 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_116146|estExt_fgenesh1_pm.C_50066	mbre|t_8718	34.25	1273	709	128	997	2256	595	1752	1.6e-19	97.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73934|estExt_fgeneshTM_pg.C_50436 - 2563 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	mbre|t_8718	34.63	1308	714	141	1094	2394	586	1759	1.1e-80	301.0
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	mbre|t_37521	18.72	748	523	85	1824	2507	320	1046	0.00053	45.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_65242|e_gw1.16.275.1 - 2839 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_65242|e_gw1.16.275.1	mbre|t_32384	63.24	185	68	0	2651	2835	240	424	6e-47	187.0
+tree|t_65242|e_gw1.16.275.1	mbre|t_8718	33.02	1281	718	140	1032	2289	589	1752	2.5e-21	104.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_135763|estExt_fgenesh2_pm.C_50697 - 2669 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_135763|estExt_fgenesh2_pm.C_50697	mbre|t_8718	33.76	1321	723	152	1071	2358	595	1796	3.2e-81	302.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04443 related to translation activator GCN1 - 2660 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um04443	mbre|t_8718	36.88	1288	676	137	1197	2477	617	1774	3.7e-20	100.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D17732gT0 gene=YALI0D17732g Ylip_CLIB122_chrD:join(2174439..2174522,2174966 - 2524 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0D17732gT0	mbre|t_8718	30.18	1226	718	138	995	2194	623	1736	1.6e-18	94.5
+ylip|YALI0D17732gT0	mbre|t_37986	21.80	399	273	39	1202	1578	184	565	0.00055	44.4

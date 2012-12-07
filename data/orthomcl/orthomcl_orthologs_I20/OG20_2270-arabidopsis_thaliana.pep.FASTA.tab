@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02980.1 - 308 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB02980.1	atha|AT5G22100	36.46	288	146	37	15	300	9	261	7.5e-09	58.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu8g04640 Afu8g04640 A_fumigatus_Af293 AspGDID: COORDS:chr8:1060695-1061906(-) translated using codon table 1 (404 amino acids) - 403 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu8g04640	atha|AT5G22100	33.09	411	217	58	10	403	6	375	4.5e-09	59.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_07869T0 | AMAG_07869 | Allomyces macrogynus ATCC 38327 RNA 3'-terminal phosphate cyclas - 386 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_07869T0	atha|AT5G22100	36.01	386	221	26	9	385	6	374	7.5e-26	115.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_01474T0 | ANID_01474 | Aspergillus nidulans FGSC A4 RNA-3'-phosphate cyclas - 403 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_01474T0	atha|AT5G22100	32.11	408	225	52	10	403	6	375	2.5e-08	57.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_00486 | BC1G_00486 | Botrytis cinerea hypothetical protein similar to RNA 3'-terminal phosphate cyclas - 408 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_00486	atha|AT5G22100	33.17	404	215	55	15	405	11	372	2.5e-08	57.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1886 |  Candida Albicans sc5314 assembly 21 orf19.188 - 371 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.1886	atha|AT5G22100	36.41	379	210	31	13	371	8	375	1.8e-36	150.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_00433 | PGUG_00433 | Candida guilliermondii hypothetical protei - 373 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_00433	atha|AT5G22100	33.77	382	220	33	12	373	7	375	1.4e-38	157.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_02184T0 | CIMG_02184 | Coccidioides immitis RS RNA-3'-phosphate cyclas - 403 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_02184T0	atha|AT5G22100	31.46	410	226	55	9	403	6	375	6.1e-07	52.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03246T0 | CNAG_03246 | Cryptococcus neoformans grubii H99 RNA-3'-phosphate cyclas - 365 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_03246T0	atha|AT5G22100	41.51	371	200	17	11	365	6	375	3.5e-46	182.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_173174|estExt_Genewise1.C_060700 - 358 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_173174|estExt_Genewise1.C_060700	atha|AT5G22100	42.93	375	197	17	1	358	1	375	4.5e-48	189.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04422T0 | MGG_04422 | Magnaporthe grisea (M. oryzae) 70-15 RNA-3'-phosphate cyclase family protei - 399 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_04422T0	atha|AT5G22100	31.17	401	232	44	12	399	6	375	1.2e-09	61.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_46210|estExt_Genewise1.C_1360001 - 390 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_46210|estExt_Genewise1.C_1360001	atha|AT5G22100	40.68	354	190	20	14	351	6	355	1.6e-39	160.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU02675T0 | NCU02675 | Neurospora crassa OR74A (finished) RNA-3'-phosphate cyclas - 406 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU02675T0	atha|AT5G22100	31.95	410	226	53	10	406	6	375	5.3e-10	62.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_92438 - 406 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_92438	atha|AT5G22100	31.95	410	226	53	10	406	6	375	6.1e-10	62.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_097430 |  Neosartorya fischeri nul - 403 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_097430	atha|AT5G22100	33.09	411	217	58	10	403	6	375	5.1e-09	59.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_133500 - 406 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_133500	atha|AT5G22100	31.95	410	226	53	10	406	6	375	5e-10	62.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563428.1| gi|255945321 Pc20g09320 [Penicillium chrysogenum Wisconsi - 402 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002563428.1|	atha|AT5G22100	33.75	400	209	56	19	402	16	375	1.2e-07	54.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_46385|gm1.5950_g - 437 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_46385|gm1.5950_g	atha|AT5G22100	40.75	346	198	7	42	384	9	350	6.7e-46	182.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_12372 | RO3G_12373 | Rhizopus oryzae 40S rRNA biogenesis protein RCL - 316 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_12372	atha|AT5G22100	40.31	325	159	35	1	290	1	325	5.4e-37	152.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YOL010W RCL1 SGDID:S000005370, Chr XV from 307939-309042, Verified ORF, "Subunit of U3-containing 90S preribosome processome  - 367 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YOL010W	atha|AT5G22100	33.07	375	225	26	12	367	8	375	2e-35	147.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_04419 | SNOG_04419 | Stagonospora nodorum hypothetical protei - 407 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_04419	atha|AT5G22100	30.90	411	228	56	12	407	6	375	1.8e-08	57.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC12G12_06c.1 | SPAC12G12_06c | Schizosaccharomyces pombe 972h- RNA 3'-terminal phosphate cyclase (predicted - 363 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC12G12_06c.1	atha|AT5G22100	40.53	375	201	22	6	362	4	374	1.2e-46	184.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00041T0 | SPPG_00041 | Spizellomyces punctatus DAOM BR117 RNA 3'-terminal phosphate cyclase-like protei - 383 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_00041T0	atha|AT5G22100	44.42	385	199	15	1	383	4	375	1e-52	204.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_10724|e_gw1.2.606.1 - 404 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_10724|e_gw1.2.606.1	atha|AT5G22100	42.53	348	192	8	2	345	8	351	9.8e-53	204.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_77337|estExt_Genewise1Plus.C_23046 - 408 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_77337|estExt_Genewise1Plus.C_23046	atha|AT5G22100	33.17	413	219	57	10	408	6	375	1.7e-11	67.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_32298|e_gw1.8.300.1 - 385 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_32298|e_gw1.8.300.1	atha|AT5G22100	40.90	379	205	19	17	385	6	375	2e-60	230.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_2716|fgenesh1_pm.C_scaffold_3000229 - 406 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_2716|fgenesh1_pm.C_scaffold_3000229	atha|AT5G22100	33.90	410	218	53	10	406	6	375	2.3e-09	60.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_68372|estExt_Genewise1Plus.C_14530 - 407 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_68372|estExt_Genewise1Plus.C_14530	atha|AT5G22100	31.39	411	228	54	10	407	6	375	1e-10	65.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um15007 related to RCL1 - RNA terminal phosphate cyclase-li - 419 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um15007	atha|AT5G22100	39.89	356	189	25	20	360	6	351	2.8e-50	196.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0A05555gT0 gene=YALI0A05555g Ylip_CLIB122_chrA:complement(56910 - 365 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0A05555gT0	atha|AT5G22100	37.87	375	203	30	13	365	9	375	2.4e-41	166.7

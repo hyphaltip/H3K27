@@ -1,0 +1,108 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB05796.1 - 364 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu7g05420 Afu7g05420 A_fumigatus_Af293 AspGDID: COORDS:chr7:1301882-1303010(+) translated using codon table 1 (298 amino acids) - 297 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_14272T0 | AMAG_14272 | Allomyces macrogynus ATCC 38327 mitochondrial intermembrane space import and assembly protein 4 - 149 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_14272T0	cele|cele_F11C1.1	33.73	83	53	2	13	93	24	106	3e-06	46.9
+amac|AMAG_14272T0	cele|cele_F42H10.2	31.33	83	55	2	13	93	18	100	1.1e-05	44.9
+amac|AMAG_14272T0	cele|cele_ZK616.2	34.25	73	40	8	21	93	25	89	8.6e-05	41.7
+amac|AMAG_14272T0	cele|cele_ZK616.3	27.03	74	52	2	35	106	37	110	0.00049	39.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_11898T0 | ANID_11898 | Aspergillus nidulans FGSC A4 mitochondrial intermembrane space import and assembly protein 4 - 283 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_03576 | BC1G_03576 | Botrytis cinerea mitochondrial intermembrane space import and assembly protein 4 - 318 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.2977 |  Candida Albicans sc5314 assembly 21 orf19.297 - 252 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04752 | PGUG_04752 | Candida guilliermondii hypothetical protei - 238 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_05240T0 | CIMG_05240 | Coccidioides immitis RS mitochondrial intermembrane space protein Mia4 - 295 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02106T0 | CNAG_02106 | Cryptococcus neoformans grubii H99 intermembrane space import and assembly protein 4 - 231 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_157291|fgenesh1_kg.09_#_2_#_1302_1_CCIA - 168 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_157291|fgenesh1_kg.09_#_2_#_1302_1_CCIA	cele|cele_F11C1.1	27.96	93	61	6	27	118	35	122	0.00014	41.5
+mcin|t_157291|fgenesh1_kg.09_#_2_#_1302_1_CCIA	cele|cele_ZK616.2	36.92	65	39	2	36	100	27	89	0.00038	39.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_09348T0 | MGG_09348 | Magnaporthe grisea (M. oryzae) 70-15 mitochondrial intermembrane space import and assembly protein 4 - 309 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_65729|fgenesh1_pg.C_scaffold_36000099 - 326 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU04945T0 | NCU04945 | Neurospora crassa OR74A (finished) mitochondrial intermembrane space protein Mia4 - 298 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_169403 - 290 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_169403	cele|cele_F11C1.1	27.66	94	65	3	155	247	35	126	0.00078	39.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_026630 |  Neosartorya fischeri nul - 296 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_78134 - 299 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_78134	cele|cele_F11C1.1	28.72	94	64	3	163	255	35	126	0.001	39.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002557455.1| gi|255931797 Pc12g06120 [Penicillium chrysogenum Wisconsi - 282 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_17567|e_gw1.13.22.1 - 77 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_17567|e_gw1.13.22.1	cele|cele_F42H10.2	33.33	63	40	2	1	62	49	110	1.3e-05	43.8
+rgra|t_17567|e_gw1.13.22.1	cele|cele_F11C1.1	34.55	55	35	1	1	54	55	109	2e-05	43.3
+rgra|t_17567|e_gw1.13.22.1	cele|cele_ZK616.2	37.25	51	32	0	1	51	39	89	2.8e-05	42.4
+rgra|t_17567|e_gw1.13.22.1	cele|cele_ZK616.3	27.12	59	41	2	1	57	45	103	0.0001	40.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_04437 | RO3G_04438 | Rhizopus oryzae hypothetical protei - 147 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_04437	cele|cele_ZK616.2	31.82	88	59	1	8	95	3	89	9.9e-06	44.8
+rory|RO3T_04437	cele|cele_F11C1.1	27.38	84	59	2	33	115	44	126	2.7e-05	43.8
+rory|RO3T_04437	cele|cele_ZK616.3	22.22	117	85	6	8	118	6	122	0.00061	39.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YKL195W MIA40 SGDID:S000001678, Chr XI from 75826-77037, Verified ORF, "Essential protein of the mitochondrial intermembrane  - 403 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_05959 | SNOG_05959 | Stagonospora nodorum hypothetical protei - 320 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC57A10_11c.1 | SPAC57A10_11c | Schizosaccharomyces pombe 972h- TIM22 inner membrane protein import complex subunit Tim4 - 313 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPAC57A10_11c.1	cele|cele_ZK616.2	39.74	78	40	7	170	246	21	92	0.0004	40.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04221T0 | SPPG_04221 | Spizellomyces punctatus DAOM BR117 intermembrane space protein Mia4 - 150 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_25533|fgenesh1_pg.C_scaffold_2000383 - 260 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_80171|estExt_Genewise1Plus.C_40207 - 289 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_72212|estExt_fgeneshTM_pm.C_110064 - 245 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_31611|gw1.5.319.1 - 232 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_53942|estExt_Genewise1.C_10139 - 302 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03631 related to MIA40 - mitochondrial intermembrane space protein, involved in import and assembly of intermembrane spac - 247 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um03631	cele|cele_ZK616.2	41.27	63	33	4	135	196	33	92	0.00031	40.6
+umay|um03631	cele|cele_ZK616.3	23.42	111	79	6	116	223	18	125	0.00094	39.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E21373gT0 gene=YALI0E21373g Ylip_CLIB122_chrE:254067 - 253 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa

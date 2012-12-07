@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB08931.1 - 289 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB08931.1	atha|AT2G03690	41.10	219	123	6	45	261	8	222	1.1e-31	133.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g06410 Afu3g06410 A_fumigatus_Af293 AspGDID: COORDS:chr3:1578409-1579354(+) translated using codon table 1 (286 amino ac - 285 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu3g06410	atha|AT2G03690	42.20	218	122	4	45	261	8	222	3.9e-33	138.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_13365T0 | AMAG_13365 | Allomyces macrogynus ATCC 38327 Coq4 protei - 228 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_13365T0	atha|AT2G03690	42.67	225	126	3	1	225	1	222	3.1e-37	151.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04757T0 | ANID_04757 | Aspergillus nidulans FGSC A4 ubiquinone biosynthesis protein COQ - 285 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_04757T0	atha|AT2G03690	41.28	218	124	4	44	260	8	222	2.4e-32	135.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_15620 | BC1G_15620 | Botrytis cinerea hypothetical protein similar to Coq4 - 280 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_15620	atha|AT2G03690	38.32	214	128	4	45	257	8	218	5.1e-28	121.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.3008 |  Candida Albicans sc5314 assembly 21 orf19.300 - 323 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.3008	atha|AT2G03690	34.40	218	140	3	83	300	8	222	6.7e-29	124.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04463 | PGUG_04463 | Candida guilliermondii hypothetical protei - 313 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_04463	atha|AT2G03690	36.70	218	135	3	75	292	8	222	2e-30	129.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00434T0 | CIMG_00434 | Coccidioides immitis RS ubiquinone biosynthesis protein COQ - 339 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_00434T0	atha|AT2G03690	38.53	218	130	4	100	316	8	222	2.9e-31	132.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_01962T0 | CNAG_01962 | Cryptococcus neoformans grubii H99 COQ - 264 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_01962T0	atha|AT2G03690	36.49	211	132	2	18	226	8	218	1.6e-29	126.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_156655|fgenesh1_kg.06_#_48_#_2665_1_CCIA - 182 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_156655|fgenesh1_kg.06_#_48_#_2665_1_CCIA	atha|AT2G03690	37.50	176	107	3	3	178	53	225	2.1e-25	112.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_02739T0 | MGG_02739 | Magnaporthe grisea (M. oryzae) 70-15 ubiquinone biosynthesis protein COQ - 302 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_02739T0	atha|AT2G03690	40.64	219	124	6	54	270	8	222	3.5e-30	128.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_49596|estExt_Genewise1Plus.C_370025 - 324 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_49596|estExt_Genewise1Plus.C_370025	atha|AT2G03690	36.24	218	136	3	86	303	8	222	2.5e-27	119.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU02157T0 | NCU02157 | Neurospora crassa OR74A (finished) COQ - 347 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU02157T0	atha|AT2G03690	38.81	219	128	6	63	279	8	222	6.5e-24	108.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_165450 - 347 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_165450	atha|AT2G03690	38.81	219	128	6	63	279	8	222	1.9e-24	109.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_070860 |  Neosartorya fischeri nul - 285 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_070860	atha|AT2G03690	41.28	218	124	4	45	261	8	222	1.1e-32	136.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_89102 - 347 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_89102	atha|AT2G03690	39.27	219	127	6	63	279	8	222	5.8e-24	108.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563286.1| gi|255945037 Pc20g07630 [Penicillium chrysogenum Wisconsi - 284 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002563286.1|	atha|AT2G03690	42.20	218	122	4	43	259	8	222	8.8e-33	137.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_47706|gm1.7271_g - 302 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_47706|gm1.7271_g	atha|AT2G03690	35.78	218	137	3	62	279	8	222	1.2e-24	110.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_09153 | RO3G_09154 | Rhizopus oryzae hypothetical protei - 231 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_09153	atha|AT2G03690	38.99	218	130	3	12	229	8	222	2.9e-33	138.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR204W COQ4 SGDID:S000002612, Chr IV from 858135-859142, Verified ORF, "Protein with a role in ubiquinone (Coenzyme Q) biosy - 335 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YDR204W	atha|AT2G03690	33.49	218	142	3	88	305	8	222	2.3e-25	112.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_00304 | SNOG_00304 | Stagonospora nodorum hypothetical protei - 262 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_00304	atha|AT2G03690	35.32	218	109	32	46	234	8	222	8.8e-21	97.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC1687_12c.1 | SPAC1687_12c | Schizosaccharomyces pombe 972h- ubiquinone biosynthesis protein Coq4 (predicted - 272 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC1687_12c.1	atha|AT2G03690	38.81	219	130	4	51	269	8	222	3.8e-31	131.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03465T0 | SPPG_03465 | Spizellomyces punctatus DAOM BR117 coenzyme Q (ubiquinone) biosynthesis protein Coq - 286 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_03465T0	atha|AT2G03690	42.03	207	118	2	57	263	18	222	1.2e-36	150.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_5716|gw1.3.693.1 - 223 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_5716|gw1.3.693.1	atha|AT2G03690	37.61	218	133	3	6	223	8	222	4.4e-30	127.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_74862|estExt_Genewise1Plus.C_13014 - 294 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_74862|estExt_Genewise1Plus.C_13014	atha|AT2G03690	42.66	218	121	4	50	266	8	222	1.7e-32	136.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_25370|e_gw1.1.1323.1 - 279 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_25370|e_gw1.1.1323.1	atha|AT2G03690	38.03	213	130	2	29	241	8	218	1.1e-27	120.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_106150|fgenesh5_pg.C_scaffold_6000376 - 259 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_106150|fgenesh5_pg.C_scaffold_6000376	atha|AT2G03690	42.92	219	119	6	19	235	8	222	3.5e-33	138.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_126305|estExt_fgenesh2_kg.C_10651 - 199 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_126305|estExt_fgenesh2_kg.C_10651	atha|AT2G03690	39.77	171	98	5	1	169	55	222	1.1e-21	99.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04495 related to COQ4 - responsible for restoring ubiquinone biosynthesis in c - 369 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um04495	atha|AT2G03690	29.13	254	147	33	71	324	2	222	3.5e-16	82.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0F27247gT0 gene=YALI0F27247g Ylip_CLIB122_chrF:complement(3462601 - 262 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0F27247gT0	atha|AT2G03690	37.61	218	133	3	32	249	8	222	2.6e-29	125.5

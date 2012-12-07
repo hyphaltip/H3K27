@@ -1,0 +1,123 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB04835.1 - 329 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB04835.1	atha|AT3G12050.1	24.20	343	235	25	5	326	21	359	1e-09	61.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu4g11330 Afu4g11330 A_fumigatus_Af293 AspGDID: COORDS:chr4:2971611-2972883(+) translated using codon table 1 (380 amino acids) - 379 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu4g11330	atha|AT3G12050.1	25.14	350	224	38	5	326	21	360	2e-10	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_03213T0 | AMAG_03213 | Allomyces macrogynus ATCC 38327 predicted protei - 377 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_03213T0	atha|AT3G12050.1	27.44	390	212	71	12	374	14	359	4.7e-08	56.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_05602T0 | ANID_05602 | Aspergillus nidulans FGSC A4 Aha1 domain family protei - 322 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_05602T0	atha|AT3G12050.1	24.93	341	229	27	5	322	21	357	5e-10	62.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_11454 | BC1G_11454 | Botrytis cinerea activator of heat shock protein 9 - 323 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_11454	atha|AT3G12050.1	25.57	348	218	41	5	320	21	359	4.8e-06	49.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7602 |  Candida Albicans sc5314 assembly 21 orf19.760 - 346 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.7602	atha|AT3G12050.1	27.05	366	213	54	5	343	21	359	5.9e-18	88.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02908 | PGUG_02908 | Candida guilliermondii hypothetical protei - 349 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_02908	atha|AT3G12050.1	28.61	360	218	39	5	346	21	359	2.8e-10	63.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_01552T0 | CIMG_01552 | Coccidioides immitis RS Aha1 domain-containing protei - 327 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_01552T0	atha|AT3G12050.1	26.09	345	224	31	5	324	21	359	1.7e-10	64.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00305T0 | CNAG_00305 | Cryptococcus neoformans grubii H99 chaperone activato - 376 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_00305T0	atha|AT3G12050.1	25.00	292	195	24	1	275	13	297	0.00065	42.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155936|fgenesh1_kg.03_#_412_#_1104_1_CCIA - 326 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_155936|fgenesh1_kg.03_#_412_#_1104_1_CCIA	atha|AT3G12050.1	27.94	340	222	23	6	323	21	359	3.2e-14	76.4
+mcin|t_155936|fgenesh1_kg.03_#_412_#_1104_1_CCIA	atha|AT5G58110	28.79	132	87	7	2	128	50	179	0.00027	42.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00814T0 | MGG_00814 | Magnaporthe grisea (M. oryzae) 70-15 Hsp90 co-chaperone AHA - 327 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_00814T0	atha|AT3G12050.1	26.01	346	223	33	5	324	21	359	8e-10	61.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_44926|estExt_Genewise1.C_440009 - 322 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_44926|estExt_Genewise1.C_440009	atha|AT3G12050.1	23.41	346	226	39	5	319	22	359	1.6e-05	47.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU04087T0 | NCU04087 | Neurospora crassa OR74A (finished) Aha1 domain-containing protei - 326 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU04087T0	atha|AT3G12050.1	26.72	348	217	38	5	323	21	359	2.9e-09	59.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_167356 - 326 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_167356	atha|AT3G12050.1	26.01	346	222	34	5	323	21	359	1.8e-08	57.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_105240 |  Neosartorya fischeri nul - 377 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_105240	atha|AT3G12050.1	25.71	350	220	40	5	324	21	360	8.4e-09	58.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_118170 - 325 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_118170	atha|AT3G12050.1	26.30	346	220	35	5	322	21	359	1e-08	58.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002564611.1| gi|255947688 Pc22g05790 [Penicillium chrysogenum Wisconsi - 326 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002564611.1|	atha|AT3G12050.1	28.20	344	217	30	5	323	21	359	3.2e-11	66.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_26254|estExt_Genewise1.C_5_t20030 - 389 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_26254|estExt_Genewise1.C_5_t20030	atha|AT3G12050.1	23.42	316	223	19	6	304	20	333	4.2e-05	46.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_06939 | RO3G_06940 | Rhizopus oryzae hypothetical protei - 323 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_06939	atha|AT3G12050.1	30.32	343	207	32	6	320	21	359	3e-13	73.1
+rory|RO3T_06939	atha|AT5G58110	29.32	133	86	8	2	129	50	179	0.00017	43.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR214W AHA1 SGDID:S000002622, Chr IV from 892873-893925, Verified ORF, "Co-chaperone that binds to Hsp82p and activates its  - 350 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YDR214W	atha|AT3G12050.1	24.59	362	231	42	5	347	21	359	3.8e-10	62.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_14306 | SNOG_14306 | Stagonospora nodorum hypothetical protei - 329 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_14306	atha|AT3G12050.1	26.09	345	226	29	5	326	21	359	2.3e-11	66.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC1711_08.1 | SPBC1711_08 | Schizosaccharomyces pombe 972h- chaperone activator Aha1 (predicted - 336 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPBC1711_08.1	atha|AT3G12050.1	26.26	358	214	50	7	333	21	359	7.5e-19	91.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_05536T0 | SPPG_05536 | Spizellomyces punctatus DAOM BR117 Aha1 domain family protei - 484 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_05536T0	atha|AT4G38495	47.01	117	58	4	372	484	8	124	2.5e-14	75.7
+spun|SPPG_05536T0	atha|AT3G12050.1	30.29	340	204	33	14	323	21	357	3.1e-12	70.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_18793|estExt_Genewise1.C_60491 - 330 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_18793|estExt_Genewise1.C_60491	atha|AT3G12050.1	23.42	316	218	24	8	307	22	329	2.8e-12	69.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_111982|estExt_fgenesh1_kg.C_50245 - 326 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_111982|estExt_fgenesh1_kg.C_50245	atha|AT3G12050.1	27.46	346	217	34	5	323	21	359	2e-10	63.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_38360|estExt_Genewise1.C_30723 - 332 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_38360|estExt_Genewise1.C_30723	atha|AT3G12050.1	26.19	294	186	31	13	285	23	306	1e-07	54.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_122882|estExt_fgenesh5_pg.C_160097 - 325 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_122882|estExt_fgenesh5_pg.C_160097	atha|AT3G12050.1	25.29	344	226	31	5	322	21	359	2.1e-10	63.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_62454|estExt_Genewise1.C_50465 - 326 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_62454|estExt_Genewise1.C_50465	atha|AT3G12050.1	26.01	346	222	34	5	323	21	359	1.8e-10	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um10696 related to AHA1 - stress-regulated c - 321 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um10696	atha|AT3G12050.1	24.06	345	225	37	5	317	21	360	0.00023	43.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0B15840gT0 gene=YALI0B15840g Ylip_CLIB122_chrB:210269 - 325 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0B15840gT0	atha|AT3G12050.1	22.35	340	241	23	5	322	21	359	2.5e-10	63.4

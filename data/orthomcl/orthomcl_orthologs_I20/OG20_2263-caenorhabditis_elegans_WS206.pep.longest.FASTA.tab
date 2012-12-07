@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02075.1 - 1977 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB02075.1	cele|cele_W10C6.1	25.03	723	442	100	1190	1818	637	1353	7.4e-19	96.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g05950 Afu3g05950 A_fumigatus_Af293 AspGDID: COORDS:chr3:1453727-1459969(-) translated using codon table 1 (2081 amino acids - 2080 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu3g05950	cele|cele_W10C6.1	27.47	779	444	121	1203	1872	618	1384	5.7e-23	109.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_17102T0 | AMAG_17102 | Allomyces macrogynus ATCC 38327 predicted protein - 1519 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_02772T0 | ANID_02772 | Aspergillus nidulans FGSC A4 negative regulator of mitosis - 2045 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_02772T0	cele|cele_W10C6.1	25.72	762	433	133	1201	1835	629	1384	1.6e-12	75.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_10327 | BC1G_10327 | Botrytis cinerea negative regulator of mitosis - 1881 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_10327	cele|cele_W10C6.1	23.47	767	477	110	1111	1772	642	1403	3.6e-21	103.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6046 |  Candida Albicans sc5314 assembly 21 orf19.6046 - 1535 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.6046	cele|cele_W10C6.1	26.18	806	477	118	749	1451	633	1423	1.8e-10	68.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04730 | PGUG_04730 | Candida guilliermondii hypothetical protein - 1569 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_04730	cele|cele_W10C6.1	24.94	826	500	120	779	1494	631	1446	4.4e-24	113.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00516T0 | CIMG_00516 | Coccidioides immitis RS 20S cyclosome subunit - 2075 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_00516T0	cele|cele_W10C6.1	24.90	779	469	116	1213	1884	629	1398	5.9e-16	86.6
+cimm_rs|CIMG_00516T0	cele|cele_H02F09.3	20.08	483	357	29	101	570	610	1076	0.00091	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02183T0 | CNAG_02183 | Cryptococcus neoformans grubii H99 anaphase promoting complex subunit 1 - 1947 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_02183T0	cele|cele_W10C6.1	26.83	764	459	100	991	1658	616	1375	3.2e-20	100.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_151636|fgenesh1_pm.01_#_405 - 610 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_151636|fgenesh1_pm.01_#_405	cele|cele_W10C6.1	25.25	590	337	104	61	553	746	1328	3.6e-11	68.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03314T0 | MGG_03314 | Magnaporthe grisea (M. oryzae) 70-15 negative regulator of mitosis - 1918 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_03314T0	cele|cele_W10C6.1	26.61	654	372	108	1033	1582	677	1326	1.6e-15	85.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_91152|EuGene.00400010 - 2093 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_91152|EuGene.00400010	cele|cele_W10C6.1	25.48	785	472	113	1081	1770	618	1384	8.3e-08	59.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05901T0 | NCU05901 | Neurospora crassa OR74A (finished) hypothetical protein - 2077 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU05901T0	cele|cele_W10C6.1	24.44	761	458	117	1159	1825	642	1379	3.1e-20	100.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_112566 - 2081 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_112566	cele|cele_W10C6.1	24.66	742	445	114	1164	1811	642	1363	1.6e-20	101.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_071300 |  Neosartorya fischeri null - 2076 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_071300	cele|cele_W10C6.1	27.77	767	433	121	1216	1872	629	1384	1.3e-14	82.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_86821 - 2041 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_86821	cele|cele_W10C6.1	24.35	772	467	117	1112	1789	631	1379	1.7e-20	101.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563325.1| gi|255945115 Pc20g08020 [Penicillium chrysogenum Wisconsi - 2057 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002563325.1|	cele|cele_W10C6.1	24.68	948	571	143	1012	1844	465	1384	4.6e-12	73.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_1384|gw1.17.25.1 - 616 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_1384|gw1.17.25.1	cele|cele_W10C6.1	24.45	642	382	103	52	611	733	1353	6.1e-11	68.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_07751 | RO3G_07752 | Rhizopus oryzae hypothetical protein - 1532 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_07751	cele|cele_W10C6.1	23.90	958	578	151	652	1509	410	1316	1.3e-05	51.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YNL172W APC1 SGDID:S000005116, Chr XIV from 310638-315884, Verified ORF, "Largest subunit of the Anaphase-Promoting Complex/C - 1748 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YNL172W	cele|cele_W10C6.1	23.90	753	491	82	902	1609	638	1353	3e-26	120.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15760 | SNOG_15760 | Stagonospora nodorum hypothetical protein - 2006 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_15760	cele|cele_W10C6.1	24.07	756	471	103	1217	1872	637	1389	1.2e-18	95.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC106_09.1 | SPBC106_09 | Schizosaccharomyces pombe 972h- anaphase-promoting complex subunit Apc1 - 1458 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPBC106_09.1	cele|cele_W10C6.1	26.51	860	497	135	664	1397	597	1447	9.8e-18	92.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_02706T0 | SPPG_02706 | Spizellomyces punctatus DAOM BR117 predicted protein - 1742 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_02706T0	cele|cele_W10C6.1	24.35	887	518	153	837	1593	634	1497	7.8e-07	56.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14908|e_gw1.9.45.1 - 716 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_14908|e_gw1.9.45.1	cele|cele_W10C6.1	23.94	752	463	109	27	704	748	1464	5.7e-14	78.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_82948|estExt_Genewise1Plus.C_52204 - 1778 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_82948|estExt_Genewise1Plus.C_52204	cele|cele_W10C6.1	22.29	812	495	136	873	1585	629	1403	4.7e-17	90.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_72199|estExt_fgeneshTM_pm.C_110040 - 2039 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_72199|estExt_fgeneshTM_pm.C_110040	cele|cele_W10C6.1	28.86	738	437	88	1013	1665	636	1370	1.9e-19	98.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_77616|estExt_GeneWisePlus.C_80531 - 1950 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_77616|estExt_GeneWisePlus.C_80531	cele|cele_W10C6.1	24.63	743	461	99	1125	1776	633	1367	5.6e-21	103.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_136298|estExt_fgenesh2_pm.C_70106 - 2008 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_136298|estExt_fgenesh2_pm.C_70106	cele|cele_W10C6.1	24.63	735	440	114	1142	1781	631	1346	4.4e-19	96.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um02427 related to negative regulator  - 2077 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um02427	cele|cele_W10C6.1	25.98	739	452	95	1123	1777	616	1343	7.1e-11	69.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D16885gT0 gene=YALI0D16885g Ylip_CLIB122_chrD:complement(2083632 - 1535 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0D16885gT0	cele|cele_W10C6.1	27.16	751	432	115	762	1403	631	1375	3.7e-16	86.8

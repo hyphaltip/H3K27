@@ -1,0 +1,153 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB10641.1 - 242 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu5g03680 Afu5g03680 A_fumigatus_Af293 AspGDID: COORDS:chr5:984370-985825(-) translated using codon table 1 (446 amino acids) t - 445 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu5g03680	hsap|hsap_ENST00000344095	34.18	433	242	43	2	396	12	439	2.2e-24	111.3
+afum|Afu5g03680	hsap|hsap_ENST00000294168	30.30	396	228	48	7	395	15	369	2.5e-16	84.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_06698T0 | AMAG_06698 | Allomyces macrogynus ATCC 38327 transcription initiation factor TFIID subunit  - 484 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_06698T0	hsap|hsap_ENST00000344095	31.70	489	273	61	6	443	48	526	7.1e-12	69.8
+amac|AMAG_06698T0	hsap|hsap_ENST00000294168	25.00	476	254	103	6	417	45	481	4e-07	53.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_08232T0 | ANID_08232 | Aspergillus nidulans FGSC A4 transcription initiation factor TFIID complex 60 kDa subuni - 445 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_08232T0	hsap|hsap_ENST00000344095	34.05	464	264	42	2	433	12	465	3e-25	114.1
+anid|ANID_08232T0	hsap|hsap_ENST00000294168	28.88	412	243	50	7	409	15	385	7.1e-17	86.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07977 | BC1G_07977 | Botrytis cinerea hypothetical protein similar to TATA binding protein-associated facto - 472 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_07977	hsap|hsap_ENST00000344095	35.46	392	209	44	11	370	17	396	1.6e-23	108.5
+bcin|BC1T_07977	hsap|hsap_ENST00000294168	25.98	435	267	55	5	432	8	394	5.8e-06	50.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7454 |  Candida Albicans sc5314 assembly 21 orf19.745 - 519 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.7454	hsap|hsap_ENST00000344095	31.18	417	246	41	14	423	15	397	1.4e-20	98.8
+calb_sc5314|orf19.7454	hsap|hsap_ENST00000294168	23.76	425	230	94	14	437	13	344	1.4e-11	68.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_01300 | PGUG_01300 | Candida guilliermondii hypothetical protei - 489 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_01300	hsap|hsap_ENST00000344095	33.09	414	251	26	1	405	1	397	4.6e-46	183.4
+cgui|PGUT_01300	hsap|hsap_ENST00000294168	25.37	469	266	84	16	474	13	407	2.8e-12	71.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_11775T0 | CIMG_11775 | Coccidioides immitis RS transcription initiation factor TFIID complex 60 kDa subuni - 446 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_11775T0	hsap|hsap_ENST00000344095	38.38	383	204	32	7	360	17	396	9.9e-26	115.8
+cimm_rs|CIMG_11775T0	hsap|hsap_ENST00000294168	30.60	402	229	50	7	400	15	374	1.3e-17	88.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02536T0 | CNAG_02536 | Cryptococcus neoformans grubii H99 transcription initiation factor TFIID complex 60 kDa subuni - 520 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_02536T0	hsap|hsap_ENST00000344095	27.87	470	259	80	9	436	13	444	0.00023	45.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_72765|Mucci1.fgeneshMC_pm.3_#_64 - 390 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_72765|Mucci1.fgeneshMC_pm.3_#_64	hsap|hsap_ENST00000344095	37.82	386	209	31	2	356	12	397	1e-25	115.5
+mcin|t_72765|Mucci1.fgeneshMC_pm.3_#_64	hsap|hsap_ENST00000294168	31.25	352	207	35	5	355	13	330	2.9e-17	87.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04877T0 | MGG_04877 | Magnaporthe grisea (M. oryzae) 70-15 transcription initiation factor TFIID subunit  - 492 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_04877T0	hsap|hsap_ENST00000344095	27.67	412	219	79	35	396	16	398	7.2e-15	79.8
+mgri|MGG_04877T0	hsap|hsap_ENST00000294168	26.48	423	254	57	36	452	15	386	4.3e-06	50.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_47407|estExt_Genewise1Plus.C_70212 - 562 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_47407|estExt_Genewise1Plus.C_70212	hsap|hsap_ENST00000344095	29.96	464	274	51	4	431	7	455	1.5e-14	79.0
+mlar|t_47407|estExt_Genewise1Plus.C_70212	hsap|hsap_ENST00000294168	29.74	380	223	44	12	387	13	352	5.7e-07	53.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU07757T0 | NCU07757 | Neurospora crassa OR74A (finished) transcription initiation factor TFIID complex 60 kDa subuni - 465 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU07757T0	hsap|hsap_ENST00000344095	33.82	408	220	50	13	387	17	407	2.4e-21	101.3
+ncra|NCU07757T0	hsap|hsap_ENST00000294168	27.06	425	248	62	13	431	15	383	9.8e-10	62.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_128942 - 530 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_128942	hsap|hsap_ENST00000344095	33.82	408	220	50	78	452	17	407	3.8e-21	100.8
+ndis|NEUDI1_128942	hsap|hsap_ENST00000294168	27.06	425	248	62	78	496	15	383	1.3e-09	62.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_038440 |  Neosartorya fischeri nul - 445 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_038440	hsap|hsap_ENST00000344095	34.18	433	242	43	2	396	12	439	2.8e-24	110.9
+nfis|NFIA_038440	hsap|hsap_ENST00000294168	29.80	396	230	48	7	395	15	369	3.6e-16	83.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_128140 - 536 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_128140	hsap|hsap_ENST00000344095	33.82	408	220	50	84	458	17	407	2.4e-21	101.4
+ntet|NEUTE1_128140	hsap|hsap_ENST00000294168	26.72	408	242	57	84	485	15	371	1e-09	62.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002567195.1| gi|255952885 Pc21g01240 [Penicillium chrysogenum Wisconsi - 442 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002567195.1|	hsap|hsap_ENST00000344095	33.05	466	264	48	2	430	12	466	1.7e-23	108.3
+pechr_54_1255|XP_002567195.1|	hsap|hsap_ENST00000294168	31.30	393	220	50	7	390	15	366	2.8e-14	77.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_35674|estExt_Genewise1Plus.C_5_t10350 - 530 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_35674|estExt_Genewise1Plus.C_5_t10350	hsap|hsap_ENST00000344095	30.46	417	237	53	11	394	13	409	1.7e-09	62.0
+rgra|t_35674|estExt_Genewise1Plus.C_5_t10350	hsap|hsap_ENST00000294168	27.65	358	199	60	14	368	14	314	7.7e-05	46.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_02431 | RO3G_02432 | Rhizopus oryzae hypothetical protei - 220 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_02431	hsap|hsap_ENST00000344095	36.48	244	124	31	1	213	58	301	1.8e-17	87.3
+rory|RO3T_02431	hsap|hsap_ENST00000294168	27.57	214	121	34	1	213	55	235	2.8e-05	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YGL112C TAF6 SGDID:S000003080, Chr VII from 299731-298181, reverse complement, Verified ORF, "Subunit (60 kDa) of TFIID and S - 516 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YGL112C	hsap|hsap_ENST00000344095	31.37	424	264	27	13	431	15	416	1.1e-21	102.5
+scer_s288c|YGL112C	hsap|hsap_ENST00000294168	25.95	420	226	85	1	418	1	337	2e-06	51.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_10944 | SNOG_10944 | Stagonospora nodorum hypothetical protei - 468 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_10944	hsap|hsap_ENST00000344095	29.88	502	280	72	2	465	11	478	1.9e-27	121.5
+snod|SNOT_10944	hsap|hsap_ENST00000294168	26.30	441	250	75	8	433	15	395	1.9e-08	58.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC16C4_18c.1 | SPCC16C4_18c | Schizosaccharomyces pombe 972h- histone H4-like TAF Taf6, SAGA complex subuni - 452 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPCC16C4_18c.1	hsap|hsap_ENST00000344095	36.20	453	263	26	1	433	9	455	3.2e-28	124.1
+spom|SPCC16C4_18c.1	hsap|hsap_ENST00000294168	27.66	423	245	61	9	424	15	383	3.5e-14	77.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03206T0 | SPPG_03206 | Spizellomyces punctatus DAOM BR117 transcription initiation factor TFIID subunit  - 708 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_03206T0	hsap|hsap_ENST00000344095	38.44	398	211	34	269	638	19	410	6.8e-18	90.4
+spun|SPPG_03206T0	hsap|hsap_ENST00000222812	33.72	258	146	25	62	315	30	266	9.5e-18	88.7
+spun|SPPG_03206T0	hsap|hsap_ENST00000215095	35.21	213	126	12	62	270	29	233	2.2e-17	87.4
+spun|SPPG_03206T0	hsap|hsap_ENST00000392373	31.89	254	154	19	62	314	29	264	1.5e-16	84.6
+spun|SPPG_03206T0	hsap|hsap_ENST00000337979	34.43	244	146	14	62	300	32	266	4.6e-16	83.1
+spun|SPPG_03206T0	hsap|hsap_ENST00000294168	29.23	390	235	41	269	657	17	366	2.7e-14	78.3
+spun|SPPG_03206T0	hsap|hsap_ENST00000313843	27.97	286	191	15	19	300	1	275	4.7e-14	76.4
+spun|SPPG_03206T0	hsap|hsap_ENST00000367568	29.75	242	144	26	50	270	10	246	1.1e-09	61.9
+spun|SPPG_03206T0	hsap|hsap_ENST00000315099	24.91	277	185	23	1	275	1	256	2e-07	54.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_3514|gw1.6.279.1 - 357 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_3514|gw1.6.279.1	hsap|hsap_ENST00000344095	30.03	383	216	52	3	357	22	380	1.3e-15	81.8
+sror|t_3514|gw1.6.279.1	hsap|hsap_ENST00000294168	27.45	357	195	64	3	357	20	314	6.9e-06	49.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_115062|estExt_fgenesh1_pm.C_30576 - 468 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_115062|estExt_fgenesh1_pm.C_30576	hsap|hsap_ENST00000344095	31.22	426	237	56	14	399	17	426	9.1e-20	96.0
+sthe|t_115062|estExt_fgenesh1_pm.C_30576	hsap|hsap_ENST00000294168	27.65	405	240	53	14	414	15	370	1.1e-07	55.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_70674|estExt_fgeneshTM_pm.C_10187 - 486 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_70674|estExt_fgeneshTM_pm.C_10187	hsap|hsap_ENST00000344095	25.76	462	279	64	8	435	13	444	3.1e-05	47.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_106473|fgenesh5_pg.C_scaffold_7000274 - 468 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_106473|fgenesh5_pg.C_scaffold_7000274	hsap|hsap_ENST00000344095	33.50	409	225	47	1	374	1	397	6.9e-20	96.4
+tree|t_106473|fgenesh5_pg.C_scaffold_7000274	hsap|hsap_ENST00000294168	26.22	431	262	56	13	437	15	395	2.6e-06	51.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_162633|estExt_genemark.C_20766 - 545 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_162633|estExt_genemark.C_20766	hsap|hsap_ENST00000344095	29.53	491	283	63	91	541	17	484	3.9e-18	90.8
+tter|t_162633|estExt_genemark.C_20766	hsap|hsap_ENST00000294168	27.00	437	255	64	78	504	1	383	2.1e-07	55.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03802 related to TAF6 - Subunit (60 kDa) of TFIID and SAGA - 701 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um03802	hsap|hsap_ENST00000344095	26.53	475	234	115	51	520	12	376	1.4e-07	56.1
+umay|um03802	hsap|hsap_ENST00000294168	30.62	160	87	24	54	210	13	151	0.00014	46.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0C05346gT0 gene=YALI0C05346g Ylip_CLIB122_chrC:complement(68614 - 482 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0C05346gT0	hsap|hsap_ENST00000344095	32.14	420	228	57	3	394	7	397	2.9e-34	144.2
+ylip|YALI0C05346gT0	hsap|hsap_ENST00000294168	27.11	439	238	82	12	438	13	381	1.3e-10	65.5

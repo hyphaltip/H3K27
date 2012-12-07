@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB04835.1 - 329 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB04835.1	mbre|t_32329	26.14	329	230	13	5	326	21	343	1.5e-22	102.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu4g11330 Afu4g11330 A_fumigatus_Af293 AspGDID: COORDS:chr4:2971611-2972883(+) translated using codon table 1 (380 amino acids) - 379 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu4g11330	mbre|t_32329	27.61	355	239	18	5	351	21	365	8.8e-20	93.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_03213T0 | AMAG_03213 | Allomyces macrogynus ATCC 38327 predicted protei - 377 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_05602T0 | ANID_05602 | Aspergillus nidulans FGSC A4 Aha1 domain family protei - 322 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_05602T0	mbre|t_32329	27.83	327	221	15	5	322	21	341	2e-23	105.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_11454 | BC1G_11454 | Botrytis cinerea activator of heat shock protein 9 - 323 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_11454	mbre|t_32329	27.36	329	220	19	5	320	21	343	6.4e-12	67.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7602 |  Candida Albicans sc5314 assembly 21 orf19.760 - 346 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.7602	mbre|t_32329	24.93	341	240	16	5	345	21	345	6.6e-12	67.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02908 | PGUG_02908 | Candida guilliermondii hypothetical protei - 349 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_02908	mbre|t_32329	23.48	345	243	21	5	348	21	345	1.2e-07	53.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_01552T0 | CIMG_01552 | Coccidioides immitis RS Aha1 domain-containing protei - 327 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_01552T0	mbre|t_32329	24.70	328	234	13	5	324	21	343	8.5e-21	97.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00305T0 | CNAG_00305 | Cryptococcus neoformans grubii H99 chaperone activato - 376 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_00305T0	mbre|t_32329	25.34	292	196	22	1	280	13	294	9.4e-14	73.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155936|fgenesh1_kg.03_#_412_#_1104_1_CCIA - 326 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_155936|fgenesh1_kg.03_#_412_#_1104_1_CCIA	mbre|t_32329	25.85	325	232	9	3	323	24	343	3.7e-23	104.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00814T0 | MGG_00814 | Magnaporthe grisea (M. oryzae) 70-15 Hsp90 co-chaperone AHA - 327 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_00814T0	mbre|t_32329	25.76	330	228	17	5	324	21	343	2e-20	95.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_44926|estExt_Genewise1.C_440009 - 322 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_44926|estExt_Genewise1.C_440009	mbre|t_32329	23.17	328	229	23	7	319	24	343	2.1e-13	72.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU04087T0 | NCU04087 | Neurospora crassa OR74A (finished) Aha1 domain-containing protei - 326 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU04087T0	mbre|t_32329	27.27	330	222	18	5	323	21	343	1.2e-18	89.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_167356 - 326 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_167356	mbre|t_32329	28.10	331	218	20	5	323	21	343	1.6e-17	86.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_105240 |  Neosartorya fischeri nul - 377 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_105240	mbre|t_32329	28.92	332	220	16	5	326	21	346	2.5e-21	99.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_118170 - 325 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_118170	mbre|t_32329	27.27	330	221	19	5	322	21	343	1.5e-17	86.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002564611.1| gi|255947688 Pc22g05790 [Penicillium chrysogenum Wisconsi - 326 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002564611.1|	mbre|t_32329	26.89	331	226	16	5	325	21	345	1.8e-23	105.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_26254|estExt_Genewise1.C_5_t20030 - 389 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_26254|estExt_Genewise1.C_5_t20030	mbre|t_32329	21.56	320	242	9	10	320	24	343	1.1e-12	70.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_06939 | RO3G_06940 | Rhizopus oryzae hypothetical protei - 323 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_06939	mbre|t_32329	27.66	329	220	18	5	320	20	343	1.1e-21	100.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR214W AHA1 SGDID:S000002622, Chr IV from 892873-893925, Verified ORF, "Co-chaperone that binds to Hsp82p and activates its  - 350 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YDR214W	mbre|t_32329	21.55	348	247	26	5	349	21	345	2.3e-07	52.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_14306 | SNOG_14306 | Stagonospora nodorum hypothetical protei - 329 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_14306	mbre|t_32329	26.52	328	230	11	5	326	21	343	4.3e-23	104.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC1711_08.1 | SPBC1711_08 | Schizosaccharomyces pombe 972h- chaperone activator Aha1 (predicted - 336 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPBC1711_08.1	mbre|t_32329	27.63	333	229	12	7	335	21	345	3.2e-30	128.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_05536T0 | SPPG_05536 | Spizellomyces punctatus DAOM BR117 Aha1 domain family protei - 484 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_05536T0	mbre|t_32329	31.19	327	206	19	13	324	20	342	6.3e-14	74.8
+spun|SPPG_05536T0	mbre|t_22438	42.05	88	51	0	393	480	85	172	9.9e-08	52.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_18793|estExt_Genewise1.C_60491 - 330 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_18793|estExt_Genewise1.C_60491	mbre|t_32329	24.01	329	234	16	10	329	24	345	6.3e-14	74.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_111982|estExt_fgenesh1_kg.C_50245 - 326 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_111982|estExt_fgenesh1_kg.C_50245	mbre|t_32329	26.97	330	223	18	5	323	21	343	4e-19	91.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_38360|estExt_Genewise1.C_30723 - 332 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_38360|estExt_Genewise1.C_30723	mbre|t_32329	25.08	327	225	20	15	329	25	343	7.7e-15	77.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_122882|estExt_fgenesh5_pg.C_160097 - 325 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_122882|estExt_fgenesh5_pg.C_160097	mbre|t_32329	29.00	331	214	21	5	322	21	343	1.4e-24	109.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_62454|estExt_Genewise1.C_50465 - 326 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_62454|estExt_Genewise1.C_50465	mbre|t_32329	27.41	332	223	18	5	325	21	345	2.7e-22	102.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um10696 related to AHA1 - stress-regulated c - 321 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um10696	mbre|t_32329	25.91	328	219	24	7	318	24	343	1.4e-06	49.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0B15840gT0 gene=YALI0B15840g Ylip_CLIB122_chrB:210269 - 325 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0B15840gT0	mbre|t_32329	24.46	327	234	13	5	322	21	343	1.7e-22	102.7

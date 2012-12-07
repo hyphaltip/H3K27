@@ -1,0 +1,188 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB04014.1 - 1142 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB04014.1	atha|AT5G63920	41.35	653	311	72	4	644	11	603	5.3e-62	238.3
+abra|AB04014.1	atha|AT2G32000.1	33.64	654	368	66	1	651	4	594	1.4e-46	187.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g02660 Afu2g02660 A_fumigatus_Af293 AspGDID: COORDS:chr2:682368-684675(-) translated using codon table 1 (630 amino acids) D - 629 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu2g02660	atha|AT2G32000.1	35.27	621	367	35	5	617	6	599	2.2e-74	278.5
+afum|Afu2g02660	atha|AT5G63920	40.99	627	341	29	2	617	8	616	2.1e-67	255.3
+afum|Afu2g02660	atha|AT4G31210	23.65	482	290	78	104	531	534	991	0.00073	44.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_10855T0 | AMAG_10855 | Allomyces macrogynus ATCC 38327 DNA topoisomerase type I - 999 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_10855T0	atha|AT5G63920	43.17	630	296	62	3	620	11	590	6.1e-39	161.5
+amac|AMAG_10855T0	atha|AT2G32000.1	35.26	553	320	38	1	548	5	524	1.3e-15	83.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04555T0 | ANID_04555 | Aspergillus nidulans FGSC A4 DNA topoisomerase II - 629 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_04555T0	atha|AT2G32000.1	35.54	619	372	27	5	619	6	601	1.8e-76	285.4
+anid|ANID_04555T0	atha|AT5G63920	39.97	623	346	28	6	617	11	616	2.4e-65	248.5
+anid|ANID_04555T0	atha|AT4G31210	23.34	574	340	100	113	629	543	1073	0.00016	46.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_04651 | BC1G_04651 | Botrytis cinerea DNA topoisomerase 3-bet - 647 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_04651	atha|AT5G63920	40.00	570	276	66	30	586	100	616	1.5e-53	209.4
+bcin|BC1T_04651	atha|AT2G32000.1	33.94	548	303	59	31	573	94	587	6.5e-45	180.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5934 |  Candida Albicans sc5314 assembly 21 orf19.593 - 629 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.5934	atha|AT5G63920	38.63	642	361	33	3	629	11	634	2.4e-98	358.1
+calb_sc5314|orf19.5934	atha|AT2G32000.1	33.44	607	383	21	1	603	5	594	1.5e-72	272.4
+calb_sc5314|orf19.5934	atha|AT4G31210	21.71	562	366	74	60	577	501	1032	2.5e-09	62.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04361 | PGUG_04361 | Candida guilliermondii hypothetical protei - 616 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_04361	atha|AT5G63920	38.42	622	352	31	3	609	11	616	1.2e-98	359.1
+cgui|PGUT_04361	atha|AT2G32000.1	34.54	608	371	27	1	601	5	592	2.8e-77	288.0
+cgui|PGUT_04361	atha|AT4G31210	24.62	589	370	74	59	604	501	1058	9.4e-07	54.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_01798T0 | CIMG_01798 | Coccidioides immitis RS DNA topoisomerase II - 645 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_01798T0	atha|AT5G63920	40.13	633	326	53	5	623	11	604	2.1e-50	198.9
+cimm_rs|CIMG_01798T0	atha|AT2G32000.1	35.70	633	358	49	4	630	6	595	7.6e-50	197.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04600T0 | CNAG_04600 | Cryptococcus neoformans grubii H99 DNA topoisomerase type  - 959 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_04600T0	atha|AT5G63920	36.42	961	500	111	3	906	11	917	1.7e-68	259.6
+cneo_h99|CNAG_04600T0	atha|AT2G32000.1	35.47	640	376	37	1	634	5	613	2.1e-46	186.1
+cneo_h99|CNAG_04600T0	atha|AT1G31290	30.54	298	155	52	640	933	3	252	0.00079	45.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_127912|gw1.03.1786.1 - 608 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_127912|gw1.03.1786.1	atha|AT5G63920	43.39	620	327	24	3	608	11	620	5.9e-111	400.0
+mcin|t_127912|gw1.03.1786.1	atha|AT2G32000.1	33.77	610	382	22	1	603	5	599	2.6e-78	291.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_11342T0 | MGG_11342 | Magnaporthe grisea (M. oryzae) 70-15 DNA topoisomerase  - 669 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_11342T0	atha|AT5G63920	40.09	656	320	73	4	649	11	603	1.8e-65	249.0
+mgri|MGG_11342T0	atha|AT2G32000.1	35.85	544	327	22	1	538	4	531	2.3e-49	195.4
+mgri|MGG_11342T0	atha|AT4G31210	26.53	490	297	63	80	525	515	985	5.7e-05	48.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_34533|e_gw1.9.29.1 - 749 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_34533|e_gw1.9.29.1	atha|AT2G32000.1	35.69	594	365	17	1	589	6	587	2.9e-51	201.9
+mlar|t_34533|e_gw1.9.29.1	atha|AT5G63920	43.07	606	324	21	2	594	11	608	1.3e-43	176.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU00081T0 | NCU00081 | Neurospora crassa OR74A (finished) DNA topoisomerase 3-bet - 612 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU00081T0	atha|AT2G32000.1	37.61	476	285	12	1	470	54	523	2.2e-42	172.1
+ncra|NCU00081T0	atha|AT5G63920	38.20	610	312	65	1	599	61	616	2.1e-34	145.7
+ncra|NCU00081T0	atha|AT4G31210	24.54	493	312	60	25	473	515	991	0.00011	47.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_24296 - 603 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_24296	atha|AT2G32000.1	37.82	476	284	12	1	470	54	523	1.1e-42	173.1
+ndis|NEUDI1_24296	atha|AT5G63920	37.95	614	316	65	1	603	61	620	7e-34	143.9
+ndis|NEUDI1_24296	atha|AT4G31210	23.94	493	315	60	25	473	515	991	0.00011	47.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_035060 |  Neosartorya fischeri nul - 571 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_035060	atha|AT2G32000.1	35.17	563	344	21	1	559	54	599	8e-72	269.8
+nfis|NFIA_035060	atha|AT5G63920	41.58	570	308	25	1	559	61	616	3.2e-61	234.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_81659 - 662 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_81659	atha|AT2G32000.1	33.03	654	371	67	3	649	6	599	5.4e-46	184.2
+ntet|NEUTE1_81659	atha|AT5G63920	38.66	657	341	62	4	649	11	616	1.2e-39	163.2
+ntet|NEUTE1_81659	atha|AT4G31210	22.78	540	343	74	47	528	468	991	7e-05	48.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562369.1| gi|255943201 Pc18g05420 [Penicillium chrysogenum Wisconsi - 628 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002562369.1|	atha|AT2G32000.1	35.24	613	374	23	4	614	6	597	5.6e-78	290.4
+pechr_54_1255|XP_002562369.1|	atha|AT5G63920	40.93	623	341	27	5	617	11	616	1.4e-65	249.3
+pechr_54_1255|XP_002562369.1|	atha|AT4G31210	24.89	470	281	72	112	530	543	991	0.00035	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_53943|estExt_Genemark1.C_70444 - 1003 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT2G32000.1	33.60	616	381	28	1	611	4	596	6.4e-40	164.6
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT5G63920	35.07	961	550	74	2	934	9	923	1.2e-38	160.5
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT4G01985	30.98	397	234	40	615	1000	77	444	1.8e-10	66.2
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT2G21060	46.32	136	51	22	843	973	82	200	1.1e-08	58.8
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT5G46730	29.94	344	159	82	608	948	23	287	1.1e-07	55.9
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT2G30560	41.30	138	71	10	847	980	24	155	3.5e-07	53.5
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT2G17870	33.07	251	129	39	754	993	11	233	4.4e-07	54.0
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT4G38680	34.48	232	103	49	752	972	9	202	7.8e-07	52.6
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT3G28780	26.25	480	288	66	543	993	102	544	1.4e-06	53.5
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT4G36020	40.28	144	64	22	845	988	76	197	5.9e-06	50.3
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT4G36020	40.38	104	47	15	873	968	199	295	1e-05	49.5
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT5G04290	26.63	413	244	59	618	996	969	1356	2.5e-05	50.5
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT5G33390	43.93	107	55	5	615	719	6	109	2.9e-05	46.6
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT5G58470.1	39.63	164	54	45	848	996	9	142	4.3e-05	47.9
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT1G27710	31.15	183	109	17	774	949	38	210	0.00021	44.6
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT5G04280.1	37.30	126	70	9	880	1003	93	211	0.00023	45.0
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT1G62240	35.93	167	85	22	845	995	45	205	0.00031	44.2
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT5G61030	38.93	149	66	25	843	984	118	248	0.00057	43.7
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT5G19090.1	26.46	393	228	61	618	995	119	465	0.00063	44.5
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT4G30460	39.32	117	57	14	848	964	51	153	0.00068	42.5
+rgra|t_53943|estExt_Genemark1.C_70444	atha|AT1G65440	30.30	231	112	49	774	995	1439	1629	0.0008	45.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03451 | RO3G_03452 | Rhizopus oryzae DNA topoisomeras - 480 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_03451	atha|AT5G63920	46.75	477	233	21	4	468	104	571	9.5e-93	339.1
+rory|RO3T_03451	atha|AT2G32000.1	36.08	474	279	24	4	468	97	555	5.3e-64	243.5
+rory|RO3T_03451	atha|AT4G31210	25.20	488	286	79	7	442	535	995	1.1e-13	76.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YLR234W TOP3 SGDID:S000004224, Chr XII from 609785-611755, Verified ORF, "DNA Topoisomerase III, conserved protein that funct - 656 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YLR234W	atha|AT5G63920	38.39	646	356	42	3	647	11	615	3.2e-31	135.2
+scer_s288c|YLR234W	atha|AT2G32000.1	33.81	633	367	52	1	633	5	585	2.5e-21	102.2
+scer_s288c|YLR234W	atha|AT4G31210	24.79	589	345	98	92	642	524	1052	0.00052	45.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_14677 | SNOG_14677 | Stagonospora nodorum hypothetical protei - 777 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_14677	atha|AT5G63920	41.74	654	308	73	4	645	11	603	6.4e-68	257.4
+snod|SNOT_14677	atha|AT2G32000.1	34.18	673	374	69	3	670	6	614	4.6e-49	194.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC16G5_12c.1 | SPBC16G5_12c | Schizosaccharomyces pombe 972h- DNA topoisomerase II - 622 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPBC16G5_12c.1	atha|AT5G63920	39.46	626	358	21	3	618	11	625	1.9e-73	275.4
+spom|SPBC16G5_12c.1	atha|AT2G32000.1	34.65	609	375	23	1	604	5	595	2.1e-73	275.2
+spom|SPBC16G5_12c.1	atha|AT4G31210	23.67	566	358	74	73	592	510	1047	5.9e-09	61.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00596T0 | SPPG_00596 | Spizellomyces punctatus DAOM BR117 DNA topoisomerase type I - 1080 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_00596T0	atha|AT5G63920	43.68	593	302	32	1	581	61	633	1.3e-56	220.2
+spun|SPPG_00596T0	atha|AT2G32000.1	37.30	563	325	28	1	558	54	593	2.2e-29	129.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_10880|e_gw1.3.204.1 - 659 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_10880|e_gw1.3.204.1	atha|AT5G63920	42.66	654	333	42	2	634	9	641	2.5e-75	281.7
+sror|t_10880|e_gw1.3.204.1	atha|AT2G32000.1	35.48	620	366	34	1	603	4	606	5.5e-69	260.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_115880|estExt_fgenesh1_pm.C_40636 - 668 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_115880|estExt_fgenesh1_pm.C_40636	atha|AT2G32000.1	39.58	528	306	13	1	524	4	522	1e-56	219.9
+sthe|t_115880|estExt_fgenesh1_pm.C_40636	atha|AT5G63920	40.59	675	329	72	4	666	11	625	5.4e-47	187.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73248|estExt_fgeneshTM_pg.C_20314 - 1002 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_73248|estExt_fgeneshTM_pg.C_20314	atha|AT5G63920	35.59	975	544	84	3	952	11	926	1.2e-65	250.2
+tmes|t_73248|estExt_fgeneshTM_pg.C_20314	atha|AT2G32000.1	36.98	630	370	27	1	623	5	614	8.1e-49	194.2
+tmes|t_73248|estExt_fgeneshTM_pg.C_20314	atha|AT2G21060	35.88	131	70	14	859	987	77	195	8.3e-05	45.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_57488|e_gw1.4.699.1 - 663 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_57488|e_gw1.4.699.1	atha|AT2G32000.1	33.99	659	367	68	1	651	5	603	1.2e-52	206.3
+tree|t_57488|e_gw1.4.699.1	atha|AT5G63920	40.36	664	331	65	3	655	11	620	1.3e-44	179.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_134649|estExt_fgenesh2_pm.C_30608 - 658 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_134649|estExt_fgenesh2_pm.C_30608	atha|AT2G32000.1	34.12	636	369	50	4	631	7	600	9.8e-54	209.9
+tter|t_134649|estExt_fgenesh2_pm.C_30608	atha|AT5G63920	40.96	664	344	48	4	655	11	638	2.5e-46	185.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um11929 related to DNA topoisomerase - 986 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um11929	atha|AT5G63920	35.45	1007	524	126	3	984	11	916	8.9e-53	207.4
+umay|um11929	atha|AT2G32000.1	36.86	624	359	35	1	618	5	599	6.4e-31	134.7
+umay|um11929	atha|AT4G38680	38.83	103	53	10	887	983	100	198	3.7e-08	57.0
+umay|um11929	atha|AT2G21060	41.00	100	42	17	887	983	110	195	9.7e-05	45.6
+umay|um11929	atha|AT4G36020	35.78	109	47	23	887	983	116	213	0.00047	43.9
+umay|um11929	atha|AT2G17870	25.00	264	163	35	741	983	48	297	0.00074	43.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0F22495gT0 gene=YALI0F22495g Ylip_CLIB122_chrF:297400 - 620 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0F22495gT0	atha|AT5G63920	41.08	628	334	36	3	615	11	617	7.9e-86	316.5
+ylip|YALI0F22495gT0	atha|AT2G32000.1	34.47	618	375	30	1	612	5	598	3.6e-65	247.8
+ylip|YALI0F22495gT0	atha|AT4G31210	24.28	523	316	80	107	582	543	1032	7.1e-13	74.7

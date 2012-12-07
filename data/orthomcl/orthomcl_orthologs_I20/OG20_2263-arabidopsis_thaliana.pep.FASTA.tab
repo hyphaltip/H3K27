@@ -1,0 +1,119 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02075.1 - 1977 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB02075.1	atha|AT5G05560	28.83	1044	604	139	914	1887	574	1548	2.9e-20	101.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g05950 Afu3g05950 A_fumigatus_Af293 AspGDID: COORDS:chr3:1453727-1459969(-) translated using codon table 1 (2081 amino acids - 2080 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu3g05950	atha|AT5G05560	31.85	876	473	124	1048	1846	649	1477	6.3e-21	103.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_17102T0 | AMAG_17102 | Allomyces macrogynus ATCC 38327 predicted protein - 1519 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_02772T0 | ANID_02772 | Aspergillus nidulans FGSC A4 negative regulator of mitosis - 2045 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_02772T0	atha|AT5G05560	31.05	876	456	148	1035	1809	649	1477	2.8e-22	108.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_10327 | BC1G_10327 | Botrytis cinerea negative regulator of mitosis - 1881 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_10327	atha|AT5G05560	32.01	778	436	93	1012	1732	741	1482	6.8e-27	123.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6046 |  Candida Albicans sc5314 assembly 21 orf19.6046 - 1535 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.6046	atha|AT5G05560	28.70	1007	594	124	444	1361	490	1461	1.5e-29	131.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04730 | PGUG_04730 | Candida guilliermondii hypothetical protein - 1569 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_04730	atha|AT5G05560	28.48	1064	637	124	421	1388	426	1461	6.9e-27	122.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00516T0 | CIMG_00516 | Coccidioides immitis RS 20S cyclosome subunit - 2075 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_00516T0	atha|AT5G05560	29.61	878	488	130	1046	1843	649	1476	1.1e-21	106.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02183T0 | CNAG_02183 | Cryptococcus neoformans grubii H99 anaphase promoting complex subunit 1 - 1947 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_02183T0	atha|AT5G05560	33.63	776	430	85	916	1643	744	1482	8.3e-34	146.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_151636|fgenesh1_pm.01_#_405 - 610 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_151636|fgenesh1_pm.01_#_405	atha|AT5G05560	35.81	578	312	59	46	571	913	1483	9e-18	91.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03314T0 | MGG_03314 | Magnaporthe grisea (M. oryzae) 70-15 negative regulator of mitosis - 1918 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_03314T0	atha|AT5G05560	35.51	535	307	38	1079	1578	911	1442	8.3e-21	103.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_91152|EuGene.00400010 - 2093 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_91152|EuGene.00400010	atha|AT5G05560	29.50	1000	599	106	795	1750	545	1482	1.4e-22	109.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05901T0 | NCU05901 | Neurospora crassa OR74A (finished) hypothetical protein - 2077 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU05901T0	atha|AT5G05560	30.76	751	428	92	1049	1744	728	1441	2.6e-17	91.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_112566 - 2081 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_112566	atha|AT5G05560	29.23	910	517	127	913	1749	586	1441	5.5e-18	93.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_071300 |  Neosartorya fischeri null - 2076 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_071300	atha|AT5G05560	32.19	876	470	124	1048	1846	649	1477	5.3e-21	103.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_86821 - 2041 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_86821	atha|AT5G05560	30.76	751	428	92	1013	1708	728	1441	1.5e-17	92.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563325.1| gi|255945115 Pc20g08020 [Penicillium chrysogenum Wisconsi - 2057 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002563325.1|	atha|AT5G05560	32.40	787	428	104	1093	1818	734	1477	5.9e-22	106.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_1384|gw1.17.25.1 - 616 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_1384|gw1.17.25.1	atha|AT5G05560	32.90	620	354	62	22	613	892	1477	6.2e-20	98.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_07751 | RO3G_07752 | Rhizopus oryzae hypothetical protein - 1532 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_07751	atha|AT5G05560	26.84	1222	726	168	386	1507	285	1438	1.5e-42	174.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YNL172W APC1 SGDID:S000005116, Chr XIV from 310638-315884, Verified ORF, "Largest subunit of the Anaphase-Promoting Complex/C - 1748 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YNL172W	atha|AT5G05560	25.89	676	381	120	975	1616	893	1482	2.3e-23	111.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15760 | SNOG_15760 | Stagonospora nodorum hypothetical protein - 2006 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_15760	atha|AT5G05560	30.64	780	443	98	1127	1846	741	1482	2.6e-20	101.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC106_09.1 | SPBC106_09 | Schizosaccharomyces pombe 972h- anaphase-promoting complex subunit Apc1 - 1458 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPBC106_09.1	atha|AT5G05560	29.37	933	529	130	471	1309	586	1482	3.6e-29	130.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_02706T0 | SPPG_02706 | Spizellomyces punctatus DAOM BR117 predicted protein - 1742 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_02706T0	atha|AT5G05560	28.31	1494	800	271	122	1469	112	1480	1.4e-29	132.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14908|e_gw1.9.45.1 - 716 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_14908|e_gw1.9.45.1	atha|AT5G05560	33.72	596	347	48	13	590	917	1482	5.4e-64	245.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_82948|estExt_Genewise1Plus.C_52204 - 1778 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_82948|estExt_Genewise1Plus.C_52204	atha|AT5G05560	28.76	963	554	132	588	1476	537	1441	1.5e-22	108.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_72199|estExt_fgeneshTM_pm.C_110040 - 2039 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_72199|estExt_fgeneshTM_pm.C_110040	atha|AT5G05560	26.80	1082	679	113	662	1653	424	1482	1.6e-32	142.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_77616|estExt_GeneWisePlus.C_80531 - 1950 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_77616|estExt_GeneWisePlus.C_80531	atha|AT5G05560	29.71	1030	595	129	818	1777	522	1492	1.7e-44	181.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_136298|estExt_fgenesh2_pm.C_70106 - 2008 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_136298|estExt_fgenesh2_pm.C_70106	atha|AT5G05560	28.43	1034	589	151	841	1797	523	1482	2.8e-19	98.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um02427 related to negative regulator  - 2077 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um02427	atha|AT5G05560	26.24	1212	767	127	658	1791	319	1481	1e-18	96.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D16885gT0 gene=YALI0D16885g Ylip_CLIB122_chrD:complement(2083632 - 1535 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0D16885gT0	atha|AT5G05560	27.77	1073	649	126	401	1387	450	1482	1.1e-26	122.2

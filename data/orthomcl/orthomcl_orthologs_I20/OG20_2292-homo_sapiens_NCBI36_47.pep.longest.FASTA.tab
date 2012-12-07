@@ -1,0 +1,125 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB08743.1 - 1346 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB08743.1	hsap|hsap_ENST00000378720	52.43	288	130	7	1	287	1	282	2.8e-62	237.5
+abra|AB08743.1	hsap|hsap_ENST00000389161	25.79	1043	670	104	316	1340	3	959	6.4e-16	85.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu5g09850 Afu5g09850 A_fumigatus_Af293 AspGDID: COORDS:chr5:2547105-2550523(+) translated using codon table 1 (1000 amino acids - 999 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu5g09850	hsap|hsap_ENST00000389161	24.76	1038	649	132	1	989	1	955	1.1e-27	124.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_02857T0 | AMAG_02857 | Allomyces macrogynus ATCC 38327 predicted protein - 1127 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_02857T0	hsap|hsap_ENST00000389161	26.23	1117	654	170	19	1125	3	959	3.8e-13	75.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_08787T0 | ANID_08787 | Aspergillus nidulans FGSC A4 exportin-T - 1030 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_08787T0	hsap|hsap_ENST00000389161	25.51	1031	671	97	13	1027	10	959	1.2e-18	94.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_04725 | BC1G_04725 | Botrytis cinerea hypothetical protein similar to karyopheri - 901 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_04725	hsap|hsap_ENST00000389161	23.14	968	591	153	6	866	3	924	8e-21	101.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7153 |  Candida Albicans sc5314 assembly 21 orf19.7153 - 1025 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.7153	hsap|hsap_ENST00000389161	24.30	1037	685	100	7	1022	4	961	3.2e-35	149.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04176 | PGUG_04176 | Candida guilliermondii hypothetical protei - 986 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_04176	hsap|hsap_ENST00000389161	25.89	1016	659	94	6	984	3	961	4.9e-55	214.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_04714T0 | CIMG_04714 | Coccidioides immitis RS tRNA exportin - 1033 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_04714T0	hsap|hsap_ENST00000389161	26.98	1034	654	101	14	1030	10	959	6.7e-10	64.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02265T0 | CNAG_02265 | Cryptococcus neoformans grubii H99 tRNA binding protein - 1141 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_02265T0	hsap|hsap_ENST00000389161	21.66	1131	694	192	21	1137	9	961	5.3e-08	58.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_138511|e_gw1.02.1369.1 - 992 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_138511|e_gw1.02.1369.1	hsap|hsap_ENST00000389161	30.77	1001	627	66	5	987	3	955	9e-66	250.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_10127T0 | MGG_10127 | Magnaporthe grisea (M. oryzae) 70-15 exportin-T - 1027 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_10127T0	hsap|hsap_ENST00000389161	27.33	1039	644	111	6	1020	3	954	1.9e-12	73.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_93268|EuGene.00580047 - 1111 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_93268|EuGene.00580047	hsap|hsap_ENST00000389161	25.60	1117	659	172	4	1106	1	959	1.1e-21	104.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU11169T0 | NCU11169 | Neurospora crassa OR74A (finished) exportin-T - 1026 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU11169T0	hsap|hsap_ENST00000389161	26.95	1039	655	104	6	1023	3	958	2.1e-22	106.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_97120 - 1026 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_97120	hsap|hsap_ENST00000389161	26.95	1039	655	104	6	1023	3	958	1.2e-22	107.2
+ndis|NEUDI1_97120	hsap|hsap_ENST00000265351	21.50	214	146	22	4	213	12	207	0.00061	45.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_077460 |  Neosartorya fischeri null - 1052 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_077460	hsap|hsap_ENST00000389161	25.76	1025	666	95	29	1037	10	955	1.1e-19	97.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_122182 - 1026 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_122182	hsap|hsap_ENST00000389161	26.85	1039	656	104	6	1023	3	958	1.9e-22	106.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002557420.1| gi|255931727 Pc12g05760 [Penicillium chrysogenum Wisconsi - 1028 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002557420.1|	hsap|hsap_ENST00000389161	24.85	1030	674	100	16	1025	10	959	1.6e-07	57.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_55363|estExt_Genemark1.C_120213 - 1104 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_55363|estExt_Genemark1.C_120213	hsap|hsap_ENST00000389161	25.91	1104	649	169	16	1099	7	961	1.4e-07	57.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_08437 | RO3G_08438 | Rhizopus oryzae hypothetical protei - 975 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_08437	hsap|hsap_ENST00000389161	31.01	990	632	51	5	974	3	961	4e-114	411.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YKL205W LOS1 SGDID:S000001688, Chr XI from 50052-53354, Verified ORF, "Nuclear pore protein involved in nuclear export of - 1100 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YKL205W	hsap|hsap_ENST00000389161	19.82	1090	713	161	14	1088	10	953	7.1e-11	68.2
+scer_s288c|YKL205W	hsap|hsap_ENST00000195419	21.32	516	351	55	5	500	25	505	7.3e-05	48.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_00254 | SNOG_00254 | Stagonospora nodorum hypothetical protein - 1036 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_00254	hsap|hsap_ENST00000389161	25.62	1046	668	110	6	1030	3	959	4.7e-16	85.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBP8B7_09c.1 | SPBP8B7_09c | Schizosaccharomyces pombe 972h- karyopheri - 978 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPBP8B7_09c.1	hsap|hsap_ENST00000389161	27.39	982	663	50	14	974	9	961	7.2e-72	270.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03753T0 | SPPG_03753 | Spizellomyces punctatus DAOM BR117 hypothetical protein - 1023 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_03753T0	hsap|hsap_ENST00000389161	30.23	1032	630	90	5	1016	1	962	4.9e-67	254.7
+spun|SPPG_03753T0	hsap|hsap_ENST00000265351	19.30	710	501	72	3	665	11	695	4.9e-10	65.6
+spun|SPPG_03753T0	hsap|hsap_ENST00000195419	19.68	1006	666	142	56	977	75	1022	9.5e-08	57.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_24120|fgenesh1_pg.C_scaffold_1000006 - 1101 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_24120|fgenesh1_pg.C_scaffold_1000006	hsap|hsap_ENST00000389161	25.43	1093	653	162	16	1092	7	953	3.4e-10	66.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_107777|estExt_fgenesh1_pg.C_40828 - 1020 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_107777|estExt_fgenesh1_pg.C_40828	hsap|hsap_ENST00000389161	26.57	1001	645	90	6	990	3	929	5.2e-23	108.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_42900|estExt_Genewise1Plus.C_20876 - 1160 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_42900|estExt_Genewise1Plus.C_20876	hsap|hsap_ENST00000389161	22.11	1158	679	223	19	1159	10	961	5.8e-05	48.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3892|fgenesh1_pm.C_scaffold_9000036 - 1019 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_3892|fgenesh1_pm.C_scaffold_9000036	hsap|hsap_ENST00000389161	27.55	1031	640	107	14	1018	10	959	2.8e-24	112.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_130512|estExt_fgenesh2_pg.C_30801 - 1019 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_130512|estExt_fgenesh2_pg.C_30801	hsap|hsap_ENST00000389161	27.00	1000	641	89	6	989	3	929	3.3e-24	112.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um11401 related to tRNA Exportin - 1106 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um11401	hsap|hsap_ENST00000389161	25.52	1113	668	161	1	1104	1	961	6.9e-31	134.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E04576gT0 gene=YALI0E04576g Ylip_CLIB122_chrE:complement(52089 - 1025 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0E04576gT0	hsap|hsap_ENST00000389161	25.31	1039	666	110	6	1019	3	956	4.7e-20	98.6

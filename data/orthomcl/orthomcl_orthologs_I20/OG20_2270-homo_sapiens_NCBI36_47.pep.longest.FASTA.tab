@@ -1,0 +1,133 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02980.1 - 308 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB02980.1	hsap|hsap_ENST00000381750	41.46	287	129	39	11	294	8	258	2.4e-13	73.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu8g04640 Afu8g04640 A_fumigatus_Af293 AspGDID: COORDS:chr8:1060695-1061906(-) translated using codon table 1 (404 amino acids) - 403 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu8g04640	hsap|hsap_ENST00000381750	40.49	410	194	50	1	400	1	370	2.2e-23	106.9
+afum|Afu8g04640	hsap|hsap_ENST00000260563	24.79	359	217	53	23	366	26	346	0.00015	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_07869T0 | AMAG_07869 | Allomyces macrogynus ATCC 38327 RNA 3'-terminal phosphate cyclas - 386 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_07869T0	hsap|hsap_ENST00000381750	42.71	377	189	27	12	381	12	368	3.3e-20	96.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_01474T0 | ANID_01474 | Aspergillus nidulans FGSC A4 RNA-3'-phosphate cyclas - 403 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_01474T0	hsap|hsap_ENST00000381750	38.35	412	200	54	1	400	1	370	9.5e-14	74.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_00486 | BC1G_00486 | Botrytis cinerea hypothetical protein similar to RNA 3'-terminal phosphate cyclas - 408 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_00486	hsap|hsap_ENST00000381750	34.59	399	213	48	17	408	16	373	4.2e-10	62.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1886 |  Candida Albicans sc5314 assembly 21 orf19.188 - 371 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.1886	hsap|hsap_ENST00000381750	42.09	373	196	20	10	370	8	372	3.8e-57	219.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_00433 | PGUG_00433 | Candida guilliermondii hypothetical protei - 373 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_00433	hsap|hsap_ENST00000381750	42.11	380	200	20	4	372	2	372	2.1e-60	229.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_02184T0 | CIMG_02184 | Coccidioides immitis RS RNA-3'-phosphate cyclas - 403 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_02184T0	hsap|hsap_ENST00000381750	38.78	410	205	46	1	402	1	372	6.1e-11	65.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03246T0 | CNAG_03246 | Cryptococcus neoformans grubii H99 RNA-3'-phosphate cyclas - 365 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_03246T0	hsap|hsap_ENST00000381750	50.27	366	170	12	10	364	8	372	1.8e-80	296.5
+cneo_h99|CNAG_03246T0	hsap|hsap_ENST00000260563	25.47	369	248	27	14	361	16	378	5.1e-20	95.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_173174|estExt_Genewise1.C_060700 - 358 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_173174|estExt_Genewise1.C_060700	hsap|hsap_ENST00000381750	56.87	364	143	14	5	355	8	370	2.5e-93	339.1
+mcin|t_173174|estExt_Genewise1.C_060700	hsap|hsap_ENST00000260563	27.87	366	241	23	9	354	16	378	2.1e-25	113.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04422T0 | MGG_04422 | Magnaporthe grisea (M. oryzae) 70-15 RNA-3'-phosphate cyclase family protei - 399 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_04422T0	hsap|hsap_ENST00000381750	36.12	407	216	44	1	398	1	372	1.7e-20	97.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_46210|estExt_Genewise1.C_1360001 - 390 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_46210|estExt_Genewise1.C_1360001	hsap|hsap_ENST00000381750	45.19	374	179	26	24	390	19	373	5.9e-65	245.0
+mlar|t_46210|estExt_Genewise1.C_1360001	hsap|hsap_ENST00000260563	25.40	374	240	39	27	384	26	376	6.3e-14	75.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU02675T0 | NCU02675 | Neurospora crassa OR74A (finished) RNA-3'-phosphate cyclas - 406 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU02675T0	hsap|hsap_ENST00000381750	37.31	402	206	46	9	403	8	370	2e-10	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_92438 - 406 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_92438	hsap|hsap_ENST00000381750	37.06	402	207	46	9	403	8	370	2e-10	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_097430 |  Neosartorya fischeri nul - 403 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_097430	hsap|hsap_ENST00000381750	40.24	410	195	50	1	400	1	370	3.1e-23	106.5
+nfis|NFIA_097430	hsap|hsap_ENST00000260563	24.51	359	218	53	23	366	26	346	0.00015	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_133500 - 406 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_133500	hsap|hsap_ENST00000381750	37.31	402	206	46	9	403	8	370	2e-10	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563428.1| gi|255945321 Pc20g09320 [Penicillium chrysogenum Wisconsi - 402 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002563428.1|	hsap|hsap_ENST00000381750	40.00	410	195	51	1	399	1	370	1.3e-11	67.9
+pechr_54_1255|XP_002563428.1|	hsap|hsap_ENST00000260563	24.94	393	235	60	22	396	26	376	0.00057	42.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_46385|gm1.5950_g - 437 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_46385|gm1.5950_g	hsap|hsap_ENST00000381750	46.48	398	177	36	38	434	8	370	1.5e-46	184.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_12372 | RO3G_12373 | Rhizopus oryzae 40S rRNA biogenesis protein RCL - 316 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_12372	hsap|hsap_ENST00000381750	52.72	313	122	26	5	292	8	319	7e-55	211.2
+rory|RO3T_12372	hsap|hsap_ENST00000260563	27.90	319	194	36	9	294	16	331	3.7e-11	66.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YOL010W RCL1 SGDID:S000005370, Chr XV from 307939-309042, Verified ORF, "Subunit of U3-containing 90S preribosome processome  - 367 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YOL010W	hsap|hsap_ENST00000381750	37.40	369	214	17	10	366	9	372	6e-57	218.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_04419 | SNOG_04419 | Stagonospora nodorum hypothetical protei - 407 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_04419	hsap|hsap_ENST00000381750	37.97	403	201	49	11	404	8	370	1.8e-12	70.7
+snod|SNOT_04419	hsap|hsap_ENST00000260563	24.52	367	220	57	15	365	16	341	0.00023	43.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC12G12_06c.1 | SPAC12G12_06c | Schizosaccharomyces pombe 972h- RNA 3'-terminal phosphate cyclase (predicted - 363 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC12G12_06c.1	hsap|hsap_ENST00000381750	45.11	368	185	17	9	363	10	373	5.1e-68	255.1
+spom|SPAC12G12_06c.1	hsap|hsap_ENST00000260563	27.03	370	242	28	11	359	16	378	2.6e-17	86.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00041T0 | SPPG_00041 | Spizellomyces punctatus DAOM BR117 RNA 3'-terminal phosphate cyclase-like protei - 383 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_00041T0	hsap|hsap_ENST00000381750	50.26	386	162	30	2	380	8	370	5.3e-71	265.1
+spun|SPPG_00041T0	hsap|hsap_ENST00000260563	25.06	395	243	53	6	379	16	378	3.4e-15	79.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_10724|e_gw1.2.606.1 - 404 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_10724|e_gw1.2.606.1	hsap|hsap_ENST00000381750	44.28	402	182	42	1	401	10	370	9.8e-52	201.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_77337|estExt_Genewise1Plus.C_23046 - 408 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_77337|estExt_Genewise1Plus.C_23046	hsap|hsap_ENST00000381750	37.19	406	203	52	9	405	8	370	2.9e-11	66.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_32298|e_gw1.8.300.1 - 385 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_32298|e_gw1.8.300.1	hsap|hsap_ENST00000381750	50.94	371	174	8	16	384	8	372	6.7e-83	304.6
+tmes|t_32298|e_gw1.8.300.1	hsap|hsap_ENST00000260563	25.66	339	230	22	48	381	57	378	2e-15	80.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_2716|fgenesh1_pm.C_scaffold_3000229 - 406 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_2716|fgenesh1_pm.C_scaffold_3000229	hsap|hsap_ENST00000381750	36.23	403	209	48	9	403	8	370	3.4e-10	63.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_68372|estExt_Genewise1Plus.C_14530 - 407 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_68372|estExt_Genewise1Plus.C_14530	hsap|hsap_ENST00000381750	36.72	403	208	47	9	404	8	370	6e-11	65.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um15007 related to RCL1 - RNA terminal phosphate cyclase-li - 419 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um15007	hsap|hsap_ENST00000381750	46.65	343	171	12	19	358	8	341	8.2e-66	247.9
+umay|um15007	hsap|hsap_ENST00000260563	24.40	377	241	44	23	382	16	365	3e-05	46.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0A05555gT0 gene=YALI0A05555g Ylip_CLIB122_chrA:complement(56910 - 365 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0A05555gT0	hsap|hsap_ENST00000381750	41.64	377	202	18	1	364	1	372	1.1e-60	230.7
+ylip|YALI0A05555gT0	hsap|hsap_ENST00000260563	24.26	371	257	24	8	359	11	376	1.3e-13	74.3

@@ -1,0 +1,150 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB08389.1 - 514 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB08389.1	hsap|hsap_ENST00000324862	33.66	508	288	49	25	512	197	675	1.2e-30	132.3
+abra|AB08389.1	hsap|hsap_ENST00000399549	30.73	358	210	38	6	340	160	502	5.9e-16	83.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g13890 Afu1g13890 A_fumigatus_Af293 AspGDID: COORDS:chr1:3709487-3711259(-) translated using codon table 1 (591 amino acids) - 590 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu1g13890	hsap|hsap_ENST00000324862	33.51	579	329	56	33	584	126	675	6.5e-24	110.1
+afum|Afu1g13890	hsap|hsap_ENST00000399549	41.23	228	114	20	193	412	289	504	2.3e-12	71.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_09332T0 | AMAG_09332 | Allomyces macrogynus ATCC 38327 predicted protei - 533 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_09332T0	hsap|hsap_ENST00000324862	37.21	481	247	55	49	524	243	673	1e-28	125.9
+amac|AMAG_09332T0	hsap|hsap_ENST00000399549	33.00	303	159	44	60	359	243	504	1.3e-11	68.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_00727T0 | ANID_00727 | Aspergillus nidulans FGSC A4 U4/U6 small nuclear ribonucleoprotei - 520 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_00727T0	hsap|hsap_ENST00000324862	32.71	532	311	47	5	513	168	675	3.1e-27	121.0
+anid|ANID_00727T0	hsap|hsap_ENST00000399549	29.97	357	218	32	5	340	157	502	7e-15	79.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_12808 | BC1G_12808 | Botrytis cinerea U4/U6 small nuclear ribonucleoprotein Prp - 361 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_12808	hsap|hsap_ENST00000324862	36.16	354	200	26	20	358	200	542	1.6e-26	118.1
+bcin|BC1T_12808	hsap|hsap_ENST00000399549	36.17	329	168	42	27	331	192	502	1.1e-20	98.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.910 |  Candida Albicans sc5314 assembly 21 orf19.91 - 446 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.910	hsap|hsap_ENST00000324862	33.96	427	250	32	32	443	266	675	1.2e-37	155.3
+calb_sc5314|orf19.910	hsap|hsap_ENST00000399549	30.45	266	162	23	32	290	255	504	2.7e-16	84.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02919 | PGUG_02919 | Candida guilliermondii hypothetical protei - 476 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_02919	hsap|hsap_ENST00000324862	33.03	436	262	30	50	468	248	670	1.1e-35	148.9
+cgui|PGUT_02919	hsap|hsap_ENST00000399549	30.32	277	174	19	50	318	237	502	3.1e-15	80.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03379T0 | CIMG_03379 | Coccidioides immitis RS U4/U6 small nuclear ribonucleoprotei - 592 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_03379T0	hsap|hsap_ENST00000324862	33.62	583	326	61	31	586	127	675	6.4e-29	126.8
+cimm_rs|CIMG_03379T0	hsap|hsap_ENST00000399549	31.77	406	237	40	31	414	117	504	1.3e-15	82.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_01809T0 | CNAG_01809 | Cryptococcus neoformans grubii H99 small nuclear ribonucleoprotein hPrp - 590 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_01809T0	hsap|hsap_ENST00000324862	30.98	594	338	72	12	580	127	673	1.3e-17	89.2
+cneo_h99|CNAG_01809T0	hsap|hsap_ENST00000399549	27.12	413	250	51	12	400	117	502	4.1e-09	60.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_33483|Mucci1.e_gw1.1.429.1 - 400 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_33483|Mucci1.e_gw1.1.429.1	hsap|hsap_ENST00000324862	43.65	394	200	22	1	389	301	677	1.4e-51	201.4
+mcin|t_33483|Mucci1.e_gw1.1.429.1	hsap|hsap_ENST00000399549	42.41	224	114	15	1	219	289	502	2e-23	107.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_01157T0 | MGG_01157 | Magnaporthe grisea (M. oryzae) 70-15 U4/U6 small nuclear ribonucleoprotein Prp - 487 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_01157T0	hsap|hsap_ENST00000324862	38.40	388	215	24	102	483	304	673	4.3e-37	153.6
+mgri|MGG_01157T0	hsap|hsap_ENST00000399549	39.27	219	118	15	102	313	292	502	7.7e-20	95.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_116022|estExt_fgenesh2_pg.C_110265 - 625 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_116022|estExt_fgenesh2_pg.C_110265	hsap|hsap_ENST00000324862	32.22	630	375	52	2	616	81	673	1.4e-32	139.0
+mlar|t_116022|estExt_fgenesh2_pg.C_110265	hsap|hsap_ENST00000399549	28.94	432	256	51	40	445	96	502	7.3e-17	86.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU01637T0 | NCU01637 | Neurospora crassa OR74A (finished) U4/U6 small nuclear ribonucleoprotei - 489 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU01637T0	hsap|hsap_ENST00000324862	35.43	429	246	31	61	482	269	673	5.2e-29	126.8
+ncra|NCU01637T0	hsap|hsap_ENST00000399549	34.16	243	143	17	75	311	271	502	3.5e-14	77.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_102480 - 489 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_102480	hsap|hsap_ENST00000324862	35.20	429	247	31	61	482	269	673	7e-29	126.4
+ndis|NEUDI1_102480	hsap|hsap_ENST00000399549	34.16	243	143	17	75	311	271	502	3.9e-14	76.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_011580 |  Neosartorya fischeri nul - 591 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_011580	hsap|hsap_ENST00000324862	33.39	596	308	89	32	585	127	675	8e-23	106.5
+nfis|NFIA_011580	hsap|hsap_ENST00000399549	32.00	400	208	64	23	413	160	504	4.3e-12	70.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_130396 - 489 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_130396	hsap|hsap_ENST00000324862	35.43	429	246	31	61	482	269	673	4.9e-29	126.9
+ntet|NEUTE1_130396	hsap|hsap_ENST00000399549	34.16	243	143	17	75	311	271	502	2.9e-14	77.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002561533.1| gi|255941528 Pc16g12340 [Penicillium chrysogenum Wisconsi - 585 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002561533.1|	hsap|hsap_ENST00000324862	33.10	583	321	69	33	579	126	675	9.8e-14	76.3
+pechr_54_1255|XP_002561533.1|	hsap|hsap_ENST00000399549	30.11	435	253	51	9	406	82	502	1.2e-06	52.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_11746|e_gw1.2.67.1 - 470 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_11746|e_gw1.2.67.1	hsap|hsap_ENST00000324862	32.61	463	261	51	5	460	255	673	1.1e-33	142.3
+rgra|t_11746|e_gw1.2.67.1	hsap|hsap_ENST00000399549	30.80	289	177	23	7	281	224	503	1.4e-16	85.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03327 | RO3G_03328 | Rhizopus oryzae hypothetical protei - 421 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_03327	hsap|hsap_ENST00000324862	35.95	420	242	27	6	413	143	547	1.2e-33	142.0
+rory|RO3T_03327	hsap|hsap_ENST00000399549	34.75	400	208	53	6	381	132	502	5.6e-25	112.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR473C PRP3 SGDID:S000002881, Chr IV from 1405847-1404438, reverse complement, Verified ORF, "Splicing factor, component of  - 469 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YDR473C	hsap|hsap_ENST00000324862	28.53	389	233	45	83	464	320	670	3.7e-16	84.0
+scer_s288c|YDR473C	hsap|hsap_ENST00000399549	27.50	320	184	48	3	312	221	502	2.6e-05	47.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_14954 | SNOG_14954 | Stagonospora nodorum hypothetical protei - 489 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_14954	hsap|hsap_ENST00000324862	33.60	500	274	58	24	487	198	675	5.7e-30	130.0
+snod|SNOT_14954	hsap|hsap_ENST00000399549	32.31	325	178	42	24	315	187	502	3.2e-16	83.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC29E6_02.1 | SPAC29E6_02 | Schizosaccharomyces pombe 972h- U4/U6 x U5 tri-snRNP complex subunit Prp3 (predicted - 542 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC29E6_02.1	hsap|hsap_ENST00000324862	35.24	542	319	32	22	539	144	677	4e-44	177.2
+spom|SPAC29E6_02.1	hsap|hsap_ENST00000399549	32.17	345	212	22	43	372	165	502	2.4e-20	97.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_08410T0 | SPPG_08410 | Spizellomyces punctatus DAOM BR117 U4/U6 small nuclear ribonucleoprotein hPrp - 560 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_08410T0	hsap|hsap_ENST00000324862	39.55	584	304	49	3	552	105	673	3.5e-55	213.9
+spun|SPPG_08410T0	hsap|hsap_ENST00000399549	34.91	381	217	31	36	397	136	504	3.8e-26	117.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_20190|estExt_Genewise1Plus.C_10655 - 383 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_20190|estExt_Genewise1Plus.C_10655	hsap|hsap_ENST00000324862	35.71	378	210	33	7	376	324	676	7.8e-31	132.5
+sror|t_20190|estExt_Genewise1Plus.C_10655	hsap|hsap_ENST00000399549	34.90	192	120	5	10	197	314	504	1.3e-15	81.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_104057|fgenesh1_pm.7_#_263 - 488 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_104057|fgenesh1_pm.7_#_263	hsap|hsap_ENST00000324862	34.81	497	272	52	20	485	200	675	6.8e-32	136.4
+sthe|t_104057|fgenesh1_pm.7_#_263	hsap|hsap_ENST00000399549	33.33	279	174	12	41	310	227	502	2.2e-17	87.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_13987|gw1.6.188.1 - 561 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_13987|gw1.6.188.1	hsap|hsap_ENST00000324862	29.44	574	347	58	9	551	127	673	8e-32	136.3
+tmes|t_13987|gw1.6.188.1	hsap|hsap_ENST00000399549	27.81	374	242	28	27	384	141	502	7.7e-18	89.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_6014|fgenesh1_pm.C_scaffold_39000009 - 464 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_6014|fgenesh1_pm.C_scaffold_39000009	hsap|hsap_ENST00000324862	37.19	398	219	31	75	460	295	673	1.8e-35	148.2
+tree|t_6014|fgenesh1_pm.C_scaffold_39000009	hsap|hsap_ENST00000399549	34.19	234	127	27	75	293	283	504	4.6e-17	86.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_64309|estExt_Genewise1.C_61483 - 493 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_64309|estExt_Genewise1.C_61483	hsap|hsap_ENST00000324862	34.27	499	271	57	22	488	200	673	1.8e-31	135.0
+tter|t_64309|estExt_Genewise1.C_61483	hsap|hsap_ENST00000399549	31.52	330	196	30	8	311	177	502	2e-15	81.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03964 related to PRP3 - essential splic - 669 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um03964	hsap|hsap_ENST00000324862	29.75	679	360	117	4	658	88	673	2.3e-18	91.9
+umay|um03964	hsap|hsap_ENST00000399549	27.66	499	266	95	4	481	79	503	1e-06	52.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0B05632gT0 gene=YALI0B05632g Ylip_CLIB122_chrB:complement(76231 - 519 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0B05632gT0	hsap|hsap_ENST00000324862	34.26	397	234	27	128	511	288	670	7.6e-28	123.0
+ylip|YALI0B05632gT0	hsap|hsap_ENST00000399549	30.87	230	147	12	131	357	282	502	2e-12	71.4

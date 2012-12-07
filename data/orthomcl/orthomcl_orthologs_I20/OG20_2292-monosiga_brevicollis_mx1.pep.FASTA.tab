@@ -1,0 +1,117 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB08743.1 - 1346 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB08743.1	mbre|t_15139	45.89	292	145	13	2	291	5	285	4.8e-52	202.2
+abra|AB08743.1	mbre|t_32258	22.75	778	523	78	462	1218	12	732	4.3e-06	51.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu5g09850 Afu5g09850 A_fumigatus_Af293 AspGDID: COORDS:chr5:2547105-2550523(+) translated using codon table 1 (1000 amino acids - 999 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu5g09850	mbre|t_32258	21.31	765	501	101	154	870	13	724	2.2e-08	58.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_02857T0 | AMAG_02857 | Allomyces macrogynus ATCC 38327 predicted protein - 1127 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_08787T0 | ANID_08787 | Aspergillus nidulans FGSC A4 exportin-T - 1030 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_08787T0	mbre|t_32258	22.21	770	523	76	153	904	13	724	0.00016	45.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_04725 | BC1G_04725 | Botrytis cinerea hypothetical protein similar to karyopheri - 901 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_04725	mbre|t_32258	22.01	786	499	114	150	871	12	747	1.1e-06	52.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7153 |  Candida Albicans sc5314 assembly 21 orf19.7153 - 1025 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.7153	mbre|t_32258	20.55	769	548	63	150	903	10	730	2.6e-18	91.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04176 | PGUG_04176 | Candida guilliermondii hypothetical protei - 986 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_04176	mbre|t_32258	25.03	759	496	73	141	865	11	730	2.1e-31	134.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_04714T0 | CIMG_04714 | Coccidioides immitis RS tRNA exportin - 1033 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02265T0 | CNAG_02265 | Cryptococcus neoformans grubii H99 tRNA binding protein - 1141 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_138511|e_gw1.02.1369.1 - 992 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_138511|e_gw1.02.1369.1	mbre|t_32258	25.19	794	524	70	158	926	11	759	1.5e-22	105.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_10127T0 | MGG_10127 | Magnaporthe grisea (M. oryzae) 70-15 exportin-T - 1027 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_10127T0	mbre|t_32258	24.14	787	521	76	155	919	12	744	1.7e-06	52.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_93268|EuGene.00580047 - 1111 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU11169T0 | NCU11169 | Neurospora crassa OR74A (finished) exportin-T - 1026 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU11169T0	mbre|t_32258	23.96	839	532	106	153	961	12	774	0.00032	44.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_97120 - 1026 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_97120	mbre|t_32258	24.08	839	531	106	153	961	12	774	0.00019	45.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_077460 |  Neosartorya fischeri null - 1052 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_077460	mbre|t_32258	21.59	769	527	76	169	918	13	724	0.00027	45.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_122182 - 1026 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_122182	mbre|t_32258	24.08	839	531	106	153	961	12	774	0.00036	44.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002557420.1| gi|255931727 Pc12g05760 [Penicillium chrysogenum Wisconsi - 1028 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002557420.1|	mbre|t_32258	21.53	799	542	85	154	926	13	752	2.8e-05	48.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_55363|estExt_Genemark1.C_120213 - 1104 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_08437 | RO3G_08438 | Rhizopus oryzae hypothetical protei - 975 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_08437	mbre|t_32258	25.47	695	467	51	148	819	11	677	2.4e-28	124.7
+rory|RO3T_08437	mbre|t_31509	21.39	332	219	42	12	311	1	322	0.00011	46.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YKL205W LOS1 SGDID:S000001688, Chr XI from 50052-53354, Verified ORF, "Nuclear pore protein involved in nuclear export of - 1100 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YKL205W	mbre|t_19782	23.35	484	280	91	16	451	16	456	3.3e-05	48.3
+scer_s288c|YKL205W	mbre|t_32258	19.47	760	496	116	161	895	10	678	3.9e-05	47.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_00254 | SNOG_00254 | Stagonospora nodorum hypothetical protein - 1036 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_00254	mbre|t_32258	22.89	747	500	76	152	879	12	701	2.3e-06	51.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBP8B7_09c.1 | SPBP8B7_09c | Schizosaccharomyces pombe 972h- karyopheri - 978 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPBP8B7_09c.1	mbre|t_32258	22.61	849	567	90	145	978	11	784	1.6e-24	112.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03753T0 | SPPG_03753 | Spizellomyces punctatus DAOM BR117 hypothetical protein - 1023 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_03753T0	mbre|t_32258	26.48	759	487	71	147	878	10	724	2.1e-17	88.4
+spun|SPPG_03753T0	mbre|t_19782	18.49	903	615	121	36	875	53	897	2.7e-06	51.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_24120|fgenesh1_pg.C_scaffold_1000006 - 1101 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_107777|estExt_fgenesh1_pg.C_40828 - 1020 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_107777|estExt_fgenesh1_pg.C_40828	mbre|t_32258	23.96	743	491	74	148	870	12	700	7.9e-06	50.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_42900|estExt_Genewise1Plus.C_20876 - 1160 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3892|fgenesh1_pm.C_scaffold_9000036 - 1019 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_3892|fgenesh1_pm.C_scaffold_9000036	mbre|t_32258	26.21	744	465	84	152	867	13	700	2.8e-09	61.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_130512|estExt_fgenesh2_pg.C_30801 - 1019 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_130512|estExt_fgenesh2_pg.C_30801	mbre|t_32258	23.78	841	553	88	148	967	12	785	0.00016	45.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um11401 related to tRNA Exportin - 1106 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um11401	mbre|t_32258	25.69	693	420	95	259	941	71	678	8.9e-09	59.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E04576gT0 gene=YALI0E04576g Ylip_CLIB122_chrE:complement(52089 - 1025 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0E04576gT0	mbre|t_32258	22.21	725	479	85	160	856	11	678	1.2e-12	72.6

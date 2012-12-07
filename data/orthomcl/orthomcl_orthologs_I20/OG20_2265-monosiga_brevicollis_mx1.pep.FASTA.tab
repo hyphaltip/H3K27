@@ -1,0 +1,105 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02264.1 - 1054 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g11020 Afu3g11020 A_fumigatus_Af293 AspGDID: COORDS:chr3:2875546-2878801(-) translated using codon table 1 (1030 amino acids - 1029 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_13673T0 | AMAG_13673 | Allomyces macrogynus ATCC 38327 predicted protei - 604 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04892T0 | ANID_04892 | Aspergillus nidulans FGSC A4 mRNA 3'-end-processing protein rna14 - 1075 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_06941 | BC1G_06941 | Botrytis cinerea mRNA 3'-end-processing protein rna-14 - 1119 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1531 |  Candida Albicans sc5314 assembly 21 orf19.153 - 791 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_05272 | PGUG_05272 | Candida guilliermondii hypothetical protei - 725 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_05272	mbre|t_22410	22.36	568	350	91	16	578	7	488	0.00043	43.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03795T0 | CIMG_03795 | Coccidioides immitis RS mRNA 3'-end-processing protein rna14 - 1088 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_03795T0	mbre|t_22410	24.35	735	412	144	330	1049	9	614	1.3e-05	48.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03761T0 | CNAG_03761 | Cryptococcus neoformans grubii H99 mRNA 3'-end-processing protein RNA14 - 1066 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_03761T0	mbre|t_22410	25.36	560	349	69	385	938	89	585	0.00018	45.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_116957|gw1.13.4.1 - 596 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_116957|gw1.13.4.1	mbre|t_22410	27.23	584	332	93	19	587	9	514	8.4e-12	68.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03265T0 | MGG_03265 | Magnaporthe grisea (M. oryzae) 70-15 mRNA 3'-end-processing protein rna-14 - 1057 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_78502|estExt_fgenesh1_pg.C_330108 - 1163 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_78502|estExt_fgenesh1_pg.C_330108	mbre|t_22410	25.96	547	331	74	349	894	5	478	0.00091	42.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU09435T0 | NCU09435 | Neurospora crassa OR74A (finished) mRNA 3'-end-processing protein RNA-14 - 1167 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_100237 - 1148 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_066240 |  Neosartorya fischeri null - 1069 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_85042 - 1139 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002559349.1| gi|255936645 Pc13g09250 [Penicillium chrysogenum Wisconsi - 1026 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_34277|estExt_Genewise1Plus.C_3_t10190 - 653 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_34277|estExt_Genewise1Plus.C_3_t10190	mbre|t_22410	26.13	509	338	38	99	606	7	478	0.00024	44.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_11735 | RO3G_11736 | Rhizopus oryzae hypothetical protei - 690 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_11735	mbre|t_22410	25.54	505	316	60	1	497	132	584	4.4e-08	56.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YMR061W RNA14 SGDID:S000004665, Chr XIII from 392754-394787, Verified ORF, "Cleavage and polyadenylation factor I (CF I) comp - 677 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YMR061W	mbre|t_22410	21.33	525	358	55	27	545	3	478	4.7e-14	76.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_12155 | SNOG_12155 | Stagonospora nodorum hypothetical protein - 1032 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC6F12_17.1 | SPAC6F12_17 | Schizosaccharomyces pombe 972h- mRNA cleavage and polyadenylation specificity factor complex subunit  - 733 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPAC6F12_17.1	mbre|t_22410	23.07	659	433	74	59	697	7	611	1.8e-10	64.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04928T0 | SPPG_04928 | Spizellomyces punctatus DAOM BR117 mRNA 3'-end-processing protein RNA1 - 926 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_04928T0	mbre|t_22410	25.69	794	468	122	78	853	15	704	1.1e-08	58.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_11784|e_gw1.4.135.1 - 632 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_11784|e_gw1.4.135.1	mbre|t_22410	25.38	528	339	55	100	625	7	481	2.2e-05	47.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_108680|estExt_fgenesh1_pg.C_60451 - 1109 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	mbre|t_38251	29.90	311	165	53	834	1108	155	448	6.5e-06	49.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73949|estExt_fgeneshTM_pg.C_50473 - 1067 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3803|fgenesh1_pm.C_scaffold_8000170 - 991 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_136446|estExt_fgenesh2_pm.C_70400 - 1024 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um02055 related to RNA14 - component of pre-mRNA 3`-end processing f - 945 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um02055	mbre|t_32078	50.00	136	61	7	11	141	1132	1265	2.9e-08	59.3
+umay|um02055	mbre|t_22410	27.19	651	356	118	175	811	3	549	7.1e-07	53.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D18612gT0 gene=YALI0D18612g Ylip_CLIB122_chrD:232940 - 806 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0D18612gT0	mbre|t_22410	25.62	527	307	85	197	695	9	478	1.2e-17	88.5

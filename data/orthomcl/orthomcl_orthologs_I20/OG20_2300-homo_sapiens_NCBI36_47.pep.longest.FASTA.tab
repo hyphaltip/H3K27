@@ -1,0 +1,185 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09421.1 - 2665 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB09421.1	hsap|hsap_ENST00000300648	30.38	2521	1587	168	20	2438	17	2471	2.1e-213	743.8
+abra|AB09421.1	hsap|hsap_ENST00000311129	22.11	570	347	97	1284	1792	71	604	1.1e-05	51.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g07960 Afu2g07960 A_fumigatus_Af293 AspGDID: COORDS:chr2:2038988-2047547(+) translated using codon table 1 (2712 amino acids - 2711 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu2g07960	hsap|hsap_ENST00000300648	30.14	2767	1700	233	23	2676	20	2666	4.8e-216	752.5
+afum|Afu2g07960	hsap|hsap_ENST00000338205	22.72	427	289	41	1321	1718	963	1377	2.4e-08	62.0
+afum|Afu2g07960	hsap|hsap_ENST00000311129	22.61	398	284	24	1452	1838	136	520	2.5e-05	50.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_12619T0 | AMAG_12619 | Allomyces macrogynus ATCC 38327 predicted protein - 2444 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_12619T0	hsap|hsap_ENST00000300648	28.27	2497	1499	292	115	2435	285	2665	1.4e-90	335.6
+amac|AMAG_12619T0	hsap|hsap_ENST00000322088	21.56	617	403	81	1305	1896	13	573	0.00034	46.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10734T0 | ANID_10734 | Aspergillus nidulans FGSC A4 60S ribosomal protein L19 - 2672 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_10734T0	hsap|hsap_ENST00000300648	30.59	2628	1631	193	23	2536	20	2568	8e-207	721.9
+anid|ANID_10734T0	hsap|hsap_ENST00000338205	20.09	1060	705	142	941	1944	598	1571	2.6e-08	61.9
+anid|ANID_10734T0	hsap|hsap_ENST00000311129	22.34	488	295	84	1366	1799	147	604	7.2e-05	49.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07045 | BC1G_07045 | Botrytis cinerea hypothetical protein similar to translational activator - 2673 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_07045	hsap|hsap_ENST00000300648	30.23	2726	1681	221	24	2618	18	2653	9.2e-209	728.3
+bcin|BC1T_07045	hsap|hsap_ENST00000311129	21.36	398	289	24	1435	1821	136	520	4.7e-06	52.9
+bcin|BC1T_07045	hsap|hsap_ENST00000322088	24.02	483	321	46	1660	2109	107	576	1.2e-05	51.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5328 |  Candida Albicans sc5314 assembly 21 orf19.5328 - 2419 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.5328	hsap|hsap_ENST00000300648	31.16	2474	1397	306	169	2358	183	2634	2e-102	374.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04839 | PGUG_04839 | Candida guilliermondii hypothetical protein - 2666 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_04839	hsap|hsap_ENST00000300648	31.29	2672	1599	237	62	2597	61	2631	4.9e-182	639.5
+cgui|PGUT_04839	hsap|hsap_ENST00000322088	23.28	451	306	40	1385	1816	93	522	0.00018	47.5
+cgui|PGUT_04839	hsap|hsap_ENST00000335508	22.66	653	406	99	1172	1756	642	1263	0.00072	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00911T0 | CIMG_00911 | Coccidioides immitis RS 60S ribosomal protein L19 - 2676 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_00911T0	hsap|hsap_ENST00000300648	29.54	2735	1715	212	21	2636	18	2659	3.7e-206	719.7
+cimm_rs|CIMG_00911T0	hsap|hsap_ENST00000356861	36.54	104	60	6	1482	1580	394	496	0.00053	46.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03748T0 | CNAG_03748 | Cryptococcus neoformans grubii H99 60S ribosomal protein L19 - 2606 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_03748T0	hsap|hsap_ENST00000300648	34.07	2266	1369	125	303	2491	214	2431	0	804.7
+cneo_h99|CNAG_03748T0	hsap|hsap_ENST00000263710	22.20	446	308	39	1482	1907	46	472	7.9e-06	53.4
+cneo_h99|CNAG_03748T0	hsap|hsap_ENST00000356861	21.90	411	274	47	1536	1899	365	775	2.1e-05	51.2
+cneo_h99|CNAG_03748T0	hsap|hsap_ENST00000337273	20.00	770	516	100	1153	1865	22	748	2.5e-05	50.9
+cneo_h99|CNAG_03748T0	hsap|hsap_ENST00000295989	21.00	838	570	92	1723	2518	48	835	0.00037	47.3
+cneo_h99|CNAG_03748T0	hsap|hsap_ENST00000311129	21.34	642	449	56	1352	1968	46	656	0.00055	46.0
+cneo_h99|CNAG_03748T0	hsap|hsap_ENST00000335508	20.92	674	442	91	1254	1859	613	1263	0.0006	46.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_148849|e_gw1.08.1.1 - 2218 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_148849|e_gw1.08.1.1	hsap|hsap_ENST00000300648	35.88	2294	1298	173	5	2213	184	2389	1.1e-154	548.4
+mcin|t_148849|e_gw1.08.1.1	hsap|hsap_ENST00000311129	19.89	558	408	39	1118	1656	68	605	1.8e-07	57.4
+mcin|t_148849|e_gw1.08.1.1	hsap|hsap_ENST00000337273	18.70	802	563	89	1146	1910	16	765	0.0004	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04710T0 | MGG_04710 | Magnaporthe grisea (M. oryzae) 70-15 translational activator GCN1 - 2678 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_04710T0	hsap|hsap_ENST00000300648	30.16	2712	1702	192	25	2622	20	2653	8.1e-218	758.4
+mgri|MGG_04710T0	hsap|hsap_ENST00000356861	25.53	376	226	54	1453	1780	368	737	0.0004	47.0
+mgri|MGG_04710T0	hsap|hsap_ENST00000337273	19.41	886	566	148	1554	2358	15	833	0.00088	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_116468|estExt_fgenesh2_pg.C_180055 - 2583 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	hsap|hsap_ENST00000300648	31.73	2625	1583	209	46	2582	17	2520	0	793.0
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	hsap|hsap_ENST00000311129	21.33	600	414	58	1385	1960	101	666	5.7e-11	69.2
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	hsap|hsap_ENST00000335508	23.15	691	419	112	1197	1838	640	1267	7.5e-05	49.9
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	hsap|hsap_ENST00000265990	23.60	267	180	24	1463	1708	309	572	0.00028	48.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05803T0 | NCU05803 | Neurospora crassa OR74A (finished) translational activator - 2692 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU05803T0	hsap|hsap_ENST00000300648	30.22	2710	1697	194	20	2617	3	2630	2.4e-209	730.3
+ncra|NCU05803T0	hsap|hsap_ENST00000338205	21.90	991	627	147	1030	1963	671	1571	6.6e-07	57.3
+ncra|NCU05803T0	hsap|hsap_ENST00000311129	22.49	538	378	39	1535	2048	62	584	8.6e-05	48.8
+ncra|NCU05803T0	hsap|hsap_ENST00000322088	24.32	514	346	43	1350	1841	63	555	0.00048	46.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_101235 - 2670 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_101235	hsap|hsap_ENST00000300648	30.17	2701	1687	199	19	2594	3	2629	9.5e-208	725.0
+ndis|NEUDI1_101235	hsap|hsap_ENST00000338205	21.25	1068	684	157	937	1941	598	1571	8.3e-07	56.9
+ndis|NEUDI1_101235	hsap|hsap_ENST00000311129	24.00	500	314	66	1361	1843	147	597	1.9e-05	50.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_083650 |  Neosartorya fischeri null - 2673 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_083650	hsap|hsap_ENST00000300648	30.65	2734	1715	181	11	2638	8	2666	3.8e-211	736.2
+nfis|NFIA_083650	hsap|hsap_ENST00000338205	23.91	297	207	19	1413	1699	1090	1377	1.4e-08	62.8
+nfis|NFIA_083650	hsap|hsap_ENST00000311129	22.81	491	289	90	1366	1799	147	604	7.1e-06	52.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_67967 - 2691 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_67967	hsap|hsap_ENST00000300648	30.29	2714	1690	202	19	2616	3	2630	7.4e-214	745.3
+ntet|NEUTE1_67967	hsap|hsap_ENST00000338205	21.90	991	627	147	1029	1962	671	1571	4.3e-07	57.9
+ntet|NEUTE1_67967	hsap|hsap_ENST00000311129	22.49	538	378	39	1534	2047	62	584	1.1e-05	51.8
+ntet|NEUTE1_67967	hsap|hsap_ENST00000322088	24.32	514	346	43	1349	1840	63	555	0.00036	46.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002558924.1| gi|255935795 Pc13g04890 [Penicillium chrysogenum Wisconsi - 2596 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002558924.1|	hsap|hsap_ENST00000300648	30.84	2477	1544	169	28	2412	109	2508	4.6e-210	732.6
+pechr_54_1255|XP_002558924.1|	hsap|hsap_ENST00000311129	22.01	627	400	89	1149	1723	15	604	3.1e-08	60.1
+pechr_54_1255|XP_002558924.1|	hsap|hsap_ENST00000356861	22.07	512	329	70	1387	1837	376	878	0.00071	46.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_40719|gm1.284_g - 2597 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_40719|gm1.284_g	hsap|hsap_ENST00000300648	31.76	2623	1596	194	20	2559	17	2528	0	764.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_09453 | RO3G_09454 | Rhizopus oryzae hypothetical protein - 2269 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_09453	hsap|hsap_ENST00000300648	34.39	2364	1347	204	23	2264	108	2389	3.1e-110	400.8
+rory|RO3T_09453	hsap|hsap_ENST00000311129	20.52	502	368	31	1221	1705	118	605	8.9e-11	68.4
+rory|RO3T_09453	hsap|hsap_ENST00000322088	25.65	421	257	56	1874	2252	5	411	7.5e-05	48.5
+rory|RO3T_09453	hsap|hsap_ENST00000337273	22.91	406	263	50	1316	1676	442	842	0.00039	46.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YGL195W GCN1 SGDID:S000003163, Chr VII from 131531-139549, Verified ORF, "Positive regulator of the Gcn2p kinase activity, fo - 2672 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YGL195W	hsap|hsap_ENST00000300648	31.11	2343	1397	217	230	2425	204	2476	0	766.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_03050 | SNOG_03050 | Stagonospora nodorum hypothetical protein - 2683 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_03050	hsap|hsap_ENST00000300648	31.16	2731	1678	202	23	2642	20	2659	3.1e-209	729.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC18G6_05c.1 | SPAC18G6_05c | Schizosaccharomyces pombe 972h- translation elongation regulator Gcn1 (predicted) - 2670 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC18G6_05c.1	hsap|hsap_ENST00000300648	29.81	2690	1701	187	54	2632	44	2657	1.1e-201	704.8
+spom|SPAC18G6_05c.1	hsap|hsap_ENST00000311129	21.05	513	374	31	1420	1910	76	579	2.1e-07	57.4
+spom|SPAC18G6_05c.1	hsap|hsap_ENST00000263710	20.71	449	320	36	1398	1827	42	473	8.2e-05	50.0
+spom|SPAC18G6_05c.1	hsap|hsap_ENST00000356861	23.85	327	202	47	1482	1768	395	714	0.00029	47.4
+spom|SPAC18G6_05c.1	hsap|hsap_ENST00000337273	19.95	792	526	108	1351	2102	41	764	0.00029	47.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00147T0 | SPPG_00147 | Spizellomyces punctatus DAOM BR117 translational activator gcn1 - 2790 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_00147T0	hsap|hsap_ENST00000300648	33.64	2818	1633	237	43	2788	14	2666	0	890.4
+spun|SPPG_00147T0	hsap|hsap_ENST00000311129	19.75	552	408	35	1424	1955	69	605	1.3e-11	71.5
+spun|SPPG_00147T0	hsap|hsap_ENST00000322088	19.53	507	375	33	1424	1913	57	547	1.5e-09	64.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_20913|estExt_Genewise1Plus.C_20699 - 2340 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_20913|estExt_Genewise1Plus.C_20699	hsap|hsap_ENST00000300648	33.30	2321	1404	144	21	2265	220	2472	1.3e-214	747.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_116146|estExt_fgenesh1_pm.C_50066 - 2591 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_116146|estExt_fgenesh1_pm.C_50066	hsap|hsap_ENST00000300648	31.55	2463	1520	166	179	2535	251	2653	2.5e-211	736.8
+sthe|t_116146|estExt_fgenesh1_pm.C_50066	hsap|hsap_ENST00000338205	20.66	1007	670	129	931	1889	671	1596	5.7e-08	60.7
+sthe|t_116146|estExt_fgenesh1_pm.C_50066	hsap|hsap_ENST00000311129	22.32	569	390	52	1757	2290	116	667	0.00048	46.2
+sthe|t_116146|estExt_fgenesh1_pm.C_50066	hsap|hsap_ENST00000356861	22.22	729	454	113	1351	2019	81	756	0.00085	45.8
+sthe|t_116146|estExt_fgenesh1_pm.C_50066	hsap|hsap_ENST00000337273	19.37	888	599	117	1428	2273	21	833	0.001	45.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73934|estExt_fgeneshTM_pg.C_50436 - 2563 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	hsap|hsap_ENST00000300648	33.35	2282	1380	141	263	2458	214	2440	0	770.6
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	hsap|hsap_ENST00000311129	21.17	515	377	29	1362	1861	105	605	8.9e-12	71.9
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	hsap|hsap_ENST00000263710	20.59	1122	702	189	1434	2441	49	1095	1.2e-06	56.1
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	hsap|hsap_ENST00000295989	20.95	907	594	123	1613	2487	31	846	1.6e-06	55.2
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	hsap|hsap_ENST00000356861	21.32	197	148	7	1488	1677	368	564	0.00011	48.8
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	hsap|hsap_ENST00000337273	22.53	253	178	18	1487	1721	376	628	0.00013	48.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_65242|e_gw1.16.275.1 - 2839 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_65242|e_gw1.16.275.1	hsap|hsap_ENST00000300648	30.54	2606	1630	180	21	2527	61	2585	2.9e-212	740.1
+tree|t_65242|e_gw1.16.275.1	hsap|hsap_ENST00000225430	63.24	185	68	0	2651	2835	1	185	1e-48	193.0
+tree|t_65242|e_gw1.16.275.1	hsap|hsap_ENST00000322088	23.81	567	383	49	1528	2059	24	576	1.1e-06	54.9
+tree|t_65242|e_gw1.16.275.1	hsap|hsap_ENST00000311129	24.54	538	331	75	1276	1792	105	588	9.8e-05	48.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_135763|estExt_fgenesh2_pm.C_50697 - 2669 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_135763|estExt_fgenesh2_pm.C_50697	hsap|hsap_ENST00000300648	30.27	2696	1682	198	17	2591	11	2629	2.1e-217	757.0
+tter|t_135763|estExt_fgenesh2_pm.C_50697	hsap|hsap_ENST00000338205	22.00	709	458	95	1287	1964	952	1596	8e-08	60.3
+tter|t_135763|estExt_fgenesh2_pm.C_50697	hsap|hsap_ENST00000311129	22.63	632	396	93	1660	2261	18	586	0.00021	47.4
+tter|t_135763|estExt_fgenesh2_pm.C_50697	hsap|hsap_ENST00000356861	21.79	335	232	30	1240	1567	185	496	0.00029	47.4
+tter|t_135763|estExt_fgenesh2_pm.C_50697	hsap|hsap_ENST00000337273	19.36	904	581	148	1502	2348	21	833	0.00033	47.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04443 related to translation activator GCN1 - 2660 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um04443	hsap|hsap_ENST00000300648	33.02	2453	1470	173	95	2482	50	2394	3.1e-199	696.7
+umay|um04443	hsap|hsap_ENST00000311129	20.24	593	430	43	1423	1999	101	666	1.3e-09	64.7
+umay|um04443	hsap|hsap_ENST00000263710	22.69	454	297	54	1497	1922	46	473	9.7e-07	56.4
+umay|um04443	hsap|hsap_ENST00000322088	19.10	466	343	34	1423	1871	89	537	0.00039	46.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D17732gT0 gene=YALI0D17732g Ylip_CLIB122_chrD:join(2174439..2174522,2174966 - 2524 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0D17732gT0	hsap|hsap_ENST00000300648	29.88	2413	1452	240	107	2327	108	2472	2.4e-114	414.6
+ylip|YALI0D17732gT0	hsap|hsap_ENST00000299218	20.20	1094	743	130	1036	2037	3	1058	6.5e-05	49.9

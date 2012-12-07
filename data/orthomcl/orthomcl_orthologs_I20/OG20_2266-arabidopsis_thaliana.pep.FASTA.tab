@@ -1,0 +1,281 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02571.1 - 374 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB02571.1	atha|AT5G50850	64.20	324	115	1	36	359	24	346	5.4e-89	325.0
+abra|AB02571.1	atha|AT1G30120	41.82	330	187	5	42	371	80	404	3.1e-52	203.0
+abra|AB02571.1	atha|AT2G34590	39.89	361	209	8	11	371	52	404	2.5e-51	200.0
+abra|AB02571.1	atha|AT1G55510	36.18	340	200	17	34	366	15	344	4.8e-41	165.6
+abra|AB02571.1	atha|AT3G13450	34.86	350	209	19	21	366	16	350	4.9e-41	165.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g04170 Afu3g04170 A_fumigatus_Af293 AspGDID: COORDS:chr3:1175521-1176878(+) translated using codon table 1 (378 amino acids) - 377 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu3g04170	atha|AT5G50850	60.78	357	134	6	17	373	6	356	9.4e-91	330.8
+afum|Afu3g04170	atha|AT1G30120	40.64	342	197	6	34	374	68	404	1.7e-51	200.6
+afum|Afu3g04170	atha|AT2G34590	40.29	340	195	8	38	374	70	404	6.2e-51	198.7
+afum|Afu3g04170	atha|AT1G55510	37.09	337	202	10	34	368	15	343	9.5e-43	171.3
+afum|Afu3g04170	atha|AT3G13450	35.94	345	212	9	25	368	13	349	2.2e-42	170.2
+afum|Afu3g04170	atha|AT3G21500.1	25.26	289	192	24	41	325	335	603	0.00076	42.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_06839T0 | AMAG_06839 | Allomyces macrogynus ATCC 38327 pyruvate dehydrogenase beta subuni - 365 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_06839T0	atha|AT5G50850	63.94	355	122	6	9	363	13	361	5.3e-101	364.8
+amac|AMAG_06839T0	atha|AT1G30120	39.17	337	197	8	18	354	70	398	1.9e-53	207.0
+amac|AMAG_06839T0	atha|AT2G34590	36.86	350	215	6	5	354	55	398	3.7e-53	206.0
+amac|AMAG_06839T0	atha|AT3G13450	37.50	328	195	10	33	359	35	353	2e-43	173.5
+amac|AMAG_06839T0	atha|AT1G55510	35.41	353	215	13	5	356	5	345	1e-42	171.1
+amac|AMAG_06839T0	atha|AT4G15560	25.42	295	192	28	76	361	434	709	2.1e-05	48.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_09403T0 | ANID_09403 | Aspergillus nidulans FGSC A4 pyruvate dehydrogenase E1 beta subunit Pdb - 375 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_09403T0	atha|AT5G50850	62.87	334	120	4	38	371	27	356	3.8e-89	325.5
+anid|ANID_09403T0	atha|AT2G34590	38.19	364	217	8	11	372	47	404	1.5e-50	197.4
+anid|ANID_09403T0	atha|AT1G30120	40.92	325	187	5	48	372	85	404	4.6e-50	195.8
+anid|ANID_09403T0	atha|AT1G55510	36.06	330	202	9	38	366	22	343	1.6e-40	163.9
+anid|ANID_09403T0	atha|AT3G13450	34.59	344	216	9	24	366	14	349	2.3e-40	163.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_08794 | BC1G_08794 | Botrytis cinerea pyruvate dehydrogenase E1 component beta subuni - 372 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_08794	atha|AT5G50850	62.91	337	119	6	30	366	22	352	1.7e-91	333.3
+bcin|BC1T_08794	atha|AT1G30120	39.41	373	213	13	5	369	37	404	1.2e-53	207.7
+bcin|BC1T_08794	atha|AT2G34590	42.15	325	183	5	45	369	85	404	7.6e-53	205.0
+bcin|BC1T_08794	atha|AT1G55510	35.17	344	207	16	28	366	14	346	8.4e-42	168.1
+bcin|BC1T_08794	atha|AT3G13450	36.25	331	196	15	40	366	33	352	1.2e-41	167.7
+bcin|BC1T_08794	atha|AT3G21500.1	25.45	275	180	25	54	322	353	608	0.00025	44.5
+bcin|BC1T_08794	atha|AT5G11380	24.65	288	179	38	47	322	381	642	0.00091	42.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5294 |  Candida Albicans sc5314 assembly 21 orf19.529 - 379 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.5294	atha|AT5G50850	62.50	344	127	2	32	375	16	357	3e-90	329.2
+calb_sc5314|orf19.5294	atha|AT2G34590	38.48	343	205	6	34	376	68	404	5.6e-48	188.9
+calb_sc5314|orf19.5294	atha|AT1G30120	38.35	339	202	7	38	376	73	404	3.7e-47	186.2
+calb_sc5314|orf19.5294	atha|AT1G55510	35.47	344	211	11	37	378	17	351	3.2e-40	162.9
+calb_sc5314|orf19.5294	atha|AT3G13450	34.94	352	215	14	32	378	15	357	3e-39	159.7
+calb_sc5314|orf19.5294	atha|AT3G21500.1	26.94	271	172	26	60	325	353	602	7.2e-07	53.0
+calb_sc5314|orf19.5294	atha|AT5G11380	23.41	346	222	43	25	357	349	664	6.3e-06	50.0
+calb_sc5314|orf19.5294	atha|AT4G15560	26.20	271	174	26	60	325	407	656	7.5e-06	49.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03763 | PGUG_03763 | Candida guilliermondii conserved hypothetical protei - 407 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_03763	atha|AT5G50850	64.67	334	116	2	70	403	26	357	2.2e-91	333.0
+cgui|PGUT_03763	atha|AT1G30120	36.46	373	231	6	17	389	23	389	4e-50	196.1
+cgui|PGUT_03763	atha|AT2G34590	36.80	375	221	16	21	389	25	389	1.3e-48	191.1
+cgui|PGUT_03763	atha|AT1G55510	35.19	341	209	12	67	405	20	350	3.9e-40	162.7
+cgui|PGUT_03763	atha|AT3G13450	35.82	335	203	12	73	405	32	356	1.6e-39	160.7
+cgui|PGUT_03763	atha|AT3G21500.1	28.22	241	151	22	120	353	377	602	5.2e-07	53.5
+cgui|PGUT_03763	atha|AT5G11380	25.68	296	191	29	93	385	395	664	1.7e-06	51.9
+cgui|PGUT_03763	atha|AT4G15560	25.86	290	187	28	69	353	390	656	1.8e-06	51.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_08468T0 | CIMG_08468 | Coccidioides immitis RS pyruvate dehydrogenase E1 componen - 377 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_08468T0	atha|AT5G50850	63.17	334	119	4	35	367	22	352	2.9e-92	335.9
+cimm_rs|CIMG_08468T0	atha|AT1G30120	38.06	360	218	5	15	374	50	404	2.6e-52	203.3
+cimm_rs|CIMG_08468T0	atha|AT2G34590	38.57	350	207	8	28	374	60	404	1.3e-51	200.9
+cimm_rs|CIMG_08468T0	atha|AT1G55510	36.61	336	198	15	37	368	19	343	4.4e-42	169.1
+cimm_rs|CIMG_08468T0	atha|AT3G13450	36.11	324	193	14	49	368	36	349	7.5e-41	165.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_05059T0 | CNAG_05059 | Cryptococcus neoformans grubii H99 pyruvate dehydrogenase e1 component beta subuni - 384 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_05059T0	atha|AT5G50850	58.57	350	120	25	50	383	21	361	2.3e-72	269.8
+cneo_h99|CNAG_05059T0	atha|AT1G30120	39.26	326	171	27	55	363	72	387	1.7e-32	137.5
+cneo_h99|CNAG_05059T0	atha|AT2G34590	36.34	377	206	34	3	363	29	387	7.5e-32	135.3
+cneo_h99|CNAG_05059T0	atha|AT1G55510	35.69	339	187	31	58	378	22	347	5.4e-31	132.3
+cneo_h99|CNAG_05059T0	atha|AT3G13450	34.89	364	201	36	39	378	2	353	3.2e-30	129.7
+cneo_h99|CNAG_05059T0	atha|AT5G11380	26.26	278	165	40	70	329	381	636	9.1e-07	52.8
+cneo_h99|CNAG_05059T0	atha|AT3G21500.1	25.85	236	145	30	103	330	390	603	2.6e-06	51.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA - 373 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	atha|AT5G50850	62.32	345	129	1	20	364	13	356	1.7e-95	346.6
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	atha|AT1G30120	42.15	325	183	5	25	349	68	387	4.2e-55	212.5
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	atha|AT2G34590	41.88	320	179	7	31	349	74	387	4.7e-53	205.7
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	atha|AT1G55510	36.44	343	210	8	27	368	16	351	1.2e-44	177.5
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	atha|AT3G13450	38.62	334	195	10	37	368	32	357	2.1e-44	176.8
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	atha|AT4G15560	24.67	304	202	27	33	332	390	670	7e-06	49.9
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	atha|AT3G21500.1	24.01	304	204	27	33	332	336	616	8.5e-06	49.4
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	atha|AT5G11380	24.07	241	166	17	85	323	418	643	0.00018	45.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_10569T0 | MGG_10569 | Magnaporthe grisea (M. oryzae) 70-15 pyruvate dehydrogenase E1 component subunit bet - 383 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_10569T0	atha|AT5G50850	63.30	327	118	2	48	373	27	352	3.9e-90	328.8
+mgri|MGG_10569T0	atha|AT1G30120	40.91	352	201	7	16	366	45	390	7.4e-53	205.1
+mgri|MGG_10569T0	atha|AT2G34590	40.86	350	195	12	23	366	47	390	1.7e-52	203.9
+mgri|MGG_10569T0	atha|AT1G55510	36.08	352	208	17	28	373	2	342	1.3e-41	167.5
+mgri|MGG_10569T0	atha|AT3G13450	36.39	327	194	14	51	373	32	348	9.6e-41	164.7
+mgri|MGG_10569T0	atha|AT3G21500.1	24.43	307	204	28	39	340	330	613	0.00021	44.8
+mgri|MGG_10569T0	atha|AT4G15560	24.76	307	203	28	39	340	384	667	0.00039	44.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_49370|estExt_Genewise1Plus.C_330041 - 400 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_49370|estExt_Genewise1Plus.C_330041	atha|AT5G50850	62.12	359	133	3	42	399	5	361	7.2e-93	337.9
+mlar|t_49370|estExt_Genewise1Plus.C_330041	atha|AT2G34590	38.85	381	218	15	1	379	20	387	1.2e-51	201.2
+mlar|t_49370|estExt_Genewise1Plus.C_330041	atha|AT1G30120	39.84	364	202	17	27	379	30	387	1.3e-50	197.8
+mlar|t_49370|estExt_Genewise1Plus.C_330041	atha|AT1G55510	35.40	339	209	10	60	397	21	350	4.4e-39	159.2
+mlar|t_49370|estExt_Genewise1Plus.C_330041	atha|AT3G13450	34.21	342	216	9	57	397	23	356	8.4e-39	158.3
+mlar|t_49370|estExt_Genewise1Plus.C_330041	atha|AT3G21500.1	26.18	233	149	23	120	346	388	603	0.00088	42.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU03004T0 | NCU03004 | Neurospora crassa OR74A (finished) pyruvate dehydrogenase E1 componen - 379 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU03004T0	atha|AT5G50850	62.31	337	123	4	27	363	14	346	8.3e-91	331.0
+ncra|NCU03004T0	atha|AT1G30120	42.77	318	176	6	43	359	76	388	3.4e-52	202.9
+ncra|NCU03004T0	atha|AT2G34590	40.00	340	198	6	20	359	55	388	1.5e-51	200.7
+ncra|NCU03004T0	atha|AT3G13450	35.65	331	201	12	41	368	27	348	6.4e-41	165.3
+ncra|NCU03004T0	atha|AT1G55510	36.02	322	194	12	50	368	30	342	1e-39	161.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_80756 - 379 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_80756	atha|AT5G50850	64.44	329	113	4	35	363	22	346	1.6e-91	333.4
+ndis|NEUDI1_80756	atha|AT1G30120	43.40	318	174	6	43	359	76	388	5.4e-53	205.6
+ndis|NEUDI1_80756	atha|AT2G34590	40.29	340	197	6	20	359	55	388	2.4e-52	203.4
+ndis|NEUDI1_80756	atha|AT3G13450	35.09	342	209	13	31	368	16	348	1.1e-40	164.5
+ndis|NEUDI1_80756	atha|AT1G55510	36.02	322	194	12	50	368	30	342	1.5e-39	160.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_006440 |  Neosartorya fischeri nul - 377 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_006440	atha|AT5G50850	60.50	357	135	6	17	373	6	356	2.4e-91	332.8
+nfis|NFIA_006440	atha|AT1G30120	40.35	342	198	6	34	374	68	404	9.4e-52	201.4
+nfis|NFIA_006440	atha|AT2G34590	40.00	340	196	8	38	374	70	404	3.4e-51	199.6
+nfis|NFIA_006440	atha|AT1G55510	37.09	337	202	10	34	368	15	343	3.8e-43	172.6
+nfis|NFIA_006440	atha|AT3G13450	35.94	345	212	9	25	368	13	349	1e-42	171.2
+nfis|NFIA_006440	atha|AT3G21500.1	25.26	289	192	24	41	325	335	603	0.00075	42.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_92673 - 379 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_92673	atha|AT5G50850	62.61	337	122	4	27	363	14	346	5.3e-91	331.7
+ntet|NEUTE1_92673	atha|AT1G30120	42.45	318	177	6	43	359	76	388	1.3e-51	200.9
+ntet|NEUTE1_92673	atha|AT2G34590	40.23	343	193	12	20	359	55	388	1.1e-50	197.8
+ntet|NEUTE1_92673	atha|AT3G13450	35.38	342	208	13	31	368	16	348	1.5e-41	167.4
+ntet|NEUTE1_92673	atha|AT1G55510	36.02	322	194	12	50	368	30	342	7.6e-40	161.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002560063.1| gi|255938586 Pc14g00690 [Penicillium chrysogenum Wisconsi - 365 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002560063.1|	atha|AT5G50850	60.06	348	123	16	25	361	14	356	5e-59	225.4
+pechr_54_1255|XP_002560063.1|	atha|AT1G30120	37.78	360	207	17	15	362	50	404	1.3e-30	131.1
+pechr_54_1255|XP_002560063.1|	atha|AT2G34590	39.10	335	185	19	42	362	75	404	4.7e-30	129.3
+pechr_54_1255|XP_002560063.1|	atha|AT1G55510	36.36	330	190	20	39	356	22	343	2.2e-27	120.2
+pechr_54_1255|XP_002560063.1|	atha|AT3G13450	34.97	326	192	20	43	356	32	349	4.7e-26	115.8
+pechr_54_1255|XP_002560063.1|	atha|AT4G15560	22.50	280	200	17	40	313	389	657	4.2e-06	50.6
+pechr_54_1255|XP_002560063.1|	atha|AT3G21500.1	23.08	273	193	17	47	313	342	603	9.5e-06	49.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_66084|estExt_fgenesh1_kg.C_30024 - 329 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	atha|AT5G50850	69.00	329	100	2	1	329	36	362	4.4e-101	364.9
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	atha|AT1G30120	44.08	304	164	6	5	308	90	387	3.2e-54	209.4
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	atha|AT2G34590	43.09	304	167	6	5	308	90	387	2.9e-53	206.3
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	atha|AT1G55510	39.22	306	173	13	1	302	32	328	1.1e-44	177.5
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	atha|AT3G13450	38.89	306	174	13	1	302	38	334	3.7e-44	175.8
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	atha|AT3G21500.1	26.64	229	151	17	49	274	388	602	9.4e-06	49.1
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	atha|AT4G15560	25.33	229	154	17	49	274	442	656	2.9e-05	47.6
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	atha|AT5G11380	25.43	291	187	30	5	292	388	651	0.00025	44.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14406 | RO3G_14407 | Rhizopus oryzae hypothetical protei - 363 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_14406	atha|AT5G50850	65.53	351	117	4	5	354	9	356	3.4e-95	345.5
+rory|RO3T_14406	atha|AT1G30120	41.76	340	190	8	16	353	68	401	5.8e-53	205.4
+rory|RO3T_14406	atha|AT2G34590	39.83	349	199	11	6	353	63	401	2.7e-51	199.8
+rory|RO3T_14406	atha|AT1G55510	36.86	331	201	8	29	358	28	351	2.3e-43	173.3
+rory|RO3T_14406	atha|AT3G13450	34.62	364	225	13	1	358	1	357	4.5e-43	172.4
+rory|RO3T_14406	atha|AT3G21500.1	26.64	289	187	25	22	305	334	602	2.2e-07	54.6
+rory|RO3T_14406	atha|AT4G15560	24.64	345	221	39	22	353	388	706	1.1e-06	52.5
+rory|RO3T_14406	atha|AT5G11380	22.91	275	192	20	34	306	381	637	0.00017	45.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YBR221C PDB1 SGDID:S000000425, Chr II from 666248-665148, reverse complement, Verified ORF, "E1 beta subunit of the pyruvate  - 366 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YBR221C	atha|AT5G50850	64.72	343	115	6	19	360	19	356	2.5e-94	342.6
+scer_s288c|YBR221C	atha|AT1G30120	38.64	352	208	8	11	362	61	404	3.8e-53	206.0
+scer_s288c|YBR221C	atha|AT2G34590	40.00	355	203	10	13	362	55	404	5.3e-53	205.5
+scer_s288c|YBR221C	atha|AT1G55510	36.13	346	207	14	24	364	15	351	1.6e-43	173.9
+scer_s288c|YBR221C	atha|AT3G13450	35.14	333	204	12	35	364	34	357	6.9e-42	168.4
+scer_s288c|YBR221C	atha|AT4G15560	27.68	289	177	32	28	306	387	653	0.0001	46.0
+scer_s288c|YBR221C	atha|AT3G21500.1	25.99	277	180	25	36	306	342	599	0.00017	45.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_08442 | SNOG_08442 | Stagonospora nodorum predicted protei - 368 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_08442	atha|AT5G50850	64.42	326	115	1	27	352	22	346	5.1e-89	325.0
+snod|SNOT_08442	atha|AT1G30120	40.17	361	205	11	10	364	49	404	2.5e-52	203.3
+snod|SNOT_08442	atha|AT2G34590	41.54	325	185	5	40	364	85	404	2.9e-51	199.8
+snod|SNOT_08442	atha|AT1G55510	37.61	335	193	16	30	359	21	344	3.3e-42	169.5
+snod|SNOT_08442	atha|AT3G13450	38.60	329	185	17	36	359	34	350	4e-42	169.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC30D10_13c.1 | SPBC30D10_13c | Schizosaccharomyces pombe 972h- pyruvate dehydrogenase e1 component beta subunit Pdb - 366 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPBC30D10_13c.1	atha|AT5G50850	60.99	364	138	4	1	364	1	360	1.9e-94	343.0
+spom|SPBC30D10_13c.1	atha|AT1G30120	39.44	360	210	8	5	362	52	405	8.1e-54	208.2
+spom|SPBC30D10_13c.1	atha|AT2G34590	39.18	365	208	14	5	362	48	405	2.8e-52	203.1
+spom|SPBC30D10_13c.1	atha|AT1G55510	35.13	353	218	11	10	360	4	347	1.3e-39	160.8
+spom|SPBC30D10_13c.1	atha|AT3G13450	33.81	349	217	14	13	360	18	353	1.5e-38	157.3
+spom|SPBC30D10_13c.1	atha|AT3G21500.1	24.29	247	169	18	78	321	380	611	0.0004	43.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07465T0 | SPPG_07465 | Spizellomyces punctatus DAOM BR117 pyruvate dehydrogenase E1 componen - 363 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_07465T0	atha|AT5G50850	66.06	330	111	1	23	352	23	351	4.8e-98	355.0
+spun|SPPG_07465T0	atha|AT1G30120	39.75	317	186	5	30	346	80	391	2.9e-51	199.8
+spun|SPPG_07465T0	atha|AT2G34590	38.05	339	200	10	13	346	58	391	1.7e-50	197.2
+spun|SPPG_07465T0	atha|AT1G55510	37.33	367	208	22	1	361	1	351	3.7e-43	172.6
+spun|SPPG_07465T0	atha|AT3G13450	35.41	370	213	26	2	361	4	357	2.3e-42	170.0
+spun|SPPG_07465T0	atha|AT3G21500.1	25.65	269	174	26	44	304	353	603	1.1e-05	49.0
+spun|SPPG_07465T0	atha|AT4G15560	25.26	289	190	26	24	304	387	657	3.3e-05	47.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_21696|estExt_Genewise1Plus.C_40315 - 337 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_21696|estExt_Genewise1Plus.C_40315	atha|AT5G50850	67.66	337	99	10	1	337	36	362	2e-70	263.1
+sror|t_21696|estExt_Genewise1Plus.C_40315	atha|AT1G55510	37.27	330	190	17	6	334	37	350	1.4e-30	130.8
+sror|t_21696|estExt_Genewise1Plus.C_40315	atha|AT3G13450	36.12	335	197	17	1	334	38	356	4.3e-30	129.1
+sror|t_21696|estExt_Genewise1Plus.C_40315	atha|AT2G34590	43.47	329	170	16	5	332	90	403	9.3e-17	85.0
+sror|t_21696|estExt_Genewise1Plus.C_40315	atha|AT1G30120	43.47	329	170	16	5	332	90	403	9.3e-17	85.0
+sror|t_21696|estExt_Genewise1Plus.C_40315	atha|AT3G21500.1	27.85	237	146	25	49	282	388	602	8.3e-09	59.2
+sror|t_21696|estExt_Genewise1Plus.C_40315	atha|AT4G15560	25.74	237	151	25	49	282	442	656	1.8e-07	55.0
+sror|t_21696|estExt_Genewise1Plus.C_40315	atha|AT5G11380	24.85	326	195	50	5	320	388	673	1.9e-05	48.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_114529|estExt_fgenesh1_pm.C_21258 - 378 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	atha|AT5G50850	62.07	348	125	7	16	363	6	346	1.9e-92	336.4
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	atha|AT1G30120	39.34	366	213	9	3	368	41	397	2.4e-53	206.8
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	atha|AT2G34590	39.83	354	201	12	15	368	56	397	2e-52	203.6
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	atha|AT1G55510	36.63	344	201	17	31	368	10	342	7.4e-43	171.7
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	atha|AT3G13450	37.73	326	188	15	47	368	34	348	2.4e-42	170.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73309|estExt_fgeneshTM_pg.C_20482 - 395 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	atha|AT5G50850	62.35	332	123	2	63	394	32	361	2.1e-90	329.7
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	atha|AT2G34590	39.20	375	210	18	8	374	23	387	1.4e-51	200.9
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	atha|AT1G30120	38.99	377	214	16	5	374	20	387	1.7e-51	200.7
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	atha|AT1G55510	34.82	359	218	16	33	389	3	347	4.8e-40	162.4
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	atha|AT3G13450	34.55	330	207	9	61	389	32	353	1.3e-39	161.0
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	atha|AT4G15560	26.73	318	188	45	90	388	415	706	8.4e-08	56.3
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	atha|AT3G21500.1	27.35	234	145	25	115	341	388	603	1e-07	55.8
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	atha|AT5G11380	25.32	308	185	45	41	340	366	636	1.1e-06	52.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_76744|estExt_GeneWisePlus.C_60244 - 383 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_76744|estExt_GeneWisePlus.C_60244	atha|AT5G50850	63.27	324	116	3	45	368	26	346	1.4e-89	327.0
+tree|t_76744|estExt_GeneWisePlus.C_60244	atha|AT1G30120	41.48	311	177	5	56	366	85	390	4.9e-51	199.1
+tree|t_76744|estExt_GeneWisePlus.C_60244	atha|AT2G34590	37.37	372	213	20	10	366	24	390	1.5e-50	197.4
+tree|t_76744|estExt_GeneWisePlus.C_60244	atha|AT3G13450	36.50	326	192	15	52	373	34	348	5.1e-41	165.6
+tree|t_76744|estExt_GeneWisePlus.C_60244	atha|AT1G55510	34.83	333	208	9	42	373	18	342	6.8e-40	161.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_161842|estExt_genemark.C_11849 - 378 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_161842|estExt_genemark.C_11849	atha|AT5G50850	65.05	329	111	4	41	368	27	352	1.8e-90	329.9
+tter|t_161842|estExt_genemark.C_11849	atha|AT1G30120	40.11	359	206	9	3	361	41	390	9.8e-53	204.7
+tter|t_161842|estExt_genemark.C_11849	atha|AT2G34590	40.06	337	197	5	25	361	59	390	1.5e-51	200.8
+tter|t_161842|estExt_genemark.C_11849	atha|AT1G55510	36.63	344	201	17	31	368	10	342	1.5e-41	167.3
+tter|t_161842|estExt_genemark.C_11849	atha|AT3G13450	37.42	326	189	15	47	368	34	348	5.6e-41	165.4
+tter|t_161842|estExt_genemark.C_11849	atha|AT3G21500.1	24.33	300	200	27	41	335	336	613	0.00061	43.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um06105 probable PDB1 - pyruvate dehydrogenase (lipoamide) beta chain - 410 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um06105	atha|AT5G50850	64.16	346	121	3	65	410	19	361	1.6e-87	320.2
+umay|um06105	atha|AT2G34590	35.91	401	249	8	7	406	10	403	5.2e-48	189.1
+umay|um06105	atha|AT1G30120	36.21	406	235	24	2	406	21	403	4.2e-47	186.1
+umay|um06105	atha|AT3G13450	35.31	337	208	10	70	405	26	353	1.2e-38	157.8
+umay|um06105	atha|AT1G55510	36.42	335	202	11	73	405	22	347	1.6e-38	157.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E27005gT0 gene=YALI0E27005g Ylip_CLIB122_chrE:complement(3199624 - 330 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0E27005gT0	atha|AT5G50850	62.50	328	119	4	1	327	36	360	1.1e-89	327.1
+ylip|YALI0E27005gT0	atha|AT1G30120	41.38	319	181	6	5	323	90	402	9.5e-51	197.9
+ylip|YALI0E27005gT0	atha|AT2G34590	41.74	321	177	10	5	323	90	402	5.7e-50	195.3
+ylip|YALI0E27005gT0	atha|AT1G55510	35.98	328	199	11	1	326	32	350	3e-41	166.1
+ylip|YALI0E27005gT0	atha|AT3G13450	34.76	328	203	11	1	326	38	356	2.2e-40	163.3
+ylip|YALI0E27005gT0	atha|AT4G15560	22.12	330	225	32	10	327	408	717	6.1e-05	46.5
+ylip|YALI0E27005gT0	atha|AT3G21500.1	25.54	231	151	21	49	274	388	602	0.0002	44.7

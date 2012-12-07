@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09584.1 - 346 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB09584.1	cele|cele_Y47G6A.18	41.11	253	135	14	59	309	27	267	2.5e-29	126.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g06630 Afu1g06630 A_fumigatus_Af293 AspGDID: COORDS:chr1:1895187-1896487(+) translated using codon table 1 (354 amino acids) - 353 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu1g06630	cele|cele_Y47G6A.18	43.23	266	139	12	38	301	6	261	6.5e-36	147.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_16222T0 | AMAG_16222 | Allomyces macrogynus ATCC 38327 vacuolar protein sorting-associated protein 7 - 352 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_16222T0	cele|cele_Y47G6A.18	44.93	227	112	13	91	311	36	255	3.4e-31	132.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_05705T0 | ANID_05705 | Aspergillus nidulans FGSC A4 vacuolar protein sorting-associated protein 7 - 353 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_05705T0	cele|cele_Y47G6A.18	43.67	245	126	12	59	301	27	261	1e-35	147.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_15270 | BC1G_15270 | Botrytis cinerea vacuolar protein sorting-associated protein 7 - 278 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_15270	cele|cele_Y47G6A.18	49.72	179	88	2	58	235	27	204	4.6e-32	134.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1514 |  Candida Albicans sc5314 assembly 21 orf19.151 - 340 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.1514	cele|cele_Y47G6A.18	41.01	278	135	29	6	283	7	255	3.2e-33	138.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02719 | PGUG_02719 | Candida guilliermondii hypothetical protei - 349 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_02719	cele|cele_Y47G6A.18	42.91	261	133	16	38	297	14	259	2.4e-31	132.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03998T0 | CIMG_03998 | Coccidioides immitis RS vacuolar protein sorting-associated protein 7 - 350 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_03998T0	cele|cele_Y47G6A.18	44.08	245	125	12	56	298	27	261	9.9e-37	150.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04806T0 | CNAG_04806 | Cryptococcus neoformans grubii H99 golgi phosphoprotein 3 domain containing protei - 389 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_04806T0	cele|cele_Y47G6A.18	45.73	234	114	13	64	296	34	255	2.4e-33	139.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_166635|fgenesh1_pg.08_#_205 - 322 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_166635|fgenesh1_pg.08_#_205	cele|cele_Y47G6A.18	47.13	244	116	13	42	283	27	259	5.5e-37	151.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00839T0 | MGG_00839 | Magnaporthe grisea (M. oryzae) 70-15 vacuolar protein sorting-associated protein 7 - 362 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_00839T0	cele|cele_Y47G6A.18	44.72	246	122	14	73	315	27	261	1e-21	100.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_74362|estExt_fgenesh1_pm.C_80007 - 369 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_74362|estExt_fgenesh1_pm.C_80007	cele|cele_Y47G6A.18	42.26	239	127	11	60	297	27	255	4.8e-31	131.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU06091T0 | NCU06091 | Neurospora crassa OR74A (finished) vacuolar protein sorting-associated protein 7 - 349 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU06091T0	cele|cele_Y47G6A.18	44.72	246	122	14	53	295	27	261	2.7e-27	119.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_127556 - 275 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_127556	cele|cele_Y47G6A.18	45.65	138	72	3	53	188	27	163	3.8e-16	81.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_018060 |  Neosartorya fischeri nul - 353 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_018060	cele|cele_Y47G6A.18	43.23	266	139	12	38	301	6	261	1.2e-35	147.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_85692 - 351 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_85692	cele|cele_Y47G6A.18	44.72	246	122	14	55	297	27	261	7.5e-26	114.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562170.1| gi|255942803 Pc18g03300 [Penicillium chrysogenum Wisconsi - 354 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002562170.1|	cele|cele_Y47G6A.18	44.90	245	123	12	60	302	27	261	8e-37	150.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_49043|estExt_fgenesh1_pm.C_200008 - 396 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_49043|estExt_fgenesh1_pm.C_200008	cele|cele_Y47G6A.18	40.59	271	146	15	40	308	13	270	1.7e-20	96.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_06143 | RO3G_06144 | Rhizopus oryzae hypothetical protei - 314 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_06143	cele|cele_Y47G6A.18	47.66	235	113	10	43	275	33	259	2.2e-42	169.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR372C VPS74 SGDID:S000002780, Chr IV from 1222142-1221105, reverse complement, Verified ORF, "Protein required for Golgi lo - 345 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YDR372C	cele|cele_Y47G6A.18	41.95	236	126	11	54	288	30	255	3.4e-34	142.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_02718 | SNOG_02718 | Stagonospora nodorum conserved hypothetical protei - 353 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_02718	cele|cele_Y47G6A.18	41.11	253	135	14	59	309	27	267	1.7e-34	143.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC5D6_13.1 | SPAC5D6_13 | Schizosaccharomyces pombe 972h- Golgi phosphoprotein 3 famil - 337 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPAC5D6_13.1	cele|cele_Y47G6A.18	44.72	246	119	17	47	286	27	261	2.8e-34	142.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_01074T0 | SPPG_01074 | Spizellomyces punctatus DAOM BR117 conserved hypothetical protei - 292 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_01074T0	cele|cele_Y47G6A.18	43.73	263	129	19	15	266	1	255	1.3e-35	146.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_34349|estExt_fgenesh1_pm.C_40069 - 357 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_34349|estExt_fgenesh1_pm.C_40069	cele|cele_Y47G6A.18	41.29	264	138	17	23	279	2	255	3.3e-32	135.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_116911|estExt_fgenesh1_pm.C_60443 - 356 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_116911|estExt_fgenesh1_pm.C_60443	cele|cele_Y47G6A.18	42.80	257	132	15	63	317	27	270	7.1e-26	114.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_16901|gw1.2.490.1 - 302 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_16901|gw1.2.490.1	cele|cele_Y47G6A.18	44.35	239	122	11	5	242	27	255	3.8e-35	145.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_77441|estExt_GeneWisePlus.C_80171 - 349 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_77441|estExt_GeneWisePlus.C_80171	cele|cele_Y47G6A.18	43.90	246	124	14	56	298	27	261	2.6e-35	145.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_76502|estExt_Genewise1Plus.C_71036 - 356 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_76502|estExt_Genewise1Plus.C_71036	cele|cele_Y47G6A.18	43.67	245	126	12	63	305	27	261	4.3e-26	115.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03278 probable VPS74 - protein involved in protein-vacuolar - 438 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um03278	cele|cele_Y47G6A.18	43.12	269	127	26	70	335	11	256	6.1e-29	125.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D03575gT0 gene=YALI0D03575g Ylip_CLIB122_chrD:complement(45187 - 336 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0D03575gT0	cele|cele_Y47G6A.18	39.48	271	149	15	24	292	10	267	7.1e-35	144.4

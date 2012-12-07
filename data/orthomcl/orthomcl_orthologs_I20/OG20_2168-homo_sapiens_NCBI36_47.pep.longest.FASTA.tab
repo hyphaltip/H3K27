@@ -1,0 +1,121 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB05796.1 - 364 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB05796.1	hsap|hsap_ENST00000295767	55.79	95	39	3	138	232	51	142	6.7e-14	74.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu7g05420 Afu7g05420 A_fumigatus_Af293 AspGDID: COORDS:chr7:1301882-1303010(+) translated using codon table 1 (298 amino acids) - 297 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu7g05420	hsap|hsap_ENST00000295767	50.00	120	55	5	115	233	33	148	4.6e-17	84.2
+afum|Afu7g05420	hsap|hsap_ENST00000382483	28.33	233	145	22	72	296	1968	2186	0.00068	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_14272T0 | AMAG_14272 | Allomyces macrogynus ATCC 38327 mitochondrial intermembrane space import and assembly protein 4 - 149 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_14272T0	hsap|hsap_ENST00000295767	39.35	155	77	17	1	138	1	155	5e-19	89.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_11898T0 | ANID_11898 | Aspergillus nidulans FGSC A4 mitochondrial intermembrane space import and assembly protein 4 - 283 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_11898T0	hsap|hsap_ENST00000295767	53.93	89	41	0	146	234	60	148	2.8e-14	74.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_03576 | BC1G_03576 | Botrytis cinerea mitochondrial intermembrane space import and assembly protein 4 - 318 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_03576	hsap|hsap_ENST00000295767	45.76	118	54	10	137	254	48	155	2.9e-12	68.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.2977 |  Candida Albicans sc5314 assembly 21 orf19.297 - 252 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.2977	hsap|hsap_ENST00000295767	46.46	99	47	6	120	215	32	127	9.6e-13	69.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04752 | PGUG_04752 | Candida guilliermondii hypothetical protei - 238 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_04752	hsap|hsap_ENST00000295767	47.92	96	46	4	101	196	60	151	1.6e-14	75.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_05240T0 | CIMG_05240 | Coccidioides immitis RS mitochondrial intermembrane space protein Mia4 - 295 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_05240T0	hsap|hsap_ENST00000295767	41.61	137	68	12	132	268	28	152	5.1e-11	64.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02106T0 | CNAG_02106 | Cryptococcus neoformans grubii H99 intermembrane space import and assembly protein 4 - 231 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_02106T0	hsap|hsap_ENST00000295767	46.97	132	53	17	99	230	31	145	5.4e-17	83.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_157291|fgenesh1_kg.09_#_2_#_1302_1_CCIA - 168 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_157291|fgenesh1_kg.09_#_2_#_1302_1_CCIA	hsap|hsap_ENST00000295767	45.81	155	64	20	6	159	20	155	2.5e-21	97.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_09348T0 | MGG_09348 | Magnaporthe grisea (M. oryzae) 70-15 mitochondrial intermembrane space import and assembly protein 4 - 309 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_09348T0	hsap|hsap_ENST00000295767	43.20	125	62	9	139	259	36	155	3e-11	65.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_65729|fgenesh1_pg.C_scaffold_36000099 - 326 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_65729|fgenesh1_pg.C_scaffold_36000099	hsap|hsap_ENST00000295767	40.43	141	72	12	159	292	20	155	3.6e-17	84.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU04945T0 | NCU04945 | Neurospora crassa OR74A (finished) mitochondrial intermembrane space protein Mia4 - 298 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU04945T0	hsap|hsap_ENST00000295767	55.24	105	44	3	175	279	51	152	2.6e-14	75.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_169403 - 290 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_169403	hsap|hsap_ENST00000295767	49.18	122	55	7	154	271	34	152	1.5e-16	82.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_026630 |  Neosartorya fischeri nul - 296 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_026630	hsap|hsap_ENST00000295767	44.08	152	67	18	95	246	19	152	1.1e-16	82.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_78134 - 299 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_78134	hsap|hsap_ENST00000295767	55.24	105	44	3	175	279	51	152	1.3e-14	76.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002557455.1| gi|255931797 Pc12g06120 [Penicillium chrysogenum Wisconsi - 282 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002557455.1|	hsap|hsap_ENST00000295767	55.21	96	38	5	132	222	60	155	1.9e-13	72.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_17567|e_gw1.13.22.1 - 77 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_17567|e_gw1.13.22.1	hsap|hsap_ENST00000295767	69.49	59	18	0	1	59	60	118	1e-20	94.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_04437 | RO3G_04438 | Rhizopus oryzae hypothetical protei - 147 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_04437	hsap|hsap_ENST00000295767	50.39	127	57	6	6	130	20	142	3.7e-23	103.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YKL195W MIA40 SGDID:S000001678, Chr XI from 75826-77037, Verified ORF, "Essential protein of the mitochondrial intermembrane  - 403 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YKL195W	hsap|hsap_ENST00000295767	44.03	134	67	8	257	390	29	154	1.1e-08	56.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_05959 | SNOG_05959 | Stagonospora nodorum hypothetical protei - 320 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_05959	hsap|hsap_ENST00000295767	51.40	107	50	2	132	238	51	155	4.9e-11	64.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC57A10_11c.1 | SPAC57A10_11c | Schizosaccharomyces pombe 972h- TIM22 inner membrane protein import complex subunit Tim4 - 313 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC57A10_11c.1	hsap|hsap_ENST00000295767	44.62	130	62	10	166	292	30	152	8.4e-16	80.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04221T0 | SPPG_04221 | Spizellomyces punctatus DAOM BR117 intermembrane space protein Mia4 - 150 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_04221T0	hsap|hsap_ENST00000295767	48.48	99	48	3	19	116	36	132	8e-12	65.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_25533|fgenesh1_pg.C_scaffold_2000383 - 260 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_25533|fgenesh1_pg.C_scaffold_2000383	hsap|hsap_ENST00000295767	46.67	135	61	11	117	251	29	152	1.8e-13	72.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_80171|estExt_Genewise1Plus.C_40207 - 289 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_80171|estExt_Genewise1Plus.C_40207	hsap|hsap_ENST00000295767	41.10	163	84	12	105	267	2	152	1.8e-12	69.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_72212|estExt_fgeneshTM_pm.C_110064 - 245 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_72212|estExt_fgeneshTM_pm.C_110064	hsap|hsap_ENST00000295767	46.77	124	63	3	77	197	19	142	6.7e-15	76.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_31611|gw1.5.319.1 - 232 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_31611|gw1.5.319.1	hsap|hsap_ENST00000295767	52.21	113	47	7	121	232	29	135	2e-14	75.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_53942|estExt_Genewise1.C_10139 - 302 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_53942|estExt_Genewise1.C_10139	hsap|hsap_ENST00000295767	46.72	122	57	8	147	264	31	148	1.9e-10	62.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03631 related to MIA40 - mitochondrial intermembrane space protein, involved in import and assembly of intermembrane spac - 247 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um03631	hsap|hsap_ENST00000295767	46.77	124	63	3	116	239	34	154	7.9e-19	89.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E21373gT0 gene=YALI0E21373g Ylip_CLIB122_chrE:254067 - 253 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0E21373gT0	hsap|hsap_ENST00000295767	40.00	140	73	11	5	143	25	154	4.4e-14	74.1

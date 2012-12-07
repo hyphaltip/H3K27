@@ -1,0 +1,162 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB04014.1 - 1142 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB04014.1	cele|cele_Y56A3A.27	42.32	671	325	62	1	667	1	613	2.6e-63	242.0
+abra|AB04014.1	cele|cele_Y48C3A.14	36.26	535	316	25	4	525	5	527	4.2e-40	165.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g02660 Afu2g02660 A_fumigatus_Af293 AspGDID: COORDS:chr2:682368-684675(-) translated using codon table 1 (630 amino acids) D - 629 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu2g02660	cele|cele_Y56A3A.27	45.37	626	315	27	5	623	3	608	7e-104	375.9
+afum|Afu2g02660	cele|cele_Y48C3A.14	33.85	641	380	44	4	623	3	620	5.3e-66	250.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_10855T0 | AMAG_10855 | Allomyces macrogynus ATCC 38327 DNA topoisomerase type I - 999 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_10855T0	cele|cele_Y56A3A.27	40.10	803	407	74	2	776	3	759	2.6e-26	118.9
+amac|AMAG_10855T0	cele|cele_Y48C3A.14	35.37	557	312	48	3	545	5	527	6.7e-16	84.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04555T0 | ANID_04555 | Aspergillus nidulans FGSC A4 DNA topoisomerase II - 629 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_04555T0	cele|cele_Y56A3A.27	45.28	625	317	25	5	623	3	608	5.5e-108	389.6
+anid|ANID_04555T0	cele|cele_Y48C3A.14	35.51	597	351	34	1	586	1	574	4.2e-66	250.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_04651 | BC1G_04651 | Botrytis cinerea DNA topoisomerase 3-bet - 647 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_04651	cele|cele_Y56A3A.27	46.01	576	250	61	32	597	95	619	8.2e-63	239.6
+bcin|BC1T_04651	cele|cele_Y48C3A.14	35.39	438	268	15	31	458	95	527	3.5e-34	144.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5934 |  Candida Albicans sc5314 assembly 21 orf19.593 - 629 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.5934	cele|cele_Y56A3A.27	42.58	627	333	27	2	618	3	612	4.6e-102	369.9
+calb_sc5314|orf19.5934	cele|cele_Y48C3A.14	35.35	594	353	31	3	583	5	580	2e-73	275.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04361 | PGUG_04361 | Candida guilliermondii hypothetical protei - 616 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_04361	cele|cele_Y56A3A.27	41.06	621	347	19	2	616	3	610	3.5e-104	376.9
+cgui|PGUT_04361	cele|cele_Y48C3A.14	32.28	635	388	42	3	614	5	620	3.1e-70	264.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_01798T0 | CIMG_01798 | Coccidioides immitis RS DNA topoisomerase II - 645 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_01798T0	cele|cele_Y56A3A.27	43.70	643	319	43	4	640	3	608	1.3e-77	288.7
+cimm_rs|CIMG_01798T0	cele|cele_Y48C3A.14	34.44	662	370	64	1	640	1	620	1.1e-43	176.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04600T0 | CNAG_04600 | Cryptococcus neoformans grubii H99 DNA topoisomerase type  - 959 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_04600T0	cele|cele_Y56A3A.27	39.57	791	429	49	2	778	3	758	1.6e-68	259.1
+cneo_h99|CNAG_04600T0	cele|cele_Y48C3A.14	36.29	620	353	42	3	607	5	597	1e-42	173.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_127912|gw1.03.1786.1 - 608 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_127912|gw1.03.1786.1	cele|cele_Y56A3A.27	44.05	613	325	18	4	608	5	607	2.2e-113	407.4
+mcin|t_127912|gw1.03.1786.1	cele|cele_Y48C3A.14	32.99	585	362	30	3	572	5	574	9.8e-69	259.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_11342T0 | MGG_11342 | Magnaporthe grisea (M. oryzae) 70-15 DNA topoisomerase  - 669 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_11342T0	cele|cele_Y56A3A.27	43.24	673	311	71	1	667	1	608	3.5e-65	247.5
+mgri|MGG_11342T0	cele|cele_Y48C3A.14	34.86	545	333	22	4	538	5	537	5.5e-40	163.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_34533|e_gw1.9.29.1 - 749 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_34533|e_gw1.9.29.1	cele|cele_Y56A3A.27	41.96	684	375	22	1	673	3	675	1.4e-65	249.0
+mlar|t_34533|e_gw1.9.29.1	cele|cele_Y48C3A.14	34.03	623	373	38	2	605	5	608	5.1e-30	131.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU00081T0 | NCU00081 | Neurospora crassa OR74A (finished) DNA topoisomerase 3-bet - 612 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU00081T0	cele|cele_Y56A3A.27	44.82	618	279	62	1	611	54	616	2.6e-56	217.9
+ncra|NCU00081T0	cele|cele_Y48C3A.14	35.54	484	296	16	1	474	55	532	2.2e-32	138.6
+ncra|NCU00081T0	cele|cele_C34D4.11	67.31	52	14	3	474	523	73	123	0.00064	41.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_24296 - 603 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_24296	cele|cele_Y56A3A.27	44.32	607	278	60	1	602	54	605	3.1e-55	214.3
+ndis|NEUDI1_24296	cele|cele_Y48C3A.14	35.54	484	296	16	1	474	55	532	4.7e-32	137.4
+ndis|NEUDI1_24296	cele|cele_C34D4.11	65.38	52	15	3	474	523	73	123	0.0005	41.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_035060 |  Neosartorya fischeri nul - 571 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_035060	cele|cele_Y56A3A.27	47.11	571	280	22	1	565	54	608	5.8e-103	372.8
+nfis|NFIA_035060	cele|cele_Y48C3A.14	34.19	585	346	39	1	565	55	620	1.5e-63	242.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_81659 - 662 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_81659	cele|cele_Y56A3A.27	43.95	669	314	61	1	661	1	616	7.2e-62	236.5
+ntet|NEUTE1_81659	cele|cele_Y48C3A.14	35.12	541	327	24	2	529	3	532	1.3e-35	149.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562369.1| gi|255943201 Pc18g05420 [Penicillium chrysogenum Wisconsi - 628 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002562369.1|	cele|cele_Y56A3A.27	44.16	625	326	23	3	622	2	608	1.1e-102	372.0
+pechr_54_1255|XP_002562369.1|	cele|cele_Y48C3A.14	36.56	599	341	39	1	585	1	574	1.1e-67	255.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_53943|estExt_Genemark1.C_70444 - 1003 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_Y56A3A.27	40.88	773	431	26	1	761	1	759	2.4e-57	222.0
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_Y48C3A.14	33.11	586	361	31	5	576	6	574	7.1e-28	124.3
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_T28F2.8	29.97	357	215	35	610	953	96	430	2.1e-07	55.3
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_ZK643.8	41.83	153	77	12	845	993	77	221	2.1e-06	52.8
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_E02A10.2	40.24	164	65	33	845	1000	60	198	1.5e-05	49.0
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_T05C12.10	26.35	406	250	49	615	996	312	692	2.3e-05	50.0
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_T28C6.1b	39.35	155	82	12	847	995	62	210	3.8e-05	47.2
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_T20B6.3	37.71	175	86	23	835	997	96	259	0.0001	45.6
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_T21G5.3	36.25	160	83	19	817	969	27	174	0.00014	46.8
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_Y43F8C.20	41.18	153	60	30	846	996	22	146	0.00025	44.0
+rgra|t_53943|estExt_Genemark1.C_70444	cele|cele_K08D12.3a	48.39	124	43	21	874	997	6	108	0.00059	42.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03451 | RO3G_03452 | Rhizopus oryzae DNA topoisomeras - 480 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_03451	cele|cele_Y56A3A.27	45.51	479	240	21	4	473	97	563	2e-92	337.5
+rory|RO3T_03451	cele|cele_Y48C3A.14	36.68	488	276	33	8	480	102	571	1.7e-59	228.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YLR234W TOP3 SGDID:S000004224, Chr XII from 609785-611755, Verified ORF, "DNA Topoisomerase III, conserved protein that funct - 656 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YLR234W	cele|cele_Y56A3A.27	39.78	651	344	48	2	651	3	606	1.1e-32	139.5
+scer_s288c|YLR234W	cele|cele_Y48C3A.14	33.92	628	355	60	3	622	5	580	4.4e-22	104.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_14677 | SNOG_14677 | Stagonospora nodorum hypothetical protei - 777 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_14677	cele|cele_Y56A3A.27	43.29	663	315	61	1	660	1	605	2.2e-69	261.6
+snod|SNOT_14677	cele|cele_Y48C3A.14	36.70	545	309	36	2	530	3	527	5.3e-44	177.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC16G5_12c.1 | SPBC16G5_12c | Schizosaccharomyces pombe 972h- DNA topoisomerase II - 622 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPBC16G5_12c.1	cele|cele_Y56A3A.27	41.41	623	348	17	2	619	3	613	4.7e-100	363.2
+spom|SPBC16G5_12c.1	cele|cele_Y48C3A.14	31.42	643	398	43	3	621	5	628	7e-64	243.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00596T0 | SPPG_00596 | Spizellomyces punctatus DAOM BR117 DNA topoisomerase type I - 1080 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_00596T0	cele|cele_Y56A3A.27	38.13	716	400	43	1	698	54	744	4.8e-31	134.8
+spun|SPPG_00596T0	cele|cele_Y48C3A.14	32.38	630	376	50	1	611	55	653	5.1e-21	101.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_10880|e_gw1.3.204.1 - 659 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_10880|e_gw1.3.204.1	cele|cele_Y56A3A.27	41.41	652	349	33	1	638	1	633	1.9e-91	334.7
+sror|t_10880|e_gw1.3.204.1	cele|cele_Y48C3A.14	33.49	633	372	49	5	607	6	619	2.8e-52	204.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_115880|estExt_fgenesh1_pm.C_40636 - 668 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_115880|estExt_fgenesh1_pm.C_40636	cele|cele_Y56A3A.27	43.63	667	311	65	1	661	1	608	4.9e-73	273.6
+sthe|t_115880|estExt_fgenesh1_pm.C_40636	cele|cele_Y48C3A.14	35.66	530	324	17	4	523	5	527	8.8e-45	179.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73248|estExt_fgeneshTM_pg.C_20314 - 1002 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_73248|estExt_fgeneshTM_pg.C_20314	cele|cele_Y56A3A.27	40.32	801	412	66	2	781	3	758	1.1e-57	223.2
+tmes|t_73248|estExt_fgeneshTM_pg.C_20314	cele|cele_Y48C3A.14	34.51	623	361	47	3	608	5	597	2.5e-31	135.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_57488|e_gw1.4.699.1 - 663 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_57488|e_gw1.4.699.1	cele|cele_Y56A3A.27	42.92	671	317	66	2	661	3	618	3.3e-75	280.8
+tree|t_57488|e_gw1.4.699.1	cele|cele_Y48C3A.14	34.64	534	332	17	3	526	5	531	2e-46	185.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_134649|estExt_fgenesh2_pm.C_30608 - 658 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_134649|estExt_fgenesh2_pm.C_30608	cele|cele_Y56A3A.27	45.94	640	305	41	1	634	1	605	1.3e-74	278.8
+tter|t_134649|estExt_fgenesh2_pm.C_30608	cele|cele_Y48C3A.14	33.00	609	362	46	2	600	3	575	3.2e-46	184.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um11929 related to DNA topoisomerase - 986 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um11929	cele|cele_Y56A3A.27	39.18	809	423	69	2	794	3	758	5.5e-42	171.0
+umay|um11929	cele|cele_Y48C3A.14	36.01	597	345	37	3	588	5	575	1e-28	127.0
+umay|um11929	cele|cele_K08D12.3a	37.50	80	45	5	912	986	6	85	7.1e-05	45.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0F22495gT0 gene=YALI0F22495g Ylip_CLIB122_chrF:297400 - 620 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0F22495gT0	cele|cele_Y56A3A.27	38.94	624	353	28	2	617	3	606	2.2e-87	321.1
+ylip|YALI0F22495gT0	cele|cele_Y48C3A.14	33.55	623	362	52	3	601	5	599	2.9e-62	237.9

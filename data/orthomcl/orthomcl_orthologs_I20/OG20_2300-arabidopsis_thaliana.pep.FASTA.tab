@@ -1,0 +1,161 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09421.1 - 2665 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB09421.1	atha|AT1G64790	31.62	2464	1481	204	198	2608	116	2428	4.6e-168	593.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g07960 Afu2g07960 A_fumigatus_Af293 AspGDID: COORDS:chr2:2038988-2047547(+) translated using codon table 1 (2712 amino acids - 2711 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu2g07960	atha|AT1G64790	30.13	2532	1497	272	186	2653	105	2428	2.1e-174	614.3
+afum|Afu2g07960	atha|AT3G25800.2	20.72	502	361	37	1347	1829	88	571	8.2e-05	48.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_12619T0 | AMAG_12619 | Allomyces macrogynus ATCC 38327 predicted protein - 2444 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_12619T0	atha|AT1G64790	31.32	1759	1006	202	798	2433	753	2432	7.3e-108	393.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10734T0 | ANID_10734 | Aspergillus nidulans FGSC A4 60S ribosomal protein L19 - 2672 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_10734T0	atha|AT1G64790	30.76	2497	1489	240	185	2614	105	2428	2.8e-159	564.0
+anid|ANID_10734T0	atha|AT4G27640	19.78	1087	726	146	1314	2331	33	1042	0.00077	46.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07045 | BC1G_07045 | Botrytis cinerea hypothetical protein similar to translational activator - 2673 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_07045	atha|AT1G64790	31.78	2461	1459	220	196	2604	121	2413	5.5e-169	596.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5328 |  Candida Albicans sc5314 assembly 21 orf19.5328 - 2419 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.5328	atha|AT1G64790	29.90	2391	1379	297	164	2350	106	2403	1.3e-117	425.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04839 | PGUG_04839 | Candida guilliermondii hypothetical protein - 2666 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_04839	atha|AT1G64790	29.60	2578	1541	274	96	2586	9	2399	2.2e-171	604.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00911T0 | CIMG_00911 | Coccidioides immitis RS 60S ribosomal protein L19 - 2676 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_00911T0	atha|AT1G64790	30.76	2409	1479	189	225	2594	141	2399	2.2e-173	610.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03748T0 | CNAG_03748 | Cryptococcus neoformans grubii H99 60S ribosomal protein L19 - 2606 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_03748T0	atha|AT1G64790	33.05	2203	1323	152	369	2516	127	2232	4e-172	606.7
+cneo_h99|CNAG_03748T0	atha|AT3G25800.2	20.26	380	284	19	1525	1896	202	570	6e-08	59.2
+cneo_h99|CNAG_03748T0	atha|AT1G13320.2	20.26	380	284	19	1525	1896	202	570	9.4e-08	58.6
+cneo_h99|CNAG_03748T0	atha|AT1G25490	21.34	478	333	43	1433	1903	121	562	9.4e-08	58.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_148849|e_gw1.08.1.1 - 2218 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_148849|e_gw1.08.1.1	atha|AT1G64790	34.66	2239	1211	252	27	2213	129	2167	1.3e-168	594.8
+mcin|t_148849|e_gw1.08.1.1	atha|AT1G13320.2	18.86	546	403	40	1118	1647	54	575	4.5e-06	52.8
+mcin|t_148849|e_gw1.08.1.1	atha|AT3G25800.2	23.63	364	243	35	1623	1971	239	582	6.1e-06	52.3
+mcin|t_148849|e_gw1.08.1.1	atha|AT1G25490	20.97	453	321	37	1182	1624	156	581	7.2e-06	52.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04710T0 | MGG_04710 | Magnaporthe grisea (M. oryzae) 70-15 translational activator GCN1 - 2678 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_04710T0	atha|AT1G64790	30.77	2460	1480	223	195	2600	116	2406	2.2e-188	660.7
+mgri|MGG_04710T0	atha|AT1G25490	23.28	421	283	40	1666	2064	1	403	4.7e-06	53.0
+mgri|MGG_04710T0	atha|AT1G13320.2	22.33	506	351	42	1335	1822	61	542	0.00019	47.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_116468|estExt_fgenesh2_pg.C_180055 - 2583 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	atha|AT1G64790	32.39	2331	1378	198	213	2480	18	2213	3.3e-211	736.5
+mlar|t_116468|estExt_fgenesh2_pg.C_180055	atha|AT3G25800.2	20.67	537	375	51	1294	1811	7	511	0.00064	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05803T0 | NCU05803 | Neurospora crassa OR74A (finished) translational activator - 2692 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU05803T0	atha|AT1G64790	30.77	2467	1491	217	202	2620	116	2413	8.6e-192	672.0
+ncra|NCU05803T0	atha|AT2G01690.1	19.50	518	357	60	1910	2405	1	480	0.00027	47.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_101235 - 2670 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_101235	atha|AT1G64790	30.57	2437	1491	201	212	2598	128	2413	7.3e-192	672.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_083650 |  Neosartorya fischeri null - 2673 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_083650	atha|AT1G64790	30.60	2484	1491	233	193	2615	117	2428	3.4e-164	580.3
+nfis|NFIA_083650	atha|AT3G25800.2	21.47	503	356	39	1328	1810	88	571	6.2e-05	49.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_67967 - 2691 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_67967	atha|AT1G64790	30.50	2469	1495	221	201	2619	116	2413	1.5e-194	681.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002558924.1| gi|255935795 Pc13g04890 [Penicillium chrysogenum Wisconsi - 2596 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002558924.1|	atha|AT1G64790	30.35	2580	1564	233	14	2539	28	2428	2.6e-165	584.0
+pechr_54_1255|XP_002558924.1|	atha|AT3G25800.2	22.13	592	396	65	1600	2175	11	553	3.3e-05	50.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_40719|gm1.284_g - 2597 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_40719|gm1.284_g	atha|AT1G64790	34.67	1872	1096	127	708	2541	494	2276	4.7e-218	759.2
+rgra|t_40719|gm1.284_g	atha|AT1G13320.2	25.12	406	257	47	1331	1719	202	577	2.2e-07	57.3
+rgra|t_40719|gm1.284_g	atha|AT1G25490	23.29	438	289	47	1306	1722	169	580	4.9e-07	56.2
+rgra|t_40719|gm1.284_g	atha|AT3G25800.2	22.36	501	343	46	1344	1827	95	566	1.8e-05	51.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_09453 | RO3G_09454 | Rhizopus oryzae hypothetical protein - 2269 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_09453	atha|AT1G64790	33.04	2240	1293	207	77	2264	83	2167	2.4e-137	490.9
+rory|RO3T_09453	atha|AT1G13320.2	20.23	519	365	49	1161	1653	36	531	5.1e-06	52.6
+rory|RO3T_09453	atha|AT3G25800.2	20.54	336	237	30	1335	1653	209	531	5.9e-06	52.4
+rory|RO3T_09453	atha|AT1G25490	23.33	330	232	21	1300	1619	220	538	7.3e-05	48.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YGL195W GCN1 SGDID:S000003163, Chr VII from 131531-139549, Verified ORF, "Positive regulator of the Gcn2p kinase activity, fo - 2672 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YGL195W	atha|AT1G64790	30.99	2420	1457	213	230	2587	133	2401	2.5e-200	700.4
+scer_s288c|YGL195W	atha|AT3G25800.2	22.46	610	415	58	1158	1748	6	576	2.8e-05	50.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_03050 | SNOG_03050 | Stagonospora nodorum hypothetical protein - 2683 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_03050	atha|AT1G64790	31.48	2487	1472	232	198	2626	116	2428	1.9e-163	577.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC18G6_05c.1 | SPAC18G6_05c | Schizosaccharomyces pombe 972h- translation elongation regulator Gcn1 (predicted) - 2670 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC18G6_05c.1	atha|AT1G64790	31.28	2513	1475	252	180	2623	99	2428	1.2e-173	611.7
+spom|SPAC18G6_05c.1	atha|AT1G13320.2	23.68	473	315	46	1209	1668	141	580	1.9e-05	50.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00147T0 | SPPG_00147 | Spizellomyces punctatus DAOM BR117 translational activator gcn1 - 2790 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_00147T0	atha|AT1G64790	43.73	1612	841	66	1195	2788	871	2434	0	850.9
+spun|SPPG_00147T0	atha|AT3G25800.2	21.09	607	402	77	1317	1914	4	542	1.1e-09	65.1
+spun|SPPG_00147T0	atha|AT1G13320.2	20.99	505	370	29	1459	1948	87	577	1.5e-09	64.7
+spun|SPPG_00147T0	atha|AT1G25490	20.16	506	372	32	1433	1923	63	551	6.8e-09	62.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_20913|estExt_Genewise1Plus.C_20699 - 2340 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_20913|estExt_Genewise1Plus.C_20699	atha|AT1G64790	33.12	2138	1265	165	167	2259	226	2243	1.7e-205	717.4
+sror|t_20913|estExt_Genewise1Plus.C_20699	atha|AT1G13320.2	21.80	477	328	45	1113	1576	122	566	2.4e-05	50.4
+sror|t_20913|estExt_Genewise1Plus.C_20699	atha|AT3G25800.2	22.64	477	334	35	1111	1576	114	566	3.8e-05	49.8
+sror|t_20913|estExt_Genewise1Plus.C_20699	atha|AT1G25490	21.35	445	309	41	1192	1626	151	564	0.00015	47.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_116146|estExt_fgenesh1_pm.C_50066 - 2591 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_116146|estExt_fgenesh1_pm.C_50066	atha|AT1G64790	30.84	2571	1552	226	15	2522	8	2415	5.3e-170	599.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73934|estExt_fgeneshTM_pg.C_50436 - 2563 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	atha|AT1G64790	34.57	1987	1159	141	513	2449	315	2210	3.2e-209	729.9
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	atha|AT3G25800.2	20.10	418	312	22	1394	1803	122	525	4e-08	59.8
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	atha|AT1G13320.2	20.44	450	335	23	1362	1803	91	525	6.4e-08	59.1
+tmes|t_73934|estExt_fgeneshTM_pg.C_50436	atha|AT1G25490	20.81	471	339	34	1389	1854	121	562	6.4e-08	59.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_65242|e_gw1.16.275.1 - 2839 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_65242|e_gw1.16.275.1	atha|AT1G64790	31.08	2455	1465	227	161	2555	128	2415	1.9e-161	571.3
+tree|t_65242|e_gw1.16.275.1	atha|AT4G02230	67.05	176	58	0	2651	2826	1	176	3.3e-48	191.6
+tree|t_65242|e_gw1.16.275.1	atha|AT1G02780	65.91	176	60	0	2651	2826	1	176	7.1e-47	187.2
+tree|t_65242|e_gw1.16.275.1	atha|AT3G16780	65.34	176	61	0	2651	2826	1	176	1.1e-46	186.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_135763|estExt_fgenesh2_pm.C_50697 - 2669 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_135763|estExt_fgenesh2_pm.C_50697	atha|AT1G64790	31.02	2447	1465	223	193	2581	116	2397	1.9e-196	687.5
+tter|t_135763|estExt_fgenesh2_pm.C_50697	atha|AT1G25490	23.00	387	264	34	1442	1812	174	542	0.00011	48.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04443 related to translation activator GCN1 - 2660 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um04443	atha|AT1G64790	32.40	2213	1273	223	330	2510	178	2199	1.8e-186	654.4
+umay|um04443	atha|AT3G25800.2	21.91	429	307	28	1415	1830	118	531	7.2e-05	49.0
+umay|um04443	atha|AT1G13320.2	21.68	429	308	28	1415	1830	118	531	9.6e-05	48.6
+umay|um04443	atha|AT1G25490	22.19	374	267	24	1473	1837	180	538	0.00053	46.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D17732gT0 gene=YALI0D17732g Ylip_CLIB122_chrD:join(2174439..2174522,2174966 - 2524 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0D17732gT0	atha|AT1G64790	30.07	2398	1474	203	176	2464	100	2403	9.6e-146	519.0
+ylip|YALI0D17732gT0	atha|AT3G25800.2	22.93	410	275	41	1486	1889	213	587	2.7e-05	50.4
+ylip|YALI0D17732gT0	atha|AT1G13320.2	24.11	593	342	108	1317	1889	83	587	0.00018	47.6
+ylip|YALI0D17732gT0	atha|AT1G25490	20.76	342	241	30	1356	1684	239	563	0.00018	47.6

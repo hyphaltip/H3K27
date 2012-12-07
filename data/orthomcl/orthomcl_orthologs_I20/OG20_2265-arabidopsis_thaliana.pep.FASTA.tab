@@ -1,0 +1,149 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02264.1 - 1054 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB02264.1	atha|AT1G17760	23.33	793	445	163	261	1033	25	674	7.1e-14	77.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g11020 Afu3g11020 A_fumigatus_Af293 AspGDID: COORDS:chr3:2875546-2878801(-) translated using codon table 1 (1030 amino acids - 1029 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu3g11020	atha|AT1G17760	26.13	754	408	149	286	1021	25	647	3.3e-21	102.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_13673T0 | AMAG_13673 | Allomyces macrogynus ATCC 38327 predicted protei - 604 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_13673T0	atha|AT1G17760	25.98	331	237	8	48	377	3	326	4e-26	117.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04892T0 | ANID_04892 | Aspergillus nidulans FGSC A4 mRNA 3'-end-processing protein rna14 - 1075 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_04892T0	atha|AT1G17760	24.90	751	430	134	272	1005	22	655	1.7e-21	103.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_06941 | BC1G_06941 | Botrytis cinerea mRNA 3'-end-processing protein rna-14 - 1119 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_06941	atha|AT1G17760	24.53	852	483	160	247	1082	25	732	8.3e-13	74.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1531 |  Candida Albicans sc5314 assembly 21 orf19.153 - 791 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.1531	atha|AT1G17760	26.61	327	222	18	48	370	24	336	2.8e-14	78.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_05272 | PGUG_05272 | Candida guilliermondii hypothetical protei - 725 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_05272	atha|AT1G17760	22.54	701	412	131	46	724	24	615	1.9e-21	102.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03795T0 | CIMG_03795 | Coccidioides immitis RS mRNA 3'-end-processing protein rna14 - 1088 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_03795T0	atha|AT1G17760	25.52	768	421	151	346	1082	11	658	4.2e-23	108.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03761T0 | CNAG_03761 | Cryptococcus neoformans grubii H99 mRNA 3'-end-processing protein RNA14 - 1066 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_03761T0	atha|AT1G17760	28.01	689	380	116	293	957	20	616	8.4e-10	64.4
+cneo_h99|CNAG_03761T0	atha|AT1G31810	30.09	216	117	34	830	1043	547	730	8.4e-05	48.5
+cneo_h99|CNAG_03761T0	atha|AT4G13340	29.89	184	119	10	867	1046	431	608	0.00026	46.3
+cneo_h99|CNAG_03761T0	atha|AT2G27380	28.95	190	118	17	867	1045	259	442	0.0004	45.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_116957|gw1.13.4.1 - 596 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_116957|gw1.13.4.1	atha|AT1G17760	30.00	570	315	84	25	587	3	495	1.1e-21	103.0
+mcin|t_116957|gw1.13.4.1	atha|AT5G45990	22.22	450	306	44	32	458	149	577	0.0004	44.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03265T0 | MGG_03265 | Magnaporthe grisea (M. oryzae) 70-15 mRNA 3'-end-processing protein rna-14 - 1057 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_03265T0	atha|AT1G17760	23.37	826	489	144	197	1004	22	721	6.1e-13	74.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_78502|estExt_fgenesh1_pg.C_330108 - 1163 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_78502|estExt_fgenesh1_pg.C_330108	atha|AT1G17760	26.63	766	451	111	368	1133	11	665	4.5e-10	65.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU09435T0 | NCU09435 | Neurospora crassa OR74A (finished) mRNA 3'-end-processing protein RNA-14 - 1167 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU09435T0	atha|AT1G17760	26.75	628	335	125	273	888	15	529	1.3e-09	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_100237 - 1148 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_100237	atha|AT1G17760	27.55	628	330	125	256	871	15	529	5.9e-11	68.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_066240 |  Neosartorya fischeri null - 1069 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_066240	atha|AT1G17760	25.73	754	419	141	283	1014	22	656	7.1e-21	101.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_85042 - 1139 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_85042	atha|AT1G17760	26.75	628	335	125	252	867	15	529	2.5e-11	69.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002559349.1| gi|255936645 Pc13g09250 [Penicillium chrysogenum Wisconsi - 1026 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002559349.1|	atha|AT1G17760	25.42	775	430	148	276	1023	11	664	1.7e-22	106.6
+pechr_54_1255|XP_002559349.1|	atha|AT4G24270.1	22.17	230	166	13	225	442	14	242	0.00017	46.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_34277|estExt_Genewise1Plus.C_3_t10190 - 653 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_34277|estExt_Genewise1Plus.C_3_t10190	atha|AT1G17760	31.03	522	310	50	133	644	28	509	1.8e-17	89.2
+rgra|t_34277|estExt_Genewise1Plus.C_3_t10190	atha|AT1G04080	21.98	678	432	97	15	620	6	658	9.9e-06	50.2
+rgra|t_34277|estExt_Genewise1Plus.C_3_t10190	atha|AT4G03430	22.85	512	333	62	104	595	505	974	0.00062	44.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_11735 | RO3G_11736 | Rhizopus oryzae hypothetical protei - 690 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_11735	atha|AT1G17760	27.99	693	371	128	1	667	144	734	1.2e-12	73.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YMR061W RNA14 SGDID:S000004665, Chr XIII from 392754-394787, Verified ORF, "Cleavage and polyadenylation factor I (CF I) comp - 677 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YMR061W	atha|AT1G17760	24.76	521	331	61	59	567	23	494	4.6e-12	71.3
+scer_s288c|YMR061W	atha|AT4G24270.1	19.62	581	409	58	13	573	35	577	2.2e-07	55.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_12155 | SNOG_12155 | Stagonospora nodorum hypothetical protein - 1032 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_12155	atha|AT1G17760	23.27	735	422	142	260	971	25	640	1.3e-12	73.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC6F12_17.1 | SPAC6F12_17 | Schizosaccharomyces pombe 972h- mRNA cleavage and polyadenylation specificity factor complex subunit  - 733 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC6F12_17.1	atha|AT1G17760	29.09	660	375	93	94	716	29	632	4.7e-35	147.8
+spom|SPAC6F12_17.1	atha|AT4G24270.1	20.89	694	444	105	2	652	11	642	3e-06	52.2
+spom|SPAC6F12_17.1	atha|AT3G11964	22.41	290	195	30	298	570	1552	1828	0.0003	46.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04928T0 | SPPG_04928 | Spizellomyces punctatus DAOM BR117 mRNA 3'-end-processing protein RNA1 - 926 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_04928T0	atha|AT1G17760	29.63	847	437	159	89	924	13	711	7.5e-27	120.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_11784|e_gw1.4.135.1 - 632 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_11784|e_gw1.4.135.1	atha|AT1G17760	32.86	493	279	52	134	626	28	468	1e-13	76.6
+sror|t_11784|e_gw1.4.135.1	atha|AT4G24270.1	21.84	577	401	50	63	625	17	557	2.1e-06	52.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_108680|estExt_fgenesh1_pg.C_60451 - 1109 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT1G17760	25.15	823	442	174	219	1024	13	678	4.2e-10	65.5
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT1G59910	26.41	284	175	34	839	1105	176	442	4.8e-05	49.0
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT3G19020	25.53	329	208	37	793	1108	465	769	0.00017	47.2
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT1G61080	39.50	119	50	22	1010	1108	480	596	0.00022	46.8
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT5G58160	28.42	366	189	73	780	1108	464	793	0.00046	46.2
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT2G43150	33.58	137	63	28	984	1108	40	160	0.00052	43.5
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT4G13390	26.41	337	191	57	810	1109	19	335	0.00059	44.3
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT4G33970	27.63	228	136	29	891	1108	391	599	0.00064	44.9
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT4G08400	24.33	337	200	55	791	1109	62	361	0.00067	44.4
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT5G45350	48.86	88	33	12	1029	1107	12	96	0.0007	42.8
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT1G23720	24.78	343	207	51	796	1109	91	411	0.00083	44.9
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT1G23720	27.40	281	151	53	843	1109	574	815	0.0005	45.6
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT5G54650.1	25.16	318	198	40	818	1108	126	430	0.0009	44.7
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT4G08410	26.69	311	166	62	813	1109	43	305	0.00091	44.4
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	atha|AT4G03120	35.46	141	69	22	976	1106	56	184	0.00092	42.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73949|estExt_fgeneshTM_pg.C_50473 - 1067 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_73949|estExt_fgeneshTM_pg.C_50473	atha|AT1G17760	26.33	809	482	114	266	1046	3	725	1.7e-07	56.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3803|fgenesh1_pm.C_scaffold_8000170 - 991 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_3803|fgenesh1_pm.C_scaffold_8000170	atha|AT1G17760	24.97	733	405	145	182	898	13	616	3.1e-20	99.0
+tree|t_3803|fgenesh1_pm.C_scaffold_8000170	atha|AT4G24270.1	23.43	239	165	18	120	346	10	242	2.1e-05	49.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_136446|estExt_fgenesh2_pm.C_70400 - 1024 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_136446|estExt_fgenesh2_pm.C_70400	atha|AT1G17760	24.63	804	448	158	174	963	13	672	2.5e-13	76.1
+tter|t_136446|estExt_fgenesh2_pm.C_70400	atha|AT4G24270.1	21.16	449	290	64	115	543	20	424	2.7e-06	52.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um02055 related to RNA14 - component of pre-mRNA 3`-end processing f - 945 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um02055	atha|AT1G17760	26.58	760	418	140	198	937	6	645	5.7e-17	88.1
+umay|um02055	atha|AT5G63740	45.00	80	43	1	39	118	60	138	1.3e-05	48.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D18612gT0 gene=YALI0D18612g Ylip_CLIB122_chrD:232940 - 806 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0D18612gT0	atha|AT1G17760	31.23	506	302	46	225	718	24	495	2.2e-11	69.2
+ylip|YALI0D18612gT0	atha|AT4G24270.1	21.03	680	455	82	152	798	19	649	7.6e-08	57.7

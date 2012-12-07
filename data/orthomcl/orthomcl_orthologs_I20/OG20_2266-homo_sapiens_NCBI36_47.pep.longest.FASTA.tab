@@ -1,0 +1,227 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02571.1 - 374 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB02571.1	hsap|hsap_ENST00000302746	62.31	329	122	2	47	374	32	359	8.4e-87	317.4
+abra|AB02571.1	hsap|hsap_ENST00000356489	33.69	371	233	13	3	372	32	390	6.4e-38	155.2
+abra|AB02571.1	hsap|hsap_ENST00000369915	27.36	296	172	43	41	323	283	548	1.5e-05	48.3
+abra|AB02571.1	hsap|hsap_ENST00000280605	24.58	297	179	45	41	323	313	578	0.00014	45.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g04170 Afu3g04170 A_fumigatus_Af293 AspGDID: COORDS:chr3:1175521-1176878(+) translated using codon table 1 (378 amino acids) - 377 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu3g04170	hsap|hsap_ENST00000302746	61.81	343	129	2	36	377	18	359	1.3e-90	330.1
+afum|Afu3g04170	hsap|hsap_ENST00000356489	35.06	348	217	9	9	352	27	369	2e-38	156.9
+afum|Afu3g04170	hsap|hsap_ENST00000369915	26.13	287	185	27	50	330	288	553	2.6e-07	54.1
+afum|Afu3g04170	hsap|hsap_ENST00000280605	23.96	288	194	25	43	326	312	578	4.3e-06	50.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_06839T0 | AMAG_06839 | Allomyces macrogynus ATCC 38327 pyruvate dehydrogenase beta subuni - 365 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_06839T0	hsap|hsap_ENST00000302746	67.73	344	107	4	11	354	11	350	9.1e-106	380.4
+amac|AMAG_06839T0	hsap|hsap_ENST00000356489	35.78	327	199	11	35	359	70	387	1.6e-38	157.2
+amac|AMAG_06839T0	hsap|hsap_ENST00000369915	26.76	299	176	43	33	317	286	555	1.3e-06	51.8
+amac|AMAG_06839T0	hsap|hsap_ENST00000280605	24.86	370	227	51	10	363	292	626	5e-06	49.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_09403T0 | ANID_09403 | Aspergillus nidulans FGSC A4 pyruvate dehydrogenase E1 beta subunit Pdb - 375 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_09403T0	hsap|hsap_ENST00000302746	62.68	343	126	2	34	375	18	359	1.1e-92	337.0
+anid|ANID_09403T0	hsap|hsap_ENST00000356489	36.16	307	189	7	46	350	68	369	4.7e-38	155.6
+anid|ANID_09403T0	hsap|hsap_ENST00000369915	25.08	331	211	37	12	328	246	553	5.1e-07	53.2
+anid|ANID_09403T0	hsap|hsap_ENST00000280605	21.98	323	222	30	12	324	276	578	8.7e-06	49.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_08794 | BC1G_08794 | Botrytis cinerea pyruvate dehydrogenase E1 component beta subuni - 372 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_08794	hsap|hsap_ENST00000302746	61.09	329	126	2	45	372	32	359	3.4e-92	335.4
+bcin|BC1T_08794	hsap|hsap_ENST00000356489	32.88	368	232	15	5	370	36	390	1.4e-38	157.4
+bcin|BC1T_08794	hsap|hsap_ENST00000369915	25.09	283	185	27	49	325	292	553	1.1e-07	55.3
+bcin|BC1T_08794	hsap|hsap_ENST00000280605	24.07	270	183	22	55	321	328	578	2.9e-06	50.7
+bcin|BC1T_08794	hsap|hsap_ENST00000296289	24.17	302	202	27	49	344	318	598	8.4e-05	45.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5294 |  Candida Albicans sc5314 assembly 21 orf19.529 - 379 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.5294	hsap|hsap_ENST00000302746	63.83	329	118	1	51	379	32	359	5e-95	344.8
+calb_sc5314|orf19.5294	hsap|hsap_ENST00000356489	33.53	331	210	10	50	378	69	391	3.3e-37	152.9
+calb_sc5314|orf19.5294	hsap|hsap_ENST00000369915	25.25	297	197	25	86	377	318	594	1.8e-07	54.7
+calb_sc5314|orf19.5294	hsap|hsap_ENST00000280605	24.90	241	164	17	92	329	354	580	3e-07	54.0
+calb_sc5314|orf19.5294	hsap|hsap_ENST00000296289	24.29	350	224	41	40	378	302	621	2.8e-05	47.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03763 | PGUG_03763 | Candida guilliermondii conserved hypothetical protei - 407 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_03763	hsap|hsap_ENST00000302746	63.04	349	125	4	62	407	12	359	8e-99	357.5
+cgui|PGUT_03763	hsap|hsap_ENST00000356489	36.36	330	200	10	78	405	69	390	4.2e-40	162.6
+cgui|PGUT_03763	hsap|hsap_ENST00000369915	26.69	251	159	25	114	357	318	550	3.2e-07	53.9
+cgui|PGUT_03763	hsap|hsap_ENST00000280605	27.64	246	135	43	128	357	362	580	7.6e-07	52.8
+cgui|PGUT_03763	hsap|hsap_ENST00000296289	22.62	336	220	40	80	405	315	620	0.0005	43.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_08468T0 | CIMG_08468 | Coccidioides immitis RS pyruvate dehydrogenase E1 componen - 377 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_08468T0	hsap|hsap_ENST00000302746	60.68	351	136	2	28	377	10	359	2.8e-97	352.3
+cimm_rs|CIMG_08468T0	hsap|hsap_ENST00000356489	34.56	353	212	19	17	355	25	372	6.9e-41	165.1
+cimm_rs|CIMG_08468T0	hsap|hsap_ENST00000369915	24.92	321	197	44	50	359	288	575	4.6e-07	53.3
+cimm_rs|CIMG_08468T0	hsap|hsap_ENST00000280605	22.26	301	211	23	29	326	298	578	5.7e-05	46.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_05059T0 | CNAG_05059 | Cryptococcus neoformans grubii H99 pyruvate dehydrogenase e1 component beta subuni - 384 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_05059T0	hsap|hsap_ENST00000302746	58.07	353	128	20	45	381	9	357	1.3e-75	280.3
+cneo_h99|CNAG_05059T0	hsap|hsap_ENST00000356489	32.83	332	192	31	69	381	71	390	2.5e-28	123.4
+cneo_h99|CNAG_05059T0	hsap|hsap_ENST00000369915	25.97	231	149	22	107	333	338	550	3.7e-06	50.3
+cneo_h99|CNAG_05059T0	hsap|hsap_ENST00000280605	24.75	295	192	30	46	333	309	580	2.2e-05	47.8
+cneo_h99|CNAG_05059T0	hsap|hsap_ENST00000296289	26.27	236	144	30	107	332	364	579	0.00028	44.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA - 373 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	hsap|hsap_ENST00000302746	63.42	339	122	2	32	368	20	358	3.7e-98	355.2
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	hsap|hsap_ENST00000356489	34.64	358	217	17	3	356	35	379	7.4e-41	165.0
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	hsap|hsap_ENST00000280605	26.62	293	191	24	40	327	316	589	1.2e-08	58.6
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	hsap|hsap_ENST00000296289	25.08	331	217	31	40	364	312	617	2.1e-07	54.5
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	hsap|hsap_ENST00000369915	26.19	294	191	26	40	327	286	559	2.8e-07	54.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_10569T0 | MGG_10569 | Magnaporthe grisea (M. oryzae) 70-15 pyruvate dehydrogenase E1 component subunit bet - 383 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_10569T0	hsap|hsap_ENST00000302746	62.93	321	117	2	49	368	25	344	1.1e-89	327.1
+mgri|MGG_10569T0	hsap|hsap_ENST00000356489	33.94	330	209	9	54	381	68	390	6.5e-36	148.6
+mgri|MGG_10569T0	hsap|hsap_ENST00000369915	25.52	384	228	58	2	365	230	575	2.2e-06	51.1
+mgri|MGG_10569T0	hsap|hsap_ENST00000280605	24.46	323	214	30	66	382	328	626	1.9e-05	48.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_49370|estExt_Genewise1Plus.C_330041 - 400 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_49370|estExt_Genewise1Plus.C_330041	hsap|hsap_ENST00000302746	62.65	340	126	1	58	397	19	357	1.4e-95	346.7
+mlar|t_49370|estExt_Genewise1Plus.C_330041	hsap|hsap_ENST00000356489	36.45	321	193	11	68	385	66	378	2e-36	150.3
+mlar|t_49370|estExt_Genewise1Plus.C_330041	hsap|hsap_ENST00000369915	23.71	350	236	31	9	349	223	550	1.4e-06	51.7
+mlar|t_49370|estExt_Genewise1Plus.C_330041	hsap|hsap_ENST00000280605	22.64	349	241	29	9	349	253	580	1.7e-05	48.3
+mlar|t_49370|estExt_Genewise1Plus.C_330041	hsap|hsap_ENST00000296289	22.08	385	267	33	18	394	258	617	0.00079	42.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU03004T0 | NCU03004 | Neurospora crassa OR74A (finished) pyruvate dehydrogenase E1 componen - 379 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU03004T0	hsap|hsap_ENST00000302746	61.59	328	123	3	37	363	19	344	2.4e-93	339.2
+ncra|NCU03004T0	hsap|hsap_ENST00000356489	34.76	351	212	17	4	353	35	369	6.6e-37	151.8
+ncra|NCU03004T0	hsap|hsap_ENST00000369915	26.25	339	198	52	16	335	250	555	3.6e-06	50.4
+ncra|NCU03004T0	hsap|hsap_ENST00000280605	23.76	362	244	32	23	377	290	626	1.4e-05	48.4
+ncra|NCU03004T0	hsap|hsap_ENST00000296289	26.24	343	199	54	25	350	293	598	0.0002	44.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_80756 - 379 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_80756	hsap|hsap_ENST00000302746	62.35	332	121	4	34	363	15	344	4e-92	335.1
+ndis|NEUDI1_80756	hsap|hsap_ENST00000356489	34.76	351	212	17	4	353	35	369	2.6e-36	149.9
+ndis|NEUDI1_80756	hsap|hsap_ENST00000369915	25.38	331	211	36	16	335	250	555	2.4e-06	50.9
+ndis|NEUDI1_80756	hsap|hsap_ENST00000280605	24.31	362	242	32	23	377	290	626	1.1e-05	48.8
+ndis|NEUDI1_80756	hsap|hsap_ENST00000296289	26.35	334	196	50	34	350	298	598	4.8e-05	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_006440 |  Neosartorya fischeri nul - 377 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_006440	hsap|hsap_ENST00000302746	62.39	343	127	2	36	377	18	359	2.5e-91	332.5
+nfis|NFIA_006440	hsap|hsap_ENST00000356489	35.06	348	217	9	9	352	27	369	2.1e-38	156.8
+nfis|NFIA_006440	hsap|hsap_ENST00000369915	26.13	287	185	27	50	330	288	553	2.9e-07	54.0
+nfis|NFIA_006440	hsap|hsap_ENST00000280605	23.96	288	194	25	43	326	312	578	4.8e-06	50.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_92673 - 379 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_92673	hsap|hsap_ENST00000302746	62.35	332	121	4	34	363	15	344	1.2e-93	340.2
+ntet|NEUTE1_92673	hsap|hsap_ENST00000356489	34.76	351	212	17	4	353	35	369	8e-37	151.6
+ntet|NEUTE1_92673	hsap|hsap_ENST00000369915	26.55	339	197	52	16	335	250	555	2.6e-06	50.8
+ntet|NEUTE1_92673	hsap|hsap_ENST00000280605	24.03	362	243	32	23	377	290	626	7.2e-06	49.4
+ntet|NEUTE1_92673	hsap|hsap_ENST00000296289	26.53	343	198	54	25	350	293	598	0.00014	45.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002560063.1| gi|255938586 Pc14g00690 [Penicillium chrysogenum Wisconsi - 365 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002560063.1|	hsap|hsap_ENST00000302746	60.29	340	122	13	38	365	21	359	3.3e-60	229.1
+pechr_54_1255|XP_002560063.1|	hsap|hsap_ENST00000356489	34.97	306	183	16	47	340	68	369	3.1e-25	113.0
+pechr_54_1255|XP_002560063.1|	hsap|hsap_ENST00000369915	27.50	280	179	24	49	318	288	553	7.2e-11	65.9
+pechr_54_1255|XP_002560063.1|	hsap|hsap_ENST00000280605	26.60	282	183	24	42	314	312	578	2.6e-09	60.8
+pechr_54_1255|XP_002560063.1|	hsap|hsap_ENST00000296289	24.78	335	212	40	44	363	310	619	2.2e-06	51.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_66084|estExt_fgenesh1_kg.C_30024 - 329 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	hsap|hsap_ENST00000302746	66.56	326	108	1	1	326	33	357	1.1e-98	356.8
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	hsap|hsap_ENST00000356489	37.42	318	187	12	1	315	71	379	5.5e-40	161.9
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	hsap|hsap_ENST00000369915	27.49	251	157	25	35	278	318	550	1.1e-07	55.2
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	hsap|hsap_ENST00000280605	28.74	247	147	29	41	278	354	580	2.9e-07	53.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14406 | RO3G_14407 | Rhizopus oryzae hypothetical protei - 363 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_14406	hsap|hsap_ENST00000302746	63.13	339	122	3	23	358	20	358	5.7e-100	361.2
+rory|RO3T_14406	hsap|hsap_ENST00000356489	36.07	366	216	18	1	358	36	391	5.8e-43	171.9
+rory|RO3T_14406	hsap|hsap_ENST00000280605	24.35	345	233	28	11	350	297	618	6.6e-09	59.5
+rory|RO3T_14406	hsap|hsap_ENST00000369915	24.50	347	231	31	14	354	270	591	3.4e-07	53.7
+rory|RO3T_14406	hsap|hsap_ENST00000296289	25.30	336	220	31	30	359	312	622	4.2e-07	53.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YBR221C PDB1 SGDID:S000000425, Chr II from 666248-665148, reverse complement, Verified ORF, "E1 beta subunit of the pyruvate  - 366 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YBR221C	hsap|hsap_ENST00000302746	62.20	328	122	2	39	365	33	359	5e-94	341.4
+scer_s288c|YBR221C	hsap|hsap_ENST00000356489	33.43	362	230	11	6	364	38	391	1.4e-42	170.7
+scer_s288c|YBR221C	hsap|hsap_ENST00000369915	25.41	307	183	46	73	363	318	594	4.8e-05	46.6
+scer_s288c|YBR221C	hsap|hsap_ENST00000280605	26.19	294	169	48	87	363	362	624	5e-05	46.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_08442 | SNOG_08442 | Stagonospora nodorum predicted protei - 368 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_08442	hsap|hsap_ENST00000302746	61.40	329	125	2	40	367	32	359	1.1e-90	330.4
+snod|SNOT_08442	hsap|hsap_ENST00000356489	33.97	368	229	14	3	365	32	390	1.1e-39	161.0
+snod|SNOT_08442	hsap|hsap_ENST00000369915	28.04	296	170	43	34	316	283	548	1e-06	52.1
+snod|SNOT_08442	hsap|hsap_ENST00000280605	25.25	297	177	45	34	316	313	578	1.3e-05	48.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC30D10_13c.1 | SPBC30D10_13c | Schizosaccharomyces pombe 972h- pyruvate dehydrogenase e1 component beta subunit Pdb - 366 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPBC30D10_13c.1	hsap|hsap_ENST00000302746	59.83	351	140	1	15	365	10	359	6e-92	334.5
+spom|SPBC30D10_13c.1	hsap|hsap_ENST00000356489	35.02	317	198	8	36	351	69	378	1.6e-36	150.5
+spom|SPBC30D10_13c.1	hsap|hsap_ENST00000369915	27.54	345	197	53	37	365	288	595	5.9e-08	56.2
+spom|SPBC30D10_13c.1	hsap|hsap_ENST00000280605	28.83	274	151	44	78	337	354	597	1.9e-07	54.6
+spom|SPBC30D10_13c.1	hsap|hsap_ENST00000296289	25.48	314	192	42	37	337	314	598	3.3e-05	47.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07465T0 | SPPG_07465 | Spizellomyces punctatus DAOM BR117 pyruvate dehydrogenase E1 componen - 363 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_07465T0	hsap|hsap_ENST00000302746	66.94	363	113	7	1	361	1	358	9.3e-106	380.4
+spun|SPPG_07465T0	hsap|hsap_ENST00000356489	36.01	336	196	19	33	361	68	391	2.4e-40	163.2
+spun|SPPG_07465T0	hsap|hsap_ENST00000369915	29.70	266	148	39	70	320	318	559	1.5e-08	58.2
+spun|SPPG_07465T0	hsap|hsap_ENST00000280605	26.92	260	151	39	76	320	354	589	3e-07	53.9
+spun|SPPG_07465T0	hsap|hsap_ENST00000296289	25.40	315	200	35	35	339	314	603	0.00033	43.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_21696|estExt_Genewise1Plus.C_40315 - 337 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_21696|estExt_Genewise1Plus.C_40315	hsap|hsap_ENST00000302746	65.57	334	106	9	1	334	33	357	3.4e-69	258.8
+sror|t_21696|estExt_Genewise1Plus.C_40315	hsap|hsap_ENST00000356489	36.76	321	183	20	5	322	75	378	1.8e-32	136.9
+sror|t_21696|estExt_Genewise1Plus.C_40315	hsap|hsap_ENST00000280605	27.45	306	179	43	41	336	354	626	3.4e-08	57.0
+sror|t_21696|estExt_Genewise1Plus.C_40315	hsap|hsap_ENST00000369915	26.44	261	155	37	35	286	318	550	6.2e-08	56.0
+sror|t_21696|estExt_Genewise1Plus.C_40315	hsap|hsap_ENST00000296289	26.83	287	163	47	41	313	350	603	6.1e-07	52.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_114529|estExt_fgenesh1_pm.C_21258 - 378 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	hsap|hsap_ENST00000302746	63.91	327	116	2	38	363	19	344	1.8e-91	333.0
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	hsap|hsap_ENST00000356489	34.47	351	213	17	4	353	35	369	3.1e-38	156.2
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	hsap|hsap_ENST00000369915	25.56	313	197	36	55	360	292	575	1.9e-07	54.6
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	hsap|hsap_ENST00000280605	24.91	273	177	28	61	327	328	578	1.9e-05	48.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73309|estExt_fgeneshTM_pg.C_20482 - 395 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	hsap|hsap_ENST00000302746	62.54	355	131	2	39	392	4	357	3.7e-100	361.9
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	hsap|hsap_ENST00000356489	35.02	317	198	8	65	380	69	378	6.5e-38	155.3
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	hsap|hsap_ENST00000369915	26.03	292	192	24	101	387	318	590	3e-08	57.3
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	hsap|hsap_ENST00000280605	27.46	284	186	20	107	387	354	620	3.7e-08	57.1
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	hsap|hsap_ENST00000296289	25.00	292	186	33	107	389	350	617	0.00012	45.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_76744|estExt_GeneWisePlus.C_60244 - 383 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_76744|estExt_GeneWisePlus.C_60244	hsap|hsap_ENST00000302746	60.80	352	134	4	30	379	5	354	9.1e-92	334.0
+tree|t_76744|estExt_GeneWisePlus.C_60244	hsap|hsap_ENST00000356489	32.28	381	230	28	4	381	35	390	3.4e-37	152.8
+tree|t_76744|estExt_GeneWisePlus.C_60244	hsap|hsap_ENST00000369915	25.24	313	198	36	60	365	292	575	2.2e-06	51.1
+tree|t_76744|estExt_GeneWisePlus.C_60244	hsap|hsap_ENST00000280605	26.01	273	174	28	66	332	328	578	6e-05	46.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_161842|estExt_genemark.C_11849 - 378 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_161842|estExt_genemark.C_11849	hsap|hsap_ENST00000302746	61.80	356	129	7	23	374	2	354	1.6e-93	339.8
+tter|t_161842|estExt_genemark.C_11849	hsap|hsap_ENST00000356489	35.59	340	207	12	17	353	39	369	1.3e-38	157.6
+tter|t_161842|estExt_genemark.C_11849	hsap|hsap_ENST00000369915	23.99	346	223	40	22	360	263	575	2.4e-07	54.3
+tter|t_161842|estExt_genemark.C_11849	hsap|hsap_ENST00000280605	26.01	273	174	28	61	327	328	578	8.9e-06	49.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um06105 probable PDB1 - pyruvate dehydrogenase (lipoamide) beta chain - 410 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um06105	hsap|hsap_ENST00000302746	65.14	327	112	2	83	408	32	357	1.7e-83	306.6
+umay|um06105	hsap|hsap_ENST00000356489	33.33	384	244	12	16	396	4	378	2e-35	147.0
+umay|um06105	hsap|hsap_ENST00000369915	24.73	364	233	41	36	392	246	575	8.4e-06	49.2
+umay|um06105	hsap|hsap_ENST00000280605	23.35	334	221	35	36	362	276	581	2.8e-05	47.6
+umay|um06105	hsap|hsap_ENST00000296289	23.75	379	240	49	49	410	276	622	5.1e-05	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E27005gT0 gene=YALI0E27005g Ylip_CLIB122_chrE:complement(3199624 - 330 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0E27005gT0	hsap|hsap_ENST00000302746	60.06	328	130	1	1	328	33	359	1.1e-88	323.5
+ylip|YALI0E27005gT0	hsap|hsap_ENST00000356489	35.87	315	192	10	1	313	71	377	1.1e-37	154.3
+ylip|YALI0E27005gT0	hsap|hsap_ENST00000369915	24.82	282	190	22	1	279	289	551	1.9e-08	57.7
+ylip|YALI0E27005gT0	hsap|hsap_ENST00000280605	25.21	242	164	17	41	279	354	581	1.2e-07	55.1
+ylip|YALI0E27005gT0	hsap|hsap_ENST00000296289	23.89	293	192	31	41	321	350	623	5.1e-05	46.4

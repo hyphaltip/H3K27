@@ -1,0 +1,164 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02571.1 - 374 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB02571.1	mbre|t_12039	63.69	314	112	2	62	374	2	314	2.1e-86	314.6
+abra|AB02571.1	mbre|t_22737	34.59	292	186	5	58	348	1	288	1.2e-35	146.0
+abra|AB02571.1	mbre|t_37433	26.39	269	169	29	36	283	365	625	3.6e-06	49.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g04170 Afu3g04170 A_fumigatus_Af293 AspGDID: COORDS:chr3:1175521-1176878(+) translated using codon table 1 (378 amino acids) - 377 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu3g04170	mbre|t_12039	62.74	314	115	2	65	377	2	314	1.1e-87	318.9
+afum|Afu3g04170	mbre|t_22737	36.46	288	178	5	65	351	5	288	1e-36	149.6
+afum|Afu3g04170	mbre|t_37433	24.40	332	210	41	44	354	370	681	6.2e-07	51.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_06839T0 | AMAG_06839 | Allomyces macrogynus ATCC 38327 pyruvate dehydrogenase beta subuni - 365 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_06839T0	mbre|t_12039	72.13	305	84	1	50	354	2	305	3.8e-99	356.9
+amac|AMAG_06839T0	mbre|t_22737	37.13	307	185	8	46	351	1	300	1.8e-38	155.4
+amac|AMAG_06839T0	mbre|t_37433	25.95	262	158	36	35	271	375	625	7.7e-06	48.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_09403T0 | ANID_09403 | Aspergillus nidulans FGSC A4 pyruvate dehydrogenase E1 beta subunit Pdb - 375 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_09403T0	mbre|t_12039	63.06	314	114	2	63	375	2	314	4.3e-90	326.9
+anid|ANID_09403T0	mbre|t_22737	37.02	289	175	7	63	349	5	288	7.9e-38	153.3
+anid|ANID_09403T0	mbre|t_37433	24.71	340	212	44	42	360	370	686	3e-07	52.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_08794 | BC1G_08794 | Botrytis cinerea pyruvate dehydrogenase E1 component beta subuni - 372 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_08794	mbre|t_12039	62.10	314	117	2	60	372	2	314	1.7e-94	341.5
+bcin|BC1T_08794	mbre|t_22737	37.37	281	169	7	68	346	13	288	5.7e-39	157.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5294 |  Candida Albicans sc5314 assembly 21 orf19.529 - 379 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.5294	mbre|t_12039	66.88	314	103	1	66	379	2	314	2.2e-96	347.8
+calb_sc5314|orf19.5294	mbre|t_22737	35.67	314	194	8	66	378	5	311	5.1e-40	160.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03763 | PGUG_03763 | Candida guilliermondii conserved hypothetical protei - 407 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_03763	mbre|t_12039	67.83	314	100	1	94	407	2	314	3.4e-94	340.6
+cgui|PGUT_03763	mbre|t_22737	34.50	313	197	8	94	405	5	310	3.1e-36	148.1
+cgui|PGUT_03763	mbre|t_37433	24.48	339	216	40	21	330	315	642	6.4e-06	48.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_08468T0 | CIMG_08468 | Coccidioides immitis RS pyruvate dehydrogenase E1 componen - 377 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_08468T0	mbre|t_12039	62.74	314	115	2	65	377	2	314	1.8e-92	334.8
+cimm_rs|CIMG_08468T0	mbre|t_22737	36.11	288	179	5	65	351	5	288	1.6e-38	155.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_05059T0 | CNAG_05059 | Cryptococcus neoformans grubii H99 pyruvate dehydrogenase e1 component beta subuni - 384 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_05059T0	mbre|t_12039	59.43	318	109	20	83	384	2	315	2.8e-73	271.1
+cneo_h99|CNAG_05059T0	mbre|t_22737	33.01	309	180	27	79	370	1	299	1.7e-27	118.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA - 373 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	mbre|t_12039	69.87	312	94	0	57	368	2	313	6.8e-105	376.0
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	mbre|t_22737	37.14	315	187	11	57	368	5	311	5.5e-43	170.4
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	mbre|t_37433	23.31	266	175	29	34	277	367	625	1.2e-06	51.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_10569T0 | MGG_10569 | Magnaporthe grisea (M. oryzae) 70-15 pyruvate dehydrogenase E1 component subunit bet - 383 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_10569T0	mbre|t_12039	65.61	314	106	2	71	383	2	314	5.2e-94	339.9
+mgri|MGG_10569T0	mbre|t_22737	36.59	287	175	7	72	357	8	288	3.1e-37	151.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_49370|estExt_Genewise1Plus.C_330041 - 400 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_49370|estExt_Genewise1Plus.C_330041	mbre|t_12039	67.31	309	100	1	86	394	2	309	3.8e-94	340.4
+mlar|t_49370|estExt_Genewise1Plus.C_330041	mbre|t_22737	35.02	317	198	8	82	397	1	310	2e-37	152.0
+mlar|t_49370|estExt_Genewise1Plus.C_330041	mbre|t_37433	24.33	263	163	36	70	307	374	625	4.6e-05	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU03004T0 | NCU03004 | Neurospora crassa OR74A (finished) pyruvate dehydrogenase E1 componen - 379 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU03004T0	mbre|t_12039	66.22	299	99	2	66	363	2	299	3e-91	330.8
+ncra|NCU03004T0	mbre|t_22737	36.64	292	178	7	62	352	3	288	1.8e-36	148.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_80756 - 379 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_80756	mbre|t_12039	66.89	299	97	2	66	363	2	299	5.4e-92	333.2
+ndis|NEUDI1_80756	mbre|t_22737	36.64	292	178	7	62	352	3	288	4.4e-37	150.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_006440 |  Neosartorya fischeri nul - 377 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_006440	mbre|t_12039	63.06	314	114	2	65	377	2	314	2.5e-87	317.7
+nfis|NFIA_006440	mbre|t_22737	37.37	289	174	7	65	351	5	288	8.8e-37	149.8
+nfis|NFIA_006440	mbre|t_37433	24.40	332	210	41	44	354	370	681	7.9e-07	51.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_92673 - 379 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_92673	mbre|t_12039	66.89	299	97	2	66	363	2	299	1.8e-90	328.2
+ntet|NEUTE1_92673	mbre|t_22737	36.64	292	178	7	62	352	3	288	5.1e-36	147.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002560063.1| gi|255938586 Pc14g00690 [Penicillium chrysogenum Wisconsi - 365 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002560063.1|	mbre|t_12039	59.55	314	114	13	64	365	2	314	3.4e-62	234.2
+pechr_54_1255|XP_002560063.1|	mbre|t_22737	36.11	288	168	16	64	339	5	288	1.5e-26	115.8
+pechr_54_1255|XP_002560063.1|	mbre|t_37433	25.10	263	159	38	43	274	370	625	0.0008	41.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_66084|estExt_fgenesh1_kg.C_30024 - 329 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	mbre|t_12039	69.81	308	92	1	15	322	2	308	6.6e-109	389.2
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	mbre|t_22737	38.36	305	180	8	11	314	1	298	2.3e-46	181.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14406 | RO3G_14407 | Rhizopus oryzae hypothetical protei - 363 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_14406	mbre|t_12039	69.55	312	95	0	47	358	2	313	1.6e-96	348.2
+rory|RO3T_14406	mbre|t_22737	36.68	319	191	11	43	358	1	311	9.8e-41	162.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YBR221C PDB1 SGDID:S000000425, Chr II from 666248-665148, reverse complement, Verified ORF, "E1 beta subunit of the pyruvate  - 366 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YBR221C	mbre|t_12039	65.08	315	108	2	53	366	2	315	1.3e-99	358.4
+scer_s288c|YBR221C	mbre|t_22737	36.16	318	194	9	49	364	1	311	1.6e-44	175.5
+scer_s288c|YBR221C	mbre|t_37433	27.80	259	154	33	41	273	374	625	5.9e-07	51.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_08442 | SNOG_08442 | Stagonospora nodorum predicted protei - 368 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_08442	mbre|t_12039	62.74	314	115	2	55	367	2	314	2.5e-88	321.0
+snod|SNOT_08442	mbre|t_22737	36.86	293	176	9	51	341	3	288	3e-38	154.6
+snod|SNOT_08442	mbre|t_37433	24.91	269	173	29	29	276	365	625	1.4e-06	50.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC30D10_13c.1 | SPBC30D10_13c | Schizosaccharomyces pombe 972h- pyruvate dehydrogenase e1 component beta subunit Pdb - 366 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPBC30D10_13c.1	mbre|t_12039	65.08	315	109	1	52	366	2	315	7.3e-92	332.7
+spom|SPBC30D10_13c.1	mbre|t_22737	36.28	317	194	8	48	363	1	310	1.5e-37	152.3
+spom|SPBC30D10_13c.1	mbre|t_37433	23.62	254	168	26	40	273	378	625	3.1e-06	49.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07465T0 | SPPG_07465 | Spizellomyces punctatus DAOM BR117 pyruvate dehydrogenase E1 componen - 363 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_07465T0	mbre|t_12039	69.55	312	95	0	50	361	2	313	7.9e-98	352.5
+spun|SPPG_07465T0	mbre|t_22737	39.12	317	180	13	46	356	1	310	2.8e-39	158.0
+spun|SPPG_07465T0	mbre|t_37433	27.51	269	161	34	26	270	367	625	1.9e-06	50.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_21696|estExt_Genewise1Plus.C_40315 - 337 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_21696|estExt_Genewise1Plus.C_40315	mbre|t_12039	68.45	317	91	9	15	331	2	309	1.1e-77	285.6
+sror|t_21696|estExt_Genewise1Plus.C_40315	mbre|t_22737	36.50	326	189	18	11	334	1	310	1.5e-37	152.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_114529|estExt_fgenesh1_pm.C_21258 - 378 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	mbre|t_12039	67.56	299	95	2	66	363	2	299	3.6e-90	327.2
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	mbre|t_22737	37.15	288	176	5	66	352	5	288	4.8e-37	150.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73309|estExt_fgeneshTM_pg.C_20482 - 395 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	mbre|t_12039	65.40	315	108	1	81	395	2	315	1.6e-92	335.0
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	mbre|t_22737	35.87	315	192	10	77	389	1	307	1.3e-38	156.0
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	mbre|t_37433	22.71	317	204	41	14	302	322	625	0.00018	43.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_76744|estExt_GeneWisePlus.C_60244 - 383 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_76744|estExt_GeneWisePlus.C_60244	mbre|t_12039	64.65	314	109	2	71	383	2	314	1.7e-91	331.6
+tree|t_76744|estExt_GeneWisePlus.C_60244	mbre|t_22737	37.33	292	176	7	67	357	3	288	1.5e-37	152.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_161842|estExt_genemark.C_11849 - 378 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_161842|estExt_genemark.C_11849	mbre|t_12039	64.97	314	108	2	66	378	2	314	2.5e-89	324.4
+tter|t_161842|estExt_genemark.C_11849	mbre|t_22737	37.15	288	176	5	66	352	5	288	5.4e-37	150.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um06105 probable PDB1 - pyruvate dehydrogenase (lipoamide) beta chain - 410 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um06105	mbre|t_12039	66.67	312	102	2	98	408	2	312	2.2e-78	288.1
+umay|um06105	mbre|t_22737	35.76	316	196	7	94	408	1	310	2.6e-33	138.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E27005gT0 gene=YALI0E27005g Ylip_CLIB122_chrE:complement(3199624 - 330 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0E27005gT0	mbre|t_12039	65.40	315	108	1	15	329	2	315	4e-99	356.7
+ylip|YALI0E27005gT0	mbre|t_22737	37.85	317	181	16	15	326	5	310	4.7e-42	167.1

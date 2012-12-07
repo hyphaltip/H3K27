@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09257.1 - 179 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB09257.1	atha|AT5G60340	44.95	109	58	2	3	111	11	117	2.8e-17	85.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu5g05570 Afu5g05570 A_fumigatus_Af293 AspGDID: COORDS:chr5:1299307-1299809(-) translated using codon table 1 (132 amino acids) - 131 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu5g05570	atha|AT5G60340	41.07	112	65	1	2	113	11	121	9.6e-19	90.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_03054T0 | AMAG_03054 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 188 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_03054T0	atha|AT5G60340	62.62	107	40	0	14	120	11	117	1.4e-23	106.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_08860T0 | ANID_08860 | Aspergillus nidulans FGSC A4 hemoglobin and proliferation regulated protei - 177 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_08860T0	atha|AT5G60340	42.20	109	62	1	2	110	11	118	3.7e-17	85.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_06080 | BC1G_06080 | Botrytis cinerea POS9-activating factor FAP - 176 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_06080	atha|AT5G60340	48.11	106	55	0	2	107	11	116	1.1e-19	93.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6074 |  Candida Albicans sc5314 assembly 21 orf19.607 - 248 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.6074	atha|AT5G60340	40.34	119	61	10	4	122	8	116	1e-05	47.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02843 | PGUG_02843 | Candida guilliermondii hypothetical protei - 191 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_02843	atha|AT5G60340	43.12	109	60	2	3	111	11	117	2.7e-14	75.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_06363T0 | CIMG_06363 | Coccidioides immitis RS hemoglobin and proliferation regulated protei - 177 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_06363T0	atha|AT5G60340	42.20	109	62	1	2	110	11	118	2.4e-17	85.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_05597T0 | CNAG_05597 | Cryptococcus neoformans grubii H99 POS9-activating factor FAP - 196 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_05597T0	atha|AT5G60340	41.67	120	57	13	7	126	11	117	1.3e-15	80.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_178813|estExt_Genewise1Plus.C_041260 - 174 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_178813|estExt_Genewise1Plus.C_041260	atha|AT5G60340	50.00	106	53	0	3	108	11	116	1.2e-21	100.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_06922T0 | MGG_06922 | Magnaporthe grisea (M. oryzae) 70-15 POS9-activating factor FAP - 175 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_06922T0	atha|AT5G60340	47.17	106	56	0	4	109	11	116	3.5e-19	91.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_34310|e_gw1.7.230.1 - 207 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_34310|e_gw1.7.230.1	atha|AT5G60340	42.74	117	58	9	20	136	9	116	2.4e-11	66.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU10220T0 | NCU10220 | Neurospora crassa OR74A (finished) POS9-activating factor FAP - 175 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU10220T0	atha|AT5G60340	50.00	110	55	0	3	112	11	120	5.8e-21	97.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_165120 - 175 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_165120	atha|AT5G60340	50.00	110	55	0	3	112	11	120	5e-21	98.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_037480 |  Neosartorya fischeri nul - 177 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_037480	atha|AT5G60340	41.44	111	64	1	2	112	11	120	1.9e-17	86.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_56911 - 175 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_56911	atha|AT5G60340	50.00	110	55	0	3	112	11	120	4.7e-21	98.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562622.1| gi|255943709 Pc20g00600 [Penicillium chrysogenum Wisconsi - 177 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002562622.1|	atha|AT5G60340	41.28	109	63	1	2	110	11	118	9.1e-16	80.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_65907|estExt_fgenesh1_kg.C_10107 - 190 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_65907|estExt_fgenesh1_kg.C_10107	atha|AT5G60340	44.07	118	57	9	1	118	8	116	1.8e-11	66.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03064 | RO3G_03065 | Rhizopus oryzae hypothetical prote - 64 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_03064	atha|AT5G60340	42.62	61	35	0	3	63	11	71	1.2e-09	58.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDL166C FAP7 SGDID:S000002325, Chr IV from 164043-163450, reverse complement, Verified ORF, "Essential NTPase required for sm - 197 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YDL166C	atha|AT5G60340	42.59	108	61	1	4	111	10	116	2.8e-14	75.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_09420 | SNOG_09420 | Stagonospora nodorum hypothetical protei - 180 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_09420	atha|AT5G60340	44.95	109	58	2	3	111	11	117	4.8e-17	84.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC830_11c.1 | SPCC830_11c | Schizosaccharomyces pombe 972h- adenylate kinase (predicted - 175 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPCC830_11c.1	atha|AT5G60340	47.27	110	58	0	2	111	7	116	6.5e-17	84.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00391T0 | SPPG_00391 | Spizellomyces punctatus DAOM BR117 conserved hypothetical protei - 187 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_00391T0	atha|AT5G60340	56.88	109	47	0	15	123	8	116	1.7e-25	112.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_29962|fgenesh1_pm.C_scaffold_2000107 - 189 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_29962|fgenesh1_pm.C_scaffold_2000107	atha|AT5G60340	40.87	115	59	9	3	117	11	116	9.9e-10	60.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_92927|fgenesh1_pg.3_#_745 - 174 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_92927|fgenesh1_pg.3_#_745	atha|AT5G60340	48.18	110	57	0	3	112	11	120	2.2e-20	95.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_31233|e_gw1.6.465.1 - 194 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_31233|e_gw1.6.465.1	atha|AT5G60340	42.02	119	58	11	7	125	11	118	8.6e-11	64.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_80499|estExt_GeneWisePlus.C_180345 - 173 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_80499|estExt_GeneWisePlus.C_180345	atha|AT5G60340	47.17	106	56	0	2	107	11	116	7.9e-19	90.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_120712|fgenesh2_pm.2_#_509 - 174 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_120712|fgenesh2_pm.2_#_509	atha|AT5G60340	48.18	110	57	0	3	112	11	120	6.1e-21	97.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03450 related to FAP7 - involved in the oxidative stres - 212 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um03450	atha|AT5G60340	37.06	143	53	37	3	145	11	116	0.00016	43.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0B22946gT0 gene=YALI0B22946g Ylip_CLIB122_chrB:complement(3010434 - 173 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0B22946gT0	atha|AT5G60340	40.19	107	63	1	2	108	11	116	2.6e-14	75.6

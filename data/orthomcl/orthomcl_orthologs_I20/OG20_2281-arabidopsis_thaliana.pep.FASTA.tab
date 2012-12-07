@@ -1,0 +1,137 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB05870.1 - 650 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB05870.1	atha|AT3G24080	28.09	648	393	73	40	647	10	624	4.4e-14	77.7
+abra|AB05870.1	atha|AT5G55660	23.46	682	425	97	3	649	71	690	0.00077	44.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g05410 Afu1g05410 A_fumigatus_Af293 AspGDID: COORDS:chr1:1551407-1553321(-) translated using codon table 1 (618 amino acids) - 617 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu1g05410	atha|AT3G24080	28.81	649	369	93	27	616	8	622	6e-15	80.5
+afum|Afu1g05410	atha|AT3G28770	21.57	598	409	60	48	605	700	1277	0.00033	46.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_13456T0 | AMAG_13456 | Allomyces macrogynus ATCC 38327 predicted protei - 626 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_13456T0	atha|AT3G24080	29.51	593	371	47	67	626	45	623	2e-23	108.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04065T0 | ANID_04065 | Aspergillus nidulans FGSC A4 ribosome biogenesis protein Kri - 598 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_04065T0	atha|AT3G24080	28.69	610	373	62	35	597	21	615	2.4e-11	68.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07329 | BC1G_07329 | Botrytis cinerea protein KRI - 657 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_07329	atha|AT3G24080	28.14	636	393	64	48	647	10	617	6.4e-13	73.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1609 |  Candida Albicans sc5314 assembly 21 orf19.160 - 666 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.1609	atha|AT3G24080	24.70	660	381	116	37	650	37	626	1.2e-06	53.0
+calb_sc5314|orf19.1609	atha|AT3G28770	22.36	711	460	92	26	660	515	1209	1.6e-05	51.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03785 | PGUG_03785 | Candida guilliermondii hypothetical protei - 554 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_03785	atha|AT1G56660	25.10	498	322	51	1	464	1	481	2.5e-05	48.1
+cgui|PGUT_03785	atha|AT3G24080	29.26	581	310	101	17	534	30	572	3.1e-05	48.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03930T0 | CIMG_03930 | Coccidioides immitis RS ribosome biogenesis protein Kri - 618 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_03930T0	atha|AT3G24080	27.45	652	378	95	23	617	12	625	3.8e-17	87.8
+cimm_rs|CIMG_03930T0	atha|AT3G28770	20.39	667	465	66	6	616	710	1366	1.3e-05	51.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04376T0 | CNAG_04376 | Cryptococcus neoformans grubii H99 conserved hypothetical protei - 779 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_04376T0	atha|AT3G24080	27.09	705	375	139	43	727	46	631	2.3e-10	65.6
+cneo_h99|CNAG_04376T0	atha|AT1G56660	23.23	508	354	36	227	724	40	521	0.0001	46.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_128748|gw1.02.1633.1 - 486 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_128748|gw1.02.1633.1	atha|AT3G24080	31.55	542	283	88	5	485	46	560	2.8e-06	51.4
+mcin|t_128748|gw1.02.1633.1	atha|AT2G22795	20.95	420	298	34	12	409	314	721	0.00013	46.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_06242T0 | MGG_06242 | Magnaporthe grisea (M. oryzae) 70-15 ribosome biogenesis protein Kri - 702 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_06242T0	atha|AT3G24080	27.93	673	397	88	47	694	11	620	1e-15	83.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_86393|EuGene.00180047 - 704 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_86393|EuGene.00180047	atha|AT3G24080	27.83	690	384	114	33	694	21	624	1.7e-24	112.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU06409T0 | NCU06409 | Neurospora crassa OR74A (finished) ribosome biogenesis protein Kri - 723 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU06409T0	atha|AT3G24080	27.86	682	398	94	36	688	10	626	4.2e-17	87.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_158970 - 728 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_158970	atha|AT3G24080	28.28	686	395	97	36	693	10	626	1.8e-16	85.9
+ndis|NEUDI1_158970	atha|AT3G28770	22.34	788	493	119	14	721	397	1145	7.5e-05	48.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_019350 |  Neosartorya fischeri nul - 617 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_019350	atha|AT3G24080	29.38	650	364	95	27	616	8	622	2.6e-16	85.1
+nfis|NFIA_019350	atha|AT3G28770	21.55	580	403	52	7	556	707	1264	9.8e-05	48.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_81044 - 718 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_81044	atha|AT3G24080	28.23	705	388	118	36	711	10	625	1.5e-17	89.4
+ntet|NEUTE1_81044	atha|AT3G28770	23.52	710	434	109	73	717	459	1124	4e-05	49.8
+ntet|NEUTE1_81044	atha|AT1G56660	21.34	506	347	51	58	555	20	482	0.00031	44.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562085.1| gi|255942633 Pc18g02410 [Penicillium chrysogenum Wisconsi - 607 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002562085.1|	atha|AT3G24080	26.69	637	379	88	30	606	14	622	5.5e-08	57.4
+pechr_54_1255|XP_002562085.1|	atha|AT1G56660	21.99	523	337	71	52	566	25	484	0.00076	43.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_50900|estExt_Genemark1.C_1_t20043 - 726 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_50900|estExt_Genemark1.C_1_t20043	atha|AT3G24080	26.51	728	422	113	11	724	10	638	1.6e-16	86.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03013 | RO3G_03014 | Rhizopus oryzae hypothetical protei - 526 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_03013	atha|AT3G24080	31.87	568	292	95	22	526	6	541	9.5e-06	49.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YNL308C KRI1 SGDID:S000005252, Chr XIV from 55896-54121, reverse complement, Verified ORF, "Essential nucleolar protein requi - 591 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YNL308C	atha|AT3G24080	28.01	614	343	99	44	591	46	626	2.9e-06	51.6
+scer_s288c|YNL308C	atha|AT3G28770	22.56	594	404	56	11	561	675	1255	0.00016	47.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_01336 | SNOG_01336 | Stagonospora nodorum hypothetical protei - 638 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_01336	atha|AT3G24080	27.51	658	375	102	40	637	10	625	1.8e-09	62.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC22G7_05.1 | SPAC22G7_05 | Schizosaccharomyces pombe 972h- krr family protei - 598 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC22G7_05.1	atha|AT3G24080	29.87	596	313	105	47	584	10	558	2e-13	75.4
+spom|SPAC22G7_05.1	atha|AT1G56660	21.33	497	348	43	36	508	5	482	0.00052	43.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_01901T0 | SPPG_01901 | Spizellomyces punctatus DAOM BR117 predicted protei - 658 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_01901T0	atha|AT3G24080	29.22	657	396	69	3	631	10	625	4.6e-25	114.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_25355|fgenesh1_pg.C_scaffold_2000205 - 686 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_25355|fgenesh1_pg.C_scaffold_2000205	atha|AT3G24080	28.86	693	403	90	2	675	5	626	1.8e-18	92.4
+sror|t_25355|fgenesh1_pg.C_scaffold_2000205	atha|AT3G28770	20.74	704	486	72	6	673	603	1270	2.7e-06	53.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_81359|estExt_Genewise1Plus.C_42238 - 707 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_81359|estExt_Genewise1Plus.C_42238	atha|AT3G24080	27.58	678	412	79	39	698	10	626	2.9e-17	88.4
+sthe|t_81359|estExt_Genewise1Plus.C_42238	atha|AT3G28770	20.85	705	478	80	7	702	697	1330	0.00015	47.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_67737|fgeneshTM_pm.2_#_225 - 670 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_67737|fgeneshTM_pm.2_#_225	atha|AT3G24080	23.73	649	378	117	23	625	56	633	4.4e-05	47.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_27085|gw1.17.57.1 - 638 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_27085|gw1.17.57.1	atha|AT3G24080	28.46	615	355	85	19	608	11	565	9.1e-14	76.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_60398|estExt_Genewise1.C_32299 - 706 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_60398|estExt_Genewise1.C_32299	atha|AT3G24080	27.38	610	363	80	36	619	10	565	3.2e-14	78.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04361 related to KRI1 - KRRI-Interacting - 742 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um04361	atha|AT3G24080	25.58	727	384	157	28	738	22	607	0.00023	45.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D00957gT0 gene=YALI0D00957g Ylip_CLIB122_chrD:996 - 577 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0D00957gT0	atha|AT3G24080	27.04	614	341	107	36	565	6	596	1.4e-06	52.6
+ylip|YALI0D00957gT0	atha|AT5G53440	21.61	546	374	54	3	524	6	521	0.00042	45.3

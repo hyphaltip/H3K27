@@ -1,0 +1,125 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB03792.1 - 560 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB03792.1	mbre|t_3397	59.72	72	29	0	243	314	4	75	4.9e-06	46.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu4g06350 Afu4g06350 A_fumigatus_Af293 AspGDID: COORDS:chr4:1625570-1627225(-) translated using codon table 1 (510 amino acids) - 509 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu4g06350	mbre|t_3397	60.81	74	29	0	262	335	4	77	6.2e-06	45.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_03225T0 | AMAG_03225 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 357 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_03225T0	mbre|t_3397	61.04	77	30	0	83	159	1	77	1.1e-05	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04346T0 | ANID_04346 | Aspergillus nidulans FGSC A4 ribosomal biogenesis protein Gar - 445 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_04346T0	mbre|t_3397	55.84	77	34	0	207	283	1	77	1.3e-06	47.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_04453 | BC1G_04453 | Botrytis cinerea hypothetical protein similar to RNA binding protei - 407 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_04453	mbre|t_3397	52.78	72	34	0	137	208	4	75	4.5e-07	49.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7050 |  Candida Albicans sc5314 assembly 21 orf19.705 - 267 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.7050	mbre|t_3397	52.63	76	36	0	122	197	2	77	4.8e-08	51.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03493 | PGUG_03493 | Candida guilliermondii hypothetical protei - 235 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_03493	mbre|t_3397	54.05	74	34	0	92	165	2	75	9.9e-11	60.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_04180T0 | CIMG_04180 | Coccidioides immitis RS ribosomal biogenesis protein Gar - 530 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_04180T0	mbre|t_3397	55.84	77	34	0	223	299	1	77	1.4e-06	48.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_07511T0 | CNAG_07511 | Cryptococcus neoformans grubii H99 MKI67 interacting nucleolar phosphoprotei - 479 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_07511T0	mbre|t_3397	58.44	77	32	0	330	406	1	77	1.9e-07	50.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_146826|e_gw1.07.1413.1 - 149 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_146826|e_gw1.07.1413.1	mbre|t_3397	61.84	76	29	0	1	76	2	77	1.1e-18	86.3
+mcin|t_146826|e_gw1.07.1413.1	mbre|t_2423	35.71	56	36	0	5	60	91	146	0.00032	39.3
+mcin|t_146826|e_gw1.07.1413.1	mbre|t_25688	27.03	74	54	0	2	75	187	260	0.00039	41.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_12370T0 | MGG_12370 | Magnaporthe grisea (M. oryzae) 70-15 MKI67 FHA domain-interacting nucleolar phosphoprotei - 378 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_12370T0	mbre|t_3397	57.75	71	30	0	169	239	5	75	5.6e-07	48.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_45973|estExt_Genewise1.C_820021 - 403 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_45973|estExt_Genewise1.C_820021	mbre|t_3397	54.55	77	35	0	195	271	1	77	3.2e-07	49.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU08518T0 | NCU08518 | Neurospora crassa OR74A (finished) hypothetical protei - 438 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU08518T0	mbre|t_3397	59.46	74	30	0	190	263	2	75	5.5e-05	42.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_102215 - 440 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_102215	mbre|t_3397	59.46	74	30	0	188	261	2	75	3.8e-05	42.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_109800 |  Neosartorya fischeri nul - 477 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_109800	mbre|t_3397	61.04	77	30	0	227	303	1	77	5.4e-06	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_64719 - 397 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_64719	mbre|t_3397	59.46	74	30	0	188	261	2	75	3.1e-05	43.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002565615.1| gi|255949696 Pc22g17020 [Penicillium chrysogenum Wisconsi - 464 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002565615.1|	mbre|t_3397	54.55	77	35	0	218	294	1	77	4e-05	42.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_42776|gm1.2341_g - 413 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_42776|gm1.2341_g	mbre|t_3397	60.53	76	30	0	202	277	2	77	2.6e-07	50.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_08087 | RO3G_08088 | Rhizopus oryzae hypothetical protei - 311 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_08087	mbre|t_3397	64.00	75	27	0	161	235	3	77	2e-07	50.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YNL110C NOP15 SGDID:S000005054, Chr XIV from 418490-417828, reverse complement, Verified ORF, "Constituent of 66S pre-ribosom - 220 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YNL110C	mbre|t_3397	48.00	75	39	0	88	162	1	75	2.1e-08	52.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_05437 | SNOG_05437 | Stagonospora nodorum hypothetical protei - 540 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC1827_05c.1 | SPCC1827_05c | Schizosaccharomyces pombe 972h- nucleolar RNA-binding protein NIFK (predicted - 276 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPCC1827_05c.1	mbre|t_3397	58.44	77	32	0	102	178	1	77	3.4e-14	72.3
+spom|SPCC1827_05c.1	mbre|t_18666	28.95	190	112	23	88	255	72	260	8.7e-05	43.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07834T0 | SPPG_07834 | Spizellomyces punctatus DAOM BR117 conserved hypothetical protei - 286 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_07834T0	mbre|t_3397	59.21	76	31	0	128	203	2	77	1.2e-11	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_24681|fgenesh1_pg.C_scaffold_1000567 - 375 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_24681|fgenesh1_pg.C_scaffold_1000567	mbre|t_3397	56.58	76	33	0	193	268	2	77	1.5e-06	47.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_25795|gw1.7.2291.1 - 253 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_25795|gw1.7.2291.1	mbre|t_3397	56.94	72	31	0	108	179	4	75	3.1e-09	55.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_59073|fgeneshTM_pg.1_#_1063 - 736 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_59073|fgeneshTM_pg.1_#_1063	mbre|t_3397	55.26	76	34	0	574	649	2	77	2.7e-07	50.8
+tmes|t_59073|fgeneshTM_pg.1_#_1063	mbre|t_28787	25.77	423	275	39	40	442	115	518	1.2e-05	48.4
+tmes|t_59073|fgeneshTM_pg.1_#_1063	mbre|t_11965	24.39	492	314	58	1	472	42	495	0.00092	42.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_52976|e_gw1.1.997.1 - 223 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_52976|e_gw1.1.997.1	mbre|t_3397	57.14	77	33	0	61	137	1	77	1.1e-14	73.7
+tree|t_52976|e_gw1.1.997.1	mbre|t_22903	25.66	152	101	12	26	167	497	646	0.00052	42.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_75716|estExt_Genewise1Plus.C_61440 - 383 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_75716|estExt_Genewise1Plus.C_61440	mbre|t_3397	56.00	75	33	0	165	239	1	75	2.5e-06	46.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03939 related to NOP15 - protein involved in 60S ribosomal subunit  - 355 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um03939	mbre|t_3397	60.81	74	29	0	174	247	2	75	2.2e-06	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0F14245gT0 gene=YALI0F14245g Ylip_CLIB122_chrF:191553 - 275 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0F14245gT0	mbre|t_3397	59.46	74	30	0	103	176	4	77	1e-10	60.7

@@ -1,0 +1,123 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB03792.1 - 560 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB03792.1	hsap|hsap_ENST00000285814	31.74	293	185	15	212	503	15	293	3.5e-10	63.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu4g06350 Afu4g06350 A_fumigatus_Af293 AspGDID: COORDS:chr4:1625570-1627225(-) translated using codon table 1 (510 amino acids) - 509 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu4g06350	hsap|hsap_ENST00000285814	34.70	268	147	28	224	476	5	259	2.1e-09	60.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_03225T0 | AMAG_03225 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 357 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_03225T0	hsap|hsap_ENST00000285814	30.89	246	152	18	86	320	45	283	1.8e-08	56.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04346T0 | ANID_04346 | Aspergillus nidulans FGSC A4 ribosomal biogenesis protein Gar - 445 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_04346T0	hsap|hsap_ENST00000285814	31.18	279	176	16	170	440	5	275	5.5e-11	65.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_04453 | BC1G_04453 | Botrytis cinerea hypothetical protein similar to RNA binding protei - 407 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_04453	hsap|hsap_ENST00000285814	31.58	190	123	7	103	290	14	198	3.8e-08	56.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7050 |  Candida Albicans sc5314 assembly 21 orf19.705 - 267 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.7050	hsap|hsap_ENST00000285814	35.95	153	94	4	117	267	38	188	3.8e-08	55.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03493 | PGUG_03493 | Candida guilliermondii hypothetical protei - 235 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_03493	hsap|hsap_ENST00000285814	38.69	168	94	9	74	235	20	184	1e-11	67.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_04180T0 | CIMG_04180 | Coccidioides immitis RS ribosomal biogenesis protein Gar - 530 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_04180T0	hsap|hsap_ENST00000285814	29.19	298	190	21	187	477	5	288	2.1e-09	60.6
+cimm_rs|CIMG_04180T0	hsap|hsap_ENST00000310624	23.08	520	364	36	3	515	528	1018	7.5e-06	50.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_07511T0 | CNAG_07511 | Cryptococcus neoformans grubii H99 MKI67 interacting nucleolar phosphoprotei - 479 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_07511T0	hsap|hsap_ENST00000285814	42.07	164	93	2	312	475	24	185	4.1e-12	69.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_146826|e_gw1.07.1413.1 - 149 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_146826|e_gw1.07.1413.1	hsap|hsap_ENST00000285814	47.62	147	73	4	3	148	45	188	1.4e-19	92.5
+mcin|t_146826|e_gw1.07.1413.1	hsap|hsap_ENST00000372972	24.82	137	93	10	5	137	18	148	0.00075	41.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_12370T0 | MGG_12370 | Magnaporthe grisea (M. oryzae) 70-15 MKI67 FHA domain-interacting nucleolar phosphoprotei - 378 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_12370T0	hsap|hsap_ENST00000285814	29.69	229	153	8	144	371	25	246	1.1e-08	57.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_45973|estExt_Genewise1.C_820021 - 403 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_45973|estExt_Genewise1.C_820021	hsap|hsap_ENST00000285814	30.42	240	156	11	166	399	16	250	8.9e-11	64.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU08518T0 | NCU08518 | Neurospora crassa OR74A (finished) hypothetical protei - 438 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU08518T0	hsap|hsap_ENST00000285814	25.27	273	196	8	166	436	24	290	0.00019	43.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_102215 - 440 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_102215	hsap|hsap_ENST00000285814	26.77	269	167	30	164	408	24	286	0.00019	43.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_109800 |  Neosartorya fischeri nul - 477 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_109800	hsap|hsap_ENST00000285814	34.78	230	131	19	192	406	5	230	4.4e-09	59.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_64719 - 397 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_64719	hsap|hsap_ENST00000285814	32.58	178	113	7	164	340	24	195	0.00013	44.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002565615.1| gi|255949696 Pc22g17020 [Penicillium chrysogenum Wisconsi - 464 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002565615.1|	hsap|hsap_ENST00000285814	32.21	267	161	20	205	463	30	284	6.8e-09	58.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_42776|gm1.2341_g - 413 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_42776|gm1.2341_g	hsap|hsap_ENST00000285814	35.78	232	142	7	183	413	23	248	4.1e-11	65.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_08087 | RO3G_08088 | Rhizopus oryzae hypothetical protei - 311 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_08087	hsap|hsap_ENST00000285814	34.59	185	117	4	121	305	6	186	2e-07	53.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YNL110C NOP15 SGDID:S000005054, Chr XIV from 418490-417828, reverse complement, Verified ORF, "Constituent of 66S pre-ribosom - 220 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YNL110C	hsap|hsap_ENST00000285814	34.18	158	89	15	74	218	28	183	5e-07	51.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_05437 | SNOG_05437 | Stagonospora nodorum hypothetical protei - 540 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC1827_05c.1 | SPCC1827_05c | Schizosaccharomyces pombe 972h- nucleolar RNA-binding protein NIFK (predicted - 276 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPCC1827_05c.1	hsap|hsap_ENST00000285814	37.70	191	108	11	90	271	29	217	9.1e-18	87.4
+spom|SPCC1827_05c.1	hsap|hsap_ENST00000257020	24.31	218	143	22	61	268	3	208	0.00017	43.5
+spom|SPCC1827_05c.1	hsap|hsap_ENST00000314295	23.27	202	147	8	70	268	2	198	0.00026	42.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07834T0 | SPPG_07834 | Spizellomyces punctatus DAOM BR117 conserved hypothetical protei - 286 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_07834T0	hsap|hsap_ENST00000285814	43.58	179	93	8	101	273	10	186	1.3e-16	83.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_24681|fgenesh1_pg.C_scaffold_1000567 - 375 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_24681|fgenesh1_pg.C_scaffold_1000567	hsap|hsap_ENST00000285814	35.86	198	116	11	178	371	29	219	1.2e-09	60.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_25795|gw1.7.2291.1 - 253 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_25795|gw1.7.2291.1	hsap|hsap_ENST00000285814	36.73	147	91	2	107	253	44	188	1.5e-10	63.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_59073|fgeneshTM_pg.1_#_1063 - 736 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_59073|fgeneshTM_pg.1_#_1063	hsap|hsap_ENST00000285814	38.60	171	100	5	558	725	24	192	5e-10	63.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_52976|e_gw1.1.997.1 - 223 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_52976|e_gw1.1.997.1	hsap|hsap_ENST00000285814	33.90	177	112	5	36	209	14	188	4.3e-15	78.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_75716|estExt_Genewise1Plus.C_61440 - 383 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_75716|estExt_Genewise1Plus.C_61440	hsap|hsap_ENST00000285814	30.24	248	154	19	135	366	7	251	2.1e-08	56.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03939 related to NOP15 - protein involved in 60S ribosomal subunit  - 355 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um03939	hsap|hsap_ENST00000285814	38.19	199	117	6	151	349	24	216	1.8e-12	70.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0F14245gT0 gene=YALI0F14245g Ylip_CLIB122_chrF:191553 - 275 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0F14245gT0	hsap|hsap_ENST00000285814	36.22	196	116	9	84	273	26	218	1.5e-13	73.4

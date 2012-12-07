@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02251.1 - 286 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB02251.1	atha|AT3G57000	35.74	277	133	45	8	251	27	291	1.1e-23	107.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g06010 Afu3g06010 A_fumigatus_Af293 AspGDID: COORDS:chr3:1476501-1477341(+) translated using codon table 1 (255 amino acids) - 254 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu3g06010	atha|AT3G57000	44.68	235	110	20	27	254	77	298	3.3e-34	142.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_05018T0 | AMAG_05018 | Allomyces macrogynus ATCC 38327 nucleolar essential protein  - 232 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_05018T0	atha|AT3G57000	49.57	232	105	12	5	232	75	298	2.8e-44	175.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_02759T0 | ANID_02759 | Aspergillus nidulans FGSC A4 RNA processing protein Emg - 260 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_02759T0	atha|AT3G57000	45.96	235	107	20	33	260	77	298	1.8e-35	146.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_08067 | BC1G_08067 | Botrytis cinerea nucleolar essential protein  - 250 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_08067	atha|AT3G57000	46.19	236	107	20	21	250	77	298	2.7e-36	149.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.665 |  Candida Albicans sc5314 assembly 21 orf19.66 - 267 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.665	atha|AT3G57000	40.82	267	145	13	5	266	39	297	8e-37	150.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03307 | PGUG_03307 | Candida guilliermondii nucleolar essential protein  - 247 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_03307	atha|AT3G57000	46.96	247	119	12	5	247	60	298	6.7e-41	164.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00497T0 | CIMG_00497 | Coccidioides immitis RS nucleolar essential protein  - 256 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_00497T0	atha|AT3G57000	44.83	232	112	16	31	256	77	298	1.5e-35	146.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04770T0 | CNAG_04770 | Cryptococcus neoformans grubii H99 nucleolar essential protein  - 328 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_04770T0	atha|AT3G57000	43.64	275	121	34	58	328	54	298	2.4e-31	133.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_27136|Mucci1.estExt_Genewise1.C_30883 - 230 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_27136|Mucci1.estExt_Genewise1.C_30883	atha|AT3G57000	51.87	214	93	10	21	230	91	298	7.6e-43	170.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03587T0 | MGG_03587 | Magnaporthe grisea (M. oryzae) 70-15 nucleolar essential protein  - 240 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_03587T0	atha|AT3G57000	40.26	231	104	34	27	240	85	298	1.7e-23	106.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_38559|e_gw1.41.52.1 - 257 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_38559|e_gw1.41.52.1	atha|AT3G57000	49.49	198	94	6	64	257	103	298	9.3e-34	140.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU02428T0 | NCU02428 | Neurospora crassa OR74A (finished) nucleolar essential protein  - 265 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU02428T0	atha|AT3G57000	46.93	228	103	18	42	265	85	298	2.9e-31	132.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_164536 - 257 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_164536	atha|AT3G57000	47.37	228	102	18	34	257	85	298	2.5e-35	145.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_071240 |  Neosartorya fischeri nul - 254 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_071240	atha|AT3G57000	44.68	235	110	20	27	254	77	298	3.4e-34	142.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_85901 - 250 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_85901	atha|AT3G57000	47.37	228	102	18	27	250	85	298	2.1e-36	149.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563319.1| gi|255945103 Pc20g07960 [Penicillium chrysogenum Wisconsi - 259 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002563319.1|	atha|AT3G57000	45.06	233	111	17	33	259	77	298	5.1e-37	151.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_47968|estExt_fgenesh1_pm.C_20025 - 258 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_47968|estExt_fgenesh1_pm.C_20025	atha|AT3G57000	50.23	213	89	17	42	250	91	290	6.4e-36	147.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14072 | RO3G_14073 | Rhizopus oryzae hypothetical protei - 259 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_14072	atha|AT3G57000	48.06	258	119	15	6	259	52	298	2.8e-44	175.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YLR186W EMG1 SGDID:S000004176, Chr XII from 523634-524392, Verified ORF, "Member of the alpha/beta knot fold methyltransferas - 252 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YLR186W	atha|AT3G57000	46.86	239	115	12	18	252	68	298	1.9e-41	166.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_12263 | SNOG_12263 | Stagonospora nodorum hypothetical protei - 264 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_12263	atha|AT3G57000	37.81	283	136	40	8	263	28	297	1.5e-22	103.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC18G6_07c.1 | SPAC18G6_07c | Schizosaccharomyces pombe 972h- ribosome biogenesis protein Mra - 359 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPAC18G6_07c.1	atha|AT3G57000	49.53	214	98	10	150	359	91	298	1.1e-31	134.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04473T0 | SPPG_04473 | Spizellomyces punctatus DAOM BR117 nucleolar essential protein  - 246 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_04473T0	atha|AT3G57000	46.84	237	97	29	15	246	86	298	3.9e-22	102.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_28190|fgenesh1_pg.C_scaffold_7000095 - 299 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_28190|fgenesh1_pg.C_scaffold_7000095	atha|AT3G57000	46.52	230	106	17	74	299	82	298	2.9e-24	109.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_54841|e_gw1.6.1017.1 - 250 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_54841|e_gw1.6.1017.1	atha|AT3G57000	47.37	228	102	18	27	250	85	298	8.4e-36	147.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_37578|estExt_Genewise1.C_20282 - 324 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_37578|estExt_Genewise1.C_20282	atha|AT3G57000	36.05	319	176	28	10	324	4	298	8.8e-32	134.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_121955|estExt_fgenesh5_pg.C_100004 - 261 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_121955|estExt_fgenesh5_pg.C_100004	atha|AT3G57000	44.78	230	109	18	36	261	83	298	1.1e-33	140.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_53020|e_gw1.8.1085.1 - 250 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_53020|e_gw1.8.1085.1	atha|AT3G57000	46.05	228	105	18	27	250	85	298	2.9e-35	145.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um06195 related to EMG1 - Protein required for ribosome  - 389 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um06195	atha|AT3G57000	42.52	294	136	33	104	389	30	298	1.9e-23	107.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E01496gT0 gene=YALI0E01496g Ylip_CLIB122_chrE:1702 - 258 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0E01496gT0	atha|AT3G57000	42.69	260	137	12	2	257	46	297	3.1e-37	152.2

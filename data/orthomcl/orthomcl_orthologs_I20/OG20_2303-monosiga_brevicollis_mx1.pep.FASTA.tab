@@ -1,0 +1,112 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB10641.1 - 242 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu5g03680 Afu5g03680 A_fumigatus_Af293 AspGDID: COORDS:chr5:984370-985825(-) translated using codon table 1 (446 amino acids) t - 445 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu5g03680	mbre|t_7580	32.94	85	47	10	156	233	55	136	2.4e-05	44.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_06698T0 | AMAG_06698 | Allomyces macrogynus ATCC 38327 transcription initiation factor TFIID subunit  - 484 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_08232T0 | ANID_08232 | Aspergillus nidulans FGSC A4 transcription initiation factor TFIID complex 60 kDa subuni - 445 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_08232T0	mbre|t_7580	32.53	83	48	8	158	233	55	136	2.2e-05	44.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07977 | BC1G_07977 | Botrytis cinerea hypothetical protein similar to TATA binding protein-associated facto - 472 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_07977	mbre|t_7580	33.33	75	47	3	172	243	64	138	6.7e-05	43.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7454 |  Candida Albicans sc5314 assembly 21 orf19.745 - 519 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.7454	mbre|t_7580	30.12	83	52	6	208	284	54	136	2.2e-05	44.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_01300 | PGUG_01300 | Candida guilliermondii hypothetical protei - 489 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_01300	mbre|t_7580	31.01	129	77	12	149	268	11	136	6.3e-08	53.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_11775T0 | CIMG_11775 | Coccidioides immitis RS transcription initiation factor TFIID complex 60 kDa subuni - 446 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_11775T0	mbre|t_7580	36.78	87	47	8	158	237	55	140	6.8e-07	49.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02536T0 | CNAG_02536 | Cryptococcus neoformans grubii H99 transcription initiation factor TFIID complex 60 kDa subuni - 520 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_72765|Mucci1.fgeneshMC_pm.3_#_64 - 390 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_72765|Mucci1.fgeneshMC_pm.3_#_64	mbre|t_7580	30.11	93	55	10	151	233	48	140	9.2e-05	42.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04877T0 | MGG_04877 | Magnaporthe grisea (M. oryzae) 70-15 transcription initiation factor TFIID subunit  - 492 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_04877T0	mbre|t_7580	29.13	127	73	17	138	247	10	136	0.00045	40.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_47407|estExt_Genewise1Plus.C_70212 - 562 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU07757T0 | NCU07757 | Neurospora crassa OR74A (finished) transcription initiation factor TFIID complex 60 kDa subuni - 465 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU07757T0	mbre|t_7580	30.17	116	69	12	137	242	23	136	8.1e-05	42.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_128942 - 530 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_128942	mbre|t_7580	30.17	116	69	12	202	307	23	136	0.0001	42.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_038440 |  Neosartorya fischeri nul - 445 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_038440	mbre|t_7580	32.94	85	47	10	156	233	55	136	3.1e-05	44.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_128140 - 536 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_128140	mbre|t_7580	30.17	116	69	12	208	313	23	136	0.00011	42.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002567195.1| gi|255952885 Pc21g01240 [Penicillium chrysogenum Wisconsi - 442 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002567195.1|	mbre|t_7580	34.83	89	48	10	156	237	55	140	5e-06	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_35674|estExt_Genewise1Plus.C_5_t10350 - 530 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_02431 | RO3G_02432 | Rhizopus oryzae hypothetical protei - 220 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_02431	mbre|t_7580	28.81	118	67	17	81	186	28	140	1.8e-05	43.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YGL112C TAF6 SGDID:S000003080, Chr VII from 299731-298181, reverse complement, Verified ORF, "Subunit (60 kDa) of TFIID and S - 516 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YGL112C	mbre|t_7580	28.46	130	83	10	151	277	14	136	3.1e-06	47.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_10944 | SNOG_10944 | Stagonospora nodorum hypothetical protei - 468 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC16C4_18c.1 | SPCC16C4_18c | Schizosaccharomyces pombe 972h- histone H4-like TAF Taf6, SAGA complex subuni - 452 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPCC16C4_18c.1	mbre|t_7580	36.36	88	49	7	165	245	49	136	1.5e-06	48.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03206T0 | SPPG_03206 | Spizellomyces punctatus DAOM BR117 transcription initiation factor TFIID subunit  - 708 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_03206T0	mbre|t_17976	33.59	262	151	23	17	270	72	318	2.9e-18	89.7
+spun|SPPG_03206T0	mbre|t_26630	22.10	267	186	22	20	271	5	264	0.00059	41.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_3514|gw1.6.279.1 - 357 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_115062|estExt_fgenesh1_pm.C_30576 - 468 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_115062|estExt_fgenesh1_pm.C_30576	mbre|t_7580	31.03	116	68	12	138	243	23	136	4.7e-05	43.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_70674|estExt_fgeneshTM_pm.C_10187 - 486 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_106473|fgenesh5_pg.C_scaffold_7000274 - 468 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_106473|fgenesh5_pg.C_scaffold_7000274	mbre|t_7580	32.99	97	55	10	157	243	40	136	0.00016	41.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_162633|estExt_genemark.C_20766 - 545 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_162633|estExt_genemark.C_20766	mbre|t_7580	31.90	116	67	12	215	320	23	136	3.6e-05	44.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03802 related to TAF6 - Subunit (60 kDa) of TFIID and SAGA - 701 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0C05346gT0 gene=YALI0C05346g Ylip_CLIB122_chrC:complement(68614 - 482 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0C05346gT0	mbre|t_7580	28.38	148	88	18	117	261	8	140	1e-05	45.8

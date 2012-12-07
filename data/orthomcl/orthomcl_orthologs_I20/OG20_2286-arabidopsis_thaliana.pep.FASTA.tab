@@ -1,0 +1,148 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB07395.1 - 192 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB07395.1	atha|AT1G09150	45.69	197	86	21	1	192	1	181	4.1e-22	100.8
+abra|AB07395.1	atha|AT1G71350	25.77	194	121	23	1	187	1	178	1e-05	48.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g09810 Afu1g09810 A_fumigatus_Af293 AspGDID: COORDS:chr1:2546040-2546680(+) translated using codon table 1 (183 amino acids) - 182 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu1g09810	atha|AT1G09150	50.79	126	59	3	54	179	55	177	1.4e-21	99.0
+afum|Afu1g09810	atha|AT1G71350	28.46	130	82	11	55	178	55	179	5e-05	45.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04924T0 | AMAG_04924 | Allomyces macrogynus ATCC 38327 ligati - 209 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_04924T0	atha|AT1G09150	53.88	206	69	26	3	208	1	180	5.5e-18	87.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10175T0 | ANID_10175 | Aspergillus nidulans FGSC A4 PUA RNA binding domain-containing protei - 194 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_10175T0	atha|AT1G09150	50.00	130	61	4	66	194	55	181	1.6e-23	105.5
+anid|ANID_10175T0	atha|AT1G71350	31.54	130	78	11	67	190	55	179	1.4e-07	54.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_04859 | BC1G_04859 | Botrytis cinerea translation machinery-associated protein 2 - 200 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_04859	atha|AT1G09150	40.30	201	92	28	1	197	1	177	5.6e-18	87.1
+bcin|BC1T_04859	atha|AT1G71350	25.87	201	120	29	1	195	1	178	5.3e-07	52.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.2920 |  Candida Albicans sc5314 assembly 21 orf19.292 - 184 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.2920	atha|AT1G09150	48.37	184	88	7	1	183	1	178	1.7e-35	145.2
+calb_sc5314|orf19.2920	atha|AT1G71350	23.81	189	132	12	1	184	1	182	8.9e-10	61.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_00630 | PGUG_00630 | Candida guilliermondii conserved hypothetical protei - 179 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_00630	atha|AT1G09150	47.73	176	90	2	1	175	1	175	4.3e-34	140.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_10274T0 | CIMG_10274 | Coccidioides immitis RS translation machinery-associated protein 2 - 186 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_10274T0	atha|AT1G09150	44.15	188	91	14	1	184	1	178	5.6e-31	130.2
+cimm_rs|CIMG_10274T0	atha|AT1G71350	27.13	188	120	17	1	181	1	178	4.5e-07	52.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02656T0 | CNAG_02656 | Cryptococcus neoformans grubii H99 translation machinery-associated protein 2 - 253 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_02656T0	atha|AT1G09150	46.05	152	82	0	100	251	29	180	7.4e-20	93.7
+cneo_h99|CNAG_02656T0	atha|AT1G71350	28.57	147	97	8	107	247	35	179	2.3e-05	47.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155051|fgenesh1_kg.01_#_398_#_1760_1_CCIA - 182 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_155051|fgenesh1_kg.01_#_398_#_1760_1_CCIA	atha|AT1G09150	58.19	177	73	1	1	177	1	176	5.1e-45	176.8
+mcin|t_155051|fgenesh1_kg.01_#_398_#_1760_1_CCIA	atha|AT1G71350	25.54	184	123	14	1	176	1	178	2.2e-09	60.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_05436T0 | MGG_05436 | Magnaporthe grisea (M. oryzae) 70-15 translation machinery-associated protein 2 - 201 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_05436T0	atha|AT1G09150	37.50	192	95	25	9	199	11	178	3.7e-15	77.8
+mgri|MGG_05436T0	atha|AT1G71350	28.14	199	119	24	1	196	1	178	1.9e-08	57.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_40316|e_gw1.71.12.1 - 193 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_40316|e_gw1.71.12.1	atha|AT1G09150	47.12	191	89	12	3	193	2	180	6.3e-32	133.4
+mlar|t_40316|e_gw1.71.12.1	atha|AT1G71350	26.06	188	123	16	6	188	2	178	6.2e-08	55.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU08678T0 | NCU08678 | Neurospora crassa OR74A (finished) translation machinery-associated protein 2 - 217 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU08678T0	atha|AT1G09150	36.41	217	95	43	1	214	1	177	4.7e-17	84.2
+ncra|NCU08678T0	atha|AT1G71350	26.61	218	120	40	1	215	1	181	4.9e-09	59.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_165889 - 217 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_165889	atha|AT1G09150	36.41	217	95	43	1	214	1	177	3.4e-17	84.7
+ndis|NEUDI1_165889	atha|AT1G71350	26.61	218	120	40	1	215	1	181	6.2e-09	58.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_015810 |  Neosartorya fischeri nul - 181 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_015810	atha|AT1G09150	49.44	180	86	5	1	178	1	177	2.3e-33	138.1
+nfis|NFIA_015810	atha|AT1G71350	27.17	184	122	12	1	177	1	179	7.9e-11	65.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_121353 - 217 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_121353	atha|AT1G09150	36.41	217	95	43	1	214	1	177	3.2e-17	84.8
+ntet|NEUTE1_121353	atha|AT1G71350	27.06	218	119	40	1	215	1	181	3.8e-09	59.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002560956.1| gi|255940374 Pc16g06200 [Penicillium chrysogenum Wisconsi - 161 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002560956.1|	atha|AT1G09150	51.54	130	59	4	33	161	55	181	5.6e-24	106.8
+pechr_54_1255|XP_002560956.1|	atha|AT1G71350	30.23	129	79	11	34	156	55	178	5.1e-07	52.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_16585|e_gw1.10.152.1 - 185 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_16585|e_gw1.10.152.1	atha|AT1G09150	47.51	181	87	8	5	185	8	180	8.4e-35	142.9
+rgra|t_16585|e_gw1.10.152.1	atha|AT1G71350	28.07	171	106	17	18	181	19	179	2.5e-09	60.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_05466 | RO3G_05467 | Rhizopus oryzae hypothetical protei - 172 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_05466	atha|AT1G09150	53.11	177	52	31	1	147	1	176	6.5e-24	106.6
+rory|RO3T_05466	atha|AT1G71350	27.47	91	63	3	59	147	90	179	9.9e-05	44.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YER007C-A TMA20 SGDID:S000002957, Chr V from 166884-166874,166770-166236, reverse complement, Verified ORF, "Protein of unknown - 181 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YER007C-A	atha|AT1G09150	45.76	177	93	3	1	176	1	175	2e-30	128.3
+scer_s288c|YER007C-A	atha|AT1G71350	25.67	187	119	20	1	176	1	178	1e-11	67.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_06935 | SNOG_06935 | Stagonospora nodorum hypothetical protei - 192 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_06935	atha|AT1G09150	46.19	197	85	21	1	192	1	181	1.1e-23	106.1
+snod|SNOT_06935	atha|AT1G71350	27.18	195	117	25	1	187	1	178	5.5e-06	49.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC31F10_12.1 | SPBC31F10_12 | Schizosaccharomyces pombe 972h- RNA-binding protein Tma20 (predicted - 181 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPBC31F10_12.1	atha|AT1G09150	48.59	177	90	1	1	177	1	176	2.5e-36	148.0
+spom|SPBC31F10_12.1	atha|AT1G71350	24.60	187	125	16	1	178	1	180	1.5e-10	64.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_08348T0 | SPPG_08348 | Spizellomyces punctatus DAOM BR117 ligati - 182 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_08348T0	atha|AT1G09150	59.32	177	71	1	1	177	1	176	1.1e-45	179.1
+spun|SPPG_08348T0	atha|AT1G71350	21.08	185	134	12	1	178	1	180	4.8e-07	52.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14473|e_gw1.8.303.1 - 186 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_14473|e_gw1.8.303.1	atha|AT1G09150	46.96	181	88	8	6	186	8	180	2.3e-32	134.8
+sror|t_14473|e_gw1.8.303.1	atha|AT1G71350	28.00	175	105	21	15	182	19	179	6.7e-08	55.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_109556|estExt_fgenesh1_kg.C_10082 - 224 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_109556|estExt_fgenesh1_kg.C_10082	atha|AT1G09150	35.87	223	95	48	1	221	1	177	2.8e-17	85.0
+sthe|t_109556|estExt_fgenesh1_kg.C_10082	atha|AT1G71350	28.81	118	79	5	1	113	1	118	3.3e-06	50.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_44990|estExt_Genewise1Plus.C_90347 - 263 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_44990|estExt_Genewise1Plus.C_90347	atha|AT1G09150	42.76	152	87	0	110	261	29	180	2.6e-20	95.3
+tmes|t_44990|estExt_Genewise1Plus.C_90347	atha|AT1G71350	29.66	145	94	8	119	257	37	179	8.7e-07	52.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_1983|fgenesh1_pm.C_scaffold_1000317 - 201 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_1983|fgenesh1_pm.C_scaffold_1000317	atha|AT1G09150	38.31	201	98	26	1	199	1	177	1.2e-18	89.4
+tree|t_1983|fgenesh1_pm.C_scaffold_1000317	atha|AT1G71350	27.09	203	117	31	1	197	1	178	2.3e-08	56.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_118336|fgenesh2_pm.1_#_135 - 240 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_118336|fgenesh2_pm.1_#_135	atha|AT1G09150	35.12	242	94	63	1	240	1	181	1.8e-13	72.5
+tter|t_118336|fgenesh2_pm.1_#_135	atha|AT1G71350	32.50	120	76	5	1	117	1	118	1.3e-06	51.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um00009 related to TMA20 - Protein putative involved in cytoplasmic ribosom - 197 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um00009	atha|AT1G09150	41.71	187	97	12	3	189	1	175	2.1e-28	121.8
+umay|um00009	atha|AT1G71350	30.81	198	117	20	3	195	1	183	9.6e-12	68.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0A17380gT0 gene=YALI0A17380g Ylip_CLIB122_chrA:complement(1796369 - 263 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0A17380gT0	atha|AT1G09150	47.16	176	92	1	84	259	1	175	2.6e-34	141.8
+ylip|YALI0A17380gT0	atha|AT1G71350	25.27	186	129	10	84	263	1	182	1.4e-09	61.4

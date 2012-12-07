@@ -1,0 +1,125 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB01773.1 - 138 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB01773.1	atha|AT3G59280	38.18	110	62	6	1	110	1	104	6.3e-09	55.9
+abra|AB01773.1	atha|AT5G61880.1	32.46	114	69	8	1	114	1	106	1e-05	45.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu7g04150 Afu7g04150 A_fumigatus_Af293 AspGDID: COORDS:chr7:937236-938035(-) translated using codon table 1 (174 amino acids) C - 173 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu7g04150	atha|AT3G59280	35.96	114	67	6	36	149	1	108	2.1e-09	57.8
+afum|Afu7g04150	atha|AT5G61880.1	30.89	123	73	12	36	156	1	113	3.2e-07	50.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_05474T0 | AMAG_05474 | Allomyces macrogynus ATCC 38327 predicted protei - 150 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_05693T0 | ANID_05693 | Aspergillus nidulans FGSC A4 mitochondrial import inner membrane translocase subunit tim1 - 135 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_05693T0	atha|AT3G59280	38.60	114	61	9	1	111	1	108	4.2e-09	56.5
+anid|ANID_05693T0	atha|AT5G61880.1	32.79	122	69	13	1	118	1	113	1.9e-07	50.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_00158 | BC1G_00158 | Botrytis cinerea mitochondrial import inner membrane translocase subunit tim-1 - 160 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_00158	atha|AT3G59280	40.00	115	54	15	1	111	1	104	3.2e-09	57.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7222 |  Candida Albicans sc5314 assembly 21 orf19.722 - 121 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.7222	atha|AT5G61880.1	44.34	106	52	7	1	103	1	102	1.9e-09	57.4
+calb_sc5314|orf19.7222	atha|AT3G59280	42.06	107	55	7	1	103	1	104	1.9e-09	57.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02556 | PGUG_02556 | Candida guilliermondii hypothetical protei - 126 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_02556	atha|AT3G59280	39.62	106	58	6	1	103	1	103	1.4e-08	54.6
+cgui|PGUT_02556	atha|AT5G61880.1	38.46	104	60	4	1	103	1	101	8.5e-08	52.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_04376T0 | CIMG_04376 | Coccidioides immitis RS mitochondrial import inner membrane translocase subunit tim-1 - 127 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_04376T0	atha|AT3G59280	38.98	118	59	13	1	115	1	108	5.3e-10	59.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03098T0 | CNAG_03098 | Cryptococcus neoformans grubii H99 conserved hypothetical protei - 167 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_42109|Mucci1.e_gw1.7.566.1 - 139 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_42109|Mucci1.e_gw1.7.566.1	atha|AT5G61880.1	39.00	100	57	4	1	100	4	99	3.7e-08	53.3
+mcin|t_42109|Mucci1.e_gw1.7.566.1	atha|AT3G59280	39.22	102	56	6	1	100	4	101	4.3e-08	53.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00406T0 | MGG_00406 | Magnaporthe grisea (M. oryzae) 70-15 mitochondrial import inner membrane translocase subunit tim-1 - 265 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_00406T0	atha|AT3G59280	37.93	116	65	7	121	236	2	110	7.1e-08	53.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_91854|EuGene.00460038 - 139 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05515T0 | NCU05515 | Neurospora crassa OR74A (finished) mitochondrial import inner membrane translocase subunit tim1 - 141 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU05515T0	atha|AT3G59280	41.38	116	53	15	1	113	1	104	4.5e-05	43.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_80018 - 141 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_80018	atha|AT3G59280	40.16	122	58	15	1	119	1	110	9.8e-06	45.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_025130 |  Neosartorya fischeri nul - 138 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_025130	atha|AT3G59280	35.96	114	67	6	1	114	1	108	1.4e-09	58.1
+nfis|NFIA_025130	atha|AT5G61880.1	31.71	123	72	12	1	121	1	113	4.9e-08	52.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_87585 - 141 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_87585	atha|AT3G59280	41.38	116	53	15	1	113	1	104	4.5e-05	43.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002567506.1| gi|255953507 Pc21g04600 [Penicillium chrysogenum Wisconsi - 135 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002567506.1|	atha|AT3G59280	38.60	114	61	9	1	111	1	108	4.4e-11	63.0
+pechr_54_1255|XP_002567506.1|	atha|AT5G61880.1	35.09	114	65	9	1	112	1	107	1.7e-08	54.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_54714|estExt_Genemark1.C_100036 - 185 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_00903 | RO3G_00904 | Rhizopus oryzae predicted protei - 718 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_00903	atha|AT3G59280	39.29	112	54	14	577	686	2	101	9.9e-05	44.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YJL104W PAM16 SGDID:S000003640, Chr X from 227322-227771, Verified ORF, "Constituent of the import motor (PAM complex) compon - 149 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+scer_s288c|YJL104W	atha|AT3G59280	35.78	109	65	5	1	109	1	104	1.7e-08	54.6
+scer_s288c|YJL104W	atha|AT5G61880.1	38.05	113	55	15	1	109	1	102	2.3e-08	54.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_02122 | SNOG_02122 | Stagonospora nodorum hypothetical protei - 192 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_02122	atha|AT3G59280	37.84	111	61	8	54	164	2	104	4e-07	50.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC713_10.1 | SPBC713_10 | Schizosaccharomyces pombe 972h- TIM23 translocase complex subunit Tim1 - 128 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPBC713_10.1	atha|AT3G59280	38.10	105	61	4	5	109	4	104	2e-09	57.5
+spom|SPBC713_10.1	atha|AT5G61880.1	38.89	108	56	10	5	110	4	103	9.6e-09	55.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04134T0 | SPPG_04134 | Spizellomyces punctatus DAOM BR117 import inner membrane translocase subunit tim1 - 127 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_04134T0	atha|AT3G59280	43.22	118	59	8	4	119	2	113	3e-15	76.8
+spun|SPPG_04134T0	atha|AT5G61880.1	43.97	116	55	10	4	117	2	109	5.1e-14	72.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14663|e_gw1.8.343.1 - 158 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_102490|fgenesh1_pm.5_#_276 - 140 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_102490|fgenesh1_pm.5_#_276	atha|AT3G59280	40.00	115	55	14	1	112	1	104	3.6e-10	60.1
+sthe|t_102490|fgenesh1_pm.5_#_276	atha|AT5G61880.1	35.09	114	60	14	1	112	1	102	0.00029	40.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_23769|gw1.1.2925.1 - 138 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_107123|fgenesh5_pg.C_scaffold_8000402 - 140 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_107123|fgenesh5_pg.C_scaffold_8000402	atha|AT3G59280	40.87	115	54	14	1	112	1	104	8.3e-09	55.5
+tree|t_107123|fgenesh5_pg.C_scaffold_8000402	atha|AT5G61880.1	35.96	114	59	14	1	112	1	102	1.6e-05	44.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_109192|fgenesh2_kg.5_#_154_#_642_1_CCPH - 142 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_109192|fgenesh2_kg.5_#_154_#_642_1_CCPH	atha|AT3G59280	39.50	119	60	12	1	118	1	108	8.7e-06	45.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03530 related to PAM16 - Presequence translocase-Asssoci - 183 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0F03047gT0 gene=YALI0F03047g Ylip_CLIB122_chrF:complement(42551 - 147 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa

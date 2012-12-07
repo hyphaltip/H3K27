@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB06768.1 - 381 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB06768.1	mbre|t_30065	40.94	276	123	40	21	293	79	317	7.9e-14	73.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g07230 Afu3g07230 A_fumigatus_Af293 AspGDID: COORDS:chr3:1816056-1817288(-) translated using codon table 1 (411 amino acids) - 410 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu3g07230	mbre|t_30065	41.94	279	107	55	48	324	102	327	1.6e-12	69.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04598T0 | AMAG_04598 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 370 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_04598T0	mbre|t_30065	43.91	271	112	40	31	300	88	319	2.8e-14	75.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04830T0 | ANID_04830 | Aspergillus nidulans FGSC A4 phosphopantothenate-cysteine ligas - 398 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_04830T0	mbre|t_30065	40.07	277	113	53	40	314	102	327	1.4e-12	69.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_02344 | BC1G_02344 | Botrytis cinerea phosphopantothenate-cysteine ligas - 461 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_02344	mbre|t_30065	37.00	373	172	63	37	408	37	347	1.1e-08	57.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7357 |  Candida Albicans sc5314 assembly 21 orf19.735 - 209 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.7357	mbre|t_30065	35.20	179	108	8	20	198	181	351	7.9e-19	89.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02000 | PGUG_02000 | Candida guilliermondii hypothetical protei - 340 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_02000	mbre|t_30065	37.50	280	158	17	52	331	89	351	6.7e-12	67.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00337T0 | CIMG_00337 | Coccidioides immitis RS phosphopantothenate-cysteine ligas - 429 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_00337T0	mbre|t_30065	35.83	307	118	79	50	354	102	331	7.3e-11	64.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02222T0 | CNAG_02222 | Cryptococcus neoformans grubii H99 phosphopantothenate-cysteine ligas - 367 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_02222T0	mbre|t_30065	40.07	287	148	24	24	307	84	349	2.8e-21	98.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_83470|Mucci1.fgeneshMC_pg.6_#_412 - 334 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_83470|Mucci1.fgeneshMC_pg.6_#_412	mbre|t_30065	41.35	266	139	17	60	324	102	351	1.2e-22	102.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_02725T0 | MGG_02725 | Magnaporthe grisea (M. oryzae) 70-15 phosphopantothenate-cysteine ligas - 439 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_02725T0	mbre|t_30065	36.36	330	118	92	36	365	85	322	2.1e-09	59.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_38628|e_gw1.42.43.1 - 338 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_38628|e_gw1.42.43.1	mbre|t_30065	38.44	294	144	37	44	336	102	359	5.3e-19	90.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU09090T0 | NCU09090 | Neurospora crassa OR74A (finished) phosphopantothenate-cysteine ligas - 440 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU09090T0	mbre|t_30065	37.58	298	109	77	52	349	102	322	3.9e-09	58.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_72917 - 433 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_72917	mbre|t_30065	38.51	296	106	76	52	346	102	322	2.9e-09	58.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_070020 |  Neosartorya fischeri nul - 410 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_070020	mbre|t_30065	41.22	279	109	55	48	324	102	327	3.8e-12	68.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_70340 - 435 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_70340	mbre|t_30065	37.71	297	109	76	52	348	102	322	6.3e-09	57.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562776.1| gi|255944017 Pc20g02180 [Penicillium chrysogenum Wisconsi - 399 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002562776.1|	mbre|t_30065	41.30	276	110	52	48	322	102	326	2.3e-12	69.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_52551|estExt_Genemark1.C_4_t10431 - 392 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_52551|estExt_Genemark1.C_4_t10431	mbre|t_30065	34.72	360	142	93	23	378	84	354	1.3e-11	66.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14617 | RO3G_14618 | Rhizopus oryzae hypothetical protei - 314 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_14617	mbre|t_30065	40.00	275	137	28	54	313	102	363	7.4e-22	100.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YIL083C CAB2 SGDID:S000001345, Chr IX from 204650-203553, reverse complement, Verified ORF, "Probable phosphopantothenoylcyst - 365 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YIL083C	mbre|t_30065	37.29	295	146	39	74	364	102	361	2.6e-15	78.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_00223 | SNOG_00223 | Stagonospora nodorum hypothetical protei - 379 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_00223	mbre|t_30065	41.39	273	123	37	21	290	79	317	2.7e-14	75.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC4B3_18.1 | SPCC4B3_18 | Schizosaccharomyces pombe 972h- phosphopantothenate-cysteine ligas - 316 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPCC4B3_18.1	mbre|t_30065	40.32	248	133	15	22	269	85	317	4.1e-14	74.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00070T0 | SPPG_00070 | Spizellomyces punctatus DAOM BR117 phosphopantothenate-cysteine ligas - 349 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_00070T0	mbre|t_30065	38.78	294	148	32	47	339	89	351	5.8e-16	80.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_8951|e_gw1.1.830.1 - 328 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_8951|e_gw1.1.830.1	mbre|t_30065	38.33	287	152	25	10	295	69	331	2e-17	85.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_74968|estExt_Genewise1Plus.C_13161 - 377 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_74968|estExt_Genewise1Plus.C_13161	mbre|t_30065	41.10	292	120	52	33	316	84	331	8.2e-25	110.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_44607|estExt_Genewise1Plus.C_80023 - 354 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_44607|estExt_Genewise1Plus.C_80023	mbre|t_30065	44.53	256	118	24	21	274	84	317	7.2e-21	97.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3350|fgenesh1_pm.C_scaffold_6000098 - 373 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_3350|fgenesh1_pm.C_scaffold_6000098	mbre|t_30065	36.24	367	164	70	5	370	64	361	6.6e-14	74.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_56819|estExt_Genewise1.C_15696 - 389 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_56819|estExt_Genewise1.C_15696	mbre|t_30065	42.47	299	118	54	33	328	84	331	3.3e-13	71.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03699 conserved hypothetical protein - 369 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um03699	mbre|t_30065	40.55	254	123	28	46	298	102	328	2.5e-18	88.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0C06996gT0 gene=YALI0C06996g Ylip_CLIB122_chrC:complement(93759 - 333 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0C06996gT0	mbre|t_30065	38.29	316	165	30	18	324	57	351	2.9e-14	75.1

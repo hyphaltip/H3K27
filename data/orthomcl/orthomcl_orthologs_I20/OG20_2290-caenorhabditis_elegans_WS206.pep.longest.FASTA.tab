@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB08389.1 - 514 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB08389.1	cele|cele_M03C11.7	30.45	509	311	43	23	512	123	607	1.9e-32	138.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g13890 Afu1g13890 A_fumigatus_Af293 AspGDID: COORDS:chr1:3709487-3711259(-) translated using codon table 1 (591 amino acids) - 590 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu1g13890	cele|cele_M03C11.7	32.23	515	296	53	92	584	124	607	5.7e-24	110.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_09332T0 | AMAG_09332 | Allomyces macrogynus ATCC 38327 predicted protei - 533 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_09332T0	cele|cele_M03C11.7	33.18	440	239	55	88	523	216	604	3.3e-24	110.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_00727T0 | ANID_00727 | Aspergillus nidulans FGSC A4 U4/U6 small nuclear ribonucleoprotei - 520 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_00727T0	cele|cele_M03C11.7	31.65	496	302	37	31	513	136	607	1.1e-28	125.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_12808 | BC1G_12808 | Botrytis cinerea U4/U6 small nuclear ribonucleoprotein Prp - 361 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_12808	cele|cele_M03C11.7	31.11	360	216	32	26	358	124	478	3.6e-24	110.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.910 |  Candida Albicans sc5314 assembly 21 orf19.91 - 446 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.910	cele|cele_M03C11.7	28.91	422	282	18	33	443	193	607	9.5e-31	132.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02919 | PGUG_02919 | Candida guilliermondii hypothetical protei - 476 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_02919	cele|cele_M03C11.7	32.75	397	254	13	79	468	212	602	1.6e-35	148.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03379T0 | CIMG_03379 | Coccidioides immitis RS U4/U6 small nuclear ribonucleoprotei - 592 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_03379T0	cele|cele_M03C11.7	29.71	589	339	75	10	586	82	607	8e-27	119.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_01809T0 | CNAG_01809 | Cryptococcus neoformans grubii H99 small nuclear ribonucleoprotein hPrp - 590 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_01809T0	cele|cele_M03C11.7	27.50	560	347	59	42	579	82	604	1.7e-16	85.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_33483|Mucci1.e_gw1.1.429.1 - 400 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_33483|Mucci1.e_gw1.1.429.1	cele|cele_M03C11.7	39.95	393	214	22	3	389	233	609	1e-41	168.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_01157T0 | MGG_01157 | Magnaporthe grisea (M. oryzae) 70-15 U4/U6 small nuclear ribonucleoprotein Prp - 487 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_01157T0	cele|cele_M03C11.7	31.91	376	231	25	119	487	252	609	2.1e-33	141.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_116022|estExt_fgenesh2_pg.C_110265 - 625 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_116022|estExt_fgenesh2_pg.C_110265	cele|cele_M03C11.7	29.13	563	348	51	69	615	77	604	2.4e-28	124.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU01637T0 | NCU01637 | Neurospora crassa OR74A (finished) U4/U6 small nuclear ribonucleoprotei - 489 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU01637T0	cele|cele_M03C11.7	30.91	482	288	45	4	479	160	602	2.3e-30	131.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_102480 - 489 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_102480	cele|cele_M03C11.7	31.12	482	287	45	4	479	160	602	1.1e-30	132.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_011580 |  Neosartorya fischeri nul - 591 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_011580	cele|cele_M03C11.7	32.04	515	298	52	92	585	124	607	2.3e-24	111.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_130396 - 489 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_130396	cele|cele_M03C11.7	30.91	482	288	45	4	479	160	602	2.1e-30	131.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002561533.1| gi|255941528 Pc16g12340 [Penicillium chrysogenum Wisconsi - 585 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002561533.1|	cele|cele_M03C11.7	34.99	403	230	32	187	579	227	607	4.7e-16	83.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_11746|e_gw1.2.67.1 - 470 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_11746|e_gw1.2.67.1	cele|cele_M03C11.7	31.58	456	263	49	22	459	180	604	6.9e-32	136.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03327 | RO3G_03328 | Rhizopus oryzae hypothetical protei - 421 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_03327	cele|cele_M03C11.7	31.64	433	256	40	5	413	67	483	1.4e-28	125.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR473C PRP3 SGDID:S000002881, Chr IV from 1405847-1404438, reverse complement, Verified ORF, "Splicing factor, component of  - 469 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YDR473C	cele|cele_M03C11.7	27.97	404	252	39	39	438	208	576	1.7e-15	81.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_14954 | SNOG_14954 | Stagonospora nodorum hypothetical protei - 489 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_14954	cele|cele_M03C11.7	29.80	490	304	40	17	487	139	607	4.5e-29	126.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC29E6_02.1 | SPAC29E6_02 | Schizosaccharomyces pombe 972h- U4/U6 x U5 tri-snRNP complex subunit Prp3 (predicted - 542 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPAC29E6_02.1	cele|cele_M03C11.7	29.91	545	356	26	2	537	80	607	3.2e-36	150.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_08410T0 | SPPG_08410 | Spizellomyces punctatus DAOM BR117 U4/U6 small nuclear ribonucleoprotein hPrp - 560 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_08410T0	cele|cele_M03C11.7	37.52	517	286	37	62	550	96	603	9.6e-50	195.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_20190|estExt_Genewise1Plus.C_10655 - 383 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_20190|estExt_Genewise1Plus.C_10655	cele|cele_M03C11.7	34.67	375	209	36	7	372	257	604	1.1e-31	135.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_104057|fgenesh1_pm.7_#_263 - 488 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_104057|fgenesh1_pm.7_#_263	cele|cele_M03C11.7	30.43	483	287	49	6	480	161	602	4.1e-33	140.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_13987|gw1.6.188.1 - 561 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_13987|gw1.6.188.1	cele|cele_M03C11.7	29.06	554	338	55	33	561	94	617	9e-26	116.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_6014|fgenesh1_pm.C_scaffold_39000009 - 464 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_6014|fgenesh1_pm.C_scaffold_39000009	cele|cele_M03C11.7	34.64	384	221	30	84	459	243	604	1.8e-32	138.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_64309|estExt_Genewise1.C_61483 - 493 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_64309|estExt_Genewise1.C_61483	cele|cele_M03C11.7	31.74	482	277	52	12	485	165	602	8.1e-34	142.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03964 related to PRP3 - essential splic - 669 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um03964	cele|cele_M03C11.7	27.71	563	325	82	127	657	92	604	1.7e-16	85.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0B05632gT0 gene=YALI0B05632g Ylip_CLIB122_chrB:complement(76231 - 519 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0B05632gT0	cele|cele_M03C11.7	29.72	535	336	40	10	511	75	602	1.3e-26	118.7

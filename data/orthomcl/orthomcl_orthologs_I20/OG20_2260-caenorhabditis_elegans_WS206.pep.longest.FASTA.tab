@@ -1,0 +1,177 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB01535.1 - 293 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB01535.1	cele|cele_F32D8.14	33.57	280	150	36	7	278	10	261	1.9e-11	66.3
+abra|AB01535.1	cele|cele_W02D9.2a	29.79	188	90	42	105	280	75	232	0.00047	41.5
+abra|AB01535.1	cele|cele_W02D9.2b	29.79	188	90	42	105	280	83	240	0.00049	41.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu4g04630 Afu4g04630 A_fumigatus_Af293 AspGDID: COORDS:chr4:1298065-1299112(+) translated using codon table 1 (318 amino acids) - 317 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu4g04630	cele|cele_F32D8.14	34.34	297	146	49	7	302	13	261	1.7e-08	56.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_06703T0 | AMAG_06703 | Allomyces macrogynus ATCC 38327 Yip1 domain-containing protei - 267 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_06703T0	cele|cele_F32D8.14	43.20	250	116	26	21	267	35	261	1.3e-30	129.8
+amac|AMAG_06703T0	cele|cele_Y60A3A.19b	27.24	246	162	17	25	261	11	248	1.9e-08	56.1
+amac|AMAG_06703T0	cele|cele_W02D9.2a	29.38	211	125	24	55	258	28	221	1.2e-07	53.3
+amac|AMAG_06703T0	cele|cele_W02D9.2b	29.38	211	125	24	55	258	36	229	1.3e-07	53.3
+amac|AMAG_06703T0	cele|cele_Y60A3A.19a	27.05	244	138	40	25	261	11	221	0.00065	40.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10878T0 | ANID_10878 | Aspergillus nidulans FGSC A4 golgi membrane protei - 312 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_10878T0	cele|cele_F32D8.14	32.99	291	152	43	7	297	14	261	1.2e-08	57.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_00159 | BC1G_00159 | Botrytis cinerea protein transport protein yip - 302 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_00159	cele|cele_F32D8.14	40.16	249	120	29	42	288	40	261	1.7e-09	59.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.3951 |  Candida Albicans sc5314 assembly 21 orf19.395 - 251 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.3951	cele|cele_F32D8.14	46.53	245	111	20	4	244	33	261	1.3e-32	136.4
+calb_sc5314|orf19.3951	cele|cele_Y60A3A.19b	29.41	238	144	24	16	238	20	248	1.3e-08	56.5
+calb_sc5314|orf19.3951	cele|cele_W02D9.2a	26.29	232	142	29	24	243	15	229	1.3e-05	46.5
+calb_sc5314|orf19.3951	cele|cele_W02D9.2b	26.29	232	142	29	24	243	23	237	1.3e-05	46.5
+calb_sc5314|orf19.3951	cele|cele_Y60A3A.19a	25.64	234	131	43	16	238	20	221	0.00027	42.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03046 | PGUG_03046 | Candida guilliermondii hypothetical protei - 205 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_03046	cele|cele_F32D8.14	47.13	157	81	2	42	197	106	261	3.6e-26	114.7
+cgui|PGUT_03046	cele|cele_W02D9.2a	27.08	192	124	16	17	196	42	229	4.6e-08	54.3
+cgui|PGUT_03046	cele|cele_W02D9.2b	27.08	192	124	16	17	196	50	237	4.7e-08	54.3
+cgui|PGUT_03046	cele|cele_Y60A3A.19b	30.66	137	85	10	59	191	118	248	1.2e-07	53.1
+cgui|PGUT_03046	cele|cele_Y60A3A.19a	24.82	141	100	6	51	191	87	221	4.7e-05	44.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_08533T0 | CIMG_08533 | Coccidioides immitis RS golgi membrane protei - 320 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_08533T0	cele|cele_F32D8.14	34.65	303	127	71	3	305	30	261	3e-08	55.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03508T0 | CNAG_03508 | Cryptococcus neoformans grubii H99 vesicle-mediated transport-related protein [Cryptococcus neoformans - 209 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_03508T0	cele|cele_F32D8.14	52.02	173	81	2	35	205	89	261	7.3e-35	143.5
+cneo_h99|CNAG_03508T0	cele|cele_W02D9.2a	33.33	135	82	8	68	196	89	221	3.3e-11	64.8
+cneo_h99|CNAG_03508T0	cele|cele_W02D9.2b	33.33	135	82	8	68	196	97	229	3.4e-11	64.8
+cneo_h99|CNAG_03508T0	cele|cele_Y60A3A.19b	29.38	211	133	16	2	199	41	248	8.8e-08	53.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155845|fgenesh1_kg.03_#_321_#_2472_1_CCIA - 262 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_155845|fgenesh1_kg.03_#_321_#_2472_1_CCIA	cele|cele_F32D8.14	45.67	254	119	19	14	262	22	261	2.8e-33	138.6
+mcin|t_155845|fgenesh1_kg.03_#_321_#_2472_1_CCIA	cele|cele_Y60A3A.19b	29.00	231	146	18	42	256	20	248	6.3e-09	57.7
+mcin|t_155845|fgenesh1_kg.03_#_321_#_2472_1_CCIA	cele|cele_W02D9.2a	31.76	170	90	26	108	259	66	227	2e-05	45.9
+mcin|t_155845|fgenesh1_kg.03_#_321_#_2472_1_CCIA	cele|cele_W02D9.2b	31.76	170	90	26	108	259	74	235	2e-05	45.9
+mcin|t_155845|fgenesh1_kg.03_#_321_#_2472_1_CCIA	cele|cele_Y60A3A.19a	27.19	228	127	39	42	256	20	221	4e-05	44.9
+mcin|t_155845|fgenesh1_kg.03_#_321_#_2472_1_CCIA	cele|cele_Y60A3A.19c	33.08	130	68	19	42	155	20	146	0.00031	41.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00407T0 | MGG_00407 | Magnaporthe grisea (M. oryzae) 70-15 conserved hypothetical protei - 332 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_00407T0	cele|cele_F32D8.14	32.27	313	159	53	1	312	1	261	4.5e-10	61.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_76989|estExt_fgenesh1_pg.C_60277 - 272 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_76989|estExt_fgenesh1_pg.C_60277	cele|cele_F32D8.14	45.49	244	123	10	19	259	25	261	2e-34	142.4
+mlar|t_76989|estExt_fgenesh1_pg.C_60277	cele|cele_Y60A3A.19b	30.43	207	131	13	55	253	47	248	4.7e-10	61.5
+mlar|t_76989|estExt_fgenesh1_pg.C_60277	cele|cele_W02D9.2b	30.25	162	97	16	102	250	71	229	1.9e-08	56.1
+mlar|t_76989|estExt_fgenesh1_pg.C_60277	cele|cele_W02D9.2a	30.25	162	97	16	102	250	63	221	2.4e-08	55.7
+mlar|t_76989|estExt_fgenesh1_pg.C_60277	cele|cele_Y60A3A.19a	29.35	201	114	28	55	253	47	221	0.00018	42.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU05514T0 | NCU05514 | Neurospora crassa OR74A (finished) golgi membrane protei - 338 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU05514T0	cele|cele_F32D8.14	30.39	306	148	65	16	321	21	261	2.5e-09	59.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_167325 - 335 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_167325	cele|cele_F32D8.14	30.26	304	149	63	16	319	21	261	5.5e-09	58.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_028720 |  Neosartorya fischeri nul - 317 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_028720	cele|cele_F32D8.14	34.34	297	146	49	7	302	13	261	9.9e-09	57.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_124605 - 336 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_124605	cele|cele_F32D8.14	30.59	304	148	63	16	319	21	261	3.3e-09	59.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002559013.1| gi|255935973 Pc13g05790 [Penicillium chrysogenum Wisconsi - 315 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002559013.1|	cele|cele_F32D8.14	34.58	295	146	47	7	300	13	261	3e-09	59.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_30282|estExt_Genewise1.C_160182 - 178 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_30282|estExt_Genewise1.C_160182	cele|cele_F32D8.14	54.12	170	76	2	2	169	89	258	7.4e-36	146.6
+rgra|t_30282|estExt_Genewise1.C_160182	cele|cele_Y60A3A.19b	32.16	171	104	12	6	169	87	252	1.3e-09	59.4
+rgra|t_30282|estExt_Genewise1.C_160182	cele|cele_W02D9.2a	28.42	183	113	18	1	170	51	228	2.8e-08	54.8
+rgra|t_30282|estExt_Genewise1.C_160182	cele|cele_W02D9.2b	28.42	183	113	18	1	170	59	236	2.9e-08	54.8
+rgra|t_30282|estExt_Genewise1.C_160182	cele|cele_Y60A3A.19a	28.48	165	91	27	6	169	87	225	0.00011	42.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_10662 | RO3G_10663 | Rhizopus oryzae hypothetical protei - 246 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_10662	cele|cele_F32D8.14	43.55	248	132	8	2	246	19	261	1.7e-35	145.9
+rory|RO3T_10662	cele|cele_Y60A3A.19b	25.00	248	165	21	6	240	9	248	1.1e-09	60.1
+rory|RO3T_10662	cele|cele_W02D9.2a	31.33	166	96	18	92	243	66	227	2e-06	49.1
+rory|RO3T_10662	cele|cele_W02D9.2b	31.33	166	96	18	92	243	74	235	2.1e-06	49.1
+rory|RO3T_10662	cele|cele_Y60A3A.19a	23.27	245	146	42	6	240	9	221	7.1e-05	44.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YGR172C YIP1 SGDID:S000003404, Chr VII from 843596-842850, reverse complement, Verified ORF, "Integral membrane protein requi - 248 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YGR172C	cele|cele_F32D8.14	41.28	235	121	17	13	247	44	261	3.5e-28	121.6
+scer_s288c|YGR172C	cele|cele_W02D9.2a	28.42	183	113	18	70	246	59	229	5.7e-11	64.3
+scer_s288c|YGR172C	cele|cele_W02D9.2b	28.42	183	113	18	70	246	67	237	5.8e-11	64.3
+scer_s288c|YGR172C	cele|cele_Y60A3A.19b	24.79	242	152	30	5	241	32	248	4.7e-07	51.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_08295 | SNOG_08295 | Stagonospora nodorum hypothetical protei - 295 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_08295	cele|cele_F32D8.14	40.93	281	131	35	7	281	10	261	1e-14	77.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC61_04c.1 | SPCC61_04c | Schizosaccharomyces pombe 972h- Rab GTPase binding (predicted - 227 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPCC61_04c.1	cele|cele_F32D8.14	47.70	174	89	2	54	225	88	261	1.3e-33	139.5
+spom|SPCC61_04c.1	cele|cele_W02D9.2a	29.63	162	101	13	71	224	73	229	1.8e-10	62.5
+spom|SPCC61_04c.1	cele|cele_W02D9.2b	29.63	162	101	13	71	224	81	237	1.8e-10	62.5
+spom|SPCC61_04c.1	cele|cele_Y60A3A.19b	28.02	182	119	12	44	219	73	248	1.9e-10	62.5
+spom|SPCC61_04c.1	cele|cele_Y60A3A.19a	22.02	218	152	18	3	219	21	221	2.4e-05	45.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00806T0 | SPPG_00806 | Spizellomyces punctatus DAOM BR117 Yip1 domain family protei - 249 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_00806T0	cele|cele_F32D8.14	48.41	252	116	14	9	249	13	261	9.4e-43	170.0
+spun|SPPG_00806T0	cele|cele_Y60A3A.19b	29.46	241	150	20	13	243	18	248	2.3e-11	65.7
+spun|SPPG_00806T0	cele|cele_W02D9.2a	26.34	224	148	17	31	248	17	229	1.9e-07	52.5
+spun|SPPG_00806T0	cele|cele_W02D9.2b	26.34	224	148	17	31	248	25	237	2e-07	52.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_13922|e_gw1.7.436.1 - 172 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_13922|e_gw1.7.436.1	cele|cele_F32D8.14	51.83	164	77	2	1	162	95	258	5.8e-32	133.6
+sror|t_13922|e_gw1.7.436.1	cele|cele_W02D9.2a	32.65	147	81	18	28	163	89	228	2e-09	58.6
+sror|t_13922|e_gw1.7.436.1	cele|cele_W02D9.2b	32.65	147	81	18	28	163	97	236	2e-09	58.6
+sror|t_13922|e_gw1.7.436.1	cele|cele_Y60A3A.19b	29.59	169	107	12	1	162	89	252	3.4e-07	51.3
+sror|t_13922|e_gw1.7.436.1	cele|cele_Y60A3A.19a	27.36	106	74	3	58	162	122	225	0.00083	39.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_111849|estExt_fgenesh1_kg.C_50109 - 316 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_111849|estExt_fgenesh1_kg.C_50109	cele|cele_F32D8.14	33.10	284	146	44	16	298	21	261	5.5e-12	68.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_23680|gw1.8.586.1 - 179 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_23680|gw1.8.586.1	cele|cele_F32D8.14	50.00	174	85	2	7	178	88	261	4.7e-33	137.3
+tmes|t_23680|gw1.8.586.1	cele|cele_W02D9.2a	32.85	137	82	10	40	169	88	221	3.7e-12	67.7
+tmes|t_23680|gw1.8.586.1	cele|cele_W02D9.2b	32.85	137	82	10	40	169	96	229	3.8e-12	67.7
+tmes|t_23680|gw1.8.586.1	cele|cele_Y60A3A.19b	29.45	163	110	5	13	172	88	248	1.5e-08	55.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_106533|fgenesh5_pg.C_scaffold_7000334 - 261 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_106533|fgenesh5_pg.C_scaffold_7000334	cele|cele_F32D8.14	36.80	269	141	29	1	254	7	261	8e-11	64.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_127661|estExt_fgenesh2_kg.C_50151 - 332 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_127661|estExt_fgenesh2_kg.C_50151	cele|cele_F32D8.14	30.35	313	154	64	6	315	10	261	1.8e-10	63.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um11786 related to YIP1 - Golgi integral membra - 286 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um11786	cele|cele_F32D8.14	39.85	271	142	21	14	282	10	261	2.3e-28	122.4
+umay|um11786	cele|cele_Y60A3A.19b	26.32	247	164	18	35	276	15	248	1.2e-07	53.5
+umay|um11786	cele|cele_W02D9.2b	26.75	228	144	23	60	273	11	229	3.8e-07	51.8
+umay|um11786	cele|cele_W02D9.2a	32.28	158	89	18	127	273	71	221	4.8e-07	51.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D04829gT0 gene=YALI0D04829g Ylip_CLIB122_chrD:6059 - 238 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0D04829gT0	cele|cele_F32D8.14	43.37	249	119	22	5	232	14	261	4.3e-26	114.6
+ylip|YALI0D04829gT0	cele|cele_Y60A3A.19b	28.39	236	148	21	6	226	19	248	6.2e-06	47.6
+ylip|YALI0D04829gT0	cele|cele_W02D9.2a	27.27	176	116	12	63	231	59	229	4.7e-05	44.5
+ylip|YALI0D04829gT0	cele|cele_W02D9.2b	27.27	176	116	12	63	231	67	237	4.8e-05	44.6

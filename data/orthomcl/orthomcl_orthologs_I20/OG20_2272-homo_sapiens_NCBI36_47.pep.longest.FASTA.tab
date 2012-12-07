@@ -1,0 +1,150 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB03158.1 - 205 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB03158.1	hsap|hsap_ENST00000359429	42.86	203	88	28	1	203	1	175	2.4e-17	85.2
+abra|AB03158.1	hsap|hsap_ENST00000286902	35.33	184	87	32	7	190	7	158	5.9e-10	60.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g15190 Afu2g15190 A_fumigatus_Af293 AspGDID: COORDS:chr2:4025031-4026529(-) translated using codon table 1 (314 amino acids) - 313 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu2g15190	hsap|hsap_ENST00000359429	45.70	256	100	39	62	310	1	224	5.6e-21	97.9
+afum|Afu2g15190	hsap|hsap_ENST00000286902	34.01	247	97	66	68	312	7	189	1.2e-09	60.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_14597T0 | AMAG_14597 | Allomyces macrogynus ATCC 38327 ribulose-phosphate 3-epimeras - 222 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_14597T0	hsap|hsap_ENST00000359429	54.72	212	90	6	6	215	7	214	1.2e-48	189.3
+amac|AMAG_14597T0	hsap|hsap_ENST00000286902	38.21	212	92	39	6	215	7	181	5.5e-23	103.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_07588T0 | ANID_07588 | Aspergillus nidulans FGSC A4 ribulose-phosphate 3-epimeras - 252 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_07588T0	hsap|hsap_ENST00000359429	46.00	250	102	33	1	248	1	219	6.3e-22	100.7
+anid|ANID_07588T0	hsap|hsap_ENST00000286902	34.14	249	94	70	7	249	7	191	1.2e-10	63.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_02529 | BC1G_02529 | Botrytis cinerea ribulose-phosphate 3-epimeras - 214 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_02529	hsap|hsap_ENST00000359429	45.54	213	88	28	1	213	39	223	1.3e-23	106.1
+bcin|BC1T_02529	hsap|hsap_ENST00000286902	33.80	213	84	57	1	213	35	190	7.5e-07	50.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7108 |  Candida Albicans sc5314 assembly 21 orf19.710 - 230 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.7108	hsap|hsap_ENST00000359429	54.91	224	96	5	6	229	7	225	1.4e-56	215.7
+calb_sc5314|orf19.7108	hsap|hsap_ENST00000286902	40.27	221	94	38	6	226	7	189	7.4e-26	113.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_00951 | PGUG_00951 | Candida guilliermondii conserved hypothetical protei - 232 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_00951	hsap|hsap_ENST00000359429	56.70	224	93	4	6	229	7	226	4.6e-59	224.0
+cgui|PGUT_00951	hsap|hsap_ENST00000286902	39.73	224	98	37	6	229	7	193	1.2e-30	129.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_01413T0 | CIMG_01413 | Coccidioides immitis RS ribulose-phosphate 3-epimeras - 252 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_01413T0	hsap|hsap_ENST00000359429	45.88	255	101	37	1	249	1	224	9.1e-23	103.5
+cimm_rs|CIMG_01413T0	hsap|hsap_ENST00000286902	34.25	254	97	70	1	248	1	190	3.6e-11	64.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00684T0 | CNAG_00684 | Cryptococcus neoformans grubii H99 ribulose-phosphate 3-epimeras - 224 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_00684T0	hsap|hsap_ENST00000359429	47.49	219	113	2	6	223	7	224	4.5e-44	174.1
+cneo_h99|CNAG_00684T0	hsap|hsap_ENST00000286902	34.88	215	104	36	5	218	7	186	1e-21	99.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_134922|e_gw1.01.2661.1 - 223 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_134922|e_gw1.01.2661.1	hsap|hsap_ENST00000359429	52.51	219	101	3	5	221	6	223	1.6e-51	198.9
+mcin|t_134922|e_gw1.01.2661.1	hsap|hsap_ENST00000286902	36.99	219	102	36	5	221	6	190	1.5e-25	112.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00534T0 | MGG_00534 | Magnaporthe grisea (M. oryzae) 70-15 ribulose-phosphate 3-epimeras - 251 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_00534T0	hsap|hsap_ENST00000359429	47.22	252	102	31	1	248	1	225	8.7e-24	106.9
+mgri|MGG_00534T0	hsap|hsap_ENST00000286902	33.33	252	104	64	1	248	1	192	1e-10	63.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_39349|e_gw1.52.58.1 - 232 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_39349|e_gw1.52.58.1	hsap|hsap_ENST00000359429	47.77	224	110	7	6	227	7	225	1.3e-44	175.9
+mlar|t_39349|e_gw1.52.58.1	hsap|hsap_ENST00000286902	32.89	225	112	39	6	229	7	193	1.4e-20	95.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU00519T0 | NCU00519 | Neurospora crassa OR74A (finished) ribulose-phosphate 3-epimeras - 251 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU00519T0	hsap|hsap_ENST00000359429	46.85	254	100	35	1	248	1	225	2e-24	109.0
+ncra|NCU00519T0	hsap|hsap_ENST00000286902	32.68	254	103	68	1	248	1	192	4e-10	61.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_166463 - 252 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_166463	hsap|hsap_ENST00000359429	46.46	254	101	35	2	249	1	225	1e-23	106.7
+ndis|NEUDI1_166463	hsap|hsap_ENST00000286902	31.75	252	108	64	2	251	1	190	3.4e-10	61.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_090440 |  Neosartorya fischeri nul - 252 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_090440	hsap|hsap_ENST00000359429	45.70	256	100	39	1	249	1	224	2e-21	99.1
+nfis|NFIA_090440	hsap|hsap_ENST00000286902	34.01	247	97	66	7	251	7	189	7e-10	60.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_133863 - 251 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_133863	hsap|hsap_ENST00000359429	46.46	254	101	35	1	248	1	225	1.1e-24	109.9
+ntet|NEUTE1_133863	hsap|hsap_ENST00000286902	32.68	254	103	68	1	248	1	192	4.8e-10	61.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002556958.1| gi|255930803 Pc12g00550 [Penicillium chrysogenum Wisconsi - 254 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002556958.1|	hsap|hsap_ENST00000359429	45.88	255	101	37	1	249	1	224	8.2e-23	103.7
+pechr_54_1255|XP_002556958.1|	hsap|hsap_ENST00000286902	33.86	254	98	70	1	248	1	190	7.5e-09	57.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_37625|estExt_Genewise1Plus.C_8_t20134 - 238 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_37625|estExt_Genewise1Plus.C_8_t20134	hsap|hsap_ENST00000359429	48.00	225	112	5	9	232	7	227	1.8e-44	175.5
+rgra|t_37625|estExt_Genewise1Plus.C_8_t20134	hsap|hsap_ENST00000286902	43.67	158	79	10	8	164	7	155	3.3e-22	101.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_08744 | RO3G_08745 | Rhizopus oryzae ribulose-phosphate 3-epimeras - 229 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_08744	hsap|hsap_ENST00000359429	54.79	219	96	3	5	221	6	223	2.5e-53	204.9
+rory|RO3T_08744	hsap|hsap_ENST00000286902	37.90	219	100	36	5	221	6	190	2.3e-26	115.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YJL121C RPE1 SGDID:S000003657, Chr X from 191088-190372, reverse complement, Verified ORF, "D-ribulose-5-phosphate 3-epimeras - 238 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YJL121C	hsap|hsap_ENST00000359429	54.98	231	93	11	6	236	7	226	8.8e-40	160.0
+scer_s288c|YJL121C	hsap|hsap_ENST00000286902	37.34	233	101	45	6	238	7	194	6e-17	83.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_15151 | SNOG_15151 | Stagonospora nodorum hypothetical protei - 252 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_15151	hsap|hsap_ENST00000359429	43.65	252	110	32	1	248	1	224	2e-21	99.0
+snod|SNOT_15151	hsap|hsap_ENST00000286902	33.47	236	96	61	7	242	7	181	7.4e-10	60.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC31G5_05c.1 | SPAC31G5_05c | Schizosaccharomyces pombe 972h- ribulose phosphate 3-epimerase (predicted - 228 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC31G5_05c.1	hsap|hsap_ENST00000359429	48.18	220	113	1	5	224	6	224	9.9e-48	186.3
+spom|SPAC31G5_05c.1	hsap|hsap_ENST00000286902	35.78	218	106	34	5	222	6	189	1.8e-22	102.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03952T0 | SPPG_03952 | Spizellomyces punctatus DAOM BR117 ribulose-phosphate 3-epimeras - 223 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_03952T0	hsap|hsap_ENST00000359429	57.21	215	90	2	1	213	1	215	6e-58	220.2
+spun|SPPG_03952T0	hsap|hsap_ENST00000286902	40.47	215	93	35	1	213	1	182	3.3e-30	127.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_22097|estExt_Genewise1Plus.C_50274 - 239 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_22097|estExt_Genewise1Plus.C_50274	hsap|hsap_ENST00000359429	50.00	218	104	5	10	226	7	220	1.1e-45	179.6
+sror|t_22097|estExt_Genewise1Plus.C_50274	hsap|hsap_ENST00000286902	44.94	158	77	10	9	165	7	155	4.2e-22	101.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_77472|estExt_Genewise1Plus.C_23246 - 252 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_77472|estExt_Genewise1Plus.C_23246	hsap|hsap_ENST00000359429	47.81	251	103	28	1	251	1	223	1.7e-24	109.3
+sthe|t_77472|estExt_Genewise1Plus.C_23246	hsap|hsap_ENST00000286902	34.66	251	103	61	1	251	1	190	1.7e-11	65.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_71425|estExt_fgeneshTM_pm.C_40019 - 231 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_71425|estExt_fgeneshTM_pm.C_40019	hsap|hsap_ENST00000359429	47.06	221	113	4	12	231	7	224	4.1e-41	164.3
+tmes|t_71425|estExt_fgeneshTM_pm.C_40019	hsap|hsap_ENST00000286902	39.10	156	87	8	12	166	7	155	4e-18	87.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_56631|e_gw1.3.1021.1 - 251 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_56631|e_gw1.3.1021.1	hsap|hsap_ENST00000359429	49.38	243	92	31	1	241	1	214	1.6e-23	106.0
+tree|t_56631|e_gw1.3.1021.1	hsap|hsap_ENST00000286902	34.98	243	94	64	1	241	1	181	6.6e-12	67.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_35823|e_gw1.1.1936.1 - 252 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_35823|e_gw1.1.1936.1	hsap|hsap_ENST00000359429	49.01	253	97	32	1	249	1	225	1.2e-24	109.8
+tter|t_35823|e_gw1.1.1936.1	hsap|hsap_ENST00000286902	35.06	251	102	61	1	251	1	190	1.2e-11	66.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04797 probable RPE1 - D-ribulose-5-phosphate 3 - 311 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um04797	hsap|hsap_ENST00000359429	54.02	224	101	2	5	227	6	228	6.6e-51	197.3
+umay|um04797	hsap|hsap_ENST00000286902	37.44	219	102	35	5	222	6	190	1.5e-22	102.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0C11880gT0 gene=YALI0C11880g Ylip_CLIB122_chrC:complement(1640344 - 249 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0C11880gT0	hsap|hsap_ENST00000359429	57.62	210	88	1	6	215	7	215	1.3e-54	209.3
+ylip|YALI0C11880gT0	hsap|hsap_ENST00000286902	47.77	157	77	5	6	162	7	158	1.9e-29	125.5

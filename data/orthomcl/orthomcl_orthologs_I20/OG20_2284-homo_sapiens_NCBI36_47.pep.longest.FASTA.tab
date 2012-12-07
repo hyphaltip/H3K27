@@ -1,0 +1,122 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB07175.1 - 495 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB07175.1	hsap|hsap_ENST00000355338	49.88	409	185	20	23	431	78	466	2e-35	147.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g01640 Afu2g01640 A_fumigatus_Af293 AspGDID: COORDS:chr2:396481-397896(+) translated using codon table 1 (417 amino acids) t - 416 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu2g01640	hsap|hsap_ENST00000355338	51.54	421	170	34	2	402	60	466	1e-58	224.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04902T0 | AMAG_04902 | Allomyces macrogynus ATCC 38327 tryptophanyl-tRNA synthetas - 507 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_04902T0	hsap|hsap_ENST00000355338	59.86	426	161	10	1	424	48	465	9.3e-70	261.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10475T0 | ANID_10475 | Aspergillus nidulans FGSC A4 tryptophanyl-tRNA synthetas - 424 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_10475T0	hsap|hsap_ENST00000355338	55.89	399	157	19	17	413	85	466	3e-44	176.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07147 | BC1G_07147 | Botrytis cinerea tryptophanyl-tRNA synthetas - 474 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_07147	hsap|hsap_ENST00000355338	54.15	410	175	13	6	412	67	466	6.6e-85	311.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5226 |  Candida Albicans sc5314 assembly 21 orf19.522 - 424 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.5226	hsap|hsap_ENST00000355338	56.57	396	165	7	13	406	78	468	1.8e-102	370.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02743 | PGUG_02743 | Candida guilliermondii hypothetical protein similar to tryptophanyl-tRNA synthetas - 426 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_02743	hsap|hsap_ENST00000355338	53.15	397	178	8	14	408	76	466	8.7e-97	351.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_05088T0 | CIMG_05088 | Coccidioides immitis RS tryptophanyl-tRNA synthetas - 490 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_05088T0	hsap|hsap_ENST00000355338	53.66	464	190	25	9	468	24	466	1.5e-43	174.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04604T0 | CNAG_04604 | Cryptococcus neoformans grubii H99 tryptophan-tRNA ligas - 611 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_04604T0	hsap|hsap_ENST00000355338	50.55	457	197	29	135	586	34	466	1.2e-47	188.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA - 260 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA	hsap|hsap_ENST00000355338	60.63	254	97	3	5	256	214	466	3.9e-69	258.6
+mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA	hsap|hsap_ENST00000235521	28.41	176	100	26	3	163	89	253	0.00022	43.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_09540T0 | MGG_09540 | Magnaporthe grisea (M. oryzae) 70-15 tryptophanyl-tRNA synthetas - 446 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_09540T0	hsap|hsap_ENST00000355338	48.12	426	166	55	9	387	51	468	3.4e-33	140.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_51354|fgenesh1_pm.C_scaffold_1000127 - 410 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_51354|fgenesh1_pm.C_scaffold_1000127	hsap|hsap_ENST00000355338	57.97	395	158	8	7	399	78	466	3.1e-102	369.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU06722T0 | NCU06722 | Neurospora crassa OR74A (finished) tryptophanyl-tRNA synthetas - 491 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU06722T0	hsap|hsap_ENST00000355338	58.80	415	149	22	16	428	75	469	5.1e-59	225.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_71647 - 491 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_71647	hsap|hsap_ENST00000355338	58.07	415	152	22	16	428	75	469	2.7e-59	226.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_033950 |  Neosartorya fischeri nul - 433 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_033950	hsap|hsap_ENST00000355338	53.44	421	179	17	2	419	60	466	2.4e-95	346.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_149131 - 491 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_149131	hsap|hsap_ENST00000355338	58.80	415	149	22	16	428	75	469	4.8e-59	226.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563085.1| gi|255944635 Pc20g05510 [Penicillium chrysogenum Wisconsi - 435 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002563085.1|	hsap|hsap_ENST00000355338	51.93	414	187	12	8	419	63	466	7.3e-96	348.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_48759|estExt_fgenesh1_pm.C_100057 - 391 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_48759|estExt_fgenesh1_pm.C_100057	hsap|hsap_ENST00000355338	63.01	365	132	3	3	365	98	461	1.2e-106	383.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_16974 | RO3G_16975 | Rhizopus oryzae hypothetical protei - 414 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_16974	hsap|hsap_ENST00000355338	60.26	390	147	8	27	414	85	468	2.1e-110	396.4
+rory|RO3T_16974	hsap|hsap_ENST00000235521	26.07	234	138	35	104	319	37	253	0.00059	42.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YOL097C WRS1 SGDID:S000005457, Chr XV from 137825-136527, reverse complement, Verified ORF, "Cytoplasmic tryptophanyl-tRNA sy - 432 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YOL097C	hsap|hsap_ENST00000355338	54.80	396	171	8	19	412	77	466	2.4e-99	359.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_05462 | SNOG_05462 | Stagonospora nodorum hypothetical protei - 495 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_05462	hsap|hsap_ENST00000355338	50.12	409	184	20	23	431	78	466	5.5e-36	149.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC2F7_13c.1 | SPAC2F7_13c | Schizosaccharomyces pombe 972h- tryptophan-tRNA ligase Wrs1 (predicted - 395 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC2F7_13c.1	hsap|hsap_ENST00000355338	59.95	392	149	8	4	393	81	466	3.1e-105	379.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07262T0 | SPPG_07262 | Spizellomyces punctatus DAOM BR117 tryptophanyl-tRNA synthetas - 430 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_07262T0	hsap|hsap_ENST00000355338	61.12	409	150	9	11	417	63	464	3.4e-108	389.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14500|e_gw1.8.126.1 - 415 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_14500|e_gw1.8.126.1	hsap|hsap_ENST00000355338	60.41	389	147	7	1	387	82	465	2.8e-105	379.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_64980|estExt_Genewise1.C_30829 - 478 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_64980|estExt_Genewise1.C_30829	hsap|hsap_ENST00000355338	56.46	418	159	23	14	424	67	468	9.4e-58	221.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_67668|fgeneshTM_pm.2_#_156 - 550 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_67668|fgeneshTM_pm.2_#_156	hsap|hsap_ENST00000355338	51.30	460	193	31	87	542	34	466	2.9e-53	207.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_121000|estExt_fgenesh5_pg.C_50327 - 485 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_121000|estExt_fgenesh5_pg.C_50327	hsap|hsap_ENST00000355338	54.68	417	176	13	2	415	60	466	1.8e-89	327.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_58737|estExt_Genewise1.C_23006 - 488 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_58737|estExt_Genewise1.C_23006	hsap|hsap_ENST00000355338	57.52	412	155	20	16	425	75	468	1.2e-56	218.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03798 probable tryptophan--tRNA ligase - 440 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um03798	hsap|hsap_ENST00000355338	62.66	391	139	7	22	410	80	465	4.9e-112	401.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0B08943gT0 gene=YALI0B08943g Ylip_CLIB122_chrB:122379 - 438 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0B08943gT0	hsap|hsap_ENST00000355338	60.76	395	147	8	22	414	77	465	1.4e-111	400.4

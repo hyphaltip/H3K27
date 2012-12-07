@@ -1,0 +1,119 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09585.1 - 855 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g16840 Afu2g16840 A_fumigatus_Af293 AspGDID: COORDS:chr2:4496845-4499364(+) translated using codon table 1 (804 amino acids) - 803 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_12502T0 | AMAG_12502 | Allomyces macrogynus ATCC 38327 predicted protein - 1225 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_07297T0 | ANID_07297 | Aspergillus nidulans FGSC A4 SWI-SNF complex subuni - 798 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_15534 | BC1G_15534 | Botrytis cinerea hypothetical protein similar to transcription factor Snf5 - 723 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5871 |  Candida Albicans sc5314 assembly 21 orf19.587 - 696 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_00859 | PGUG_00859 | Candida guilliermondii hypothetical protei - 620 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_09443T0 | CIMG_09443 | Coccidioides immitis RS SWI-SNF complex subuni - 813 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00740T0 | CNAG_00740 | Cryptococcus neoformans grubii H99 conserved hypothetical protein - 1763 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_00740T0	mbre|t_29488	24.57	1042	616	170	35	942	380	1385	7.3e-07	54.8
+cneo_h99|CNAG_00740T0	mbre|t_32717	26.56	851	492	133	19	805	297	1078	7.7e-06	51.2
+cneo_h99|CNAG_00740T0	mbre|t_23231	25.37	749	468	91	340	1036	854	1563	1.2e-05	51.3
+cneo_h99|CNAG_00740T0	mbre|t_33375	26.90	974	502	210	144	1066	3	817	8.3e-05	47.6
+cneo_h99|CNAG_00740T0	mbre|t_29589	29.04	365	233	26	536	886	6	358	0.00011	46.9
+cneo_h99|CNAG_00740T0	mbre|t_10821	28.26	322	196	35	540	841	1	307	0.00069	43.5
+cneo_h99|CNAG_00740T0	mbre|t_28516	23.62	1012	627	146	155	1072	165	1124	0.00092	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_163620|fgenesh1_pg.05_#_5 - 673 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_06315T0 | MGG_06315 | Magnaporthe grisea (M. oryzae) 70-15 transcription regulatory protein SNF - 771 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_29718|gw1.9.142.1 - 220 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU00421T0 | NCU00421 | Neurospora crassa OR74A (finished) SWI-SNF complex subuni - 732 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_155273 - 733 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_092140 |  Neosartorya fischeri nul - 803 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_146575 - 745 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002568915.1| gi|255956325 Pc21g19240 [Penicillium chrysogenum Wisconsi - 802 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_33227|estExt_Genewise1Plus.C_1_t20325 - 359 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03481 | RO3G_03482 | Rhizopus oryzae hypothetical protei - 409 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YBR289W SNF5 SGDID:S000000493, Chr II from 779663-782380, Verified ORF, "Subunit of the SWI/SNF chromatin remodeling complex  - 905 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YBR289W	mbre|t_29488	39.93	298	149	30	34	303	894	1189	2.4e-08	58.8
+scer_s288c|YBR289W	mbre|t_33375	33.64	330	190	29	4	313	82	402	1.1e-07	56.2
+scer_s288c|YBR289W	mbre|t_25128	34.94	332	135	81	44	297	1167	1495	5.2e-06	51.3
+scer_s288c|YBR289W	mbre|t_38935	32.49	277	172	15	60	321	1	277	1.9e-05	49.3
+scer_s288c|YBR289W	mbre|t_32931	42.53	174	88	12	122	288	858	1026	3.3e-05	48.1
+scer_s288c|YBR289W	mbre|t_23271	50.94	106	51	1	173	278	48	152	3.8e-05	46.1
+scer_s288c|YBR289W	mbre|t_34757	32.43	296	166	34	52	332	58	334	4.8e-05	47.5
+scer_s288c|YBR289W	mbre|t_23231	25.48	671	413	87	59	684	1087	1715	0.00017	46.5
+scer_s288c|YBR289W	mbre|t_29589	30.23	311	183	34	41	330	25	322	0.00018	45.2
+scer_s288c|YBR289W	mbre|t_33073	33.61	244	142	20	67	304	48	277	0.00021	44.7
+scer_s288c|YBR289W	mbre|t_24507	51.46	103	46	4	194	295	927	1026	0.00066	43.6
+scer_s288c|YBR289W	mbre|t_32672	33.68	291	146	47	33	284	770	1052	0.00069	43.8
+scer_s288c|YBR289W	mbre|t_29847	36.52	178	92	21	119	288	2	166	0.00078	42.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_02717 | SNOG_02717 | Stagonospora nodorum predicted protei - 182 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC2F7_08c.1 | SPAC2F7_08c | Schizosaccharomyces pombe 972h- chromatin remodeling complex subunit Snf5 (predicted - 632 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_08006T0 | SPPG_08006 | Spizellomyces punctatus DAOM BR117 predicted protein - 1022 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_31897|estExt_fgenesh1_pg.C_20462 - 744 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_48679|e_gw1.4.268.1 - 759 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73649|estExt_fgeneshTM_pg.C_40188 - 1580 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_54670|e_gw1.1.179.1 - 711 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_71235|estExt_Genewise1Plus.C_30701 - 741 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04381 related to SNF5 - component of SWI/SNF transcription activat - 2076 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um04381	mbre|t_33073	28.47	548	260	132	4	519	52	499	6.3e-05	47.6
+umay|um04381	mbre|t_29488	29.28	444	257	57	4	443	1001	1391	0.00034	46.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E13101gT0 gene=YALI0E13101g Ylip_CLIB122_chrE:157823 - 743 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0E13101gT0	mbre|t_8093	38.28	209	105	24	44	245	195	386	4e-07	52.7
+ylip|YALI0E13101gT0	mbre|t_37583	38.99	159	79	18	5	156	627	774	4e-05	47.0
+ylip|YALI0E13101gT0	mbre|t_33341	28.92	287	175	29	11	276	502	780	8.2e-05	46.2
+ylip|YALI0E13101gT0	mbre|t_29488	28.69	237	153	16	7	235	954	1182	0.00038	44.5
+ylip|YALI0E13101gT0	mbre|t_34335	38.99	159	73	24	7	158	252	393	0.00052	43.6
+ylip|YALI0E13101gT0	mbre|t_33375	22.57	474	297	70	28	465	17	456	0.00083	43.0
+ylip|YALI0E13101gT0	mbre|t_32672	34.92	189	102	21	13	192	864	1040	0.00092	43.1

@@ -1,0 +1,58 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed Aug 22 16:21:38 2012]
+[!
+>Data file = /home/jstajich/projects/selker/H3K27/data/orthomcl/allseq.strict.nex
+>Heuristic search settings:
+>  Optimality criterion = distance (minimum evolution)
+>    Negative branch lengths allowed, but set to zero for tree-score calculation
+>    Distance measure = mean character difference
+>  Starting tree(s) obtained via neighbor-joining
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR)
+>  Steepest descent option not in effect
+>  Initial 'MaxTrees' setting = 100
+>  Zero-length branches not collapsed
+>  'MulTrees' option in effect
+>  Topological constraints not enforced
+>  Trees are unrooted
+>
+>Heuristic search completed
+>   Total number of rearrangements tried = 8926
+>   Score of best tree(s) found = 4.66499
+>   Number of trees retained = 1
+>   Time used = <1 sec (CPU time = 0.07 sec)
+]
+	Translate
+		1 abra,
+		2 tree,
+		3 mlar,
+		4 ndis,
+		5 mgri,
+		6 bcin,
+		7 ntet,
+		8 cimm_rs,
+		9 anid,
+		10 ylip,
+		11 sthe,
+		12 nfis,
+		13 cgui,
+		14 cele,
+		15 cneo_h99,
+		16 ncra,
+		17 sror,
+		18 tmes,
+		19 mbre,
+		20 afum,
+		21 hsap,
+		22 spom,
+		23 umay,
+		24 rory,
+		25 tter,
+		26 pechr_54_1,
+		27 calb_sc531,
+		28 scer_s288c,
+		29 atha,
+		30 snod
+		;
+tree PAUP_1 = [&U] (1:0.064284,((((2:0.107817,(((4:0.005635,(7:0.001821,16:0.001840):0.002253):0.065543,(11:0.034710,25:0.035246):0.033964):0.027990,5:0.101489):0.006346):0.015670,6:0.119256):0.028040,(8:0.094063,((9:0.059022,(12:0.005637,20:0.008928):0.045518):0.011012,26:0.074483):0.025121):0.049592):0.003067,(((((((3:0.192709,17:0.184048):0.021077,23:0.209612):0.000835,(15:0.121643,18:0.123849):0.108093):0.026028,24:0.208224):0.003726,(((14:0.278929,21:0.224831):0.013848,19:0.288121):0.014598,29:0.282079):0.043626):0.016249,22:0.235274):0.005122,(10:0.207540,((13:0.134625,27:0.140990):0.053339,28:0.210006):0.032855):0.022136):0.070045):0.105555,30:0.057032);
+End;

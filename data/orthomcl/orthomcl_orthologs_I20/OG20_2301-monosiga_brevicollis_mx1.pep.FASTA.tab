@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09584.1 - 346 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB09584.1	mbre|t_33097	45.49	244	120	13	57	296	24	258	2.1e-33	138.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g06630 Afu1g06630 A_fumigatus_Af293 AspGDID: COORDS:chr1:1895187-1896487(+) translated using codon table 1 (354 amino acids) - 353 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu1g06630	mbre|t_33097	42.61	284	149	14	40	319	7	280	8.4e-40	159.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_16222T0 | AMAG_16222 | Allomyces macrogynus ATCC 38327 vacuolar protein sorting-associated protein 7 - 352 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_16222T0	mbre|t_33097	45.49	255	123	16	70	313	11	260	7.2e-28	119.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_05705T0 | ANID_05705 | Aspergillus nidulans FGSC A4 vacuolar protein sorting-associated protein 7 - 353 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_05705T0	mbre|t_33097	44.94	267	133	14	57	319	24	280	1.9e-39	158.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_15270 | BC1G_15270 | Botrytis cinerea vacuolar protein sorting-associated protein 7 - 278 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_15270	mbre|t_33097	47.03	219	106	10	56	270	24	236	6.9e-35	142.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1514 |  Candida Albicans sc5314 assembly 21 orf19.151 - 340 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.1514	mbre|t_33097	44.79	288	129	30	1	285	1	261	1.4e-37	152.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02719 | PGUG_02719 | Candida guilliermondii hypothetical protei - 349 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_02719	mbre|t_33097	48.03	229	106	13	67	293	44	261	6.2e-35	143.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03998T0 | CIMG_03998 | Coccidioides immitis RS vacuolar protein sorting-associated protein 7 - 350 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_03998T0	mbre|t_33097	48.58	247	113	14	54	295	24	261	1.1e-37	152.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04806T0 | CNAG_04806 | Cryptococcus neoformans grubii H99 golgi phosphoprotein 3 domain containing protei - 389 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_04806T0	mbre|t_33097	46.90	258	122	15	44	296	11	258	2.8e-36	148.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_166635|fgenesh1_pg.08_#_205 - 322 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_166635|fgenesh1_pg.08_#_205	mbre|t_33097	44.86	292	136	25	31	312	7	283	2.5e-42	167.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_00839T0 | MGG_00839 | Magnaporthe grisea (M. oryzae) 70-15 vacuolar protein sorting-associated protein 7 - 362 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_00839T0	mbre|t_33097	48.36	244	113	13	71	310	24	258	7.2e-28	120.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_74362|estExt_fgenesh1_pm.C_80007 - 369 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_74362|estExt_fgenesh1_pm.C_80007	mbre|t_33097	45.31	245	119	15	58	297	24	258	1.2e-33	139.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU06091T0 | NCU06091 | Neurospora crassa OR74A (finished) vacuolar protein sorting-associated protein 7 - 349 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU06091T0	mbre|t_33097	48.05	256	119	14	51	302	24	269	7.2e-34	139.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_127556 - 275 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_127556	mbre|t_33097	46.15	143	72	5	51	188	24	166	9.6e-19	89.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_018060 |  Neosartorya fischeri nul - 353 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_018060	mbre|t_33097	42.25	284	150	14	40	319	7	280	3.5e-39	157.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_85692 - 351 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_85692	mbre|t_33097	48.05	256	119	14	53	304	24	269	4.3e-33	137.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562170.1| gi|255942803 Pc18g03300 [Penicillium chrysogenum Wisconsi - 354 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002562170.1|	mbre|t_33097	44.67	244	122	13	58	297	24	258	1.5e-36	148.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_49043|estExt_fgenesh1_pm.C_200008 - 396 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_49043|estExt_fgenesh1_pm.C_200008	mbre|t_33097	48.18	247	113	15	52	293	25	261	1.1e-27	119.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_06143 | RO3G_06144 | Rhizopus oryzae hypothetical protei - 314 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_06143	mbre|t_33097	43.93	305	143	28	3	304	4	283	1.9e-46	181.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR372C VPS74 SGDID:S000002780, Chr IV from 1222142-1221105, reverse complement, Verified ORF, "Protein required for Golgi lo - 345 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YDR372C	mbre|t_33097	43.33	270	130	23	21	288	10	258	1.9e-41	165.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_02718 | SNOG_02718 | Stagonospora nodorum conserved hypothetical protei - 353 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_02718	mbre|t_33097	45.49	244	120	13	57	296	24	258	7.8e-37	149.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC5D6_13.1 | SPAC5D6_13 | Schizosaccharomyces pombe 972h- Golgi phosphoprotein 3 famil - 337 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPAC5D6_13.1	mbre|t_33097	50.40	250	111	13	36	281	18	258	1.1e-44	175.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_01074T0 | SPPG_01074 | Spizellomyces punctatus DAOM BR117 conserved hypothetical protei - 292 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_01074T0	mbre|t_33097	50.64	233	103	12	43	266	29	258	1.4e-36	148.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_34349|estExt_fgenesh1_pm.C_40069 - 357 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_34349|estExt_fgenesh1_pm.C_40069	mbre|t_33097	47.79	226	104	14	58	279	43	258	3.9e-33	137.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_116911|estExt_fgenesh1_pm.C_60443 - 356 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_116911|estExt_fgenesh1_pm.C_60443	mbre|t_33097	46.96	247	117	14	61	302	24	261	5.4e-33	137.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_16901|gw1.2.490.1 - 302 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_16901|gw1.2.490.1	mbre|t_33097	47.76	245	113	15	3	242	24	258	1.5e-39	158.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_77441|estExt_GeneWisePlus.C_80171 - 349 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_77441|estExt_GeneWisePlus.C_80171	mbre|t_33097	47.18	248	115	16	54	295	24	261	2.8e-37	151.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_76502|estExt_Genewise1Plus.C_71036 - 356 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_76502|estExt_Genewise1Plus.C_71036	mbre|t_33097	46.56	247	118	14	61	302	24	261	1.5e-31	132.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03278 probable VPS74 - protein involved in protein-vacuolar - 438 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um03278	mbre|t_33097	43.91	271	127	25	70	335	9	259	9.7e-32	133.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D03575gT0 gene=YALI0D03575g Ylip_CLIB122_chrD:complement(45187 - 336 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0D03575gT0	mbre|t_33097	40.14	279	149	18	23	295	7	273	1.5e-37	152.1

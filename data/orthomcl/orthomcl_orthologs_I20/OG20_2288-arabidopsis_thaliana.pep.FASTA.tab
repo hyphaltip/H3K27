@@ -1,0 +1,119 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB07710.1 - 264 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+abra|AB07710.1	atha|AT5G20600	28.00	200	133	11	67	263	65	256	4e-12	69.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g10990 Afu1g10990 A_fumigatus_Af293 AspGDID: COORDS:chr1:2871868-2872997(-) translated using codon table 1 (326 amino acids) - 325 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+afum|Afu1g10990	atha|AT5G20600	35.45	110	69	2	9	117	23	131	2e-08	57.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04880T0 | AMAG_04880 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 528 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+amac|AMAG_04880T0	atha|AT5G20600	26.95	449	281	47	7	436	25	445	1.2e-06	52.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_01175T0 | ANID_01175 | Aspergillus nidulans FGSC A4 ribosomal RNA processing protei - 331 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+anid|ANID_01175T0	atha|AT5G20600	36.67	120	74	2	9	127	23	141	8.2e-09	59.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_11187 | BC1G_11187 | Botrytis cinerea hypothetical protein similar to RRP1B protei - 269 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+bcin|BC1T_11187	atha|AT5G20600	30.59	255	144	33	7	255	19	246	6.7e-12	69.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6828 |  Candida Albicans sc5314 assembly 21 orf19.682 - 275 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+calb_sc5314|orf19.6828	atha|AT5G20600	31.46	178	117	5	6	181	22	196	1.3e-11	68.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_01308 | PGUG_01308 | Candida guilliermondii hypothetical protei - 284 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cgui|PGUT_01308	atha|AT5G20600	29.70	165	109	7	34	195	23	183	1.7e-09	61.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_06937T0 | CIMG_06937 | Coccidioides immitis RS ribosomal RNA processing protei - 306 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cimm_rs|CIMG_06937T0	atha|AT5G20600	33.64	110	71	2	9	117	23	131	2e-08	57.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03300T0 | CNAG_03300 | Cryptococcus neoformans grubii H99 RRP1B protei - 353 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+cneo_h99|CNAG_03300T0	atha|AT5G20600	28.88	232	135	30	27	256	23	226	4.9e-07	53.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_164843|fgenesh1_pg.06_#_245 - 250 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mcin|t_164843|fgenesh1_pg.06_#_245	atha|AT5G20600	28.86	246	158	17	4	245	16	248	3e-16	83.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_05146T0 | MGG_05146 | Magnaporthe grisea (M. oryzae) 70-15 ribosomal RNA-processing protein  - 284 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mgri|MGG_05146T0	atha|AT5G20600	34.19	117	73	4	10	125	23	136	1.9e-10	64.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_89447|EuGene.00300025 - 397 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+mlar|t_89447|EuGene.00300025	atha|AT5G20600	23.74	358	198	75	27	383	2	285	0.00023	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU07942T0 | NCU07942 | Neurospora crassa OR74A (finished) hypothetical protei - 317 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ncra|NCU07942T0	atha|AT5G20600	37.93	116	68	4	8	122	23	135	1.7e-06	51.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_125012 - 312 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ndis|NEUDI1_125012	atha|AT5G20600	37.93	116	68	4	8	122	23	135	4.7e-08	56.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_014640 |  Neosartorya fischeri nul - 325 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+nfis|NFIA_014640	atha|AT5G20600	35.45	110	69	2	9	117	23	131	5.2e-08	56.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_78239 - 316 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ntet|NEUTE1_78239	atha|AT5G20600	37.93	116	68	4	8	122	23	135	1.9e-06	51.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002559771.1| gi|255937489 Pc13g13570 [Penicillium chrysogenum Wisconsi - 315 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+pechr_54_1255|XP_002559771.1|	atha|AT5G20600	32.50	120	79	2	8	126	23	141	1.7e-08	57.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_52202|estExt_Genemark1.C_4_t10014 - 403 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rgra|t_52202|estExt_Genemark1.C_4_t10014	atha|AT5G20600	29.11	237	125	43	82	316	32	227	0.00064	43.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_11434 | RO3G_11435 | Rhizopus oryzae hypothetical protei - 181 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+rory|RO3T_11434	atha|AT5G20600	30.22	182	118	9	2	179	72	248	4.3e-11	65.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YDR087C RRP1 SGDID:S000002494, Chr IV from 618304-617468, reverse complement, Verified ORF, "Essential evolutionarily conserv - 278 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_14973 | SNOG_14973 | Stagonospora nodorum hypothetical protei - 247 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+snod|SNOT_14973	atha|AT5G20600	33.75	240	150	9	10	246	23	256	1.5e-22	104.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC9B6_07.1 | SPBC9B6_07 | Schizosaccharomyces pombe 972h- nucleolar protein Nop52 family (predicted - 217 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spom|SPBC9B6_07.1	atha|AT5G20600	36.09	169	104	4	7	174	23	188	9.3e-20	94.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_05545T0 | SPPG_05545 | Spizellomyces punctatus DAOM BR117 conserved hypothetical protei - 613 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+spun|SPPG_05545T0	atha|AT5G20600	23.54	480	308	59	2	468	72	505	5.3e-08	57.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_8524|e_gw1.1.884.1 - 320 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sror|t_8524|e_gw1.1.884.1	atha|AT5G20600	28.44	225	129	32	10	231	31	226	7.5e-05	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_38615|e_gw1.1.4844.1 - 243 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+sthe|t_38615|e_gw1.1.4844.1	atha|AT5G20600	32.86	140	90	4	4	142	17	153	2.3e-11	67.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_28117|e_gw1.2.1258.1 - 345 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tmes|t_28117|e_gw1.2.1258.1	atha|AT5G20600	30.46	197	120	17	29	224	25	205	1.8e-07	54.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_42181|gw1.1.2017.1 - 241 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tree|t_42181|gw1.1.2017.1	atha|AT5G20600	28.74	167	109	10	9	171	23	183	6.1e-10	62.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_66080|estExt_Genewise1Plus.C_10336 - 232 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+tter|t_66080|estExt_Genewise1Plus.C_10336	atha|AT5G20600	33.10	145	84	13	9	152	23	155	1.9e-11	67.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um05509 related to RRP1 - involved in processing rRNA precursor species to ma - 491 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+umay|um05509	atha|AT5G03710	70.31	64	19	0	428	491	2	65	2.1e-05	45.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D08668gT0 gene=YALI0D08668g Ylip_CLIB122_chrD:complement(1114032 - 292 aa
+# Database: ../animal-plant/arabidopsis_thaliana.pep.fa
+ylip|YALI0D08668gT0	atha|AT5G20600	29.55	176	120	4	38	211	19	192	3.7e-12	69.9

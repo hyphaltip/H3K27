@@ -1,0 +1,147 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02980.1 - 308 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB02980.1	mbre|t_18812	35.07	288	150	37	9	294	31	283	5.1e-11	64.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu8g04640 Afu8g04640 A_fumigatus_Af293 AspGDID: COORDS:chr8:1060695-1061906(-) translated using codon table 1 (404 amino acids) - 403 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu8g04640	mbre|t_18812	36.07	402	216	41	1	402	26	386	3.3e-13	71.9
+afum|Afu8g04640	mbre|t_25783	28.21	351	206	46	19	365	436	744	1e-06	51.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_07869T0 | AMAG_07869 | Allomyces macrogynus ATCC 38327 RNA 3'-terminal phosphate cyclas - 386 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_07869T0	mbre|t_18812	39.58	384	203	29	4	385	30	386	8.9e-19	90.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_01474T0 | ANID_01474 | Aspergillus nidulans FGSC A4 RNA-3'-phosphate cyclas - 403 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_01474T0	mbre|t_18812	36.57	402	214	41	1	402	26	386	7.2e-16	80.7
+anid|ANID_01474T0	mbre|t_25783	28.16	348	202	48	23	366	440	743	1.7e-07	53.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_00486 | BC1G_00486 | Botrytis cinerea hypothetical protein similar to RNA 3'-terminal phosphate cyclas - 408 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_00486	mbre|t_18812	31.94	407	230	47	3	408	27	387	4e-10	61.7
+bcin|BC1T_00486	mbre|t_25783	26.12	379	224	56	26	399	443	770	1.1e-05	47.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1886 |  Candida Albicans sc5314 assembly 21 orf19.188 - 371 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.1886	mbre|t_18812	38.71	372	216	12	2	370	24	386	1.1e-56	216.1
+calb_sc5314|orf19.1886	mbre|t_25783	25.29	344	241	16	25	364	441	772	6.3e-17	85.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_00433 | PGUG_00433 | Candida guilliermondii hypothetical protei - 373 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_00433	mbre|t_18812	38.40	375	214	17	2	372	25	386	9e-54	206.5
+cgui|PGUT_00433	mbre|t_25783	23.77	345	243	20	27	366	443	772	7.7e-12	68.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_02184T0 | CIMG_02184 | Coccidioides immitis RS RNA-3'-phosphate cyclas - 403 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_02184T0	mbre|t_18812	35.73	403	216	43	1	402	26	386	1.2e-12	70.1
+cimm_rs|CIMG_02184T0	mbre|t_25783	28.03	346	204	45	23	365	441	744	2.6e-08	56.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03246T0 | CNAG_03246 | Cryptococcus neoformans grubii H99 RNA-3'-phosphate cyclas - 365 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_03246T0	mbre|t_18812	47.06	357	184	5	10	364	33	386	7.5e-81	296.4
+cneo_h99|CNAG_03246T0	mbre|t_25783	24.86	346	248	12	18	358	434	772	2.3e-20	96.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_173174|estExt_Genewise1.C_060700 - 358 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_173174|estExt_Genewise1.C_060700	mbre|t_18812	53.65	356	164	1	2	356	30	385	1.4e-95	345.4
+mcin|t_173174|estExt_Genewise1.C_060700	mbre|t_25783	27.78	342	239	8	13	350	434	771	7.2e-27	118.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_04422T0 | MGG_04422 | Magnaporthe grisea (M. oryzae) 70-15 RNA-3'-phosphate cyclase family protei - 399 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_04422T0	mbre|t_18812	36.34	399	216	38	2	398	24	386	6.8e-21	97.4
+mgri|MGG_04422T0	mbre|t_25783	26.30	365	230	39	28	390	443	770	2.6e-09	59.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_46210|estExt_Genewise1.C_1360001 - 390 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_46210|estExt_Genewise1.C_1360001	mbre|t_18812	40.11	379	202	25	10	387	30	384	1.2e-58	222.7
+mlar|t_46210|estExt_Genewise1.C_1360001	mbre|t_25783	23.01	326	241	10	30	354	443	759	1e-15	81.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU02675T0 | NCU02675 | Neurospora crassa OR74A (finished) RNA-3'-phosphate cyclas - 406 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU02675T0	mbre|t_18812	35.91	401	214	43	5	405	29	386	1.6e-12	69.6
+ncra|NCU02675T0	mbre|t_25783	27.08	373	226	46	26	397	443	770	3.7e-07	52.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_92438 - 406 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_92438	mbre|t_18812	35.66	401	215	43	5	405	29	386	4.3e-12	68.2
+ndis|NEUDI1_92438	mbre|t_25783	27.08	373	226	46	26	397	443	770	3.3e-07	53.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_097430 |  Neosartorya fischeri nul - 403 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_097430	mbre|t_18812	35.82	402	217	41	1	402	26	386	2.2e-13	72.4
+nfis|NFIA_097430	mbre|t_25783	28.77	351	204	46	19	365	436	744	7.5e-07	51.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_133500 - 406 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_133500	mbre|t_18812	35.91	401	214	43	5	405	29	386	1.5e-12	69.7
+ntet|NEUTE1_133500	mbre|t_25783	27.35	373	225	46	26	397	443	770	3.6e-07	52.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563428.1| gi|255945321 Pc20g09320 [Penicillium chrysogenum Wisconsi - 402 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002563428.1|	mbre|t_18812	35.66	401	218	40	1	401	26	386	1.1e-13	73.5
+pechr_54_1255|XP_002563428.1|	mbre|t_25783	27.03	344	206	45	25	365	443	744	7.8e-07	51.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_46385|gm1.5950_g - 437 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_46385|gm1.5950_g	mbre|t_18812	44.21	380	190	22	18	394	14	374	8e-42	167.1
+rgra|t_46385|gm1.5950_g	mbre|t_25783	24.87	394	244	52	46	436	434	778	1.4e-08	57.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_12372 | RO3G_12373 | Rhizopus oryzae 40S rRNA biogenesis protein RCL - 316 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_12372	mbre|t_18812	45.40	348	147	43	2	306	30	377	8.9e-50	193.0
+rory|RO3T_12372	mbre|t_25783	29.27	287	183	20	13	281	434	718	1.7e-13	73.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YOL010W RCL1 SGDID:S000005370, Chr XV from 307939-309042, Verified ORF, "Subunit of U3-containing 90S preribosome processome  - 367 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YOL010W	mbre|t_18812	37.33	367	220	10	3	366	27	386	9.2e-57	216.4
+scer_s288c|YOL010W	mbre|t_25783	23.85	348	256	9	15	360	432	772	1.2e-16	84.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_04419 | SNOG_04419 | Stagonospora nodorum hypothetical protei - 407 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_04419	mbre|t_18812	32.09	402	229	44	6	406	28	386	6.4e-11	64.3
+snod|SNOT_04419	mbre|t_25783	27.25	345	205	46	26	367	441	742	4e-09	59.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC12G12_06c.1 | SPAC12G12_06c | Schizosaccharomyces pombe 972h- RNA 3'-terminal phosphate cyclase (predicted - 363 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPAC12G12_06c.1	mbre|t_18812	42.86	364	202	6	2	363	28	387	2.1e-72	268.4
+spom|SPAC12G12_06c.1	mbre|t_25783	27.07	314	222	7	13	325	432	739	2e-21	100.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00041T0 | SPPG_00041 | Spizellomyces punctatus DAOM BR117 RNA 3'-terminal phosphate cyclase-like protei - 383 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_00041T0	mbre|t_18812	50.79	382	159	29	2	382	33	386	6.3e-61	230.3
+spun|SPPG_00041T0	mbre|t_25783	24.80	371	243	36	10	376	434	772	3.7e-15	79.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_10724|e_gw1.2.606.1 - 404 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_10724|e_gw1.2.606.1	mbre|t_18812	44.29	350	177	18	1	349	35	367	1.8e-43	172.4
+sror|t_10724|e_gw1.2.606.1	mbre|t_25783	26.02	319	210	26	7	322	434	729	3e-11	66.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_77337|estExt_Genewise1Plus.C_23046 - 408 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_77337|estExt_Genewise1Plus.C_23046	mbre|t_18812	35.64	404	215	45	4	407	28	386	3.4e-11	65.2
+sthe|t_77337|estExt_Genewise1Plus.C_23046	mbre|t_25783	27.59	377	225	48	24	399	441	770	6.8e-07	51.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_32298|e_gw1.8.300.1 - 385 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_32298|e_gw1.8.300.1	mbre|t_18812	43.64	385	200	17	1	384	18	386	1.8e-73	272.0
+tmes|t_32298|e_gw1.8.300.1	mbre|t_25783	24.17	360	247	26	24	378	434	772	9.8e-14	74.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_2716|fgenesh1_pm.C_scaffold_3000229 - 406 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_2716|fgenesh1_pm.C_scaffold_3000229	mbre|t_18812	34.16	404	219	47	4	405	28	386	2.3e-12	69.1
+tree|t_2716|fgenesh1_pm.C_scaffold_3000229	mbre|t_25783	28.46	376	221	48	24	397	441	770	5.7e-07	52.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_68372|estExt_Genewise1Plus.C_14530 - 407 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_68372|estExt_Genewise1Plus.C_14530	mbre|t_18812	33.75	403	223	44	4	406	28	386	3.8e-11	65.0
+tter|t_68372|estExt_Genewise1Plus.C_14530	mbre|t_25783	27.39	376	226	47	24	398	441	770	2.2e-06	50.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um15007 related to RCL1 - RNA terminal phosphate cyclase-li - 419 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um15007	mbre|t_18812	42.46	358	191	15	4	360	20	363	3.6e-43	171.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0A05555gT0 gene=YALI0A05555g Ylip_CLIB122_chrA:complement(56910 - 365 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0A05555gT0	mbre|t_18812	40.77	363	209	6	4	364	28	386	5e-63	237.2
+ylip|YALI0A05555gT0	mbre|t_25783	26.30	346	242	13	17	357	434	771	3.6e-20	95.9

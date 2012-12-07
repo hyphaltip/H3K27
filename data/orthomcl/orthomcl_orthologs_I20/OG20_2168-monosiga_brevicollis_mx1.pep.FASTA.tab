@@ -1,0 +1,121 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB05796.1 - 364 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB05796.1	mbre|t_25810	37.24	145	85	6	104	247	721	860	9.1e-10	61.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu7g05420 Afu7g05420 A_fumigatus_Af293 AspGDID: COORDS:chr7:1301882-1303010(+) translated using codon table 1 (298 amino acids) - 297 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu7g05420	mbre|t_25810	45.45	132	69	3	146	277	761	889	9.7e-13	71.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_14272T0 | AMAG_14272 | Allomyces macrogynus ATCC 38327 mitochondrial intermembrane space import and assembly protein 4 - 149 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_14272T0	mbre|t_25810	43.80	137	63	14	16	138	726	862	5e-16	81.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_11898T0 | ANID_11898 | Aspergillus nidulans FGSC A4 mitochondrial intermembrane space import and assembly protein 4 - 283 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_11898T0	mbre|t_25810	48.61	144	66	8	135	272	751	892	4e-13	72.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_03576 | BC1G_03576 | Botrytis cinerea mitochondrial intermembrane space import and assembly protein 4 - 318 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_03576	mbre|t_25810	34.15	205	130	5	105	305	713	916	1.3e-11	67.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.2977 |  Candida Albicans sc5314 assembly 21 orf19.297 - 252 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.2977	mbre|t_25810	41.35	133	70	8	110	242	732	856	1.2e-13	73.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04752 | PGUG_04752 | Candida guilliermondii hypothetical protei - 238 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_04752	mbre|t_25810	37.88	198	109	14	47	238	708	897	1.4e-16	83.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_05240T0 | CIMG_05240 | Coccidioides immitis RS mitochondrial intermembrane space protein Mia4 - 295 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_05240T0	mbre|t_25810	42.40	125	66	6	157	281	751	869	1.4e-07	54.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02106T0 | CNAG_02106 | Cryptococcus neoformans grubii H99 intermembrane space import and assembly protein 4 - 231 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_02106T0	mbre|t_25810	41.51	159	71	22	74	229	712	851	1.6e-15	80.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_157291|fgenesh1_kg.09_#_2_#_1302_1_CCIA - 168 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_157291|fgenesh1_kg.09_#_2_#_1302_1_CCIA	mbre|t_25810	41.88	160	77	16	1	156	722	869	1.6e-16	82.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_09348T0 | MGG_09348 | Magnaporthe grisea (M. oryzae) 70-15 mitochondrial intermembrane space import and assembly protein 4 - 309 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_09348T0	mbre|t_25810	42.07	145	77	7	160	302	761	900	1.5e-10	63.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_65729|fgenesh1_pg.C_scaffold_36000099 - 326 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_65729|fgenesh1_pg.C_scaffold_36000099	mbre|t_25810	28.87	291	183	24	40	322	611	885	3.6e-13	72.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU04945T0 | NCU04945 | Neurospora crassa OR74A (finished) mitochondrial intermembrane space protein Mia4 - 298 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU04945T0	mbre|t_25810	43.45	145	66	16	161	290	734	877	3.4e-09	59.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_169403 - 290 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_169403	mbre|t_25810	44.78	134	62	12	145	277	733	855	1.7e-10	63.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_026630 |  Neosartorya fischeri nul - 296 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_026630	mbre|t_25810	40.22	184	101	9	118	296	734	913	3e-13	72.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_78134 - 299 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_78134	mbre|t_25810	43.45	145	66	16	161	290	734	877	1.2e-09	60.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002557455.1| gi|255931797 Pc12g06120 [Penicillium chrysogenum Wisconsi - 282 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002557455.1|	mbre|t_25810	42.21	154	84	5	132	281	761	913	5.5e-11	65.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_17567|e_gw1.13.22.1 - 77 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_17567|e_gw1.13.22.1	mbre|t_25810	61.67	60	23	0	1	60	761	820	2.1e-18	88.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_04437 | RO3G_04438 | Rhizopus oryzae hypothetical protei - 147 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_04437	mbre|t_25810	43.07	137	69	9	1	134	722	852	4.3e-17	84.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YKL195W MIA40 SGDID:S000001678, Chr XI from 75826-77037, Verified ORF, "Essential protein of the mitochondrial intermembrane  - 403 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YKL195W	mbre|t_25810	37.33	150	90	4	238	387	712	857	1.6e-07	54.2
+scer_s288c|YKL195W	mbre|t_26396	26.03	242	151	28	78	291	350	591	0.00091	41.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_05959 | SNOG_05959 | Stagonospora nodorum hypothetical protei - 320 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_05959	mbre|t_25810	36.31	179	101	13	131	308	751	917	1.1e-07	54.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC57A10_11c.1 | SPAC57A10_11c | Schizosaccharomyces pombe 972h- TIM22 inner membrane protein import complex subunit Tim4 - 313 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPAC57A10_11c.1	mbre|t_25810	32.72	162	96	13	160	313	720	876	5.1e-13	72.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04221T0 | SPPG_04221 | Spizellomyces punctatus DAOM BR117 intermembrane space protein Mia4 - 150 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_04221T0	mbre|t_25810	48.00	100	48	4	9	108	732	827	8.8e-11	63.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_25533|fgenesh1_pg.C_scaffold_2000383 - 260 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_25533|fgenesh1_pg.C_scaffold_2000383	mbre|t_25810	42.99	107	59	2	155	259	761	867	1.8e-09	60.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_80171|estExt_Genewise1Plus.C_40207 - 289 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_80171|estExt_Genewise1Plus.C_40207	mbre|t_25810	47.12	104	47	8	172	269	761	862	4.2e-08	55.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_72212|estExt_fgeneshTM_pm.C_110064 - 245 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_72212|estExt_fgeneshTM_pm.C_110064	mbre|t_25810	35.60	191	107	16	3	180	638	825	1.6e-11	66.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_31611|gw1.5.319.1 - 232 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_31611|gw1.5.319.1	mbre|t_25810	51.58	95	43	3	138	232	742	833	9.2e-11	64.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_53942|estExt_Genewise1.C_10139 - 302 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_53942|estExt_Genewise1.C_10139	mbre|t_25810	45.53	123	60	7	173	295	761	876	1.1e-08	57.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03631 related to MIA40 - mitochondrial intermembrane space protein, involved in import and assembly of intermembrane spac - 247 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um03631	mbre|t_25810	39.72	141	82	3	106	246	725	862	6.7e-14	74.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E21373gT0 gene=YALI0E21373g Ylip_CLIB122_chrE:254067 - 253 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0E21373gT0	mbre|t_25810	40.56	180	91	16	5	171	729	905	2e-16	83.2

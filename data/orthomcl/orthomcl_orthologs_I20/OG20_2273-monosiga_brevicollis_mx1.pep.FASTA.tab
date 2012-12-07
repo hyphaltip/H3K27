@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB03345.1 - 745 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+abra|AB03345.1	mbre|t_26906	27.59	667	304	179	91	630	136	750	5.2e-15	79.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu1g05100 Afu1g05100 A_fumigatus_Af293 AspGDID: COORDS:chr1:1455738-1458425(-) translated using codon table 1 (855 amino acids) - 854 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+afum|Afu1g05100	mbre|t_26906	29.27	762	445	94	22	733	51	768	1.1e-33	142.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_15165T0 | AMAG_15165 | Allomyces macrogynus ATCC 38327 predicted protei - 925 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+amac|AMAG_15165T0	mbre|t_26906	28.59	731	444	78	62	770	34	708	3.1e-15	80.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_02736T0 | ANID_02736 | Aspergillus nidulans FGSC A4 GARP complex subunit Vps5 - 850 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+anid|ANID_02736T0	mbre|t_26906	28.37	765	454	94	10	724	51	771	1.9e-31	134.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_01593 | BC1G_01593 | Botrytis cinerea hypothetical protein similar to Vps53 protei - 810 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+bcin|BC1T_01593	mbre|t_26906	28.03	742	427	107	9	697	75	762	4.3e-29	126.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.6094 |  Candida Albicans sc5314 assembly 21 orf19.609 - 699 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+calb_sc5314|orf19.6094	mbre|t_26906	22.39	719	438	120	1	611	53	759	5.6e-14	76.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03625 | PGUG_03625 | Candida guilliermondii hypothetical protei - 674 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cgui|PGUT_03625	mbre|t_26906	22.22	576	372	76	1	514	169	730	8e-16	82.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_04883T0 | CIMG_04883 | Coccidioides immitis RS GARP complex subunit Vps5 - 872 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cimm_rs|CIMG_04883T0	mbre|t_26906	29.92	762	439	95	16	726	51	768	4e-34	143.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00368T0 | CNAG_00368 | Cryptococcus neoformans grubii H99 vacuolar sorting protein 53 long isofor - 806 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+cneo_h99|CNAG_00368T0	mbre|t_26906	27.61	757	441	107	16	719	55	757	3.6e-23	107.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_127310|gw1.12.273.1 - 688 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mcin|t_127310|gw1.12.273.1	mbre|t_26906	34.64	742	387	98	1	688	52	749	4.5e-42	169.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_01331T0 | MGG_01331 | Magnaporthe grisea (M. oryzae) 70-15 vacuolar protein sorting 5 - 846 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mgri|MGG_01331T0	mbre|t_26906	28.32	784	449	113	9	744	50	768	2.2e-32	137.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_86743|EuGene.00010071 - 855 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+mlar|t_86743|EuGene.00010071	mbre|t_26906	27.03	777	454	113	6	747	51	749	9.6e-27	119.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU03024T0 | NCU03024 | Neurospora crassa OR74A (finished) GARP complex subunit Vps5 - 857 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ncra|NCU03024T0	mbre|t_26906	27.55	773	440	120	11	732	53	756	1.1e-23	108.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_95142 - 857 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ndis|NEUDI1_95142	mbre|t_26906	28.92	657	404	63	11	617	53	696	9.1e-24	109.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_019650 |  Neosartorya fischeri nul - 854 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+nfis|NFIA_019650	mbre|t_26906	29.53	762	443	94	22	733	51	768	1.5e-33	141.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_126741 - 857 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ntet|NEUTE1_126741	mbre|t_26906	27.55	773	440	120	11	732	53	756	1.2e-23	108.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002561325.1| gi|255941112 Pc16g10150 [Penicillium chrysogenum Wisconsi - 871 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+pechr_54_1255|XP_002561325.1|	mbre|t_26906	29.53	762	443	94	20	731	51	768	2e-31	134.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_51603|estExt_Genemark1.C_2_t20041 - 868 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rgra|t_51603|estExt_Genemark1.C_2_t20041	mbre|t_26906	28.30	735	442	85	70	760	64	757	1.4e-27	121.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14909 | RO3G_14910 | Rhizopus oryzae hypothetical protei - 451 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+rory|RO3T_14909	mbre|t_26906	29.49	373	231	32	6	354	418	782	2.3e-17	86.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YJL029C VPS53 SGDID:S000003566, Chr X from 390847-388379, reverse complement, Verified ORF, "Component of the GARP (Golgi-ass - 822 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+scer_s288c|YJL029C	mbre|t_26906	22.83	530	336	73	7	472	57	577	1.6e-19	94.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_04718 | SNOG_04718 | Stagonospora nodorum hypothetical protei - 829 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+snod|SNOT_04718	mbre|t_26906	30.96	730	431	73	4	680	48	757	2.6e-31	134.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC3A12_15.1 | SPAC3A12_15 | Schizosaccharomyces pombe 972h- GARP complex subunit Vps53 (predicted - 756 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spom|SPAC3A12_15.1	mbre|t_26906	24.93	758	458	111	18	710	57	768	7e-28	122.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00945T0 | SPPG_00945 | Spizellomyces punctatus DAOM BR117 vacuolar protein sorting 5 - 824 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+spun|SPPG_00945T0	mbre|t_26906	31.31	808	421	134	20	774	31	757	1e-38	158.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_9452|e_gw1.1.180.1 - 785 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sror|t_9452|e_gw1.1.180.1	mbre|t_26906	29.33	733	428	90	1	686	68	757	1.2e-29	128.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_98722|fgenesh1_pm.2_#_166 - 847 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+sthe|t_98722|fgenesh1_pm.2_#_166	mbre|t_26906	27.90	749	455	85	9	703	50	767	5.4e-21	99.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_68035|fgeneshTM_pm.3_#_40 - 817 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tmes|t_68035|fgeneshTM_pm.3_#_40	mbre|t_26906	28.53	736	447	79	27	733	64	749	6e-25	112.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_122708|estExt_fgenesh5_pg.C_140138 - 825 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tree|t_122708|estExt_fgenesh5_pg.C_140138	mbre|t_26906	27.92	770	445	110	9	724	49	762	3.9e-31	133.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_131004|estExt_fgenesh2_pg.C_40711 - 844 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+tter|t_131004|estExt_fgenesh2_pg.C_40711	mbre|t_26906	27.90	792	462	109	8	748	50	783	1.3e-31	135.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um05199 related to VPS53 - subunit of VP51-54 complex, required for prote - 967 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+umay|um05199	mbre|t_26906	27.44	780	466	100	31	764	20	745	1.7e-48	191.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D11198gT0 gene=YALI0D11198g Ylip_CLIB122_chrD:complement(1407207 - 735 aa
+# Database: ../animal-plant/monosiga_brevicollis_mx1.pep.fa
+ylip|YALI0D11198gT0	mbre|t_26906	24.56	741	445	114	2	675	61	754	6.2e-22	102.8

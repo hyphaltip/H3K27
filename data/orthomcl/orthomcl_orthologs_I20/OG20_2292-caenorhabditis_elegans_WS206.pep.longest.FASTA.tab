@@ -1,0 +1,117 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB08743.1 - 1346 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB08743.1	cele|cele_Y48G10A.1	50.18	277	128	10	11	286	11	278	3.2e-59	227.3
+abra|AB08743.1	cele|cele_C49H3.10	21.04	922	625	103	317	1211	7	852	1.8e-10	67.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu5g09850 Afu5g09850 A_fumigatus_Af293 AspGDID: COORDS:chr5:2547105-2550523(+) translated using codon table 1 (1000 amino acids - 999 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu5g09850	cele|cele_C49H3.10	21.65	924	581	143	18	876	14	859	1.8e-13	76.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_02857T0 | AMAG_02857 | Allomyces macrogynus ATCC 38327 predicted protein - 1127 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_02857T0	cele|cele_C49H3.10	23.25	1097	627	215	24	1088	11	924	7.2e-07	54.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_08787T0 | ANID_08787 | Aspergillus nidulans FGSC A4 exportin-T - 1030 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_08787T0	cele|cele_C49H3.10	21.68	964	652	103	11	948	8	894	9.9e-14	77.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_04725 | BC1G_04725 | Botrytis cinerea hypothetical protein similar to karyopheri - 901 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7153 |  Candida Albicans sc5314 assembly 21 orf19.7153 - 1025 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.7153	cele|cele_C49H3.10	22.00	1032	680	125	18	1023	14	946	7.5e-20	97.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_04176 | PGUG_04176 | Candida guilliermondii hypothetical protei - 986 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_04176	cele|cele_C49H3.10	22.88	883	603	78	18	862	14	856	3.3e-32	138.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_04714T0 | CIMG_04714 | Coccidioides immitis RS tRNA exportin - 1033 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_04714T0	cele|cele_C49H3.10	21.97	1006	658	127	12	992	8	911	9.3e-14	77.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02265T0 | CNAG_02265 | Cryptococcus neoformans grubii H99 tRNA binding protein - 1141 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_02265T0	cele|cele_C49H3.10	20.28	1139	677	231	26	1140	14	945	0.00046	45.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_138511|e_gw1.02.1369.1 - 992 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_138511|e_gw1.02.1369.1	cele|cele_C49H3.10	23.92	903	602	85	17	887	14	863	4.5e-32	138.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_10127T0 | MGG_10127 | Magnaporthe grisea (M. oryzae) 70-15 exportin-T - 1027 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_10127T0	cele|cele_C49H3.10	21.36	969	653	109	17	955	13	902	2.7e-07	56.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_93268|EuGene.00580047 - 1111 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU11169T0 | NCU11169 | Neurospora crassa OR74A (finished) exportin-T - 1026 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU11169T0	cele|cele_C49H3.10	23.67	942	617	102	14	927	14	881	5.7e-12	71.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_97120 - 1026 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_97120	cele|cele_C49H3.10	23.78	942	616	102	14	927	14	881	6.5e-12	71.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_077460 |  Neosartorya fischeri null - 1052 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_077460	cele|cele_C49H3.10	22.01	927	607	116	33	924	14	859	2.1e-13	76.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_122182 - 1026 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_122182	cele|cele_C49H3.10	23.89	942	615	102	14	927	14	881	4.3e-12	72.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002557420.1| gi|255931727 Pc12g05760 [Penicillium chrysogenum Wisconsi - 1028 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002557420.1|	cele|cele_C49H3.10	20.92	913	624	98	19	905	13	853	1.4e-13	77.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_55363|estExt_Genemark1.C_120213 - 1104 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_55363|estExt_Genemark1.C_120213	cele|cele_C49H3.10	22.25	1056	630	191	23	1052	15	905	0.00064	45.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_08437 | RO3G_08438 | Rhizopus oryzae hypothetical protei - 975 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_08437	cele|cele_C49H3.10	22.83	990	676	88	17	975	14	946	6.2e-28	124.6
+rory|RO3T_08437	cele|cele_ZK742.1a	20.35	629	399	102	21	585	42	632	2.6e-06	53.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YKL205W LOS1 SGDID:S000001688, Chr XI from 50052-53354, Verified ORF, "Nuclear pore protein involved in nuclear export of - 1100 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_00254 | SNOG_00254 | Stagonospora nodorum hypothetical protein - 1036 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_00254	cele|cele_C49H3.10	23.51	923	601	105	7	901	7	852	8.5e-16	84.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBP8B7_09c.1 | SPBP8B7_09c | Schizosaccharomyces pombe 972h- karyopheri - 978 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPBP8B7_09c.1	cele|cele_C49H3.10	22.99	1005	672	102	8	975	7	946	2.2e-15	82.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_03753T0 | SPPG_03753 | Spizellomyces punctatus DAOM BR117 hypothetical protein - 1023 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_03753T0	cele|cele_C49H3.10	26.16	906	582	87	9	881	10	861	3.2e-30	132.3
+spun|SPPG_03753T0	cele|cele_ZK742.1a	20.27	972	624	151	55	928	73	991	5.1e-06	52.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_24120|fgenesh1_pg.C_scaffold_1000006 - 1101 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_24120|fgenesh1_pg.C_scaffold_1000006	cele|cele_C49H3.10	21.19	1029	629	182	49	1053	35	905	1.1e-05	50.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_107777|estExt_fgenesh1_pg.C_40828 - 1020 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_107777|estExt_fgenesh1_pg.C_40828	cele|cele_C49H3.10	21.91	972	662	97	17	962	13	913	1.2e-13	77.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_42900|estExt_Genewise1Plus.C_20876 - 1160 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3892|fgenesh1_pm.C_scaffold_9000036 - 1019 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_3892|fgenesh1_pm.C_scaffold_9000036	cele|cele_C49H3.10	21.42	929	642	88	17	919	13	879	9.2e-15	80.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_130512|estExt_fgenesh2_pg.C_30801 - 1019 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_130512|estExt_fgenesh2_pg.C_30801	cele|cele_C49H3.10	22.37	903	616	85	17	896	13	853	5.9e-13	74.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um11401 related to tRNA Exportin - 1106 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E04576gT0 gene=YALI0E04576g Ylip_CLIB122_chrE:complement(52089 - 1025 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa

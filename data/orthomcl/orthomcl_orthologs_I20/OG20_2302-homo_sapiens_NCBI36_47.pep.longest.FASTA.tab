@@ -1,0 +1,125 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB09585.1 - 855 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g16840 Afu2g16840 A_fumigatus_Af293 AspGDID: COORDS:chr2:4496845-4499364(+) translated using codon table 1 (804 amino acids) - 803 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_12502T0 | AMAG_12502 | Allomyces macrogynus ATCC 38327 predicted protein - 1225 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_07297T0 | ANID_07297 | Aspergillus nidulans FGSC A4 SWI-SNF complex subuni - 798 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_07297T0	hsap|hsap_ENST00000344921	36.55	238	117	34	226	462	185	389	0.0008	43.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_15534 | BC1G_15534 | Botrytis cinerea hypothetical protein similar to transcription factor Snf5 - 723 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5871 |  Candida Albicans sc5314 assembly 21 orf19.587 - 696 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.5871	hsap|hsap_ENST00000344921	32.19	233	126	32	355	586	185	386	1.9e-07	54.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_00859 | PGUG_00859 | Candida guilliermondii hypothetical protei - 620 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_00859	hsap|hsap_ENST00000344921	32.93	249	130	37	278	522	171	386	1.1e-09	62.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_09443T0 | CIMG_09443 | Coccidioides immitis RS SWI-SNF complex subuni - 813 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_00740T0 | CNAG_00740 | Cryptococcus neoformans grubii H99 conserved hypothetical protein - 1763 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_00740T0	hsap|hsap_ENST00000301067	27.81	1007	596	131	34	945	2919	3889	2e-07	59.9
+cneo_h99|CNAG_00740T0	hsap|hsap_ENST00000374080	27.77	623	342	108	259	840	1621	2176	6.6e-06	53.6
+cneo_h99|CNAG_00740T0	hsap|hsap_ENST00000331217	24.59	740	488	70	266	966	6	714	2.3e-05	50.6
+cneo_h99|CNAG_00740T0	hsap|hsap_ENST00000389362	30.10	412	235	53	105	489	9	394	3.8e-05	48.6
+cneo_h99|CNAG_00740T0	hsap|hsap_ENST00000324856	25.03	963	581	141	12	901	357	1251	9.9e-05	49.7
+cneo_h99|CNAG_00740T0	hsap|hsap_ENST00000263282	22.51	1075	677	156	34	986	384	1424	0.0003	47.5
+cneo_h99|CNAG_00740T0	hsap|hsap_ENST00000328300	26.30	787	454	126	191	939	724	1422	0.0007	46.5
+cneo_h99|CNAG_00740T0	hsap|hsap_ENST00000263205	30.87	473	260	67	12	467	109	531	0.00081	45.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_163620|fgenesh1_pg.05_#_5 - 673 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_163620|fgenesh1_pg.05_#_5	hsap|hsap_ENST00000344921	38.04	255	103	55	242	496	187	386	1e-07	55.7
+mcin|t_163620|fgenesh1_pg.05_#_5	hsap|hsap_ENST00000263205	36.07	122	72	6	9	124	166	287	0.0004	44.8
+mcin|t_163620|fgenesh1_pg.05_#_5	hsap|hsap_ENST00000393500	25.09	279	185	24	9	281	180	440	0.00046	44.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_06315T0 | MGG_06315 | Magnaporthe grisea (M. oryzae) 70-15 transcription regulatory protein SNF - 771 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_29718|gw1.9.142.1 - 220 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_29718|gw1.9.142.1	hsap|hsap_ENST00000344921	40.00	215	106	23	1	215	195	386	4.1e-17	85.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU00421T0 | NCU00421 | Neurospora crassa OR74A (finished) SWI-SNF complex subuni - 732 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_155273 - 733 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_092140 |  Neosartorya fischeri nul - 803 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_146575 - 745 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002568915.1| gi|255956325 Pc21g19240 [Penicillium chrysogenum Wisconsi - 802 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_33227|estExt_Genewise1Plus.C_1_t20325 - 359 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_03481 | RO3G_03482 | Rhizopus oryzae hypothetical protei - 409 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_03481	hsap|hsap_ENST00000344921	44.22	199	102	9	138	335	200	390	1.6e-22	104.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YBR289W SNF5 SGDID:S000000493, Chr II from 779663-782380, Verified ORF, "Subunit of the SWI/SNF chromatin remodeling complex  - 905 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YBR289W	hsap|hsap_ENST00000301067	40.76	314	154	32	31	316	3450	3759	1.4e-09	66.1
+scer_s288c|YBR289W	hsap|hsap_ENST00000331217	35.40	339	176	43	1	310	201	525	1.4e-07	57.0
+scer_s288c|YBR289W	hsap|hsap_ENST00000374080	36.68	289	155	28	29	303	1886	2160	6.7e-07	55.9
+scer_s288c|YBR289W	hsap|hsap_ENST00000263205	40.93	237	112	28	105	322	81	308	8.2e-07	54.1
+scer_s288c|YBR289W	hsap|hsap_ENST00000393500	38.55	275	140	29	41	313	46	293	1.2e-06	53.5
+scer_s288c|YBR289W	hsap|hsap_ENST00000397192	33.81	278	166	18	2	279	343	602	1.5e-05	50.4
+scer_s288c|YBR289W	hsap|hsap_ENST00000219746	30.66	274	181	9	29	300	285	551	1.6e-05	49.4
+scer_s288c|YBR289W	hsap|hsap_ENST00000390657	31.25	304	178	31	25	310	322	612	0.00029	45.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_02717 | SNOG_02717 | Stagonospora nodorum predicted protei - 182 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC2F7_08c.1 | SPAC2F7_08c | Schizosaccharomyces pombe 972h- chromatin remodeling complex subunit Snf5 (predicted - 632 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC2F7_08c.1	hsap|hsap_ENST00000344921	34.27	248	110	53	138	385	192	386	2.1e-09	61.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_08006T0 | SPPG_08006 | Spizellomyces punctatus DAOM BR117 predicted protein - 1022 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_08006T0	hsap|hsap_ENST00000344921	43.59	234	96	36	484	717	189	386	0.00061	43.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_31897|estExt_fgenesh1_pg.C_20462 - 744 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_48679|e_gw1.4.268.1 - 759 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73649|estExt_fgeneshTM_pg.C_40188 - 1580 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_73649|estExt_fgeneshTM_pg.C_40188	hsap|hsap_ENST00000324856	27.14	737	412	125	50	702	282	977	9.2e-06	53.0
+tmes|t_73649|estExt_fgeneshTM_pg.C_40188	hsap|hsap_ENST00000263205	27.88	452	270	56	120	535	108	539	0.00019	47.1
+tmes|t_73649|estExt_fgeneshTM_pg.C_40188	hsap|hsap_ENST00000301067	23.63	1371	809	238	19	1282	3463	4702	0.00086	47.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_54670|e_gw1.1.179.1 - 711 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_71235|estExt_Genewise1Plus.C_30701 - 741 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um04381 related to SNF5 - component of SWI/SNF transcription activat - 2076 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um04381	hsap|hsap_ENST00000374796	25.81	1085	652	153	10	1023	139	1141	1.1e-08	63.0
+umay|um04381	hsap|hsap_ENST00000331217	27.33	644	404	64	8	618	302	914	5.5e-07	56.2
+umay|um04381	hsap|hsap_ENST00000263282	24.25	1031	621	160	8	953	75	1030	3.2e-05	51.0
+umay|um04381	hsap|hsap_ENST00000301067	25.81	1077	552	247	1	1027	3505	4384	0.00013	50.7
+umay|um04381	hsap|hsap_ENST00000263205	31.57	491	245	91	3	479	112	525	0.00015	47.8
+umay|um04381	hsap|hsap_ENST00000324856	22.54	1291	785	215	11	1145	369	1600	0.00024	48.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E13101gT0 gene=YALI0E13101g Ylip_CLIB122_chrE:157823 - 743 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa

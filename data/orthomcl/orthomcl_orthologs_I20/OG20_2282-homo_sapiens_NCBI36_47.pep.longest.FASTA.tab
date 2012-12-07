@@ -1,0 +1,120 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB06768.1 - 381 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB06768.1	hsap|hsap_ENST00000372561	42.19	301	140	34	9	302	2	275	1.1e-29	127.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g07230 Afu3g07230 A_fumigatus_Af293 AspGDID: COORDS:chr3:1816056-1817288(-) translated using codon table 1 (411 amino acids) - 410 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu3g07230	hsap|hsap_ENST00000372561	40.71	312	144	41	12	322	2	273	4.8e-29	125.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04598T0 | AMAG_04598 | Allomyces macrogynus ATCC 38327 conserved hypothetical protei - 370 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_04598T0	hsap|hsap_ENST00000372561	42.11	342	151	47	17	355	10	307	1.7e-16	83.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04830T0 | ANID_04830 | Aspergillus nidulans FGSC A4 phosphopantothenate-cysteine ligas - 398 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_04830T0	hsap|hsap_ENST00000372561	41.00	300	140	37	14	312	10	273	2.3e-29	126.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_02344 | BC1G_02344 | Botrytis cinerea phosphopantothenate-cysteine ligas - 461 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_02344	hsap|hsap_ENST00000372561	41.72	314	141	42	81	389	1	277	1.2e-25	114.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.7357 |  Candida Albicans sc5314 assembly 21 orf19.735 - 209 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.7357	hsap|hsap_ENST00000372561	45.56	180	93	5	23	202	133	307	1e-30	130.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02000 | PGUG_02000 | Candida guilliermondii hypothetical protei - 340 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_02000	hsap|hsap_ENST00000372561	43.56	303	155	16	41	334	12	307	2.1e-46	182.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_00337T0 | CIMG_00337 | Coccidioides immitis RS phosphopantothenate-cysteine ligas - 429 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_00337T0	hsap|hsap_ENST00000372561	39.75	322	132	62	26	347	13	272	8.4e-14	74.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_02222T0 | CNAG_02222 | Cryptococcus neoformans grubii H99 phosphopantothenate-cysteine ligas - 367 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_02222T0	hsap|hsap_ENST00000372561	46.07	280	138	13	20	295	13	283	4.8e-48	188.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_83470|Mucci1.fgeneshMC_pg.6_#_412 - 334 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_83470|Mucci1.fgeneshMC_pg.6_#_412	hsap|hsap_ENST00000372561	41.42	309	171	10	25	328	4	307	3.8e-48	188.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_02725T0 | MGG_02725 | Magnaporthe grisea (M. oryzae) 70-15 phosphopantothenate-cysteine ligas - 439 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_02725T0	hsap|hsap_ENST00000372561	36.81	345	122	96	29	363	11	269	7.5e-23	105.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_38628|e_gw1.42.43.1 - 338 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_38628|e_gw1.42.43.1	hsap|hsap_ENST00000372561	39.38	320	164	30	21	335	13	307	1.9e-27	119.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU09090T0 | NCU09090 | Neurospora crassa OR74A (finished) phosphopantothenate-cysteine ligas - 440 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU09090T0	hsap|hsap_ENST00000372561	36.44	343	147	71	17	354	1	277	2.2e-24	110.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_72917 - 433 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_72917	hsap|hsap_ENST00000372561	36.47	340	148	68	17	351	1	277	1.5e-25	114.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_070020 |  Neosartorya fischeri nul - 410 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_070020	hsap|hsap_ENST00000372561	39.74	312	147	41	12	322	2	273	2.2e-28	123.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_70340 - 435 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_70340	hsap|hsap_ENST00000372561	36.55	342	147	70	17	353	1	277	3.9e-24	109.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002562776.1| gi|255944017 Pc20g02180 [Penicillium chrysogenum Wisconsi - 399 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002562776.1|	hsap|hsap_ENST00000372561	41.29	310	143	39	12	320	2	273	3.7e-31	132.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_52551|estExt_Genemark1.C_4_t10431 - 392 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_52551|estExt_Genemark1.C_4_t10431	hsap|hsap_ENST00000372561	37.60	375	154	80	17	388	11	308	8.8e-19	91.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14617 | RO3G_14618 | Rhizopus oryzae hypothetical protei - 314 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_14617	hsap|hsap_ENST00000372561	41.69	307	151	28	19	304	4	303	3.2e-31	132.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YIL083C CAB2 SGDID:S000001345, Chr IX from 204650-203553, reverse complement, Verified ORF, "Probable phosphopantothenoylcyst - 365 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YIL083C	hsap|hsap_ENST00000372561	39.18	291	149	28	74	355	36	307	1.6e-23	107.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_00223 | SNOG_00223 | Stagonospora nodorum hypothetical protei - 379 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_00223	hsap|hsap_ENST00000372561	41.75	297	144	29	9	299	2	275	3.8e-29	125.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPCC4B3_18.1 | SPCC4B3_18 | Schizosaccharomyces pombe 972h- phosphopantothenate-cysteine ligas - 316 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPCC4B3_18.1	hsap|hsap_ENST00000372561	42.58	310	166	12	1	305	1	303	1.1e-46	183.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_00070T0 | SPPG_00070 | Spizellomyces punctatus DAOM BR117 phosphopantothenate-cysteine ligas - 349 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_00070T0	hsap|hsap_ENST00000372561	45.57	316	150	22	36	343	6	307	1.3e-32	137.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_8951|e_gw1.1.830.1 - 328 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_8951|e_gw1.1.830.1	hsap|hsap_ENST00000372561	40.19	316	168	21	18	327	10	310	1.2e-43	173.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_74968|estExt_Genewise1Plus.C_13161 - 377 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_74968|estExt_Genewise1Plus.C_13161	hsap|hsap_ENST00000372561	39.13	299	130	52	17	298	1	264	1.1e-11	67.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_44607|estExt_Genewise1Plus.C_80023 - 354 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_44607|estExt_Genewise1Plus.C_80023	hsap|hsap_ENST00000372561	43.46	283	153	7	17	297	13	290	1.6e-46	183.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3350|fgenesh1_pm.C_scaffold_6000098 - 373 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_3350|fgenesh1_pm.C_scaffold_6000098	hsap|hsap_ENST00000372561	41.83	306	133	45	19	318	13	279	8.4e-28	121.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_56819|estExt_Genewise1.C_15696 - 389 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_56819|estExt_Genewise1.C_15696	hsap|hsap_ENST00000372561	39.94	308	143	42	17	319	1	271	6.7e-29	124.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03699 conserved hypothetical protein - 369 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um03699	hsap|hsap_ENST00000372561	45.45	275	139	11	22	296	13	276	6.4e-26	115.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0C06996gT0 gene=YALI0C06996g Ylip_CLIB122_chrC:complement(93759 - 333 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0C06996gT0	hsap|hsap_ENST00000372561	43.09	311	166	11	17	324	1	303	3.3e-46	182.2

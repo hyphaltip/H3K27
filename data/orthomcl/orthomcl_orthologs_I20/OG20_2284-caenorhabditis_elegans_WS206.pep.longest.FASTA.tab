@@ -1,0 +1,121 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB07175.1 - 495 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB07175.1	cele|cele_Y80D3A.1	47.46	413	195	22	22	434	26	416	3.6e-31	133.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu2g01640 Afu2g01640 A_fumigatus_Af293 AspGDID: COORDS:chr2:396481-397896(+) translated using codon table 1 (417 amino acids) t - 416 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu2g01640	cele|cele_Y80D3A.1	47.37	418	184	36	20	405	3	416	4.2e-58	222.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_04902T0 | AMAG_04902 | Allomyces macrogynus ATCC 38327 tryptophanyl-tRNA synthetas - 507 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_04902T0	cele|cele_Y80D3A.1	54.73	391	171	6	38	428	31	415	1.2e-64	244.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_10475T0 | ANID_10475 | Aspergillus nidulans FGSC A4 tryptophanyl-tRNA synthetas - 424 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_10475T0	cele|cele_Y80D3A.1	51.63	399	176	17	17	415	34	415	1.2e-38	157.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_07147 | BC1G_07147 | Botrytis cinerea tryptophanyl-tRNA synthetas - 474 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_07147	cele|cele_Y80D3A.1	55.44	377	163	5	38	414	44	415	3.8e-85	312.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5226 |  Candida Albicans sc5314 assembly 21 orf19.522 - 424 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.5226	cele|cele_Y80D3A.1	56.46	395	167	5	12	406	26	415	8.8e-97	350.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_02743 | PGUG_02743 | Candida guilliermondii hypothetical protein similar to tryptophanyl-tRNA synthetas - 426 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_02743	cele|cele_Y80D3A.1	54.36	390	173	5	21	410	31	415	2.5e-93	339.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_05088T0 | CIMG_05088 | Coccidioides immitis RS tryptophanyl-tRNA synthetas - 490 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_05088T0	cele|cele_Y80D3A.1	49.88	403	185	17	69	471	31	416	1.2e-37	154.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_04604T0 | CNAG_04604 | Cryptococcus neoformans grubii H99 tryptophan-tRNA ligas - 611 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_04604T0	cele|cele_Y80D3A.1	50.12	401	177	23	179	579	30	407	6e-46	182.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA - 260 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_155470|fgenesh1_kg.02_#_343_#_1550_1_CCIA	cele|cele_Y80D3A.1	54.84	248	112	0	3	250	161	408	2.2e-63	239.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_09540T0 | MGG_09540 | Magnaporthe grisea (M. oryzae) 70-15 tryptophanyl-tRNA synthetas - 446 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_09540T0	cele|cele_Y80D3A.1	46.37	399	163	51	36	389	25	417	2.5e-33	140.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_51354|fgenesh1_pm.C_scaffold_1000127 - 410 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_51354|fgenesh1_pm.C_scaffold_1000127	cele|cele_Y80D3A.1	56.62	385	162	5	9	393	29	408	4.6e-99	358.5
+mlar|t_51354|fgenesh1_pm.C_scaffold_1000127	cele|cele_Y105E8A.19	21.87	375	263	30	45	405	1	359	2e-06	51.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU06722T0 | NCU06722 | Neurospora crassa OR74A (finished) tryptophanyl-tRNA synthetas - 491 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU06722T0	cele|cele_Y80D3A.1	57.22	381	151	12	47	427	47	415	3.4e-34	143.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_71647 - 491 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_71647	cele|cele_Y80D3A.1	56.69	381	153	12	47	427	47	415	1.7e-34	144.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_033950 |  Neosartorya fischeri nul - 433 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_033950	cele|cele_Y80D3A.1	50.36	419	187	21	20	422	3	416	1.3e-90	330.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_149131 - 491 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_149131	cele|cele_Y80D3A.1	57.48	381	150	12	47	427	47	415	2e-34	144.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002563085.1| gi|255944635 Pc20g05510 [Penicillium chrysogenum Wisconsi - 435 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002563085.1|	cele|cele_Y80D3A.1	50.89	393	183	10	30	422	34	416	2.1e-88	323.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_48759|estExt_fgenesh1_pm.C_100057 - 391 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_48759|estExt_fgenesh1_pm.C_100057	cele|cele_Y80D3A.1	56.20	363	158	1	3	365	47	408	6.4e-94	341.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_16974 | RO3G_16975 | Rhizopus oryzae hypothetical protei - 414 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_16974	cele|cele_Y80D3A.1	55.61	410	173	9	8	414	12	415	2.5e-100	362.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YOL097C WRS1 SGDID:S000005457, Chr XV from 137825-136527, reverse complement, Verified ORF, "Cytoplasmic tryptophanyl-tRNA sy - 432 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YOL097C	cele|cele_Y80D3A.1	55.32	385	166	6	23	407	30	408	3.7e-95	345.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_05462 | SNOG_05462 | Stagonospora nodorum hypothetical protei - 495 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_05462	cele|cele_Y80D3A.1	48.18	413	192	22	22	434	26	416	3.7e-32	136.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC2F7_13c.1 | SPAC2F7_13c | Schizosaccharomyces pombe 972h- tryptophan-tRNA ligase Wrs1 (predicted - 395 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPAC2F7_13c.1	cele|cele_Y80D3A.1	55.99	384	164	5	4	387	30	408	1.8e-99	359.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07262T0 | SPPG_07262 | Spizellomyces punctatus DAOM BR117 tryptophanyl-tRNA synthetas - 430 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_07262T0	cele|cele_Y80D3A.1	57.18	418	171	8	1	416	1	412	1.8e-105	379.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_14500|e_gw1.8.126.1 - 415 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_14500|e_gw1.8.126.1	cele|cele_Y80D3A.1	56.81	382	160	5	1	382	31	407	3.2e-97	352.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_64980|estExt_Genewise1.C_30829 - 478 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_64980|estExt_Genewise1.C_30829	cele|cele_Y80D3A.1	51.76	425	189	16	1	425	8	416	1.2e-36	151.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_67668|fgeneshTM_pm.2_#_156 - 550 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_67668|fgeneshTM_pm.2_#_156	cele|cele_Y80D3A.1	49.88	401	178	23	135	535	30	407	4.2e-49	192.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_121000|estExt_fgenesh5_pg.C_50327 - 485 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_121000|estExt_fgenesh5_pg.C_50327	cele|cele_Y80D3A.1	51.31	419	188	16	6	418	8	416	3.3e-81	299.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_58737|estExt_Genewise1.C_23006 - 488 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_58737|estExt_Genewise1.C_23006	cele|cele_Y80D3A.1	51.76	425	188	17	1	425	8	415	1.2e-34	144.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um03798 probable tryptophan--tRNA ligase - 440 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um03798	cele|cele_Y80D3A.1	55.50	409	172	10	3	406	5	408	9.1e-102	367.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0B08943gT0 gene=YALI0B08943g Ylip_CLIB122_chrB:122379 - 438 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0B08943gT0	cele|cele_Y80D3A.1	53.86	414	181	10	1	410	1	408	5.8e-99	358.2

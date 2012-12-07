@@ -1,0 +1,175 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02571.1 - 374 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+abra|AB02571.1	cele|cele_C04C3.3	64.02	328	116	2	48	374	25	351	3.5e-89	325.2
+abra|AB02571.1	cele|cele_F27D4.5	35.04	371	226	15	2	370	5	362	3.1e-41	166.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g04170 Afu3g04170 A_fumigatus_Af293 AspGDID: COORDS:chr3:1175521-1176878(+) translated using codon table 1 (378 amino acids) - 377 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+afum|Afu3g04170	cele|cele_C04C3.3	61.22	343	130	3	36	377	11	351	4.9e-89	324.8
+afum|Afu3g04170	cele|cele_F27D4.5	35.29	340	207	13	16	352	14	343	2e-39	160.1
+afum|Afu3g04170	cele|cele_F01G10.1	26.92	312	193	35	45	349	308	591	2.1e-05	47.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_06839T0 | AMAG_06839 | Allomyces macrogynus ATCC 38327 pyruvate dehydrogenase beta subuni - 365 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+amac|AMAG_06839T0	cele|cele_C04C3.3	66.17	337	113	1	25	361	14	349	3.2e-106	381.8
+amac|AMAG_06839T0	cele|cele_F27D4.5	37.31	327	195	10	32	356	41	359	8.3e-43	171.2
+amac|AMAG_06839T0	cele|cele_F01G10.1	26.35	315	203	29	25	335	302	591	0.00029	44.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_09403T0 | ANID_09403 | Aspergillus nidulans FGSC A4 pyruvate dehydrogenase E1 beta subunit Pdb - 375 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+anid|ANID_09403T0	cele|cele_C04C3.3	61.22	343	130	3	34	375	11	351	5.3e-90	328.0
+anid|ANID_09403T0	cele|cele_F27D4.5	34.52	336	213	7	16	350	14	343	6.5e-39	158.3
+anid|ANID_09403T0	cele|cele_F01G10.1	26.18	340	214	37	17	347	280	591	4.1e-05	46.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_08794 | BC1G_08794 | Botrytis cinerea pyruvate dehydrogenase E1 component beta subuni - 372 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+bcin|BC1T_08794	cele|cele_C04C3.3	61.16	327	125	2	47	372	26	351	5.6e-89	324.6
+bcin|BC1T_08794	cele|cele_F27D4.5	32.41	361	231	13	9	368	14	362	4e-39	159.0
+bcin|BC1T_08794	cele|cele_F01G10.1	26.01	346	221	35	9	344	271	591	0.00025	44.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.5294 |  Candida Albicans sc5314 assembly 21 orf19.529 - 379 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+calb_sc5314|orf19.5294	cele|cele_C04C3.3	62.65	340	126	1	40	379	13	351	3.4e-96	348.6
+calb_sc5314|orf19.5294	cele|cele_F27D4.5	31.74	356	229	14	27	375	14	362	6.3e-40	161.7
+calb_sc5314|orf19.5294	cele|cele_F01G10.1	25.14	350	222	40	8	351	276	591	1.6e-05	48.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_03763 | PGUG_03763 | Candida guilliermondii conserved hypothetical protei - 407 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cgui|PGUT_03763	cele|cele_C04C3.3	64.79	355	119	6	53	407	3	351	3.2e-100	362.1
+cgui|PGUT_03763	cele|cele_F27D4.5	35.38	325	202	8	80	403	45	362	1.6e-41	167.1
+cgui|PGUT_03763	cele|cele_F01G10.1	24.30	391	244	52	17	398	255	602	0.00023	44.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_08468T0 | CIMG_08468 | Coccidioides immitis RS pyruvate dehydrogenase E1 componen - 377 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cimm_rs|CIMG_08468T0	cele|cele_C04C3.3	62.50	328	121	2	51	377	25	351	1.5e-94	343.1
+cimm_rs|CIMG_08468T0	cele|cele_F27D4.5	35.23	298	188	5	56	352	50	343	7.9e-40	161.4
+cimm_rs|CIMG_08468T0	cele|cele_F01G10.1	26.06	307	193	34	50	349	312	591	7.1e-05	46.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_05059T0 | CNAG_05059 | Cryptococcus neoformans grubii H99 pyruvate dehydrogenase e1 component beta subuni - 384 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+cneo_h99|CNAG_05059T0	cele|cele_C04C3.3	59.54	346	114	26	52	381	14	349	2.7e-77	285.8
+cneo_h99|CNAG_05059T0	cele|cele_F27D4.5	32.93	331	193	29	67	379	43	362	1.3e-30	130.8
+cneo_h99|CNAG_05059T0	cele|cele_F01G10.1	25.82	337	213	37	16	335	260	576	0.00019	44.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA - 373 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	cele|cele_C04C3.3	65.17	333	116	0	36	368	18	350	1.2e-95	346.7
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	cele|cele_F27D4.5	35.35	331	203	11	41	368	43	365	7.3e-38	154.8
+mcin|t_155511|fgenesh1_kg.02_#_384_#_138_1_CCIA	cele|cele_F01G10.1	25.65	347	224	34	10	351	282	599	1.3e-06	51.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_10569T0 | MGG_10569 | Magnaporthe grisea (M. oryzae) 70-15 pyruvate dehydrogenase E1 component subunit bet - 383 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mgri|MGG_10569T0	cele|cele_C04C3.3	61.65	339	121	9	48	382	13	346	1.9e-91	332.8
+mgri|MGG_10569T0	cele|cele_F27D4.5	34.72	360	221	14	15	369	2	352	1.7e-41	166.9
+mgri|MGG_10569T0	cele|cele_F01G10.1	24.13	344	224	37	6	337	259	577	0.0001	45.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_49370|estExt_Genewise1Plus.C_330041 - 400 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+mlar|t_49370|estExt_Genewise1Plus.C_330041	cele|cele_C04C3.3	63.27	343	124	2	56	397	8	349	4.9e-97	351.4
+mlar|t_49370|estExt_Genewise1Plus.C_330041	cele|cele_F27D4.5	34.45	328	207	8	71	397	44	364	2.5e-39	159.8
+mlar|t_49370|estExt_Genewise1Plus.C_330041	cele|cele_F01G10.1	24.63	341	229	28	18	351	257	576	4.6e-05	46.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU03004T0 | NCU03004 | Neurospora crassa OR74A (finished) pyruvate dehydrogenase E1 componen - 379 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ncra|NCU03004T0	cele|cele_C04C3.3	59.77	343	136	2	37	378	10	351	9.7e-94	340.4
+ncra|NCU03004T0	cele|cele_F27D4.5	33.79	364	218	23	8	364	5	352	4e-41	165.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_80756 - 379 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ndis|NEUDI1_80756	cele|cele_C04C3.3	60.06	348	130	9	32	378	12	351	6.9e-93	337.6
+ndis|NEUDI1_80756	cele|cele_F27D4.5	34.63	361	219	17	8	364	5	352	9.4e-42	167.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_006440 |  Neosartorya fischeri nul - 377 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+nfis|NFIA_006440	cele|cele_C04C3.3	60.93	343	131	3	36	377	11	351	4.6e-89	324.9
+nfis|NFIA_006440	cele|cele_F27D4.5	35.29	340	207	13	16	352	14	343	1.5e-39	160.4
+nfis|NFIA_006440	cele|cele_F01G10.1	26.92	312	193	35	45	349	308	591	2e-05	47.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_92673 - 379 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ntet|NEUTE1_92673	cele|cele_C04C3.3	59.77	343	136	2	37	378	10	351	5.7e-93	337.9
+ntet|NEUTE1_92673	cele|cele_F27D4.5	34.07	364	217	23	8	364	5	352	2.4e-41	166.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002560063.1| gi|255938586 Pc14g00690 [Penicillium chrysogenum Wisconsi - 365 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+pechr_54_1255|XP_002560063.1|	cele|cele_C04C3.3	57.64	347	133	14	32	365	6	351	7.7e-59	224.4
+pechr_54_1255|XP_002560063.1|	cele|cele_F27D4.5	34.01	344	203	24	13	340	8	343	3.8e-28	122.5
+pechr_54_1255|XP_002560063.1|	cele|cele_F01G10.1	27.12	306	180	43	49	337	312	591	5.4e-08	56.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_66084|estExt_fgenesh1_kg.C_30024 - 329 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	cele|cele_C04C3.3	67.18	326	106	1	1	326	25	349	6.9e-102	367.3
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	cele|cele_F27D4.5	36.07	305	187	8	1	303	45	343	8.5e-40	161.1
+rgra|t_66084|estExt_fgenesh1_kg.C_30024	cele|cele_F01G10.1	26.76	284	184	24	1	280	313	576	0.00011	45.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_14406 | RO3G_14407 | Rhizopus oryzae hypothetical protei - 363 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+rory|RO3T_14406	cele|cele_C04C3.3	69.30	329	99	2	31	358	23	350	1.8e-98	356.1
+rory|RO3T_14406	cele|cele_F27D4.5	36.31	336	201	13	27	358	39	365	2.4e-41	166.3
+rory|RO3T_14406	cele|cele_F01G10.1	24.59	366	234	42	1	355	282	616	6.2e-07	52.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YBR221C PDB1 SGDID:S000000425, Chr II from 666248-665148, reverse complement, Verified ORF, "E1 beta subunit of the pyruvate  - 366 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+scer_s288c|YBR221C	cele|cele_C04C3.3	63.07	352	125	5	15	365	4	351	1.6e-96	349.6
+scer_s288c|YBR221C	cele|cele_F27D4.5	34.79	365	224	14	1	361	8	362	2.9e-42	169.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_08442 | SNOG_08442 | Stagonospora nodorum predicted protei - 368 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+snod|SNOT_08442	cele|cele_C04C3.3	63.22	329	119	2	41	368	25	352	2e-89	326.1
+snod|SNOT_08442	cele|cele_F27D4.5	36.77	359	208	19	8	363	20	362	4.4e-43	172.2
+snod|SNOT_08442	cele|cele_F01G10.1	25.87	317	206	29	13	321	282	577	0.00023	44.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPBC30D10_13c.1 | SPBC30D10_13c | Schizosaccharomyces pombe 972h- pyruvate dehydrogenase e1 component beta subunit Pdb - 366 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spom|SPBC30D10_13c.1	cele|cele_C04C3.3	66.37	342	114	1	24	365	11	351	1.3e-100	363.2
+spom|SPBC30D10_13c.1	cele|cele_F27D4.5	36.20	326	200	8	37	361	44	362	2.1e-40	163.3
+spom|SPBC30D10_13c.1	cele|cele_F01G10.1	28.10	331	204	34	37	360	312	615	3.8e-07	53.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_07465T0 | SPPG_07465 | Spizellomyces punctatus DAOM BR117 pyruvate dehydrogenase E1 componen - 363 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+spun|SPPG_07465T0	cele|cele_C04C3.3	68.36	335	105	1	28	361	16	350	2e-103	372.5
+spun|SPPG_07465T0	cele|cele_F27D4.5	36.78	329	199	9	35	361	44	365	3.8e-42	169.0
+spun|SPPG_07465T0	cele|cele_F01G10.1	29.10	268	165	25	53	314	328	576	9.5e-06	48.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_21696|estExt_Genewise1Plus.C_40315 - 337 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sror|t_21696|estExt_Genewise1Plus.C_40315	cele|cele_C04C3.3	64.97	334	108	9	1	334	25	349	3.5e-68	255.3
+sror|t_21696|estExt_Genewise1Plus.C_40315	cele|cele_F27D4.5	35.12	336	200	18	1	334	45	364	4.2e-37	152.2
+sror|t_21696|estExt_Genewise1Plus.C_40315	cele|cele_F01G10.1	26.74	288	181	30	4	288	316	576	4.9e-06	49.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_114529|estExt_fgenesh1_pm.C_21258 - 378 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	cele|cele_C04C3.3	63.30	327	118	2	53	378	26	351	1e-89	327.0
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	cele|cele_F27D4.5	36.77	310	189	7	56	364	49	352	1.5e-39	160.5
+sthe|t_114529|estExt_fgenesh1_pm.C_21258	cele|cele_F01G10.1	26.15	325	195	45	55	371	316	603	0.00028	44.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73309|estExt_fgeneshTM_pg.C_20482 - 395 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	cele|cele_C04C3.3	63.96	333	119	1	60	392	18	349	6.8e-96	347.6
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	cele|cele_F27D4.5	33.33	363	230	12	33	390	7	362	4.3e-40	162.3
+tmes|t_73309|estExt_fgeneshTM_pg.C_20482	cele|cele_F01G10.1	27.22	371	232	38	23	387	276	614	2.5e-05	47.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_76744|estExt_GeneWisePlus.C_60244 - 383 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tree|t_76744|estExt_GeneWisePlus.C_60244	cele|cele_C04C3.3	63.00	327	119	2	58	383	26	351	8.3e-92	334.0
+tree|t_76744|estExt_GeneWisePlus.C_60244	cele|cele_F27D4.5	33.43	350	226	7	14	361	2	346	3.6e-39	159.2
+tree|t_76744|estExt_GeneWisePlus.C_60244	cele|cele_F01G10.1	26.35	296	187	31	48	337	307	577	0.0001	45.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_161842|estExt_genemark.C_11849 - 378 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+tter|t_161842|estExt_genemark.C_11849	cele|cele_C04C3.3	65.14	327	112	2	53	378	26	351	3.7e-91	331.8
+tter|t_161842|estExt_genemark.C_11849	cele|cele_F27D4.5	36.89	309	188	7	57	364	50	352	4.1e-39	159.0
+tter|t_161842|estExt_genemark.C_11849	cele|cele_F01G10.1	25.60	332	214	33	9	332	271	577	0.00013	45.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um06105 probable PDB1 - pyruvate dehydrogenase (lipoamide) beta chain - 410 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+umay|um06105	cele|cele_C04C3.3	64.71	340	112	8	70	408	17	349	1.5e-82	303.3
+umay|um06105	cele|cele_F27D4.5	34.96	369	230	10	44	408	2	364	7e-38	155.0
+umay|um06105	cele|cele_F01G10.1	25.45	330	219	27	40	364	270	577	0.00015	45.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0E27005gT0 gene=YALI0E27005g Ylip_CLIB122_chrE:complement(3199624 - 330 aa
+# Database: ../animal-plant/caenorhabditis_elegans_WS206.pep.longest.fa
+ylip|YALI0E27005gT0	cele|cele_C04C3.3	64.94	328	114	1	1	328	25	351	1.6e-93	339.5
+ylip|YALI0E27005gT0	cele|cele_F27D4.5	36.70	327	199	8	1	326	45	364	4.7e-43	171.9
+ylip|YALI0E27005gT0	cele|cele_F01G10.1	26.06	284	186	24	1	280	313	576	2.8e-05	47.2

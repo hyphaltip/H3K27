@@ -1,0 +1,121 @@
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: abra|AB02264.1 - 1054 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+abra|AB02264.1	hsap|hsap_ENST00000323959	27.00	711	397	122	215	907	6	612	8.6e-18	90.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: afum|Afu3g11020 Afu3g11020 A_fumigatus_Af293 AspGDID: COORDS:chr3:2875546-2878801(-) translated using codon table 1 (1030 amino acids - 1029 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+afum|Afu3g11020	hsap|hsap_ENST00000323959	25.95	763	448	117	238	995	4	654	1.2e-14	80.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: amac|AMAG_13673T0 | AMAG_13673 | Allomyces macrogynus ATCC 38327 predicted protei - 604 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+amac|AMAG_13673T0	hsap|hsap_ENST00000323959	31.02	374	234	24	19	377	2	366	1.5e-26	119.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: anid|ANID_04892T0 | ANID_04892 | Aspergillus nidulans FGSC A4 mRNA 3'-end-processing protein rna14 - 1075 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+anid|ANID_04892T0	hsap|hsap_ENST00000323959	26.80	750	436	113	239	986	16	654	1.8e-16	86.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: bcin|BC1T_06941 | BC1G_06941 | Botrytis cinerea mRNA 3'-end-processing protein rna-14 - 1119 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+bcin|BC1T_06941	hsap|hsap_ENST00000323959	27.77	677	391	98	211	882	16	599	1.9e-21	102.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: calb_sc5314|orf19.1531 |  Candida Albicans sc5314 assembly 21 orf19.153 - 791 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+calb_sc5314|orf19.1531	hsap|hsap_ENST00000323959	27.74	566	291	118	14	574	16	468	4.5e-19	94.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cgui|PGUT_05272 | PGUG_05272 | Candida guilliermondii hypothetical protei - 725 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cgui|PGUT_05272	hsap|hsap_ENST00000323959	28.98	521	302	68	14	531	18	473	1.9e-27	122.2
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cimm_rs|CIMG_03795T0 | CIMG_03795 | Coccidioides immitis RS mRNA 3'-end-processing protein rna14 - 1088 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cimm_rs|CIMG_03795T0	hsap|hsap_ENST00000323959	27.59	754	423	123	324	1069	16	654	2.5e-27	122.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: cneo_h99|CNAG_03761T0 | CNAG_03761 | Cryptococcus neoformans grubii H99 mRNA 3'-end-processing protein RNA14 - 1066 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+cneo_h99|CNAG_03761T0	hsap|hsap_ENST00000323959	27.08	746	393	151	253	968	8	632	8.1e-08	57.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mcin|t_116957|gw1.13.4.1 - 596 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mcin|t_116957|gw1.13.4.1	hsap|hsap_ENST00000323959	36.99	584	303	65	16	595	19	541	1.5e-40	165.5
+mcin|t_116957|gw1.13.4.1	hsap|hsap_ENST00000228284	20.70	512	338	68	10	508	93	549	2.1e-07	55.8
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mgri|MGG_03265T0 | MGG_03265 | Magnaporthe grisea (M. oryzae) 70-15 mRNA 3'-end-processing protein rna-14 - 1057 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mgri|MGG_03265T0	hsap|hsap_ENST00000323959	26.46	669	395	97	170	834	22	597	5.5e-16	84.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: mlar|t_78502|estExt_fgenesh1_pg.C_330108 - 1163 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+mlar|t_78502|estExt_fgenesh1_pg.C_330108	hsap|hsap_ENST00000323959	27.84	747	419	120	353	1096	22	651	1.6e-17	89.9
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ncra|NCU09435T0 | NCU09435 | Neurospora crassa OR74A (finished) mRNA 3'-end-processing protein RNA-14 - 1167 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ncra|NCU09435T0	hsap|hsap_ENST00000323959	28.55	711	365	143	245	921	15	616	6.3e-11	68.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ndis|NEUDI1_100237 - 1148 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ndis|NEUDI1_100237	hsap|hsap_ENST00000323959	28.49	716	368	144	225	904	9	616	6e-12	71.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: nfis|NFIA_066240 |  Neosartorya fischeri null - 1069 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+nfis|NFIA_066240	hsap|hsap_ENST00000323959	25.82	763	449	117	238	995	4	654	2.9e-14	79.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ntet|NEUTE1_85042 - 1139 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ntet|NEUTE1_85042	hsap|hsap_ENST00000323959	28.55	711	365	143	224	900	15	616	3.3e-12	72.3
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: pechr_54_1255|XP_002559349.1| gi|255936645 Pc13g09250 [Penicillium chrysogenum Wisconsi - 1026 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+pechr_54_1255|XP_002559349.1|	hsap|hsap_ENST00000323959	26.47	748	435	115	254	995	16	654	8e-14	77.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rgra|t_34277|estExt_Genewise1Plus.C_3_t10190 - 653 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rgra|t_34277|estExt_Genewise1Plus.C_3_t10190	hsap|hsap_ENST00000323959	31.58	551	342	35	96	637	17	541	2.5e-21	101.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: rory|RO3T_11735 | RO3G_11736 | Rhizopus oryzae hypothetical protei - 690 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+rory|RO3T_11735	hsap|hsap_ENST00000323959	31.22	679	287	180	1	642	168	703	3.7e-08	58.1
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: scer_s288c|YMR061W RNA14 SGDID:S000004665, Chr XIII from 392754-394787, Verified ORF, "Cleavage and polyadenylation factor I (CF I) comp - 677 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+scer_s288c|YMR061W	hsap|hsap_ENST00000323959	28.21	553	346	51	13	553	2	515	3.4e-20	98.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: snod|SNOT_12155 | SNOG_12155 | Stagonospora nodorum hypothetical protein - 1032 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+snod|SNOT_12155	hsap|hsap_ENST00000323959	25.38	792	452	139	224	972	16	711	1.6e-16	86.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spom|SPAC6F12_17.1 | SPAC6F12_17 | Schizosaccharomyces pombe 972h- mRNA cleavage and polyadenylation specificity factor complex subunit  - 733 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spom|SPAC6F12_17.1	hsap|hsap_ENST00000323959	29.27	673	422	54	57	716	18	649	3.4e-35	148.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: spun|SPPG_04928T0 | SPPG_04928 | Spizellomyces punctatus DAOM BR117 mRNA 3'-end-processing protein RNA1 - 926 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+spun|SPPG_04928T0	hsap|hsap_ENST00000323959	31.65	771	381	146	58	811	8	649	2.1e-24	112.5
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sror|t_11784|e_gw1.4.135.1 - 632 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sror|t_11784|e_gw1.4.135.1	hsap|hsap_ENST00000323959	32.16	538	319	46	97	628	17	514	6.6e-25	113.6
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: sthe|t_108680|estExt_fgenesh1_pg.C_60451 - 1109 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+sthe|t_108680|estExt_fgenesh1_pg.C_60451	hsap|hsap_ENST00000323959	27.26	708	389	126	195	882	16	617	3e-10	65.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tmes|t_73949|estExt_fgeneshTM_pg.C_50473 - 1067 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tmes|t_73949|estExt_fgeneshTM_pg.C_50473	hsap|hsap_ENST00000323959	28.89	682	405	80	242	903	5	626	9.1e-08	57.4
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tree|t_3803|fgenesh1_pm.C_scaffold_8000170 - 991 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tree|t_3803|fgenesh1_pm.C_scaffold_8000170	hsap|hsap_ENST00000323959	27.84	765	425	127	164	915	22	672	4.2e-16	85.0
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: tter|t_136446|estExt_fgenesh2_pm.C_70400 - 1024 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+tter|t_136446|estExt_fgenesh2_pm.C_70400	hsap|hsap_ENST00000323959	28.71	721	385	129	137	836	5	617	2.6e-16	85.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: umay|um02055 related to RNA14 - component of pre-mRNA 3`-end processing f - 945 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+umay|um02055	hsap|hsap_ENST00000323959	29.37	756	409	125	174	924	14	649	1.2e-16	86.7
+# FASTA 36.3.5a Jun, 2011(preload8)
+# Query: ylip|YALI0D18612gT0 gene=YALI0D18612g Ylip_CLIB122_chrD:232940 - 806 aa
+# Database: ../animal-plant/homo_sapiens_NCBI36_47.pep.longest.fa
+ylip|YALI0D18612gT0	hsap|hsap_ENST00000323959	33.40	518	294	51	197	695	22	507	7.7e-22	103.8
