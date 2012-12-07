@@ -12,7 +12,7 @@ my %files = ('Nc' => 'data/RSEGdomain_genes/N_crassa/Nc_H3K27me3_genes.txt',
 	     'Nt' => 'data/RSEGdomain_genes/N_tetrasperma/Nt_H3K27me3_genes.txt');
 
 my $fix_names = 'data/annotation_fix/v4junev5.csv';
-my $orthologs = 'data/syntenic_orthologs/Nc-Nt-Nd.orthologs';
+my $orthologs = 'data/syntenic_orthologs/Nc-Nt-Nd.orthologs.gz';
 
 GetOptions(
 	   'v|verbose!' => \$debug,
@@ -34,7 +34,11 @@ while(<$fh>) {
 
 my %groups;
 my %other_groups;
-open($fh => $orthologs) || die $!;
+if( $orthologs =~ /\.gz/ ) {
+ open($fh => "zcat $orthologs |") || die $!;
+} else {
+ open($fh => $orthologs) || die $!;
+}
 my (undef,undef,$filebase) = File::Spec->splitpath($orthologs);
 my ($name) = split(/\./,$filebase);
 my ($from,@to) = split(/-/,$name);

@@ -10,8 +10,8 @@ my %files = ('Nc' => 'data/RSEGdomain_genes/N_crassa/Nc_H3K27me3_genes.txt',
 	     'Nd' => 'data/RSEGdomain_genes/N_discreta/Nd_H3K27me3_genes.txt',
 	     'Nt' => 'data/RSEGdomain_genes/N_tetrasperma/Nt_H3K27me3_genes.txt');
 
-my @orthologs = ( 'data/syntenic_orthologs/Nc-Nd.orthologs',
-		  'data/syntenic_orthologs/Nc-Nt.orthologs',
+my @orthologs = ( 'data/syntenic_orthologs/Nc-Nd.orthologs.gz',
+		  'data/syntenic_orthologs/Nc-Nt.orthologs.gz',
 # 'data/syntenic_orthologs/Nt-Nd.orthologs',
 		  );
 
@@ -20,7 +20,12 @@ GetOptions();
 my %groups;
 my %other_groups;
 for my $file ( @orthologs ) {
-    open(my $fh => $file) || die $!;
+    my $fh;
+    if( $file =~ /\.gz$/ ) {
+     open($fh => "zcat $file |") || die $!;
+    } else {
+     open($fh => $file) || die $!;
+    }
     my (undef,undef,$filebase) = File::Spec->splitpath($file);
     my ($name) = split(/\./,$filebase);
     my ($from,$to) = split(/-/,$name);
