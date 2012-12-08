@@ -1,9 +1,18 @@
 #!/usr/bin/perl -w
 use strict;
+
+# this script is for the multiway ortholog file summary
+# run it like
+# perl scripts/syntenic_ortholog_stats.pl data/syntenic_orthologs/Nc-Nt-Nd.orthologs.gz 
 my $data_chunk_size = 6;
 my @names = qw(Nc Nt Nd);
 my $file = shift || die $!;
-open(my $fh =>$file) || die "$file: $!";
+my $fh;
+if( $file =~ /\.gz$/ ) {
+ open($fh => "zcat $file |") || die "zcat $file: $!";
+} else {
+ open($fh =>$file) || die "$file: $!";
+}
 my $header =<$fh>;
 my @header = split(/\s+/,$header);
 my $i = 0;
