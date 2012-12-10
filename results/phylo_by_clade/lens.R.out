@@ -38,4 +38,49 @@ Type 'q()' to quit R.
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
    24.0   253.0   426.0   509.7   651.0  3895.0 
 > boxplot(subset(lH3K27me3_bordergenes$LEN,lH3K27me3_bordergenes$LEN < 4000),subset(lH3K27me3_genes$LEN,lH3K27me3_genes$LEN < 4000),subset(lnonH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN < 4000),xlab="K27 Status", main="Protein size for K27 status",ylab="Protein length",range=2,names=c("Border","K27","Not K27"),col=rainbow(11, start=0, end=1));
+> boxplot(subset(lH3K27me3_genes$LEN,lH3K27me3_genes$LEN < 4000),subset(lnonH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN < 4000),xlab="K27 Status", main="Protein size for K27 status",ylab="Protein length",range=2,names=c("K27","Not K27"),col=c("Green","Blue"));
+> 
+> t.test(subset(lH3K27me3_genes$LEN,lH3K27me3_genes$LEN < 4000),subset(lnonH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN < 4000));
+
+	Welch Two Sample t-test
+
+data:  subset(lH3K27me3_genes$LEN, lH3K27me3_genes$LEN < 4000) and subset(lnonH3K27me3_genes$LEN, lnonH3K27me3_genes$LEN < 4000) 
+t = -13.555, df = 1078.823, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0 
+95 percent confidence interval:
+ -156.8857 -117.2089 
+sample estimates:
+mean of x mean of y 
+ 372.6667  509.7140 
+
+> t.test(lH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN);
+
+	Welch Two Sample t-test
+
+data:  lH3K27me3_genes$LEN and lnonH3K27me3_genes$LEN 
+t = -13.7027, df = 1122.905, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0 
+95 percent confidence interval:
+ -160.0058 -119.9231 
+sample estimates:
+mean of x mean of y 
+ 372.6667  512.6311 
+
+> 
+> wilcox.test(lH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN);
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  lH3K27me3_genes$LEN and lnonH3K27me3_genes$LEN 
+W = 2612977, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0 
+
+> wilcox.test(subset(lH3K27me3_genes$LEN,lH3K27me3_genes$LEN < 4000),subset(lnonH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN < 4000));
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  subset(lH3K27me3_genes$LEN, lH3K27me3_genes$LEN < 4000) and subset(lnonH3K27me3_genes$LEN, lnonH3K27me3_genes$LEN < 4000) 
+W = 2612977, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0 
+
 > 
