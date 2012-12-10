@@ -38,7 +38,7 @@ Type 'q()' to quit R.
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
    24.0   253.0   426.0   509.7   651.0  3895.0 
 > boxplot(subset(lH3K27me3_bordergenes$LEN,lH3K27me3_bordergenes$LEN < 4000),subset(lH3K27me3_genes$LEN,lH3K27me3_genes$LEN < 4000),subset(lnonH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN < 4000),xlab="K27 Status", main="Protein size for K27 status",ylab="Protein length",range=2,names=c("Border","K27","Not K27"),col=rainbow(11, start=0, end=1));
-> boxplot(subset(lH3K27me3_genes$LEN,lH3K27me3_genes$LEN < 4000),subset(lnonH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN < 4000),xlab="K27 Status", main="Protein size for K27 status",ylab="Protein length",range=2,names=c("K27","Not K27"),col=c("Green","Blue"));
+> boxplot(subset(lH3K27me3_genes$LEN,lH3K27me3_genes$LEN < 4000),subset(lnonH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN < 4000),xlab="K27 Status", main="Protein size for K27 status",ylab="Protein length",range=2,names=c("K27","Not K27"),col=c("Green","Blue"),width=c(0.5,0.5));
 > 
 > t.test(subset(lH3K27me3_genes$LEN,lH3K27me3_genes$LEN < 4000),subset(lnonH3K27me3_genes$LEN,lnonH3K27me3_genes$LEN < 4000));
 
